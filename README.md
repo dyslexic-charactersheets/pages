@@ -1,2 +1,6 @@
-# pages
-Dyslexic Character Sheets: Pages
+# [Dyslexic Character Sheets](http://charactersheets.minotaur.cc/)
+* [Pages](https://github.com/dyslexic-charactersheets/pages)
+* [PDFs](https://github.com/dyslexic-charactersheets/scripts)
+* [Website](https://github.com/dyslexic-charactersheets/website)
+* [Scripts](https://github.com/dyslexic-charactersheets/scripts)
+* [Translator](https://github.com/dyslexic-charactersheets/translator)
