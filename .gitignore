@@ -1,0 +1,13 @@
+*.sublime-project
+*.sublime-workspace
+target
+.fuse_*
+*(raster).ai
+*.log
+**/*.log
+Pathfinder/GM/Old/*
+Languages/**/*.ai
+Scripts/Illustrator script.log
+Isometric A4.ai
+Old
+Illustrator script.log
