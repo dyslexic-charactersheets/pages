@@ -1,0 +1,189 @@
+Original,Part of,Translation
+Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Вечное тело
+"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged","Больше не стареет, не может быть магически состарен"
+DURATION,DURATION|PER DAY,ДЛИТЕЛЬНОСТЬ
+PER DAY,DURATION|PER DAY,В ДЕНЬ
+No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Нет действий в этом раунде|Теряет бонус
+DEX,No action this round|Lose DEX bonus to AC; -2 AC,DEX
+bonus to,No action this round|Lose DEX bonus to AC; -2 AC,к
+AC,No action this round|Lose DEX bonus to AC; -2 AC,КЗ
+Strength Score|Penalty:,Strength Score|Penalty: -2,Штрав параметра|Силы:
+MIGHTY,MIGHTY RAGE!,МОГУЧАЯ
+RAGE!,MIGHTY RAGE!,ЯРОСТЬ!
+Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Штрав параметра|Ловкости:
+Wild Shape,Wild Shape|Become any small or medium animal,Дикая форма
+Become any small or medium animal,Wild Shape|Become any small or medium animal,Превращаться в любое маленькое или среднее животное
+Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Чувство природы
++2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 к навыкам Знание (природа) и Выживание
+TALENTS,TALENTS|KNOWN,Талантов
+KNOWN,TALENTS|KNOWN,известно
+GREATER,GREATER RAGE!,БОЛЬШАЯ
+RAGE!,GREATER RAGE!,ЯРОСТЬ!
+WILD EMPATHY,WILD EMPATHY|BONUS,Бонус Дикого сопереживания
+FORTITUDE|SAVE,FORTITUDE|SAVE DC,КС спаса
+DC,FORTITUDE|SAVE DC,Стойкости
+Wild Empathy,Wild Empathy|Improve the attitude of an animal,Дикое сопереживание
+Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Улучшает отношение животных
+Bonus Spells,Bonus Spells|WIS,Бонусные заклятия
+WIS,Bonus Spells|WIS,WIS
+SNEAK DAMAGE,SNEAK DAMAGE|BONUS,"Подлый урон,"
+BONUS,SNEAK DAMAGE|BONUS,бонус
+Cleric|Level,"",Уровень|Жреца
+Druid Level,"",Уровень друида
+CHAOTIC,"",ХАОС
+Ki Pool (lawful),"",Запас Ки (порядок)
+ROGUE TALENTS,"",Таланты жулика
+Unarmed Strike,"",Безоружная атака
+FAVOURED TERRAINS,"",Избранный ландшафт
+BARBARIAN,"",ВАРВАР
+Distance,"",Дальность
+Racial,"",Рассовый
+Damage Reduction,"",Понижение урона
+LAWFUL,"",ПОРЯДОК
+EVIL,"",ЗЛО
+CHARGES,"",ЗАРЯДОВ
+WIS - 4,"",WIS - 4
++ Level,"",+ Уровень
+CHA - 8,"",CHA - 8
+Size|Modifier,"",Модификатор|размера
+d10,"",d10
+Monk Level,"",Уровень монаха
+Cost,"",Цена
+Treat unarmed attacks as lawful weapons,"",Безоружные атаки считаются оружием порядка
+(Round up),"",(Округлять вверх)
+lb,"",lb
+Spell Save DC = 10 + WIS + Spell Level,"",КС спаса заклинания = 10 + WIS + Уровень заклятия
+Critical,"",Крит
+Domain Spell,"",Доменное заклинание
+Bard|Level,"",Уровень|Барда
+ARMOUR CLASS BONUS,"",БОНУС КЛАССА ЗАЩИТЫ
+CHA - 12,"",CHA - 12
+EMPTY BODY,"",ПУСТОЕ ТЕЛО
+ARMOUR CLASS,"",КЛАСС ЗАЩИТЫ
+Spell|Save DC,"",КС|спасброска
+Times per day,"",Использований в день
+Mobility,"",Мобильность
+MONK,"",МОНАХ
+CHA - 4,"",CHA - 4
+Paladin|Level,"",Уровень|Паладина
+Barbarian|Level,"",Уровень|Варвара
+STR,"",STR
+AC,"",КЗ
+GOOD,"",ДОБРО
+d6,"",d6
+Caster|Level,"",Уровень|Заклинателя
+Morale|Bonus,"",Бонус|Боевого духа
+ft,"",ft
+Name,"",Имя
+sq,"",кв
+FEMALE,"",ЖЕНЩИНА
+FAVOURED ENEMIES,"",Избранные враги
+"From level 10, a Rogue|can take Advanced Talents","",С 10го уровня Жулик|может брать Продвинутые Таланты
+DRUID,"",ДРУИД
+Advanced Talents,"",Продвинутые Таланты
+Spell Resistance,"",Сопротивление заклинаниям
+CON,"",CON
+INT,"",INT
+DEITY,"",БОЖЕСТВО
+DEX,"",DEX
+2d8,"",2d8
+Ability Modifier =|    (Total Ability Score - 10) ÷ 2,"",Модификатор параметра =| (Суммарный показатель - 10) ÷ 2
+(Round down),"",(Округлять к меньшему)
+Ki Pool (adamantine),"",Запас Ки (адамантин)
+SPEED,"",Скорость
+Bonus Spells,"",Бонусных заклятий
+Value,"",Значение
+Climb,"",Взбирание
+KNOWN SPELLS,"",Изученные заклинания
+Times Today,"",Использовано сегодня
+FORT,"",СТОЙК
+Sense Motive,"",Чувство мотива
+Size,"",Размер
+REF,"",РЕФ
+Misc,"",Прочее
+10ft,"",10ft
+Uncanny Dodge,"",Необычайная увертливость
+MALE,"",МУЖЧИНА
+55ft,"",55ft
+35ft,"",35ft
+Speciality Spell,"",Заклинание специализации
+FAVOURED ENEMY BONUS,"",БОНУС ДЛЯ ИЗБРАННЫХ ВРАГОВ
+d8,"",d8
+Spells|per day,"",Заклинаний|в день
+Range,"",Дальность
+PREPARED SPELLS,"",ПОДГОТОВЛЕННЫЕ ЗАКЛИНАНИЯ
+Improved Evasion,"",Улучшенное Уклонение
+Ability|Score,"",Значение|параметра
+Weight,"",Вес
+Bards can wear light armour without risking|spell failure.,"",Барды могут носить легкую броню без|риска провалить заклинание
+Spells|Known,"",Заклинаний|известно
+Track,"",Выслеживание
+Acrobatics,"",Акробатика
+BAB,"",ББА
+Temp,"",Временный
+WILD EMPATHY,"",СОПЕРЕЖИВАНИЕ ПРИРОДЕ
+Combat Reflexes,"",Боевые Рефлексы
+Properties,"",Свойства
+50ft,"",50ft
+Level,"",Уровень
+1d8,"",1d8
+Type,"",Тип
+CMD,"",ЗБМ
+ABILITIES,"",Параметры
+SCROLLS,"",СВИТКИ
+Creature Type,"",Вид существа
+Base|Spells,"",Базовых|заклинаний
+Treat unarmed attacks as adamantine weapons,"",Безоружные атаки считаются адамантиновым оружием
+WILD SHAPE,"",Дикая форма
+Dodge,"",Уворот
+SKILLS,"",НАВЫКИ
+Damage,"",Урон
+Improved Uncanny Dodge,"",Улучшенная необычайная увертливость
+SNEAK ATTACK,"",ПОДЛАЯ АТАКА
+CHA,"",CHA
+Attack Bonus,"",Бонус Атаки
+8ft,"",8ft
+Uses|per day,"",Использований|в день
+RAGE!,"",ЯРОСТЬ!
+2d6,"",2d6
+Ability|Modifier,"",Модификатор|параметра
+Deflection|Modifier,"",Бонус отражения
+Ammo,"",Аммуниция
+Concentration,"",Концентрация
+ATTACKS,"",АТАКИ
+WIS,"",WIS
+WIS - 8,"",WIS - 8
+ANIMAL COMPANION,"",Животное компаньён
+d4 / d8,"",d4 / d8
+POTIONS,"",ЗЕЛЬЯ
+DC,"",КС
+Swim,"",Плавание
+Bard Level,"",Уровнь барда
+Special Ammo,"",Специальная аммуниция
+"Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.","","Урон подлой атаки может применяться только на когда цель окружени или|потеряла бонус ловкости к КЗ.|Для атак на расстоянии она работает только в пределах 30 футов.|Не умножается при критическом попадании.|Не может быть нелетальной, если используется летальное оружие"
+Sml / Lrg,"",Мал / Больш
+Perception,"",Восприятие
+WIS - 12,"",WIS - 12
+Conditional Modifiers,"",Модификаторы особых условий
+Ranger|Level,"",Уровень|Рейнджера
+Granted Power,"",Предоставляемые силы
+Rogue|Level,"",Уровень|Жулика
+Channel Positive Energy,"",Направление Позитивной Энергии
+Deflect Arrows,"",Отражение стрел
+Uses Today,"",Использовано сегодня
+or,"",или
+Domain,"",Домен
+Temp AC,"",Временный КЗ
+BONUS FEATS,"",Бонусные черты
+4ft,"",4ft
+SPELLS,"",Заклинания
+11ft,"",11ft
+TRAP SENSE,"",Предчуствие ловушек
+Druid|Level,"",Уровень|Друида
+Monk|Level,"",Уровень|Монаха
+Spell Save DC = 10 + CHA + Spell Level,"",КС спаса заклинания = 10 + CHA + Уровень заклятия
+Base|Attack Bonus,"",Базовый|бонус атаки
+INIT,"",ИНИЦ
+Survival|Bonus,"",Бонус|Выживания
+Evasion,"",Уклонение
+CMB,"",ББМ
