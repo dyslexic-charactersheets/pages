@@ -1,6 +1,6 @@
 # [Dyslexic Character Sheets](http://charactersheets.minotaur.cc/)
 
-To make it manageable, this project is divided into theseparts:
+To make it manageable, this project is divided into these parts:
 
 * [Pages](https://github.com/dyslexic-charactersheets/pages)
 * [Character pictures](https://github.com/dyslexic-charactersheets/iconics)
