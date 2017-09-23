@@ -1,33 +1,33 @@
 Original,Part of,Translation
+FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,PLATTE VOETEN
+ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,PANTSER KLASSE
+STRENTH|SCORE,STRENTH|SCORE|BONUS,KRACHT|SCORE
+BONUS,STRENTH|SCORE|BONUS,BONUS
+TOUCH,TOUCH ARMOUR CLASS,AANRAKEN
+ARMOUR CLASS,TOUCH ARMOUR CLASS,PANTSER KLASSE
+Wild Shape,Wild Shape|Become any small or medium animal,Wilde Vorm
+Become any small or medium animal,Wild Shape|Become any small or medium animal,Word eender welk klein of medium creatuur
 WILD EMPATHY,WILD EMPATHY|BONUS,WILDE EMPATHIE 
 BONUS,WILD EMPATHY|BONUS,BONUS
-Cost:,Cost: 1 pt,Kost:
-1 pt,Cost: 1 pt,1 pt
+Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Natuur Zintuig
++2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 op Kennis (natuur) en Overleven
+Bonus Spells,Bonus Spells|WIS,Bonus Spreuken
+WIS,Bonus Spells|WIS,WIJS
+SNEAK DAMAGE,SNEAK DAMAGE|BONUS,SLUIP SCHADE
+BONUS,SNEAK DAMAGE|BONUS,BONUS
 No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Geen actie deze ronde
 DEX,No action this round|Lose DEX bonus to AC; -2 AC,BEH
 bonus to,No action this round|Lose DEX bonus to AC; -2 AC,bonus aan
 bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,bonus aan PK; -2
 AC,No action this round|Lose DEX bonus to AC; -2 AC,PK
-Bonus Spells,Bonus Spells|WIS,Bonus Spreuken
-WIS,Bonus Spells|WIS,WIJS
-SNEAK DAMAGE,SNEAK DAMAGE|BONUS,SLUIP SCHADE
-BONUS,SNEAK DAMAGE|BONUS,BONUS
-FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,PLATTE VOETEN
-ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,PANTSER KLASSE
-CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,CONSTITUTIE|SCORE
-BONUS,CONSTITUTION|SCORE|BONUS,BONUS
-TOUCH,TOUCH ARMOUR CLASS,AANRAKEN
-ARMOUR CLASS,TOUCH ARMOUR CLASS,PANTSER KLASSE
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,ARCANE SPREUK MISLUKKING
-THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,TREDE
-Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Natuur Zintuig
-+2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 op Kennis (natuur) en Overleven
 TRAP SENSE,TRAP SENSE|BONUS,VALSTRIK ZINTUIG
 BONUS,TRAP SENSE|BONUS,BONUS
-Wild Shape,Wild Shape|Become any small or medium animal,Wilde Vorm
-Become any small or medium animal,Wild Shape|Become any small or medium animal,Word eender welk klein of medium creatuur
-STRENTH|SCORE,STRENTH|SCORE|BONUS,KRACHT|SCORE
-BONUS,STRENTH|SCORE|BONUS,BONUS
+Cost:,Cost: 1 pt,Kost:
+1 pt,Cost: 1 pt,1 pt
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,ARCANE SPREUK MISLUKKING
+THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,TREDE
+CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,CONSTITUTIE|SCORE
+BONUS,CONSTITUTION|SCORE|BONUS,BONUS
 +10 to move at full speed,"",+10 om aan volledige snelheid te bewegen
 BARBARIAN,"",BARBAAR
 + Level,"",+ Level
