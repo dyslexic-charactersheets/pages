@@ -1,627 +1,189 @@
 Original,Part of,Translation
-30 ft / 6 sq,The default range increment of a |thrown mind blade is 30 ft / 6 sq.,9m / 6quad
-KNOWLEDGE,KNOWLEDGE|BONUS,CONHECIMENTO
-BONUS,KNOWLEDGE|BONUS,BÔNUS
-Damage Reduction 3/,Damage Reduction 3/―,Redução de Dano 3/
-Use monk level in place of,Use monk level in place of BAB when grappling,Use o nível do monge no lugar de
-BAB,Use monk level in place of BAB when grappling,BBA
-when grappling,Use monk level in place of BAB when grappling,Enquanto agarrando
-ARMOUR,ARMOUR|BONUS,ARMADURA
-BONUS,ARMOUR|BONUS,BÔNUS
-FEAR,FEAR|DAMAGE,MEDO
-DAMAGE,FEAR|DAMAGE,DANO
-= 1d8,= 1d8 +,= 1d8
-Slow Fall,Slow Fall Any distance,Queda Suave
-Any distance,Slow Fall Any distance,Qualquer distancia
-Add,Add INT bonus to attacks when flanking or making an attack of opportunity.,Adiciona
-INT,Add INT bonus to attacks when flanking or making an attack of opportunity.,INT
-bonus to attacks when flanking or making an attack of opportunity.,Add INT bonus to attacks when flanking or making an attack of opportunity.,bônus de ataque quando flanqueado ou ao fazer um ataque de oportunidade.
+ATTACK,ATTACK ACTIONS,ATAQUE
+ACTIONS,ATTACK ACTIONS,AÇÃO
+FAMILIAR,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,FAMILIAR
+ANIMAL COMPANION,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,COMPANHEIRO ANIMAL
+MOUNT,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,MONTARIA
+SUMMONED CREATURE,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,CRIATURA INVOCADA
 Wild Empathy and Handle Animal with your animal companions,+2 Wild Empathy and Handle Animal with your animal companions,Empatia com a Natureza e Adestrar Animais com seus companheiros animais
-Bonus Spells,Bonus Spells|CHA,Magia Bônus
-CHA,Bonus Spells|CHA,CAR
 (which grants,(which grants +4 to Acrobatics),(concede
 to Acrobatics),(which grants +4 to Acrobatics),para acrobacias)
-Craft -,Craft - INT|Perform - CHA,Oficio -
-INT,Craft - INT|Perform - CHA,INT
-Perform -,Craft - INT|Perform - CHA,Atuação -
-CHA,Craft - INT|Perform - CHA,CAR
-BASE ATTACK,BASE ATTACK BONUS,ATAQUE BASE
-BONUS,BASE ATTACK BONUS,BÔNUS
-RANGED ATTACK,RANGED ATTACK|BONUS,BÔNUS DO ALCANCE DO ATAQUE
-stability,-1 stability,estabilidade
-Mystic Wisdom,Mystic Wisdom 3,Sabedoria Mística
-Use monk level in place of,Use monk level in place of BAB for calculating CMB,Use o nível do monge no lugar de
-BAB,Use monk level in place of BAB for calculating CMB,BBA
-for calculating,Use monk level in place of BAB for calculating CMB,para calcular
-CMB,Use monk level in place of BAB for calculating CMB,BMC
-FORTITUDE,FORTITUDE|SAVE DC,FORTITUDE
-FORTITUDE|SAVE,FORTITUDE|SAVE DC,RESISTÊNCIA FORTITUDE
-SAVE DC,FORTITUDE|SAVE DC,RESISTÊNCIA CD
-DC,FORTITUDE|SAVE DC,CD
-Wild Shape,Wild Shape|Become any small or medium animal or ooze,Forma Selvagem
-Become any small or medium animal or ooze,Wild Shape|Become any small or medium animal or ooze,Torna-se qualquer animal pequeno ou médio ou lodo
-(which grants,(which grants +12 to Acrobatics),(concede
-to Acrobatics),(which grants +12 to Acrobatics),para acrobacias)
-PERFORMANCE,PERFORMANCE|BONUS,ATUAÇÃO
-BONUS,PERFORMANCE|BONUS,BÔNUS
-TO DESTROY CREATURE,TO DESTROY CREATURE  MAX HIT DICE,DESTRUIR CRIATURAS
-MAX HIT DICE,TO DESTROY CREATURE  MAX HIT DICE,MAXIMO DE DADOS DE VIDA
-DC,DC 10,CD
-INITIATIVE,INITIATIVE|BONUS,INICIATIVA
-BONUS,INITIATIVE|BONUS,BÔNUS
-AUDIENCE,AUDIENCE|MAX FASCINATED,AUDIÊNCIA
-MAX FASCINATED,AUDIENCE|MAX FASCINATED,FASCINAR MAX
-Suggestion,Suggestion   Influence subject’s actions,Sugestão
-Influence subject’s actions,Suggestion   Influence subject’s actions,Influência ações do sujeito
-FORTITUDE,FORTITUDE|DC,FORTITUDE
-DC,FORTITUDE|DC,CD
-20 ft,Slow Fall 20 ft,6m
-Desert Native,Desert Native|Bonus in desert terrain,Nativo do Deserto
-Bonus in desert terrain,Desert Native|Bonus in desert terrain,Bônus em terreno desertico
-shield bonus to,+2 shield bonus to AC and CMD while stationary,bônus de escudo para
-AC,+2 shield bonus to AC and CMD while stationary,CA
-and,+2 shield bonus to AC and CMD while stationary,e
-CMD,+2 shield bonus to AC and CMD while stationary,DMC
-MAX POINTS,MAX POINTS|POWER COST,PONTOS MAX
-POISON RESISTANCE,POISON RESISTANCE FORTITUDE SAVE BONUS,RESISTÊNCIA A VENENO
-FORTITUDE SAVE BONUS,POISON RESISTANCE FORTITUDE SAVE BONUS,BÔNUS EM TESTES DE FORTITUDE
-UNARMED ATTACK,UNARMED ATTACK BONUS,ATAQUE DESARMADO
-BONUS,UNARMED ATTACK BONUS,BÔNUS
-DISCERN LIES,DISCERN LIES|PER DAY,DISCERNIR MENTIRAS
-PER DAY,DISCERN LIES|PER DAY,POR DIA
-Slow Fall,Slow Fall 40 ft,Queda Suave
-= 1d4,= 1d4 +,= 1d4
-EXORCISM,EXORCISM|DC,EXORCISMO
-DC,EXORCISM|DC,CD
-+10 ft,Fast Movement +10 ft,+3m
-5ft,Pack Attack    Ally’s attack allows you to take 5ft step,1.5m
-AURA,AURA|DURATION,AURA
-DURATION,AURA|DURATION,DURAÇÃO
-Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Senso da Natureza
-+2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 em Conhecimento (natureza) e em Sobrevivência
-SHADOW,SHADOW|HIT POINTS,SOMBRA
-HIT POINTS,SHADOW|HIT POINTS,PONTOS DE VIDA
-(which grants,(which grants +16 to Acrobatics checks for jumping),(concede
-to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
-RAGE!,RAGE!|Modifier,FÚRIA!
-Modifier,RAGE!|Modifier,Modificador
-ARCANA,ARCANA|KNOWN,ARCANO
-KNOWN,ARCANA|KNOWN,CONHECIMENTO
-TEMPORARY,TEMPORARY|HIT POINTS,TEMPORARIO
-HIT POINTS,TEMPORARY|HIT POINTS,PONTOS DE VIDA
-REDIRECTION,REDIRECTION|PER DAY,REDIRECIONAR
-PER DAY,REDIRECTION|PER DAY,POR DIA
-WIS,(WIS minimum 1),SAB
-minimum 1),(WIS minimum 1),Minimo 1
-WILD EMPATHY,WILD EMPATHY|BONUS,EMPATIA COM A NATUREZA
-BONUS,WILD EMPATHY|BONUS,BÔNUS
-Level,100’+ 10’ × Level,Nível
-RAGE!,RAGE!|PER DAY,FÚRIA!
-PER DAY,RAGE!|PER DAY,POR DIA
-INITIATIVE,INITIATIVE BONUS,INICIATIVA
-BONUS,INITIATIVE BONUS,BÔNUS
-BASE|ATTACK,BASE|ATTACK|BONUS,BASE DE ATAQUE
-BONUS,BASE|ATTACK|BONUS,BÔNUS
-Wild Shape,Wild Shape|Become any small or medium animal,Forma Selvagem
-Become any small or medium animal,Wild Shape|Become any small or medium animal,Torna-se qualquer animal médio ou pequeno
-Fast Movement,Fast Movement +60 ft,Movimento Rápido
-+60 ft,Fast Movement +60 ft,+18m
-TOUCH,TOUCH AC,CA TOQUE
-AC,TOUCH AC,CA
-Forbidden|During,Forbidden|During|RAGE!,Duração Proibida
-RAGE!,Forbidden|During|RAGE!,FÚRIA!
-Slow Fall,Slow Fall 30 ft,Queda Suave
-30 ft,Slow Fall 30 ft,9m
-KI POOL,KI POOL|CAPACITY,Reserva de KI
-CAPACITY,KI POOL|CAPACITY,CAPACIDADE
-Back to Back,Back to Back    +2 to AC against flanking,Costas com Costos
-to,Back to Back    +2 to AC against flanking,para 
-AC,Back to Back    +2 to AC against flanking,CA
-against flanking,Back to Back    +2 to AC against flanking,contra flaqueamento
-EXTRA,EXTRA DAMAGE,EXTRA
-DAMAGE,EXTRA DAMAGE,DANO
-MAX,MAX|AURAS,MAX
-AURAS,MAX|AURAS,AURAS
-Wild Shape,Wild Shape|Become any small or medium animal or giant,Forma Selvagem
-Become any small or medium animal or giant,Wild Shape|Become any small or medium animal or giant,Torna-se qualquer animal pequeno ou médio ou gigante
-CASTER,CASTER LEVEL,CONJURADOR
-LEVEL,CASTER LEVEL,NÍVEL
-No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Perde ação neste turno
-DEX,No action this round|Lose DEX bonus to AC; -2 AC,DES
-bonus to,No action this round|Lose DEX bonus to AC; -2 AC,bônus para
-bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,
-AC,No action this round|Lose DEX bonus to AC; -2 AC,CA
-5ft,÷ 5 ) × 5ft,1.5m
-Mighty,Mighty RAGE!,Poderoso
-RAGE!,Mighty RAGE!,FÚRIA!
-SPELL,SPELL RESISTANCE,MAGIA
-RESISTANCE,SPELL RESISTANCE,RESITÊNCIA
-SPIRIT,SPIRIT|HEALING,ESPIRITO
-HEALING,SPIRIT|HEALING,CURA
-Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,CD de Acrobacia = 5 + do Oponente 
-CMD,Acrobatics DC = 5 + Opponent’s CMD,DMC
-FORTUNE,FORTUNE|PER DAY,FORTUNA
-PER DAY,FORTUNE|PER DAY,POR DIA
-CASTER LEVEL,CASTER LEVEL|CHECK DC,NÍVEL DO CONJURADOR
-CHECK DC,CASTER LEVEL|CHECK DC,TESTE DC
-FASCINATE,FASCINATE|MAX AUDIENCE,FASCINAR
-MAX AUDIENCE,FASCINATE|MAX AUDIENCE,MÁXIMA AUDIÊNCIA
-STRENTH|SCORE,STRENTH|SCORE|BONUS,FORÇA
-BONUS,STRENTH|SCORE|BONUS,MODIFICADOR
-Weapon Finesse,Weapon Finesse  Use DEX for melee attack,Acuidade com Arma
-Use,Weapon Finesse  Use DEX for melee attack,Use
-DEX,Weapon Finesse  Use DEX for melee attack,DES
-for melee attack,Weapon Finesse  Use DEX for melee attack,para ataques corpo a corpo
-Level,400’+ 40’ × Level,Nível
-KNOWLEDGE,KNOWLEDGE BONUS,CONHECIMENTO
-BONUS,KNOWLEDGE BONUS,BÔNUS
-RAGE!,RAGE!|Duration,FÚRIA!
-Duration,RAGE!|Duration,Duração
-loyalty,+1 loyalty,lealdade
-UNARMED STRIKE,UNARMED STRIKE DAMAGE ROLL,ATAQUE DESARMADO
-DAMAGE ROLL,UNARMED STRIKE DAMAGE ROLL,ROLAGEM DE DANO
-+10 ft,Speed +10 ft,+10m
-Bonus Spells,Bonus Spells|WIS,Magias Bônus
-WIS,Bonus Spells|WIS,SAB
-TRAP SENSE,TRAP SENSE|BONUS,SENTIR ARMADILHA
-BONUS,TRAP SENSE|BONUS,BÔNUS
-ENERGY,ENERGY|RESISTANCE,ENERGIA
-RESISTANCE,ENERGY|RESISTANCE,RESISTÊNCIA
-Sneak Attack,Sneak Attack +1d6,Ataque Furtivo
-+1d6,Sneak Attack +1d6,+1d6
-AC,AC +1,CA
-(which grants,(which grants +20 to Acrobatics checks for jumping),(concede
-to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
-Greater,Greater RAGE!,Aprimorado
-RAGE!,Greater RAGE!,FÚRIA!
-insight to,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",Ao Invés de
-AC,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",CD
-and,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",e
-CMD,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",DMC
-"+4 to Sense Motive, Stealth, Perception","+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception","+4 Sentir Motivação, Furtividade, Percepção"
-INSPIRED,INSPIRED RAGE!,INSPIRADO
-RAGE!,INSPIRED RAGE!,FÚRIA!
-Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Corpo Atemporal
-"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged","Não envelhece, ignora magias de envelhecimento"
-ARMOUR CLASS,ARMOUR CLASS|BONUS,CLASSE DE ARMADURA
-BONUS,ARMOUR CLASS|BONUS,BÔNUS
-CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,CONSTITUIÇÃO
-BONUS,CONSTITUTION|SCORE|BONUS,MODIFICADOR
-POWER POINTS,POWER POINTS|MAX COST,PONTOS DE PODER
-MAX COST,POWER POINTS|MAX COST,CUSTO MAX
-MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,ATAQUE MESTRE Fortitude CD
-Damage Reduction 1/,Damage Reduction 1/―,Redução de Dano 1/
-FORTITUDE,FORTITUDE|BONUS,FORTITUDE
-BONUS,FORTITUDE|BONUS,BÔNUS
-(which grants,(which grants +20 to Acrobatics),(concede
-to Acrobatics),(which grants +20 to Acrobatics),para acrobacias)
-DC,DC 30,CD
-FEAR EFFECT,FEAR EFFECTWILL BONUS,EFEITO DE MEDO
-WILL BONUS,FEAR EFFECTWILL BONUS,BÔNUS DE VONTADE
-ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,CLASSE DE|ARMADURA
-PENALTY,ARMOUR|CLASS|PENALTY,PENALIDADE
+CHANNEL,CHANNEL PER DAY,CANALIZAR
+PER DAY,CHANNEL PER DAY,POR DIA
+Gain 1hp on a successful melee attack|Gain,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,Ganha 1pv para ataque corpo a corpo com sucesso
+WIS,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,VON
+hp on a confirmed critical attack,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,pv em um ataque crítico confirmado
+May roll,May roll 2d8 in place of your expertise bonus.,Pode rolar 
+2d8,May roll 2d8 in place of your expertise bonus.,2d8
+in place of your expertise bonus.,May roll 2d8 in place of your expertise bonus.,no lugar do seu bônus de especialização.
+Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Pontos de Destreza|Penalidade:
+NEGATIVE ENERGY,NEGATIVE ENERGY|DAMAGE,ENERGIA NEGATIVA
+DAMAGE,NEGATIVE ENERGY|DAMAGE,DANO
 Bonus to touch,Bonus to touch AC and CMD when only in light armour,Bônus para tocar
 AC,Bonus to touch AC and CMD when only in light armour,CA
 and,Bonus to touch AC and CMD when only in light armour,e
 CMD,Bonus to touch AC and CMD when only in light armour,DMC
 when only in light armour,Bonus to touch AC and CMD when only in light armour,somente enquanto usar armadura leve
-Knowledge Pool,Knowledge Pool|Prepare any Magus spell as if known,Fonte de Conhecimento
-Prepare any Magus spell as if known,Knowledge Pool|Prepare any Magus spell as if known,Prepara qualquer magia que o mago conheça
-ARCTIC,ARCTIC|BONUS,ÁRTICO
-BONUS,ARCTIC|BONUS,BÔNUS
-COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,MANOBRA DE COMBATE
-DEFENCE,COMBAT|MANEUVRE|DEFENCE,DEFESA
 POINTS,POINTS|PER DAY,PONTOS
 PER DAY,POINTS|PER DAY,POR DIA
-FEAT SHARING,FEAT SHARING|DURATION,TALENTO PARTILHADO
-DURATION,FEAT SHARING|DURATION,DURAÇÃO
-Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,CD de Acrobacia = do Oponente
-CMD,Acrobatics DC = Opponent’s CMD,MCD
-CMB,+1 CMB and CMD for selected combat manoeuvres,BMC
-and,+1 CMB and CMD for selected combat manoeuvres,e
-CMD,+1 CMB and CMD for selected combat manoeuvres,DMC
-for selected combat manoeuvres,+1 CMB and CMD for selected combat manoeuvres,para manobra de combate selecionada
-Fast Movement,Fast Movement +30 ft,Movimento Rápido
-+30 ft,Fast Movement +30 ft,+9m
-ARMOUR,ARMOUR BONUS,ARMADURA
-BONUS,ARMOUR BONUS,BÔNUS
-ft,30 ft,m
-Linguistics and Knowledge are class skills using,Linguistics and Knowledge are class skills using WIS,Linguística e Conhecimento são habilidades de classe 
-WIS,Linguistics and Knowledge are class skills using WIS,SAB
-SPECIALITY,SPECIALITY SCHOOL,ESPECIALIDADE
-SCHOOL,SPECIALITY SCHOOL,ESCOLA
-RAGE!,RAGE! POWERS |KNOWN,FÚRIA!
-POWERS,RAGE! POWERS |KNOWN,PODERES
-KNOWN,RAGE! POWERS |KNOWN,CONHECIMENTO
-Damage,Damage +1d6,Dano
-+1d6,Damage +1d6,+1d6
-DODGE,DODGE|BONUS,ESQUIVA
-BONUS,DODGE|BONUS,BÔNUS
-TEMP ATTACK,TEMP ATTACK|BONUS,ATAQUE TEMP
-BONUS,TEMP ATTACK|BONUS,BÔNUS
-Damage Reduction 4/,Damage Reduction 4/―,Redução de Dano 4/
-Become incorporeal for,Become incorporeal for 1 min,Se torna incorpóreo por
-1 min,Become incorporeal for 1 min,1 min
-ATTACK,ATTACK|PENALTY,ATAQUE
-PENALTY,ATTACK|PENALTY,PENALIDADE
-MELEE DAMAGE,MELEE DAMAGE|BONUS,DANO CORPO A CORPO
-BONUS,MELEE DAMAGE|BONUS,BÔNUS
-RAGE!,RAGE! CONVERSION,FÚRIA!
-CONVERSION,RAGE! CONVERSION,CONVERSÃO
-Level 16:,Level 16: Twice per day,Nível 16:
-Twice per day,Level 16: Twice per day,Duas vezes por dia
-TOUCH,TOUCH ARMOUR CLASS,TOQUE
-ARMOUR CLASS,TOUCH ARMOUR CLASS,CLASSE DE ARMADURA
-+2 WIS,+2 WIS and -2 CHA in all three forms.,+2 SAB
-and,+2 WIS and -2 CHA in all three forms.,e
--2 CHA,+2 WIS and -2 CHA in all three forms.,- CAR
-in all three forms.,+2 WIS and -2 CHA in all three forms.,em todas as três formas
-30ft,"Harm spirits, 1d6 /level, within 30ft",9m
-Strength Score|Penalty:,Strength Score|Penalty: -2,Penalidade de Pontos de Vida:
-DESERT,DESERT|BONUS,DESERTO
-BONUS,DESERT|BONUS,BÔNUS
-WISDOM|CHECK,WISDOM|CHECK BONUS,TESTE DE SABEDORIA
-BONUS,WISDOM|CHECK BONUS,BÔNUS
-GREATER,GREATER RAGE!,MAIOR!
-RAGE!,GREATER RAGE!,FÚRIA!
-PROHIBITED,PROHIBITED SCHOOLS,PROIBIDA
-SCHOOLS,PROHIBITED SCHOOLS,ESCOLA
-EFFECTIVE,EFFECTIVE|BARD LEVEL,EFETIVO
-BARD LEVEL,EFFECTIVE|BARD LEVEL,NÍVEL DO BARDO
-Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Acuidade com Arma
-Use,Weapon Finesse    Use DEX for melee attack,Use
-DEX,Weapon Finesse    Use DEX for melee attack,DES
-for melee attack,Weapon Finesse    Use DEX for melee attack,para ataques corpo a corpo
-REFLEX|SAVE,REFLEX|SAVE DC,TESTE REFLEXO
-REFLEX,REFLEX|SAVE DC,REFLEXO
-SAVE DC,REFLEX|SAVE DC,TESTE CD
-DC,REFLEX|SAVE DC,CD
 DC,DC +1,CD
-ARMOUR,ARMOUR CLASS,ARMADURA
-CLASS,ARMOUR CLASS,CLASSE
-POTENT,POTENT|FOR,POTENCIA
-FOR,POTENT|FOR,FOR
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,FALHA ARCANA
-THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,LIMIAR
-AURA,AURA|RANGE,AURA
-RANGE,AURA|RANGE,ALCANCE
-Use,Use INT in place of WIS on Will saves for this round.,Use
-INT,Use INT in place of WIS on Will saves for this round.,INT
-in place of,Use INT in place of WIS on Will saves for this round.,no lugar de
-WIS,Use INT in place of WIS on Will saves for this round.,SAB
-on Will saves for this round.,Use INT in place of WIS on Will saves for this round.,para testes de Vontade neste turno
-INT,+ INT| per level,INT
-per level,+ INT| per level,por nível
-ft,15 ft  3 sq,m
-sq,15 ft  3 sq,m²
-FORTITUDE,FORTITUDE SAVE,Fortitude
-SAVE,FORTITUDE SAVE,Resistência
-AC,AC BONUS,CA
-BONUS,AC BONUS,BÔNUS
-Tireless,Tireless RAGE!,FÚRIA!
-RAGE!,Tireless RAGE!,Incansável
-MAX EXTRA,MAX EXTRA|POINT BUY,EXTRA MAX
-POINT BUY,MAX EXTRA|POINT BUY,COMPRAR PONTO
-DETECT MAGIC,DETECT MAGIC|PER DAY,DETECTAR MAGIA
-PER DAY,DETECT MAGIC|PER DAY,POR DIA
-WILL,WILL SAVE,VONTATE
-SAVE,WILL SAVE,RESISTENCIA
-POWER POINTS,POWER POINTS|PER DAY,PONTOS DE PODER
-PER DAY,POWER POINTS|PER DAY,POR DIA
-Cost:,Cost: 1 pt,Custo:
-1 pt,Cost: 1 pt,1pt
-SPEED,SPEED BONUS,VELOCIDADE
-BONUS,SPEED BONUS,BÔNUS
-Morale Bonus,Morale Bonus    Inspire Courage and similar,Bônus Moral
-Inspire Courage and similar,Morale Bonus    Inspire Courage and similar,Inspirar Coragem e Similar
-FOCUS,FOCUS|BONUS,FOCUS
-BONUS,FOCUS|BONUS,BÔNUS
-MAX POWER,MAX POWER|LEVEL,PODER MAX
-LEVEL,MAX POWER|LEVEL,NÍVEL
-TRUE,TRUE HEALER,VERDADEIRO
-HEALER,TRUE HEALER,CURA
-TALENTS,TALENTS|KNOWN,TALENTOS CONHECIDOS
-KNOWN,TALENTS|KNOWN,CONHECIDOS
-FLAT-FOOTED,FLAT-FOOTED|CMD,DESPREVINIDO DMC
-CMD,FLAT-FOOTED|CMD,DMC
-Back to Back,Back to Back     +2 to AC against flanking,Costas com Costas
-to,Back to Back     +2 to AC against flanking,para
-AC,Back to Back     +2 to AC against flanking,CA
-against flanking,Back to Back     +2 to AC against flanking,Contra flanqueamento
-"economy,","+3 economy, -4 loyalty","economia,"
-loyalty,"+3 economy, -4 loyalty",lealdade
-PERFORMANCE,PERFORMANCE|PER DAY,ATUAÇÃO
-RAGE,RAGE POWERS,FÚRIA
-POWERS,RAGE POWERS,PODERES
-WIS,You may gain up to WIS|grit points each day,SAB
-PREPARED SPELLS,PREPARED SPELLS PER DAY,MAGIAS PREPARADAS
-PER DAY,PREPARED SPELLS PER DAY,POR DIA
-GEAR,GEAR|CAPACITY,EQUIPAMENTOS
-CAPACITY,GEAR|CAPACITY,CAPACIDADE
-ft,10 ft  2 sq,m
-sq,10 ft  2 sq,m²
-USES,USES|PER DAY,USOS
-PER DAY,USES|PER DAY,POR DIA
-DC,DC BONUS,CD
-BONUS,DC BONUS,BÔNUS
-SNEAK ATTACK,SNEAK ATTACK|BONUS,BÔNUS DE ATAQUE FURTIVO
-SUMMON SPELL,SUMMON SPELL|LEVEL,MAGIA DE INVOCAÇÃO
-LEVEL,SUMMON SPELL|LEVEL,NÍVEL
-Strength,Strength +2,Força
-CHANNEL,CHANNEL RANGE,CANALIZAR
-RANGE,CHANNEL RANGE,ALCANCE
-MELEE ATTACK,MELEE ATTACK|BONUS,ATAQUE CORPO A CORPO
-BONUS,MELEE ATTACK|BONUS,BÔNUS
-HEALING,HEALING HIT POINTS,CURAR
-HIT POINTS,HEALING HIT POINTS,PONTOS DE VIDA
-MIGHTY,MIGHTY RAGE!,FÚRIA
-RAGE!,MIGHTY RAGE!,PODEROSA!
-BONUS,BONUS|SPELLS,BÔNUS
-SPELLS,BONUS|SPELLS,MAGIAS
-DC,DC 25,CD
-DEFLECTION,DEFLECTION|BONUS,DEFLEXÃO
-BONUS,DEFLECTION|BONUS,BÔNUS
-TOUCH AC,TOUCH AC|BONUS,TOQUE CA
-BONUS,TOUCH AC|BONUS,BÔNUS
-SNEAK DAMAGE,SNEAK DAMAGE|BONUS,DANO FURTIVO
-BONUS,SNEAK DAMAGE|BONUS,BÔNUS
-DURATION,DURATION|PER DAY,DURAÇÃO POR DIA
+(which grants,(which grants +20 to Acrobatics checks for jumping),(concede
+to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
+Off-hand weapon,Off-hand weapon    (2 less for a light weapon),Arma de mão inábil
+less for a light weapon),Off-hand weapon    (2 less for a light weapon),menos para uma arma leve)
+KI POOL,KI POOL|CAPACITY,Reserva de KI
+CAPACITY,KI POOL|CAPACITY,CAPACIDADE
+Masterwork,Masterwork     Doesn’t stack with magic bonus,Obra-prima
+Doesn’t stack with magic bonus,Masterwork     Doesn’t stack with magic bonus,Não acumula com bônus mágicos
+KNOWLEDGE,KNOWLEDGE BONUS,CONHECIMENTO
+BONUS,KNOWLEDGE BONUS,BÔNUS
 BASE|ATTACK,BASE|ATTACK BONUS,BASE DE ATAQUE
 BONUS,BASE|ATTACK BONUS,BÔNUS
-FEAT SHARING,FEAT SHARING|PER DAY,TALENTO PARTILHADO
-PER DAY,FEAT SHARING|PER DAY,POR DIA
-INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,INSPIRAR HEROISMO
-MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,AFETADOS MAX
-Constitution,Constitution +2,Constituição
-BARRAGES,BARRAGES|PER DAY,BARRAGENS
-PER DAY,BARRAGES|PER DAY,POR DIA
-CASTER,CASTER|LEVEL DC,CONJURADOR
-LEVEL DC,CASTER|LEVEL DC,NÍVEL CD
-= 1d8 +,= 1d8 + (,= 1d8 +
-Gain 1hp on a successful melee attack|Gain,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,Ganha 1pv para ataque corpo a corpo com sucesso
-WIS,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,VON
-hp on a confirmed critical attack,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,pv em um ataque crítico confirmado
-FLAT-FOOTED,FLAT-FOOTED AC,DESPREVINIDO
-AC,FLAT-FOOTED AC,CA
-Lorekeeper,"Lorekeeper|+2 Diplomacy, Knowledge (local, history,nobility)",Mestre do Conhecimento
-"+2 Diplomacy, Knowledge (local, history,nobility)","Lorekeeper|+2 Diplomacy, Knowledge (local, history,nobility)","+2 Diplomacia, Conhecimento (local, história, nobreza)"
-Darkvision 60ft,Darkvision 60ft| • Can see without any light at all| • Invisible objects are still invisible| • Darkvision is black and white,Visão no Escuro 18m
-REFLEX,REFLEX SAVE,REFLEXO
-SAVE,REFLEX SAVE,RESISTÊNCIA
-MAX,MAX|POINTS,MAX
-POINTS,MAX|POINTS,PONTOS
-Melee Attack,Melee Attack +1,Ataque Corpo a Corpo
-Precise shot,Precise shot    No penalty firing into melee,Tiro preciso
-No penalty firing into melee,Precise shot    No penalty firing into melee,Sem penalidade para disparo corpo a corpo
-ATTACK /|DAMAGE,ATTACK /|DAMAGE|BONUS,DANO DE ATAQUE
-BONUS,ATTACK /|DAMAGE|BONUS,BÔNUS
-DAMAGE,DAMAGE ROLL,DANO
-ROLL,DAMAGE ROLL,ROLAGEM
-SLEIGHT OF|HAND,SLEIGHT OF|HAND|BONUS,PRESTIDIGITAÇÃO
-BONUS,SLEIGHT OF|HAND|BONUS,BÔNUS
-CMD,CMD BONUS,MDC
-BONUS,CMD BONUS,Bônus
-(which grants,(which grants +4 to Acrobatics checks for jumping),(concede
-to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
-CURRENT,CURRENT|FEATS,CORRENTE
-FEATS,CURRENT|FEATS,TALENTO
-MAX CASTER,MAX CASTER|LEVEL,CONJURAÇÃO MAX
-LEVEL,MAX CASTER|LEVEL,NÍVEL
-IMMUNE TO,IMMUNE TO|PARALYSIS,IMUNE A
-PARALYSIS,IMMUNE TO|PARALYSIS,PARALISIAS
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,MANOBRA DE COMBATE
-BONUS,COMBAT MANOEUVRE|BONUS,BÔNUS
-WILL,WILL SAVE DC,VONTADE
-SAVE DC,WILL SAVE DC,RESISTÊNCIA CD
-d6,d6 +,d6
-POWERS,POWERS|KNOWN,PODERES
-KNOWN,POWERS|KNOWN,CONHECIDO
-Use,Use WIS in place of STR/DEX for monk weapons,Use
-WIS,Use WIS in place of STR/DEX for monk weapons,SAB
-in place of,Use WIS in place of STR/DEX for monk weapons,no lugar de
-STR,Use WIS in place of STR/DEX for monk weapons,FOR
-DEX,Use WIS in place of STR/DEX for monk weapons,DES
-for monk weapons,Use WIS in place of STR/DEX for monk weapons,para armas de monge
-(which grants,(which grants +8 to Acrobatics),(concede
-to Acrobatics),(which grants +8 to Acrobatics),para acrobacias)
-Enlarge Spell,Enlarge Spell  +1,Aumentar Magia
-BASIC HEALING,BASIC HEALING|HIT POINTS,BASE DE CURA
-HIT POINTS,BASIC HEALING|HIT POINTS,PONTOS DE VIDA
-CHANNEL ENERGY,CHANNEL ENERGY PER DAY,CANALIZAR ENERGIA
-PER DAY,CHANNEL ENERGY PER DAY,POR DIA
-SAVE,SAVE DC,TESTE
-DC,SAVE DC,CD
-Knowledge -,Knowledge - INT|Profession - WIS,Conhecimento -
-INT,Knowledge - INT|Profession - WIS,INT
-Profession -,Knowledge - INT|Profession - WIS,Profissão -
-WIS,Knowledge - INT|Profession - WIS,SAB
-CON,+ CON| per level,CON
-per level,+ CON| per level,por Nível
-DISPEL,DISPEL BONUS,DISSIPAR
-BONUS,DISPEL BONUS,BÔNUS
-EXTRA,EXTRA|RAGE!,EXTRA
-RAGE!,EXTRA|RAGE!,FÚRIA!
-Damage,Damage +1,Dano
-ft,20 ft  4 sq,m
-sq,20 ft  4 sq,m²
-Damage,Damage +2d6 to good/evil creatures,Dano
-+2d6,Damage +2d6 to good/evil creatures,+2d6
-to good/evil creatures,Damage +2d6 to good/evil creatures,para criaturas boas/mals
-DAMAGE,DAMAGE|REDUCTION,Redução de
-REDUCTION,DAMAGE|REDUCTION,Dano
-Level,Level 8,Nível
-Eyes of the Storm,"Eyes of the Storm|See through fog, mist, gas, wind or rain",Olhos da Tempestade
-"See through fog, mist, gas, wind or rain","Eyes of the Storm|See through fog, mist, gas, wind or rain","Ver através da neblina, nevoa, gás, vento ou chuva "
-KNOWLEDGE,KNOWLEDGE |BONUS,CONHECIMENTO
-BONUS,KNOWLEDGE |BONUS,BÔNUS
-STR AND DEX,STR AND DEX BONUS,FOR E DEX
-BONUS,STR AND DEX BONUS,BÔNUS
-CONTROLLED|SPIRIT,CONTROLLED|SPIRIT|CAPACITY,ESPIRITO CONTROLADO
-AURAS,AURAS KNOWN,AURAS
-KNOWN,AURAS KNOWN,CONHECIDAS
-NO TRACE,NO TRACE|BONUS,NÃO RASTREÁVEL
-BONUS,NO TRACE|BONUS,BÔNUS
-(which grants,(which grants +24 to Acrobatics),(concede
-to Acrobatics),(which grants +24 to Acrobatics),para acrobacias)
-SUPERSTITIOUS,SUPERSTITIOUS|BARBARIAN!,SUPERSTICIOSO
-BARBARIAN!,SUPERSTITIOUS|BARBARIAN!,BÁRBARO!
-BONUS,BONUS|DURATION,BÔNUS
-DURATION,BONUS|DURATION,DURAÇÂO
-Slow Fall,Slow Fall 90 ft,Queda Suave
-Dodge bonus to,Dodge bonus to AC,Bônus de esquiva para
-AC,Dodge bonus to AC,CA
-Venom Immunity,Venom Immunity|Immune to all poisons,Imune a Veneno
-Immune to all poisons,Venom Immunity|Immune to all poisons,Imune a todos os venenos
-Slow Fall,Slow Fall 50 ft,Queda Suave
-HEALING,HEALING|PER DAY,CURA
-PER DAY,HEALING|PER DAY,POR DIA
-ft,= 5 ft + ( 5 ft ×,m
-ENERGY,ENERGY|ROLL,ENERGIA
-ROLL,ENERGY|ROLL,ROLAGEM
-20ft aura of luck -,20ft aura of luck - 2 or more ki points,6m de Aura da Sorte - 
-RAGE!,RAGE! DURATION,FÚRIA!
-DURATION,RAGE! DURATION,DURAÇÃO
-"economy,","+1 economy, -1 loyalty","economia,"
-loyalty,"+1 economy, -1 loyalty",lealdade
-20ft,Treat unarmed attacks as magic weapons|Increase range of a thrown object 20ft - 1 ki point,6m
-RAGE,RAGE POWERS |KNOWN,FÚRIA
-POWERS,RAGE POWERS |KNOWN,PODERES
-KNOWN,RAGE POWERS |KNOWN,CONHECIMENTO
-"to Strength, Dexterity and Wisdom score","+2 to Strength, Dexterity and Wisdom score","para pontos Força, Destreza e Sabedoria"
-Use,Use WIS instead of DEX for attacks with a bow,Use
-WIS,Use WIS instead of DEX for attacks with a bow,SAB
-instead of,Use WIS instead of DEX for attacks with a bow,ao invés de
-DEX,Use WIS instead of DEX for attacks with a bow,DES
-for attacks with a bow,Use WIS instead of DEX for attacks with a bow,para ataques com arco
-70 ft,Slow Fall 70 ft,21m
-ATTACK,ATTACK ACTIONS,ATAQUE
-ACTIONS,ATTACK ACTIONS,AÇÃO
-EVIL DAMAGE,EVIL DAMAGE|BONUS,DANO MALIGNO
-BONUS,EVIL DAMAGE|BONUS,BÔNUS
-(which grants,(which grants +24 to Acrobatics checks for jumping),(concede
-to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
-INVULNERABLE,INVULNERABLE|RAGER!,INVULNERABILIDADE
-Mystic Wisdom,Mystic Wisdom 2,Sabedoria Mística
-ETHERIAL,ETHERIAL|ROUNDS,ETÉREO
-ROUNDS,ETHERIAL|ROUNDS,TURNOS
-PERCEPTION,PERCEPTION|BONUS,PERCEPÇÃO
-BONUS,PERCEPTION|BONUS,BÔNUS
-OPPOSED,OPPOSED SCHOOLS,OPOSTA
-SCHOOLS,OPPOSED SCHOOLS,ESCOLA
-DC,DC 15,CD
-Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Focus de Fúria
-Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Ignora a penalidade no primeiro poder de ataque
-(which grants,(which grants +8 to Acrobatics checks for jumping),(concede
-to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
-HEALING,HEALING|HIT POINTS,CURA
-HIT POINTS,HEALING|HIT POINTS,PONTOS DE VIDA
-CHANNEL,CHANNEL|PER DAY,CANALIZAR
-PER DAY,CHANNEL|PER DAY,POR DIA
-CHANNEL,CHANNEL|RANGE,CANALIZAR
-RANGE,CHANNEL|RANGE,ALCANCE
-to jump checks -,+20 to jump checks - 1 ki point,para testes de saltar -
-1 ki point,+20 to jump checks - 1 ki point,1 ki ponto
-DAMAGE,DAMAGE|BONUS,DANO
-BONUS,DAMAGE|BONUS,BÔNUS
-Class|Skills,Class|Skills|+3,Perícias da Classe
-TEAMWORK,TEAMWORK|FEATS,TRABALHO EM EQUIPE
-FEATS,TEAMWORK|FEATS,TALENTOS
-Good:,Good: +2 Loyalty,Bom
-Loyalty,Good: +2 Loyalty,Leal
-ATTACK,ATTACK BONUS,ATAQUE
-BONUS,ATTACK BONUS,BÔNUS
-Wild Empathy,Wild Empathy|Improve the attitude of an animal,Empatia com a Natureza
-Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Melhora a Atitude de um Animal
-DANCE,DANCE|BONUS,DANÇA
-BONUS,DANCE|BONUS,BONUS
-COMBAT|MANEUVRE,COMBAT|MANEUVRE|BONUS,MANOBRA DE COMBATE
-BONUS,COMBAT|MANEUVRE|BONUS,BÔNUS
-"30ft cone of fire, deals 2d6 damage -","30ft cone of fire, deals 2d6 damage - 4 ki points","cone de fogo de 9m, dá 2d6 de dano -"
-RAGE!,RAGE!|TODAY,FÚRIA!
-TODAY,RAGE!|TODAY,HOJE
-WILL,WILL|SAVE DC,VONTADE
-WILL|SAVE,WILL|SAVE DC,VONTADE|RESISTÊNCIA
-SAVE DC,WILL|SAVE DC,CD DE RESISTÊNCIA
-DC,WILL|SAVE DC,CD
-DC,DC 20,CD
-RAGE!,RAGE!  DURATION|PER DAY,FÚRIA!
-DURATION,RAGE!  DURATION|PER DAY,DURAÇÃO
-PER DAY,RAGE!  DURATION|PER DAY,POR DIA
-TO TURN CREATURE,TO TURN CREATURE  MAX HIT DICE,EXPULSAR CRIATURA
-MAX HIT DICE,TO TURN CREATURE  MAX HIT DICE,MÁXIMO DE DADOS DE VIDA
-HEALING,HEALING|POINTS,CURA
-POINTS,HEALING|POINTS,PONTOS
-+50 ft,Fast Movement +50 ft,+15m
-WILL|SAVE,WILL|SAVE|BONUS,TESTE DE VONTADE
-BONUS,WILL|SAVE|BONUS,BÔNUS
-Bonus Spells,Bonus Spells|INT,Bônus de Magia
-INT,Bonus Spells|INT,INT
-COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,MANOBRA DE COMBATE
-BONUS,COMBAT|MANOEUVRE|BONUS,BÔNUS
-CONFUSION,CONFUSION|DURATION,CONFUSÃO
-DURATION,CONFUSION|DURATION,DURAÇÂO
+RAGE!,RAGE! POWERS,FÚRIA!
+POWERS,RAGE! POWERS,PODERES
+Lookout,Lookout    Act in surprise round if ally can act,Cuidado
+Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,Age em rodade surpresa se um aliado puder agir
+REROLL,REROLL|PER DAY,REROLAGEM
+PER DAY,REROLL|PER DAY,POR DIA
 CONCENTRATION,CONCENTRATION|BONUS,CONCENTRAÇÃO
 BONUS,CONCENTRATION|BONUS,BÔNUS
+Slow Fall,Slow Fall 60 ft,Queda Suave
+60 ft,Slow Fall 60 ft,18 m
+DC,DC BONUS,CD
+BONUS,DC BONUS,BÔNUS
+(which grants,(which grants +24 to Acrobatics checks for jumping),(concede
+to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
+TAKE 10,TAKE 10|PER DAY,ESCOLHA 10
+PER DAY,TAKE 10|PER DAY,POR DIA
+Heal your own wounds -,Heal your own wounds - 2 ki points,Curar suas próprias feridas -
+2 ki points,Heal your own wounds - 2 ki points,2 pontos de ki
+TOUCH AC,TOUCH AC|BONUS,TOQUE CA
+BONUS,TOUCH AC|BONUS,BÔNUS
+TO DESTROY CREATURE,TO DESTROY CREATURE  MAX HIT DICE,DESTRUIR CRIATURAS
+MAX HIT DICE,TO DESTROY CREATURE  MAX HIT DICE,MAXIMO DE DADOS DE VIDA
+SPEED,SPEED BONUS,VELOCIDADE
+BONUS,SPEED BONUS,BÔNUS
+Wild Empathy,Wild Empathy|Improve the attitude of an animal,Empatia com a Natureza
+Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Melhora a Atitude de um Animal
+CHANNEL,CHANNEL|PER DAY,CANALIZAR
+PER DAY,CHANNEL|PER DAY,POR DIA
+The default range increment of a |thrown mind blade is,The default range increment of a |thrown mind blade is 30 ft / 6 sq.,O Inclemento padrão de alcance da jogada da lâmina da mente é
+30 ft / 6 sq,The default range increment of a |thrown mind blade is 30 ft / 6 sq.,9m / 0.5m²
+Two-weapon Fighting,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Combater com duas armas
+Penalty for wielding two weapons reduced to -4 / -4,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Penalidade por usar duas armas reduzida à -4 / -4
+MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,DEX MAX ARMADURA
+BONUS,MAX ARMOUR|DEX BONUS,BÔNUS
+Cleave,Cleave    Extra attack if you hit,Trespassar
+Extra attack if you hit,Cleave    Extra attack if you hit,Ataque extra se você acertar
+ARMOUR,ARMOUR BONUS,ARMADURA
+BONUS,ARMOUR BONUS,BÔNUS
+(which grants,(which grants +8 to Acrobatics checks for jumping),(concede
+to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
+Suggestion,Suggestion   Influence subject’s actions,Sugestão
+Influence subject’s actions,Suggestion   Influence subject’s actions,Influência ações do sujeito
+Level,25’+ 5’ × (Level ÷ 2),Nível
+TERRORS,TERRORS|PER DAY,TERRORES
+PER DAY,TERRORS|PER DAY,POR DIA
+Feint Partner,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",Parceiro de Fintar
+"When ally feints, enemy loses","Feint Partner    When ally feints, enemy loses DEX bonus to AC","Quando um aliado finta, o inimigo perde"
+DEX,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",seu bônus de
+bonus to,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",DES na
+AC,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",CA
+Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,Conjurador Mágico Aliado
+to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,para superar resistência à magia
+USES,USES|PER DAY,USOS
+PER DAY,USES|PER DAY,POR DIA
+Mystic Wisdom,Mystic Wisdom 3,Sabedoria Mística
+MAX,MAX|AURAS,MAX
+AURAS,MAX|AURAS,AURAS
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,MANOBRA DE COMBATE
+BONUS,COMBAT|MANOEUVRE|BONUS,BÔNUS
+Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Senso da Natureza
++2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 em Conhecimento (natureza) e em Sobrevivência
+Improved Two-weapon Fighting,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Combater com duas armas aprimorado
+Second attack with your off-hand weapon,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Segundo ataque com sua arma de mão inábil
+Desert Native,Desert Native|Bonus in desert terrain,Nativo do Deserto
+Bonus in desert terrain,Desert Native|Bonus in desert terrain,Bônus em terreno desertico
+RESOLVE,RESOLVE|USES PER DAY,MOTIVAÇÃO
+USES PER DAY,RESOLVE|USES PER DAY,USOS POR DIA
 RAGE!,RAGE!|Today,FÚRIA!
 Today,RAGE!|Today,Hoje
-2 × (d10 +,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",2 × (d10 +
-Damage Reduction 2/,Damage Reduction 2/―,Redução de Dano 2/
+Economy,Lawful: +2 Economy,Economia
+Greater Two-weapon Fighting,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Combater com Duas Armas Aumentado 
+Third attack with your off-hand weapon,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Terceiro ataque com sua arma inábil
+CREATURES AFFECTED,CREATURES AFFECTED TOTAL HIT DICE,CRIATURAS AFETADAS
+TOTAL HIT DICE,CREATURES AFFECTED TOTAL HIT DICE,DADOS DE VIDA TOTAIS
+Mighty,Mighty BLOODRAGE!,Poderosa
+BLOODRAGE!,Mighty BLOODRAGE!,FÚRIA SANGUÍNEA!
+Combat Expertise,Combat Expertise  AC bonus,Especialização em Combate
+AC,Combat Expertise  AC bonus,bônus de
+bonus,Combat Expertise  AC bonus,CA
+USES,USES PER DAY,USOS
+PER DAY,USES PER DAY,POR DIA
+Dodge bonus to,Dodge bonus to AC,Bônus de esquiva para
+AC,Dodge bonus to AC,CA
+Enlarge Spell,Enlarge Spell  +1,Aumentar Magia
+TURNS,TURNS PER DAY,TURNOS
+PER DAY,TURNS PER DAY,POR DIA
+CON,+ CON| per level,CON
+per level,+ CON| per level,por Nível
+Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Tratado como extraplanar
+Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Imune a Encantar Pessoa e outros efeitos que|atingem não-extraplanares.|Redução de dano
+Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Imune a Encantar Pessoa e outros efeitos que|atingem não-extraplanares.|Redução de dano 10/caótico
+10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,10/caótico
+DC,DC    5,CD
+ATTACK,ATTACK BONUS,ATAQUE
+BONUS,ATTACK BONUS,BÔNUS
 FATIGUED,FATIGUED|DURATION,FATIGADO
 DURATION,FATIGUED|DURATION,DURAÇÃO
-Wild Shape,Wild Shape|Become any small or medium animal or vermin,Forma Selvagem
-Become any small or medium animal or vermin,Wild Shape|Become any small or medium animal or vermin,Torna-se qualquer animal pequeno ou médio ou inseto
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,FALHA ARCANA
-THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,LIMIAR
-Chaotic:,Chaotic: +2 Loyalty,Caótico:
-Loyalty,Chaotic: +2 Loyalty,Leal
-(which grants,(which grants +12 to Acrobatics checks for jumping),(concede
-to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
-dodge bonus for each adjacent enemy,+1 dodge bonus for each adjacent enemy,bônus de esquiva por cada inimigo adjacente
-HEALING POINTS,HEALING POINTS|PER DAY,PONTOS DE CURA
-PER DAY,HEALING POINTS|PER DAY,POR DIA
-Attack range,"Attack range 30ft, half damage to targets of the wrong type",Alcance do Ataque
-30ft,"Attack range 30ft, half damage to targets of the wrong type",9m
-", half damage to targets of the wrong type","Attack range 30ft, half damage to targets of the wrong type",", metade do dano para alvos de outro tipo"
-80 ft,Slow Fall 80 ft,24m
-Inflict extra damage -,Inflict extra damage - 1 ki point,Infligir dano extra -
-1 ki point,Inflict extra damage - 1 ki point,1 ponto de Ki
-ENERGY,ENERGY ROLL,ENERGIA
-ROLL,ENERGY ROLL,ROLAGEM
-Scent 30ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",Farejar 9m
-30ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",9m
-60ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",18m
-15ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",4.5m
-QUIVER,QUIVER DAYS,VIBRANTES
-DAYS,QUIVER DAYS,DIAS
-Melee Damage,Melee Damage +2,Dano Corpo a Corpo
-INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,INSPIRAR GRANDEZA
-MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,AFETADOS MAX
-FOES,FOES|PER DAY,INIMIGO
-PER DAY,FOES|PER DAY,POR DIA
-ARCANE POOL,ARCANE POOL|CAPACITY,FONTE ARCANA
-CAPACITY,ARCANE POOL|CAPACITY,CAPACIDADE
-FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,DESPREVINIDO
-ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,CLASSE DE ARMADURA
-INTIMIDATE,INTIMIDATE|BONUS,INTIMIDAR
-BONUS,INTIMIDATE|BONUS,BÔNUS
-MAX,MAX|HEALTH,MAX
-HEALTH,MAX|HEALTH,CURA
-RAGE!,RAGE! 1/day,FÚRIA!
-1/day,RAGE! 1/day,1/dia
-Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Pontos de Destreza|Penalidade:
-1d10,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,1d10
-2d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,2d8
-3d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,3d8
-4d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,4d8
-6d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,6d8
-8d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,8d8
-12d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,12d8
-MOUNTAIN,MOUNTAIN|BONUS,MONTANHA
-BONUS,MOUNTAIN|BONUS,BÔNUS
-STREETWISE,STREETWISE|BONUS,CONHECIMENTO DAS RUAS
-BONUS,STREETWISE|BONUS,BÔNUS
-URBAN,URBAN|BARBARIAN!,URBANO
-BARBARIAN!,URBAN|BARBARIAN!,BÁRBARO!
+Level,100’+ 10’ × Level,Nível
+No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Perde ação neste turno
+DEX,No action this round|Lose DEX bonus to AC; -2 AC,DES
+bonus to,No action this round|Lose DEX bonus to AC; -2 AC,bônus para
+bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,
+AC,No action this round|Lose DEX bonus to AC; -2 AC,CA
+ROUNDS,ROUNDS|PER DAY,RODADAS
+PER DAY,ROUNDS|PER DAY,POR DIA
+ARCTIC,ARCTIC|BONUS,ÁRTICO
+BONUS,ARCTIC|BONUS,BÔNUS
+Tireless,Tireless BLOODRAGE!,FÚRIA SANGUÍNEA!
+(which grants,(which grants +8 to Acrobatics),(concede
+to Acrobatics),(which grants +8 to Acrobatics),para acrobacias)
+RAGE!,RAGE!|PER DAY,FÚRIA!
+PER DAY,RAGE!|PER DAY,POR DIA
+AURAS,AURAS|PER DAY,AURAS
+PER DAY,AURAS|PER DAY,POR DIA
+Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,Alvo de Oportunidade
+Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,Ataque extra quando um aliado atinge um alvo com ataque a longa distância
+Damage Reduction 3/,Damage Reduction 3/―,Redução de Dano 3/
+20ft aura of luck -,20ft aura of luck - 2 or more ki points,6m de Aura da Sorte - 
+REFLEX / FORTITUDE,REFLEX / FORTITUDE|SAVE DC,REFLEXO / Fortitude
+SAVE DC,REFLEX / FORTITUDE|SAVE DC,TESTE DE CD
+Level 16:,Level 16: Twice per day,Nível 16:
+Twice per day,Level 16: Twice per day,Duas vezes por dia
+= 1d4,= 1d4 +,= 1d4
+FEAT SHARING,FEAT SHARING|PER DAY,TALENTO PARTILHADO
+PER DAY,FEAT SHARING|PER DAY,POR DIA
+DAMAGE,DAMAGE|REDUCTION,REDUÇÃO
+REDUCTION,DAMAGE|REDUCTION,DE DANO
+BASE ATTACK,BASE ATTACK BONUS,ATAQUE BASE
+BONUS,BASE ATTACK BONUS,BÔNUS
+WIS,You may gain up to WIS|grit points each day,SAB
+Sneak Attack,Sneak Attack +2d6,Ataque Furtivo
++2d6,Sneak Attack +2d6,+2d6
+ENERGY,ENERGY|ROLL,ENERGIA
+ROLL,ENERGY|ROLL,ROLAGEM
+CASTER,CASTER LEVEL,CONJURADOR
+LEVEL,CASTER LEVEL,NÍVEL
+5ft,÷ 5 ) × 5ft,1.5m
+KNOWLEDGE,KNOWLEDGE |BONUS,CONHECIMENTO
+BONUS,KNOWLEDGE |BONUS,BÔNUS
+ATTACK,ATTACK|BONUS,ATAQUE
+BONUS,ATTACK|BONUS,BÔNUS
+AURA,AURA|RANGE,AURA
+RANGE,AURA|RANGE,ALCANCE
+Charm Person,Charm Person 3/day,Encantar pessoa
+3/day,Charm Person 3/day,3/dia
 1d2,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d2
 1d3,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d3
 1d4,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d4
@@ -633,124 +195,850 @@ BARBARIAN!,URBAN|BARBARIAN!,BÁRBARO!
 6d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,6d6
 8d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,8d6
 12d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,'1d6
-BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,CONHECIMENTO BARDO
-BONUS,BARDIC KNOWLEDGE |BONUS,BÔNUS
-to confirm critical hits,+1 to confirm critical hits,para confirmar danos criticos
-(which grants,(which grants +16 to Acrobatics),(concede
-to Acrobatics),(which grants +16 to Acrobatics),para acrobacias)
-AURAS,AURAS|DURATION,AURAS
-DURATION,AURAS|DURATION,DURAÇÃO
-30ft,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,9m
-Add,"Add WIS to CMB, once a round",Adciona
-WIS,"Add WIS to CMB, once a round",VON
-to,"Add WIS to CMB, once a round",para
-CMB,"Add WIS to CMB, once a round",BMC
-", once a round","Add WIS to CMB, once a round",uma vez no turno
-ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,PENALIDADE EM TESTES DE ARMARUDA
-REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,REDUÇÃO
-PERFORMANCE,PERFORMANCE|ROUNDS USED,ATUAÇÃO
-ROUNDS USED,PERFORMANCE|ROUNDS USED,TURNOS USADOS
-REFLEX / FORTITUDE,REFLEX / FORTITUDE|SAVE DC,REFLEXO / Fortitude
-SAVE DC,REFLEX / FORTITUDE|SAVE DC,TESTE DE CD
-ATTACK,ATTACK|BONUS,ATAQUE
-BONUS,ATTACK|BONUS,BÔNUS
-GRAPPLE,GRAPPLE BONUS,AGARRAR
-BONUS,GRAPPLE BONUS,BÔNUS
-DC,DC    5,CD
-MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,DEX MAX ARMADURA
-BONUS,MAX ARMOUR|DEX BONUS,BÔNUS
-Damage Reduction 5/,Damage Reduction 5/―,Redução de Dano 5/
-Slow Fall,Slow Fall 60 ft,Queda Suave
-60 ft,Slow Fall 60 ft,18 m
-loyalty,-1 loyalty,lealdade
-Intelligence,Intelligence +2,Inteligência
-Coordinated Defence,Coordinated Defence    +2 to CMD,Defesa Coordenada
-to,Coordinated Defence    +2 to CMD,para
-CMD,Coordinated Defence    +2 to CMD,DMC
-AQUATIC,AQUATIC|BONUS,AQUÁTICO
-BONUS,AQUATIC|BONUS,BÔNUS
-WISDOM|CHECK,WISDOM|CHECK DC,TESTE DE SABEDORIA
-DC,WISDOM|CHECK DC,CD
-AURAS,AURAS|PER DAY,AURAS
-PER DAY,AURAS|PER DAY,POR DIA
-ATTACK PENALTY,ATTACK PENALTY|REDUCTION,PENALIDADE DE ATAQUE
-REDUCTION,ATTACK PENALTY|REDUCTION,REDUÇÃO
-RAGE!,RAGE! POWERS,FÚRIA!
-POWERS,RAGE! POWERS,PODERES
-Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Tiro preciso
-Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,Ataque corpo a corpo sem a penalidade de -4
-Fast Movement,Fast Movement +20 ft,Movimento Rápido
-+20 ft,Fast Movement +20 ft,+6m
-Use,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,Usa
-DEX,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,DES
-instead of,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,ao invés de
-STR,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,FOR
-for attack and damage rolls when wielding a scimitar in one hand.,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,para rolagem de ataque ou dano enquanto empunhando uma cimitarra em uma mão.
-NEGATIVE ENERGY,NEGATIVE ENERGY|DAMAGE,ENERGIA NEGATIVA
-DAMAGE,NEGATIVE ENERGY|DAMAGE,DANO
-DAMAGE,DAMAGE BONUS,DANO
-BONUS,DAMAGE BONUS,BÔNUS
-CREATURES AFFECTED,CREATURES AFFECTED TOTAL HIT DICE,CRIATURAS AFETADAS
-TOTAL HIT DICE,CREATURES AFFECTED TOTAL HIT DICE,DADOS DE VIDA TOTAIS
-Arctic Native,Arctic Native|Bonus in icy terrain,Nativo do Artico
-Bonus in icy terrain,Arctic Native|Bonus in icy terrain,Bônus em terreno gelado
-DAMAGE TAKEN,DAMAGE TAKEN |WHILE RAGING!,RECEBENDO DANO
-WHILE,DAMAGE TAKEN |WHILE RAGING!,ENQUANTO
-RAGING!,DAMAGE TAKEN |WHILE RAGING!,FÚRIOSO!
+WILL|SAVE,WILL|SAVE|BONUS,Teste de|Vontade
+BONUS,WILL|SAVE|BONUS,Bônus
+ft,30 ft,m
+TOUCH,TOUCH ARMOUR CLASS,TOQUE
+ARMOUR CLASS,TOUCH ARMOUR CLASS,CLASSE DE ARMADURA
+BASE|ATTACK,BASE|ATTACK|BONUS,BASE DE ATAQUE
+BONUS,BASE|ATTACK|BONUS,BÔNUS
+No action for 1d6 rounds|Lose,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,Sem ações por 1d6 rodadas|Perde
+DEX,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,bônus de
+bonus to,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,DES na
+AC,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,CA
+1d4,"1d4 negative levels, 1 round",1d4
+"negative levels, 1 round","1d4 negative levels, 1 round","níveis negativos, 1 turno"
+GREATER,GREATER BLOODRAGE!,AUMENTADA
+BLOODRAGE!,GREATER BLOODRAGE!,FÚRIA SANGUÍNEA!
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,FALHA ARCANA
+THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,LIMIAR
+URBAN,URBAN|BARBARIAN!,URBANO
+BARBARIAN!,URBAN|BARBARIAN!,BÁRBARO!
+Class|Skills,Class|Skills|+3,Perícias|da Classe
+Wild Shape,Wild Shape|Become any small or medium animal,Forma Selvagem
+Become any small or medium animal,Wild Shape|Become any small or medium animal,Torna-se qualquer animal médio ou pequeno
+POISON RESISTANCE,POISON RESISTANCE FORTITUDE SAVE BONUS,RESISTÊNCIA A VENENO
+FORTITUDE SAVE BONUS,POISON RESISTANCE FORTITUDE SAVE BONUS,BÔNUS EM TESTES DE FORTITUDE
+Back to Back,Back to Back     +2 to AC against flanking,Costas com Costas
+to,Back to Back     +2 to AC against flanking,para
+AC,Back to Back     +2 to AC against flanking,CA
+against flanking,Back to Back     +2 to AC against flanking,Contra flanqueamento
+JUDGEMENTS,JUDGEMENTS|PER DAY,JULGAMENTOS
+PER DAY,JUDGEMENTS|PER DAY,POR DIA
 Bonus to,Bonus to CMB and CMD for your|chosen combat manoeuvres,Bônus de
 CMB,Bonus to CMB and CMD for your|chosen combat manoeuvres,BMC
 and,Bonus to CMB and CMD for your|chosen combat manoeuvres,e
 CMD,Bonus to CMB and CMD for your|chosen combat manoeuvres,DMC
 for your|chosen combat manoeuvres,Bonus to CMB and CMD for your|chosen combat manoeuvres,para suas manobras de combate escolhidas
-ENHANCEMENT,ENHANCEMENT|BONUS,MELHORIA
-BONUS,ENHANCEMENT|BONUS,BÔNUS
-Sneak Attack,Sneak Attack +2d6,Ataque Furtivo
-+2d6,Sneak Attack +2d6,+2d6
-Strength,Strength +4,Força
-Fast Movement,Fast Movement +40 ft,Movimento Rápido
-+40 ft,Fast Movement +40 ft,+12m
+TOUCH,TOUCH AC,CA TOQUE
+AC,TOUCH AC,CA
+Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Grande Golpe Penetrante
+Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Ignora redução de dano até
+MELEE DAMAGE,MELEE DAMAGE|BONUS,DANO CORPO A CORPO
+BONUS,MELEE DAMAGE|BONUS,BÔNUS
+MIGHTY,MIGHTY BLOODRAGE!,PODEROSA
+BLOODRAGE!,MIGHTY BLOODRAGE!,FÚRIA SANGUÍNEA!
+MELEE ATTACK,MELEE ATTACK|BONUS,ATAQUE CORPO A CORPO
+BONUS,MELEE ATTACK|BONUS,BÔNUS
+AC,AC BONUS,CA
+BONUS,AC BONUS,BÔNUS
+Paired Opportunists,Paired Opportunists    When adjacent,Oportunistas Pareados
+When adjacent,Paired Opportunists    When adjacent,Quando adjacentes
+GRAPPLE,GRAPPLE BONUS,AGARRAR
+BONUS,GRAPPLE BONUS,BÔNUS
+Lose,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",Perde
+DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",bônus em
+bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DES na
+AC,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",CA
+-4 on,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",-4 em
+STR,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",FOR
+and,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",e
+"skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","perícias, Percepção oposta|50% de chance de erro quando atacando|CD 10 em Acrobacia para mover-se mais que a metade da velocidade"
+DEFLECTION,DEFLECTION|BONUS,DEFLEXÃO
+BONUS,DEFLECTION|BONUS,BÔNUS
+Slow Fall,Slow Fall 20 ft,Queda Suave
+20 ft,Slow Fall 20 ft,6m
+ENERGY,ENERGY|RESISTANCE,ENERGIA
+RESISTANCE,ENERGY|RESISTANCE,RESISTÊNCIA
+TOUCH OF|SERENITY,TOUCH OF|SERENITY|TODAY,TOQUE DE|SERENIDADE
+TODAY,TOUCH OF|SERENITY|TODAY,HOJE
+WISDOM|CHECK,WISDOM|CHECK BONUS,TESTE DE SABEDORIA
+BONUS,WISDOM|CHECK BONUS,BÔNUS
+POWER,POWER|PER DAY,PODER
+PER DAY,POWER|PER DAY,POR DIA
+Cost:,Cost: 1 pt,Custo:
+1 pt,Cost: 1 pt,1pt
+POTENT,POTENT|FOR,POTENCIA
+FOR,POTENT|FOR,FOR
+CURRENT,CURRENT HIT POINTS,PONTOS
+HIT,CURRENT HIT POINTS,DE VIDA
+POINTS,CURRENT HIT POINTS,ATUAIS
+Damage,Damage +1,Dano
+BARRAGES,BARRAGES|PER DAY,BARRAGENS
+PER DAY,BARRAGES|PER DAY,POR DIA
+CONTROLLED|SPIRIT,CONTROLLED|SPIRIT|CAPACITY,ESPIRITO CONTROLADO
+ALLIES,ALLIES|PER DAY,ALIADOS
+PER DAY,ALLIES|PER DAY,POR DIA
+dodge bonus for each adjacent enemy,+1 dodge bonus for each adjacent enemy,bônus de esquiva por cada inimigo adjacente
+Point Blank Shot,Point Blank Shot    +1 to attack and damage within 30ft,Tiro à queima-roupa
++1 to attack and damage within 30ft,Point Blank Shot    +1 to attack and damage within 30ft,+1 para ataques e danos em até 9m
+(which grants,(which grants +20 to Acrobatics),(concede
+to Acrobatics),(which grants +20 to Acrobatics),para acrobacias)
+EXTRA,EXTRA|RAGE!,EXTRA
+RAGE!,EXTRA|RAGE!,FÚRIA!
+DAMAGE TAKEN,DAMAGE TAKEN |WHILE RAGING!,RECEBENDO DANO
+WHILE,DAMAGE TAKEN |WHILE RAGING!,ENQUANTO
+RAGING!,DAMAGE TAKEN |WHILE RAGING!,FÚRIOSO!
 30 ft / 6 sq,Default range increment|30 ft / 6 sq.,9m / 6 quad
-RAGE,RAGE|TODAY,FÚRIA!
-TODAY,RAGE|TODAY,HOJE
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,MANOBRA DE COMBATE
-DEFENCE,COMBAT MANOEUVRE|DEFENCE,DEFENCIVA
-Level,25’+ 5’ × (Level ÷ 2),Nível
-WEAPON,WEAPON BONUSES,ARMA
-BONUSES,WEAPON BONUSES,BÔNUS
+Point-blank shot,Point-blank shot    Within 30ft,Tiro à queima-roupa
+Within,Point-blank shot    Within 30ft,Em até
+30ft,Point-blank shot    Within 30ft,9m
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,MANOBRA DE COMBATE
+BONUS,COMBAT MANOEUVRE|BONUS,BÔNUS
+ATTACK,ATTACK|PENALTY,ATAQUE
+PENALTY,ATTACK|PENALTY,PENALIDADE
+FEAT SHARING,FEAT SHARING|DURATION,TALENTO PARTILHADO
+DURATION,FEAT SHARING|DURATION,DURAÇÃO
+BONUS,BONUS|DURATION,BÔNUS
+DURATION,BONUS|DURATION,DURAÇÂO
+INSPIRED,INSPIRED RAGE!,INSPIRADO
+RAGE!,INSPIRED RAGE!,FÚRIA!
+DESERT,DESERT|BONUS,DESERTO
+BONUS,DESERT|BONUS,BÔNUS
+ELEMENTAL FIST,ELEMENTAL FIST|PER DAY,PUNHO ELEMENTAL
+PER DAY,ELEMENTAL FIST|PER DAY,POR DIA
+Critical Mastery,Critical Mastery    Apply two critical effects at once,Maestria em Crítico|Aplicar dois efeitos de talentos aos seus acertos críticos
+Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,Aplica dos efeitos críticos de uma vez
+(which grants,(which grants +12 to Acrobatics checks for jumping),(concede
+to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
+Fast Movement,Fast Movement +20 ft,Movimento Rápido
++20 ft,Fast Movement +20 ft,+6m
+Neutral:,Neutral: +2 Stability,Neutra:
+Stability,Neutral: +2 Stability,Estabilidade
+Mystic Wisdom,Mystic Wisdom 2,Sabedoria Mística
+"30ft cone of fire, deals 2d6 damage -","30ft cone of fire, deals 2d6 damage - 4 ki points","cone de fogo de 9m, dá 2d6 de dano -"
+Manyshot,"Manyshot    When making a full-round attack, your first attack has two arrows",Tiros múltiplos
+"When making a full-round attack, your first attack has two arrows","Manyshot    When making a full-round attack, your first attack has two arrows","Quando realizando um ataque de rodada completa, seu primeiro ataque tem duas flechas"
+Rapid shot,Rapid shot    Extra attack at full,Tiro rápido
+Extra attack at full,Rapid shot    Extra attack at full,Ataque extra em ação completa
+BONUS,BONUS|SPELLS,BÔNUS
+SPELLS,BONUS|SPELLS,MAGIAS
+SPECIALITY,SPECIALITY SCHOOL,ESPECIALIDADE
+SCHOOL,SPECIALITY SCHOOL,ESCOLA
+Slow Fall,Slow Fall 90 ft,Queda Suave
+STUNNING FIST,STUNNING FIST|TODAY,PUNHO ATORDOANTE
+TODAY,STUNNING FIST|TODAY,DIA ATUAL
 Mass suggestion,Mass suggestion   Influence 1 subject per level,Sugestão em Massa
 Influence 1 subject per level,Mass suggestion   Influence 1 subject per level,Influência um sujeito por nível
-TURNS,TURNS PER DAY,TURNOS
-PER DAY,TURNS PER DAY,POR DIA
+AURA,AURA|DURATION,AURA
+DURATION,AURA|DURATION,DURAÇÃO
+Focused shot,Focused shot    Within 30ft,Tiro Focado
+Within,Focused shot    Within 30ft,em até
+30ft,Focused shot    Within 30ft,9m
+UNARMED ATTACK,UNARMED ATTACK BONUS,ATAQUE DESARMADO
+BONUS,UNARMED ATTACK BONUS,BÔNUS
+KINETIC,KINETIC ARMOUR CLASS,CINÉTICO
+ARMOUR CLASS,KINETIC ARMOUR CLASS,CLASSE DE ARMADURA
+PERFECT STRIKE,PERFECT STRIKE|TODAY,GOLPE PERFEITO
+TODAY,PERFECT STRIKE|TODAY,HOJE
+stability,-1 stability,estabilidade
+Devastating Strike,Devastating Strike    +2 per extra die,Golpe Devastador
+per extra die,Devastating Strike    +2 per extra die,por dado extra
+Slow Fall,Slow Fall 70 ft,Queda Suave
+70 ft,Slow Fall 70 ft,21m
+FEAR EFFECT,FEAR EFFECT|WILL BONUS,EFEITOS DE MEDO
+WILL BONUS,FEAR EFFECT|WILL BONUS,BÔNUS DE VONTADE
+RAGE!,RAGE! 1/day,FÚRIA!
+1/day,RAGE! 1/day,1/dia
+Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,Maestria em arma
+Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,Alcance de crítico aumentado e sempre confirma golpes críticos
+STRENTH|SCORE,STRENTH|SCORE|BONUS,FORÇA
+BONUS,STRENTH|SCORE|BONUS,MODIFICADOR
+Attack range,"Attack range 30ft, half damage to targets of the wrong type",Alcance do Ataque
+30ft,"Attack range 30ft, half damage to targets of the wrong type",9m
+", half damage to targets of the wrong type","Attack range 30ft, half damage to targets of the wrong type",", metade do dano para alvos de outro tipo"
+Intelligence,Intelligence +2,Inteligência
+ARMOUR,ARMOUR CLASS,ARMADURA
+CLASS,ARMOUR CLASS,CLASSE
+Lorekeeper,"Lorekeeper|+2 Diplomacy, Knowledge (local, history,nobility)",Mestre do Conhecimento
+"+2 Diplomacy, Knowledge (local, history,nobility)","Lorekeeper|+2 Diplomacy, Knowledge (local, history,nobility)","+2 Diplomacia, Conhecimento (local, história, nobreza)"
+Precise shot,Precise shot    No penalty firing into melee,Tiro preciso
+No penalty firing into melee,Precise shot    No penalty firing into melee,Sem penalidade para disparo corpo a corpo
+RAGE,RAGE POWERS |KNOWN,FÚRIA
+POWERS,RAGE POWERS |KNOWN,PODERES
+KNOWN,RAGE POWERS |KNOWN,CONHECIMENTO
+Far Shot,Far Shot    Attack penalty per range increment decreases from -2 to -1,Tiro Distante
+Attack penalty per range increment decreases from -2 to -1,Far Shot    Attack penalty per range increment decreases from -2 to -1,Incremento da penalidade de ataque por alcance diminui de -2 para -1
+CURRENT,CURRENT|FEATS,CORRENTE
+FEATS,CURRENT|FEATS,TALENTO
+EVIL DAMAGE,EVIL DAMAGE|BONUS,DANO MALIGNO
+BONUS,EVIL DAMAGE|BONUS,BÔNUS
+FLAT-FOOTED,FLAT-FOOTED|CMD,DESPREVINIDO DMC
+CMD,FLAT-FOOTED|CMD,DMC
+(which grants,(which grants +16 to Acrobatics checks for jumping),(concede
+to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
+MAX POWER,MAX POWER|LEVEL,PODER MAX
+LEVEL,MAX POWER|LEVEL,NÍVEL
+AC,AC +1,CA
+PERFORMANCE,PERFORMANCE|BONUS,ATUAÇÃO
+BONUS,PERFORMANCE|BONUS,BÔNUS
+PREPARED SPELLS,PREPARED SPELLS PER DAY,MAGIAS PREPARADAS
+PER DAY,PREPARED SPELLS PER DAY,POR DIA
+WEAPON,WEAPON BONUSES,ARMA
+BONUSES,WEAPON BONUSES,BÔNUS
+QUIVER,QUIVER DAYS,VIBRANTES
+DAYS,QUIVER DAYS,DIAS
+INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,INSPIRAR HEROISMO
+MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,AFETADOS MAX
+RAGE!,RAGE! DURATION,FÚRIA!
+DURATION,RAGE! DURATION,DURAÇÃO
+HEALING,HEALING HIT POINTS,CURAR
+HIT POINTS,HEALING HIT POINTS,PONTOS DE VIDA
+Arctic Native,Arctic Native|Bonus in icy terrain,Nativo do Artico
+Bonus in icy terrain,Arctic Native|Bonus in icy terrain,Bônus em terreno gelado
+DC,DC 30,CD
+SHARE FAVOURED ENEMY,SHARE FAVOURED ENEMY|DURATION,COMPARTILHAR INIMIGO PREDILETO
+DURATION,SHARE FAVOURED ENEMY|DURATION,DURAÇÃO
+PROHIBITED,PROHIBITED SCHOOLS,PROIBIDA
+SCHOOLS,PROHIBITED SCHOOLS,ESCOLA
+(which grants,(which grants +12 to Acrobatics),(concede
+to Acrobatics),(which grants +12 to Acrobatics),para acrobacias)
+Greater,Greater RAGE!,Aprimorado
+RAGE!,Greater RAGE!,FÚRIA!
+Vital Strike,Vital Strike    Extra damage dice,Golpe Vital
+Extra damage dice,Vital Strike    Extra damage dice,Dado de dano extra
+ft,= 5 ft + ( 5 ft ×,m
+RAGE!,RAGE!  DURATION|PER DAY,FÚRIA!
+DURATION,RAGE!  DURATION|PER DAY,DURAÇÃO
+PER DAY,RAGE!  DURATION|PER DAY,POR DIA
+AQUATIC,AQUATIC|BONUS,AQUÁTICO
+BONUS,AQUATIC|BONUS,BÔNUS
+OPPOSED,OPPOSED SCHOOLS,OPOSTA
+SCHOOLS,OPPOSED SCHOOLS,ESCOLA
+At levels,"At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.",Nos níveis
+"and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","e 16 você pode adicionar 1 a uma habilidade.|Se essa pontuação for um número ímpar, significa um aumento no modificador de habilidade."
+STREETWISE,STREETWISE|BONUS,CONHECIMENTO DAS RUAS
+BONUS,STREETWISE|BONUS,BÔNUS
+Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",Parceiro de Fintar Aprimorado
+"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO","Quando um aliado finta, ganhe AdO"
+MOUNTAIN,MOUNTAIN|BONUS,MONTANHA
+BONUS,MOUNTAIN|BONUS,BÔNUS
+RESOLVE,RESOLVE POINTS,PONTOS DE
+POINTS,RESOLVE POINTS,MOTIVAÇÃO
+DISCERN LIES,DISCERN LIES|PER DAY,DISCERNIR MENTIRAS
+PER DAY,DISCERN LIES|PER DAY,POR DIA
+RAGE,RAGE|TODAY,FÚRIA!
+TODAY,RAGE|TODAY,HOJE
+Slow Fall,Slow Fall Any distance,Queda Suave
+Any distance,Slow Fall Any distance,Qualquer distancia
+EXTRA,EXTRA DAMAGE,EXTRA
+DAMAGE,EXTRA DAMAGE,DANO
+CONFUSION,CONFUSION|DURATION,CONFUSÃO
+DURATION,CONFUSION|DURATION,DURAÇÂO
+ARMOUR,ARMOUR|BONUS,ARMADURA
+BONUS,ARMOUR|BONUS,BÔNUS
+Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,CD de Acrobacia = do Oponente
+CMD,Acrobatics DC = Opponent’s CMD,MCD
+Assume ethereal state for 1 minute -,Assume ethereal state for 1 minute - 3 ki points,Assume estado etéreo por 1 minuto -
+3 ki points,Assume ethereal state for 1 minute - 3 ki points,3 pontos de ki
+KNOWLEDGE,KNOWLEDGE|BONUS,CONHECIMENTO
+BONUS,KNOWLEDGE|BONUS,BÔNUS
+= 1d8 +,= 1d8 + (,= 1d8 +
+Damage Reduction 1/,Damage Reduction 1/―,Redução de Dano 1/
+Great Cleave,Great Cleave    Any number of extra attacks per round,Trespassar Maior
+Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,Qualquer número de ataque extras por rodada
+FORTITUDE,FORTITUDE|BONUS,FORTITUDE
+BONUS,FORTITUDE|BONUS,BÔNUS
+Melee Damage,Melee Damage +2,Dano Corpo a Corpo
+Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,Parede de Escudo
+to,Shield Wall    +1 / +2 to AC when both using shields,a
+AC,Shield Wall    +1 / +2 to AC when both using shields,CA
+when both using shields,Shield Wall    +1 / +2 to AC when both using shields,quando usando ambos os escudos
+MAX POINTS,MAX POINTS|POWER COST,PONTOS MAX
+CMD,CMD BONUS,DMC
+BONUS,CMD BONUS,BÔNUS
+"economy,","+2 economy, -2 loyalty",economia
+loyalty,"+2 economy, -2 loyalty",lealdade
+DEVOTED STRIKES,DEVOTED STRIKES|PER DAY,GOLPES DEVOTOS
+PER DAY,DEVOTED STRIKES|PER DAY,POR DIA
+Fast Movement,Fast Movement +60 ft,Movimento Rápido
++60 ft,Fast Movement +60 ft,+18m
++40 ft,Fast Movement +40 ft,+12m
+"economy,","+1 economy, -1 loyalty","economia,"
+loyalty,"+1 economy, -1 loyalty",lealdade
+ENERGY,ENERGY AC,ENERGIA
+AC,ENERGY AC,CA
+Charm Person,Charm Person 2/day,Encantar Pessoa
+2/day,Charm Person 2/day,2/dia
+REFLEX|SAVE,REFLEX|SAVE DC,TESTE REFLEXO
+REFLEX,REFLEX|SAVE DC,REFLEXO
+SAVE DC,REFLEX|SAVE DC,TESTE CD
+DC,REFLEX|SAVE DC,CD
+ENERGY,ENERGY ARMOUR CLASS,ENERGIA
+ARMOUR CLASS,ENERGY ARMOUR CLASS,CLASSE DE ARMADURA
+MAX CASTER,MAX CASTER|LEVEL,CONJURAÇÃO MAX
+LEVEL,MAX CASTER|LEVEL,NÍVEL
+KINETIC,KINETIC AC,CINÉTICO
+AC,KINETIC AC,CA
+TO TURN CREATURE,TO TURN CREATURE  MAX HIT DICE,EXPULSAR CRIATURA
+MAX HIT DICE,TO TURN CREATURE  MAX HIT DICE,MÁXIMO DE DADOS DE VIDA
+Damage,Damage +1d6,Dano
++1d6,Damage +1d6,+1d6
+SUMMON SPELL,SUMMON SPELL|LEVEL,MAGIA DE INVOCAÇÃO
+LEVEL,SUMMON SPELL|LEVEL,NÍVEL
+CRITICAL,CRITICAL EFFECTS,CRÍTICO
+EFFECTS,CRITICAL EFFECTS,EFEITOS
+FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,DESPREVINIDO
+ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,CLASSE DE ARMADURA
+TEAMWORK,TEAMWORK|FEATS,TRABALHO EM EQUIPE
+FEATS,TEAMWORK|FEATS,TALENTOS
+ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,CLASSE DE|ARMADURA
+PENALTY,ARMOUR|CLASS|PENALTY,PENALIDADE
+RAGE!,RAGE! CONVERSION,FÚRIA!
+CONVERSION,RAGE! CONVERSION,CONVERSÃO
+40 ft,Slow Fall 40 ft,12m
+Add,"Add WIS to CMB, once a round",Adciona
+WIS,"Add WIS to CMB, once a round",VON
+to,"Add WIS to CMB, once a round",para
+CMB,"Add WIS to CMB, once a round",BMC
+", once a round","Add WIS to CMB, once a round",uma vez no turno
+INSPIRATION,INSPIRATION|PER DAY,INSPIRAÇÃO
+PER DAY,INSPIRATION|PER DAY,POR DIA
+Use,Use WIS instead of DEX for attacks with a bow,Use
+WIS,Use WIS instead of DEX for attacks with a bow,SAB
+instead of,Use WIS instead of DEX for attacks with a bow,ao invés de
+DEX,Use WIS instead of DEX for attacks with a bow,DES
+for attacks with a bow,Use WIS instead of DEX for attacks with a bow,para ataques com arco
+Slow Fall,Slow Fall 30 ft,Queda Suave
+30 ft,Slow Fall 30 ft,9m
+Darkvision 60ft,Darkvision 60ft| • Can see without any light at all| • Invisible objects are still invisible| • Darkvision is black and white,Visão no Escuro 18m
+TRUE,TRUE HEALER,VERDADEIRO
+HEALER,TRUE HEALER,CURA
+STUNNING FIST,STUNNING FIST|PER DAY,PUNHO ATORDOANTE
+PER DAY,STUNNING FIST|PER DAY,POR DIA
+Knowledge -,Knowledge - INT|Profession - WIS,Conhecimento -
+INT,Knowledge - INT|Profession - WIS,INT
+Profession -,Knowledge - INT|Profession - WIS,Profissão -
+WIS,Knowledge - INT|Profession - WIS,SAB
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,FALHA ARCANA
+THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,LIMIAR
+ARMOUR CLASS,ARMOUR CLASS|BONUS,CLASSE DE ARMADURA
+BONUS,ARMOUR CLASS|BONUS,BÔNUS
+PERCEPTION,PERCEPTION|BONUS,PERCEPÇÃO
+BONUS,PERCEPTION|BONUS,BÔNUS
+Good:,Good: +2 Loyalty,Bom
+Loyalty,Good: +2 Loyalty,Leal
++50 ft,Fast Movement +50 ft,+15m
+Linguistics and Knowledge are class skills using,Linguistics and Knowledge are class skills using WIS,Linguística e Conhecimento são habilidades de classe 
+WIS,Linguistics and Knowledge are class skills using WIS,SAB
+FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,RAJADA DE GOLPES
+BASE ATTACK BONUS,FLURRY OF BLOWS|BASE ATTACK BONUS,BÔNUS BASE DE ATAQUE
+Cost:,Cost: 2 pt,Custo:
+2 pt,Cost: 2 pt,2 pt
+WIS,(WIS minimum 1),SAB
+minimum 1),(WIS minimum 1),Minimo 1
+30ft,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,9m
+Morale Bonus,Morale Bonus    Inspire Courage and similar,Bônus Moral
+Inspire Courage and similar,Morale Bonus    Inspire Courage and similar,Inspirar Coragem e Similar
+HEALING,HEALING|PER DAY,CURA
+PER DAY,HEALING|PER DAY,POR DIA
+DC,DC 25,CD
+FORTITUDE,FORTITUDE|DC,FORTITUDE
+DC,FORTITUDE|DC,CD
+PERFORMANCE,PERFORMANCE|ROUNDS USED,ATUAÇÃO
+ROUNDS USED,PERFORMANCE|ROUNDS USED,TURNOS USADOS
+Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",Formação de Cavalaria
+"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount","Compartilha espaço, investe através da montaria aliada"
+SUPERSTITIOUS,SUPERSTITIOUS|BARBARIAN!,SUPERSTICIOSO
+BARBARIAN!,SUPERSTITIOUS|BARBARIAN!,BÁRBARO!
+WILL,WILL SAVE,VONTADE
+SAVE,WILL SAVE,RESISTENCIA
+SECOND CHANCES,SECOND CHANCES|PER DAY,SEGUNDAS CHANCES
+PER DAY,SECOND CHANCES|PER DAY,POR DIA
+Quick Draw,Quick Draw    Draw your weapon as a free action,Saque Rápido
+Draw your weapon as a free action,Quick Draw    Draw your weapon as a free action,Saque sua arma como uma ação livre
+CHANNEL,CHANNEL RANGE,CANALIZAR
+RANGE,CHANNEL RANGE,ALCANCE
+Eyes of the Storm,"Eyes of the Storm|See through fog, mist, gas, wind or rain",Olhos da Tempestade
+"See through fog, mist, gas, wind or rain","Eyes of the Storm|See through fog, mist, gas, wind or rain","Ver através da neblina, nevoa, gás, vento ou chuva "
+Wild Shape,Wild Shape|Become any small or medium animal or vermin,Forma Selvagem
+Become any small or medium animal or vermin,Wild Shape|Become any small or medium animal or vermin,Torna-se qualquer animal pequeno ou médio ou inseto
+FORTITUDE,FORTITUDE SAVE,Fortitude
+SAVE,FORTITUDE SAVE,Resistência
+INTIMIDATE,INTIMIDATE|BONUS,INTIMIDAR
+BONUS,INTIMIDATE|BONUS,BÔNUS
+HEALING POINTS,HEALING POINTS|PER DAY,PONTOS DE CURA
+PER DAY,HEALING POINTS|PER DAY,POR DIA
+MIGHTY,MIGHTY RAGE!,FÚRIA
+RAGE!,MIGHTY RAGE!,PODEROSA!
+ARCANA,ARCANA|KNOWN,ARCANO
+KNOWN,ARCANA|KNOWN,CONHECIMENTO
+RAGE,RAGE  DURATION|PER DAY,DURAÇÃO
+DURATION,RAGE  DURATION|PER DAY,DE FÚRIA
+PER DAY,RAGE  DURATION|PER DAY,POR DIA
+Charge,Charge    -2 to AC for the rest of the round,Investida
+to,Charge    -2 to AC for the rest of the round,a
+AC,Charge    -2 to AC for the rest of the round,CA
+for the rest of the round,Charge    -2 to AC for the rest of the round,pelo resto da rodada
+Slow Fall,Slow Fall 50 ft,Queda Suave
+DAMAGE,DAMAGE ROLL,DANO
+ROLL,DAMAGE ROLL,ROLAGEM
+Greater,Greater BLOODRAGE!,Aumentada
+BLOODRAGE!,Greater BLOODRAGE!,FÚRIA SANGUÍNEA!
+Improved Precise Shot,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Tiro Preciso Aprimorado
+Ignore the penalties for partial cover or partial concealment,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Ignora as penalidades de cobertura parcial ou ocultamento parcial
+ATTACK PENALTY,ATTACK PENALTY|REDUCTION,PENALIDADE DE ATAQUE
+REDUCTION,ATTACK PENALTY|REDUCTION,REDUÇÃO
+5ft,Pack Attack    Ally’s attack allows you to take 5ft step,1.5m
+(which grants,(which grants +4 to Acrobatics checks for jumping),(concede
+to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping),para testes de acrobacias e saltar)
+CHANNEL,CHANNEL|RANGE,CANALIZAR
+RANGE,CHANNEL|RANGE,ALCANCE
+Scent 30ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",Farejar 9m
+30ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",9m
+60ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",18m
+15ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",4.5m
+Level,Level 8,Nível
+d6,d6 +,d6
+Constitution,Constitution +2,Constituição
+AUDIENCE,AUDIENCE|MAX FASCINATED,AUDIÊNCIA
+MAX FASCINATED,AUDIENCE|MAX FASCINATED,FASCINAR MAX
++ 4 to all saving throws|+ 4 dodge bonus to,+ 4 to all saving throws|+ 4 dodge bonus to AC,+4 em todas as resistências|+4 de bônus em esquiva
+AC,+ 4 to all saving throws|+ 4 dodge bonus to AC,CA
+Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,Investida Coordenada
+Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,Investe no mesmo alvo que um aliado
+Strength,Strength +4,Força
+CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,CONSTITUIÇÃO
+BONUS,CONSTITUTION|SCORE|BONUS,MODIFICADOR
+CASTER,CASTER|LEVEL DC,CONJURADOR
+LEVEL DC,CASTER|LEVEL DC,NÍVEL CD
+TAKE 20,TAKE 20 PER DAY,ESCOLHER 20
+PER DAY,TAKE 20 PER DAY,POR DIA
+COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,MANOBRA DE COMBATE
+DEFENCE,COMBAT|MANEUVRE|DEFENCE,DEFESA
+Forbidden|During,Forbidden|During|RAGE!,Duração Proibida
+RAGE!,Forbidden|During|RAGE!,FÚRIA!
+ARCANE POOL,ARCANE POOL|CAPACITY,FONTE ARCANA
+CAPACITY,ARCANE POOL|CAPACITY,CAPACIDADE
+Add,Add INT bonus to attacks when flanking or making an attack of opportunity.,Adiciona
+INT,Add INT bonus to attacks when flanking or making an attack of opportunity.,INT
+bonus to attacks when flanking or making an attack of opportunity.,Add INT bonus to attacks when flanking or making an attack of opportunity.,bônus de ataque quando flanqueado ou ao fazer um ataque de oportunidade.
+shield bonus to,+2 shield bonus to AC and CMD while stationary,bônus de escudo para
+AC,+2 shield bonus to AC and CMD while stationary,CA
+and,+2 shield bonus to AC and CMD while stationary,e
+CMD,+2 shield bonus to AC and CMD while stationary,DMC
+ENERGY,ENERGY ROLL,ENERGIA
+ROLL,ENERGY ROLL,ROLAGEM
+WISDOM|CHECK,WISDOM|CHECK DC,TESTE DE SABEDORIA
+DC,WISDOM|CHECK DC,CD
+Rapid Shot,"Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty",Tiro rápido
+"When making a full-round attack, get one additional attack in return for a -2 penalty","Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty","Quando realizar um ataque de rodada completa, ganhe um ataque adicional em com penalidade de -2"
+CMB,+1 CMB and CMD for selected combat manoeuvres,BMC
+and,+1 CMB and CMD for selected combat manoeuvres,e
+CMD,+1 CMB and CMD for selected combat manoeuvres,DMC
+for selected combat manoeuvres,+1 CMB and CMD for selected combat manoeuvres,para manobra de combate selecionada
+Mighty,Mighty RAGE!,Poderoso
+RAGE!,Mighty RAGE!,FÚRIA!
+SHADOW,SHADOW|HIT POINTS,SOMBRA
+HIT POINTS,SHADOW|HIT POINTS,PONTOS DE VIDA
+Back to Back,Back to Back    +2 to AC against flanking,Costas com Costos
+to,Back to Back    +2 to AC against flanking,para 
+AC,Back to Back    +2 to AC against flanking,CA
+against flanking,Back to Back    +2 to AC against flanking,contra flaqueamento
+Penetrating Strike,Penetrating Strike    Ignore damage reduction up to    5/—,Golpe Penetrante
+Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to    5/—,Ignora redução de dano até
+ft,10 ft  2 sq,m
+SNEAK ATTACK,SNEAK ATTACK|BONUS,BÔNUS DE ATAQUE FURTIVO
+FEAR EFFECT,FEAR EFFECTWILL BONUS,EFEITO DE MEDO
+WILL BONUS,FEAR EFFECTWILL BONUS,BÔNUS DE VONTADE
+= 1d8,= 1d8 +,= 1d8
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,MANOBRA DE COMBATE
+DEFENCE,COMBAT MANOEUVRE|DEFENCE,DEFENCIVA
+DISPEL,DISPEL BONUS,DISSIPAR
+BONUS,DISPEL BONUS,BÔNUS
+SNEAK DAMAGE,SNEAK DAMAGE|BONUS,DANO FURTIVO
+BONUS,SNEAK DAMAGE|BONUS,BÔNUS
++10 ft,Fast Movement +10 ft,+3m
+INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,INSPIRAR GRANDEZA
+MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,AFETADOS MAX
+TAKE 20,TAKE 20|PER DAY,ESCOLHER 20
+PER DAY,TAKE 20|PER DAY,POR DIA
+Off-hand weapon,Off-hand weapon    (crossbow only),Arma de mão inábil
+(crossbow only),Off-hand weapon    (crossbow only),(apenas bestas)
+DODGE,DODGE|BONUS,ESQUIVA
+BONUS,DODGE|BONUS,BÔNUS
+RAGE!,RAGE!|TODAY,FÚRIA!
+TODAY,RAGE!|TODAY,HOJE
+NO TRACE,NO TRACE|BONUS,NÃO RASTREÁVEL
+BONUS,NO TRACE|BONUS,BÔNUS
+POWER POINTS,POWER POINTS|PER DAY,PONTOS DE PODER
+PER DAY,POWER POINTS|PER DAY,POR DIA
+Inflict extra damage -,Inflict extra damage - 1 ki point,Infligir dano extra -
+1 ki point,Inflict extra damage - 1 ki point,1 ponto de Ki
+SPIRIT,SPIRIT|HEALING,ESPIRITO
+HEALING,SPIRIT|HEALING,CURA
+IMMUNE TO,IMMUNE TO|PARALYSIS,IMUNE A
+PARALYSIS,IMMUNE TO|PARALYSIS,PARALISIAS
+Improved Devastating Strike,Improved Devastating Strike  +2 per die,Golpe Devastante Aprimorado
+per die,Improved Devastating Strike  +2 per die,por dado
+MAX EXTRA,MAX EXTRA|POINT BUY,EXTRA MAX
+POINT BUY,MAX EXTRA|POINT BUY,COMPRAR PONTO
+FEAR,FEAR|DAMAGE,MEDO
+DAMAGE,FEAR|DAMAGE,DANO
+SLEIGHT OF|HAND,SLEIGHT OF|HAND|BONUS,PRESTIDIGITAÇÃO
+BONUS,SLEIGHT OF|HAND|BONUS,BÔNUS
+MAX,MAX|HEALTH,MAX
+HEALTH,MAX|HEALTH,CURA
+AURAS,AURAS KNOWN,AURAS
+KNOWN,AURAS KNOWN,CONHECIDAS
+LUCKY ROUNDS,LUCKY ROUNDS|PER DAY,RODADAS SORTUDAS
+PER DAY,LUCKY ROUNDS|PER DAY,POR DIA
+ft,15 ft  3 sq,m
+Two-weapon fighting,Two-weapon fighting    Reduces penalty to:,Combater com duas armas
+Reduces penalty to:,Two-weapon fighting    Reduces penalty to:,Reduz a penalidade à:
+FORTUNE,FORTUNE|PER DAY,FORTUNA
+PER DAY,FORTUNE|PER DAY,POR DIA
+Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,Rota de uga
+Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,Não provoca AdO quando adjacente a um aliado
+Swap Places,Swap Places    Switch places with an ally,Trocar de Lugar
+Switch places with an ally,Swap Places    Switch places with an ally,Troca de lugar com um aliado
+DURATION,DURATION|PER DAY,DURAÇÃO
+PER DAY,DURATION|PER DAY,POR DIA
+RANGED,RANGED ATTACK,ATAQUE À
+ATTACK,RANGED ATTACK," LONGA DISTÂNCIA"
+ATTACK /|DAMAGE,ATTACK /|DAMAGE|BONUS,DANO DE ATAQUE
+BONUS,ATTACK /|DAMAGE|BONUS,BÔNUS
+"to Strength, Dexterity and Wisdom score","+2 to Strength, Dexterity and Wisdom score","para pontos Força, Destreza e Sabedoria"
+Bonus Spells,Bonus Spells|CHA,Magia Bônus
+CHA,Bonus Spells|CHA,CAR
+Damage Reduction 5/,Damage Reduction 5/―,Redução de Dano 5/
+ft,20 ft  4 sq,m
+WILD EMPATHY,WILD EMPATHY|BONUS,EMPATIA COM A NATUREZA
+BONUS,WILD EMPATHY|BONUS,BÔNUS
+Shot on the Run,Shot on the Run    Attack at any point during your move,Tiro em Movimento
+Attack at any point during your move,Shot on the Run    Attack at any point during your move,Ataca a qualquer momento durante seu movimento
+to Spellcraft when examining a|magic item to determine its properties,+10 to Spellcraft when examining a|magic item to determine its properties,em Artes Mágicas quando examinando um|item mágico para determinar suas propriedades
+saving throws against enchantment,+2 saving throws against enchantment,resistências contra encantamento
+POWERS,POWERS|KNOWN,PODERES
+KNOWN,POWERS|KNOWN,CONHECIDO
+Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Corpo Atemporal
+"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged","Não envelhece, ignora magias de envelhecimento"
+RAGE!,RAGE!|Modifier,FÚRIA!
+Modifier,RAGE!|Modifier,Modificador
+CONDITIONAL,CONDITIONAL MODIFIERS,MOD.
+MODIFIERS,CONDITIONAL MODIFIERS,CONDICIONAIS
+BASIC HEALING,BASIC HEALING|HIT POINTS,BASE DE CURA
+HIT POINTS,BASIC HEALING|HIT POINTS,PONTOS DE VIDA
+Wild Shape,Wild Shape|Become any small or medium animal or ooze,Forma Selvagem
+Become any small or medium animal or ooze,Wild Shape|Become any small or medium animal or ooze,Torna-se qualquer animal pequeno ou médio ou lodo
+HEALING,HEALING|HIT POINTS,CURA
+HIT POINTS,HEALING|HIT POINTS,PONTOS DE VIDA
+HEALING,HEALING|POINTS,CURA
+POINTS,HEALING|POINTS,PONTOS
+20ft,Treat unarmed attacks as magic weapons|Increase range of a thrown object 20ft - 1 ki point,6m
+RAGE!,RAGE!|Duration,FÚRIA!
+Duration,RAGE!|Duration,Duração
+PERFORMANCE,PERFORMANCE|PER DAY,ATUAÇÃO
+Bonus Spells,Bonus Spells|WIS,Magias Bônus
+WIS,Bonus Spells|WIS,SAB
+INITIATIVE,INITIATIVE|BONUS,INICIATIVA
+BONUS,INITIATIVE|BONUS,BÔNUS
+CHANNEL ENERGY,CHANNEL ENERGY PER DAY,CANALIZAR ENERGIA
+PER DAY,CHANNEL ENERGY PER DAY,POR DIA
+Precise Strike,Precise Strike    When flanking,Golpe Preciso
+When flanking,Precise Strike    When flanking,Quando flanqueando
+TALENTS,TALENTS|KNOWN,TALENTOS
+KNOWN,TALENTS|KNOWN,CONHECIDOS
+Coordinated Defence,Coordinated Defence    +2 to CMD,Defesa Coordenada
+to,Coordinated Defence    +2 to CMD,para
+CMD,Coordinated Defence    +2 to CMD,DMC
+(which grants,(which grants +24 to Acrobatics),(concede
+to Acrobatics),(which grants +24 to Acrobatics),para acrobacias)
+BLOODRAGE!,BLOODRAGE!  DURATION|PER DAY,FÚRIA SANGUÍNEA!
+DURATION,BLOODRAGE!  DURATION|PER DAY,DURAÇÃO
+PER DAY,BLOODRAGE!  DURATION|PER DAY,POR DIA
++2 WIS,+2 WIS and -2 CHA in all three forms.,+2 SAB
+and,+2 WIS and -2 CHA in all three forms.,e
+-2 CHA,+2 WIS and -2 CHA in all three forms.,- CAR
+in all three forms.,+2 WIS and -2 CHA in all three forms.,em todas as três formas
+SPELL,SPELL RESISTANCE,MAGIA
+RESISTANCE,SPELL RESISTANCE,RESITÊNCIA
+STAMINA,STAMINA POINTS,PONTOS DE
+POINTS,STAMINA POINTS,STAMINA
+TRAP SENSE,TRAP SENSE|BONUS,SENTIR ARMADILHA
+BONUS,TRAP SENSE|BONUS,BÔNUS
+WILL,WILL|SAVE DC,VONTADE
+SAVE DC,WILL|SAVE DC,CD DE RESISTÊNCIA
+EXORCISM,EXORCISM|DC,EXORCISMO
+DC,EXORCISM|DC,CD
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|DEFENCE,MANOBRAS|DE COMBATE
+DEFENCE,COMBAT|MANOEUVRE|DEFENCE,DEFESA
+30ft,"Harm spirits, 1d6 /level, within 30ft",9m
+Knowledge Pool,Knowledge Pool|Prepare any Magus spell as if known,Fonte de Conhecimento
+Prepare any Magus spell as if known,Knowledge Pool|Prepare any Magus spell as if known,Prepara qualquer magia que o mago conheça
+Weapon Finesse,Weapon Finesse  Use DEX for melee attack,Acuidade com Arma
+Use,Weapon Finesse  Use DEX for melee attack,Use
+DEX,Weapon Finesse  Use DEX for melee attack,DES
+for melee attack,Weapon Finesse  Use DEX for melee attack,para ataques corpo a corpo
+Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Acuidade com Arma
+Use,Weapon Finesse    Use DEX for melee attack,Use
+DEX,Weapon Finesse    Use DEX for melee attack,DES
+for melee attack,Weapon Finesse    Use DEX for melee attack,para ataques corpo a corpo
+MAX ARROWS,MAX ARROWS|PER ROUND,FLECHAS MAX
+PER ROUND,MAX ARROWS|PER ROUND,POR RODADA
+to saves against enchantment,+2 to saves against enchantment,à resistências contra encantamento
+REDIRECTION,REDIRECTION|PER DAY,REDIRECIONAR
+PER DAY,REDIRECTION|PER DAY,POR DIA
+MAX,MAX|POINTS,MAX
+POINTS,MAX|POINTS,PONTOS
+INVULNERABLE,INVULNERABLE|RAGER!,INVULNERABILIDADE
+Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,Aproveitar o movimento
+AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,AdO quando um aliado confirma um crítico
+FOES,FOES|PER DAY,INIMIGOS
+PER DAY,FOES|PER DAY,POR DIA
+DETECT MAGIC,DETECT MAGIC|PER DAY,DETECTAR MAGIA
+PER DAY,DETECT MAGIC|PER DAY,POR DIA
+Use monk level in place of,Use monk level in place of BAB when grappling,Use o nível do monge no lugar de
+BAB,Use monk level in place of BAB when grappling,BBA
+when grappling,Use monk level in place of BAB when grappling,Enquanto agarrando
+BASE ATTACK,BASE ATTACK|BONUS,BÔNUS BASE
+BONUS,BASE ATTACK|BONUS,DE ATAQUE
+Tireless,Tireless RAGE!,FÚRIA!
+RAGE!,Tireless RAGE!,Incansável
+ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,PENALIDADE EM TESTES DE ARMARUDA
+REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,REDUÇÃO
+Damage,Damage +2d6 to good/evil creatures,Dano
++2d6,Damage +2d6 to good/evil creatures,+2d6
+to good/evil creatures,Damage +2d6 to good/evil creatures,para criaturas boas/mals
+Shot on the run,Shot on the run    Attack at any point during your move,Tiro em Movimento
+Attack at any point during your move,Shot on the run    Attack at any point during your move,Ataca a qualquer momento durante seu movimento
+loyalty,+1 loyalty,lealdade
+Slip magically between spaces -,Slip magically between spaces - 2 ki points,Escorrega magicamente entre espaços -
+2 ki points,Slip magically between spaces - 2 ki points,2 pontos de ki
+WILL,WILL SAVE DC,VONTADE
+SAVE DC,WILL SAVE DC,RESISTÊNCIA CD
+MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,ATAQUE MESTRE
+FORTITUDE DC,MASTER STRIKE|FORTITUDE DC,Fortitude CD
+INITIATIVE,INITIATIVE BONUS,INICIATIVA
+BONUS,INITIATIVE BONUS,BÔNUS
+REFLEX,REFLEX SAVE,REFLEXO
+SAVE,REFLEX SAVE,RESISTÊNCIA
+Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Tiro preciso
+Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,Ataque corpo a corpo sem a penalidade de -4
+Craft -,Craft - INT|Perform - CHA,Oficio -
+INT,Craft - INT|Perform - CHA,INT
+Perform -,Craft - INT|Perform - CHA,Atuação -
+CHA,Craft - INT|Perform - CHA,CAR
+"loyalty,","+3 loyalty, +4bp consumption","lealdade,"
++4bp,"+3 loyalty, +4bp consumption",+4bp
+consumption,"+3 loyalty, +4bp consumption",consumo
+Slow Fall,Slow Fall 80 ft,Queda Suave
+80 ft,Slow Fall 80 ft,24m
+EFFECTIVE,EFFECTIVE|BARD LEVEL,EFETIVO
+BARD LEVEL,EFFECTIVE|BARD LEVEL,NÍVEL DO BARDO
+ETHERIAL,ETHERIAL|ROUNDS,ETÉREO
+ROUNDS,ETHERIAL|ROUNDS,TURNOS
+ENHANCEMENT,ENHANCEMENT|BONUS,MELHORIA
+BONUS,ENHANCEMENT|BONUS,BÔNUS
+BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,CONHECIMENTO BARDO
+BONUS,BARDIC KNOWLEDGE |BONUS,BÔNUS
+Cost:,Cost: 1 pt per range increment,Custo:
+1 pt per range increment,Cost: 1 pt per range increment,1 pt por incremento de distância
+A Thousand Faces,A Thousand Faces|Change appearance at will,Mil Faces
+Change appearance at will,A Thousand Faces|Change appearance at will,Muda de aparência à vontade
+Use,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,Usa
+DEX,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,DES
+instead of,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,ao invés de
+STR,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,FOR
+for attack and damage rolls when wielding a scimitar in one hand.,Use DEX instead of STR for attack and damage rolls when wielding a scimitar in one hand.,para rolagem de ataque ou dano enquanto empunhando uma cimitarra em uma mão.
+Melee Attack,Melee Attack +1,Ataque Corpo a Corpo
+CASTER LEVEL,CASTER LEVEL|CHECK DC,NÍVEL DO CONJURADOR
+CHECK DC,CASTER LEVEL|CHECK DC,TESTE DC
+Cost:,Cost: 1 pt per extra range increment,Custo:
+1 pt per extra range increment,Cost: 1 pt per extra range increment,1 pt por incremento de distância
+Death or Glory,"Death or Glory   +4 (+1 at levels 11, 16, 20)",Morte ou glória
+"at levels 11, 16, 20)","Death or Glory   +4 (+1 at levels 11, 16, 20)","nos níveis 11, 16, 20)"
+GREATER,GREATER RAGE!,FÚRIA
+RAGE!,GREATER RAGE!,MAIOR!
+Wild Shape,Wild Shape|Become any small or medium animal or giant,Forma Selvagem
+Become any small or medium animal or giant,Wild Shape|Become any small or medium animal or giant,Torna-se qualquer animal pequeno ou médio ou gigante
+(which grants,(which grants +16 to Acrobatics),(concede
+to Acrobatics),(which grants +16 to Acrobatics),para acrobacias)
+Damage Reduction 4/,Damage Reduction 4/―,Redução de Dano 4/
+Use monk level in place of,Use monk level in place of BAB for calculating CMB,Use o nível do monge no lugar de
+BAB,Use monk level in place of BAB for calculating CMB,BBA
+for calculating,Use monk level in place of BAB for calculating CMB,para calcular
+CMB,Use monk level in place of BAB for calculating CMB,BMC
+Become incorporeal for,Become incorporeal for 1 min,Se torna incorpóreo por
+1 min,Become incorporeal for 1 min,1 min
+COMBAT|MANEUVRE,COMBAT|MANEUVRE|BONUS,MANOBRA DE COMBATE
+BONUS,COMBAT|MANEUVRE|BONUS,BÔNUS
+INT,+ INT| per level,INT
+per level,+ INT| per level,por nível
+to confirm critical hits,+1 to confirm critical hits,para confirmar danos criticos
+1d10,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,1d10
+2d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,2d8
+3d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,3d8
+4d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,4d8
+6d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,6d8
+8d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,8d8
+12d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,12d8
+Manyshot,Manyshot    Shoot two arrows simultaneously,Tiros múltiplos
+Shoot two arrows simultaneously,Manyshot    Shoot two arrows simultaneously,Dispara duas flechas simultaneamente
+UNARMED STRIKE,UNARMED STRIKE DAMAGE ROLL,ATAQUE DESARMADO
+DAMAGE ROLL,UNARMED STRIKE DAMAGE ROLL,ROLAGEM DE DANO
+GEAR,GEAR|CAPACITY,EQUIPAMENTOS
+CAPACITY,GEAR|CAPACITY,CAPACIDADE
+SAVE,SAVE DC,TESTE
+DC,SAVE DC,CD
+Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,Manobras Corrdenadas
+to,Coordinated Manoeuvres    +2 to CMB,no
+CMB,Coordinated Manoeuvres    +2 to CMB,BMC
+FLAT-FOOTED,FLAT-FOOTED AC,DESPREVINIDO
+AC,FLAT-FOOTED AC,CA
+STR AND DEX,STR AND DEX BONUS,FOR E DEX
+BONUS,STR AND DEX BONUS,BÔNUS
+insight to,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",Ao Invés de
+AC,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",CD
+and,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",e
+CMD,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",DMC
+"+4 to Sense Motive, Stealth, Perception","+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception","+4 Sentir Motivação, Furtividade, Percepção"
+Bonus Spells,Bonus Spells|INT,Bônus de Magia
+INT,Bonus Spells|INT,INT
+FORTITUDE|SAVE,FORTITUDE|SAVE DC,Fortitude|Resistência
+DC,FORTITUDE|SAVE DC,CD
+Sneak Attack,Sneak Attack +1d6,Ataque Furtivo
++1d6,Sneak Attack +1d6,+1d6
+Strength,Strength +2,Força
+DC,DC 20,CD
+BLOODRAGE!,BLOODRAGE!|TODAY,FÚRIA SANGUÍNEA!
+TODAY,BLOODRAGE!|TODAY,HOJE
+BUILDINGS,BUILDINGS    Add buildings to towns,CONSTRUÇÕES
+Add buildings to towns,BUILDINGS    Add buildings to towns,Adiciona construções as cidades
+Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Focus de Fúria
+Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Ignora a penalidade no primeiro poder de ataque
+Chaotic:,Chaotic: +2 Loyalty,Caótico:
+Loyalty,Chaotic: +2 Loyalty,Leal
+DAMAGE,DAMAGE BONUS,DANO
+BONUS,DAMAGE BONUS,BÔNUS
+DC,DC 15,CD
+POWER POINTS,POWER POINTS|MAX COST,PONTOS DE PODER
+MAX COST,POWER POINTS|MAX COST,CUSTO MAX
+AURAS,AURAS|DURATION,AURAS
+DURATION,AURAS|DURATION,DURAÇÃO
+RANGED ATTACK,RANGED ATTACK|BONUS,BÔNUS DO ALCANCE DO ATAQUE
+TRAP SENSE,TRAP SENSE|REFLEX BONUS,DETECTAR ARMADILHAS
+REFLEX BONUS,TRAP SENSE|REFLEX BONUS,BÔNUS DE REFLEXO
+CHALLENGES,CHALLENGES|PER DAY,DESAFIOS
+PER DAY,CHALLENGES|PER DAY,POR DIA
+Strength Score|Penalty:,Strength Score|Penalty: -2,Pontos de Força|Penalidade:
+RAGE!,RAGE! POWERS |KNOWN,FÚRIA!
+POWERS,RAGE! POWERS |KNOWN,PODERES
+KNOWN,RAGE! POWERS |KNOWN,CONHECIMENTO
+Damage Reduction 2/,Damage Reduction 2/―,Redução de Dano 2/
+Venom Immunity,Venom Immunity|Immune to all poisons,Imune a Veneno
+Immune to all poisons,Venom Immunity|Immune to all poisons,Imune a todos os venenos
+RAGE,RAGE POWERS,FÚRIA
+POWERS,RAGE POWERS,PODERES
+to jump checks -,+20 to jump checks - 1 ki point,para testes de saltar -
+1 ki point,+20 to jump checks - 1 ki point,1 ki ponto
+2 × (d10 +,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",2 x (d10 +
+CON,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",CON
+") temporary hit points,|+2 attack, +1 fortitude save","2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",") pontos de vida temporios, +2 ataque, +1 testes de fortitude"
+"economy,","+3 economy, -4 loyalty","economia,"
+loyalty,"+3 economy, -4 loyalty",lealdade
+TEMPORARY,TEMPORARY|HIT POINTS,TEMPORARIO
+HIT POINTS,TEMPORARY|HIT POINTS,PONTOS DE VIDA
+TEMP ATTACK,TEMP ATTACK|BONUS,ATAQUE TEMP
+BONUS,TEMP ATTACK|BONUS,BÔNUS
+Use,Use WIS in place of STR/DEX for monk weapons,Use
+WIS,Use WIS in place of STR/DEX for monk weapons,SAB
+in place of,Use WIS in place of STR/DEX for monk weapons,no lugar de
+STR,Use WIS in place of STR/DEX for monk weapons,FOR
+DEX,Use WIS in place of STR/DEX for monk weapons,DES
+for monk weapons,Use WIS in place of STR/DEX for monk weapons,para armas de monge
+HIT,HIT POINTS,PONTOS
+POINTS,HIT POINTS,DE VIDA
+Fast Movement,Fast Movement +30 ft,Movimento Rápido
++30 ft,Fast Movement +30 ft,+9m
+DC,DC 10,CD
+FASCINATE,FASCINATE|MAX AUDIENCE,FASCINAR
+MAX AUDIENCE,FASCINATE|MAX AUDIENCE,MÁXIMA AUDIÊNCIA
+Level,400’+ 40’ × Level,Nível
+loyalty,-1 loyalty,lealdade
+FOCUS,FOCUS|BONUS,FOCUS
+BONUS,FOCUS|BONUS,BÔNUS
+DAMAGE,DAMAGE|BONUS,DANO
+BONUS,DAMAGE|BONUS,BÔNUS
+DANCE,DANCE|BONUS,DANÇA
+BONUS,DANCE|BONUS,BONUS
+Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,CD de Acrobacia = 5 + do Oponente
+CMD,Acrobatics DC = 5 + Opponent’s CMD,MCD
+Use,Use INT in place of WIS on Will saves for this round.,Use
+INT,Use INT in place of WIS on Will saves for this round.,INT
+in place of,Use INT in place of WIS on Will saves for this round.,no lugar de
+WIS,Use INT in place of WIS on Will saves for this round.,SAB
+on Will saves for this round.,Use INT in place of WIS on Will saves for this round.,para testes de Vontade neste turno
++10 ft,Speed +10 ft,+10m
+SINGLE,SINGLE ATTACK,ÚNICO
+ATTACK,SINGLE ATTACK,ATAQUE
+Thrice per day,,Três vezes por dia
 Trap Sense +3,,Sentir Armadilha +3
+5/magic,,5/magia
 INSPIRE COMPETENCE,,INSPIRAR COMPETENCIA
+Debit,,Débito
+Profession (scribe),,Profissão (escriba)
 STREETWISE,,CONHECIMENTO DAS RUAS
-Cleric|Level,,Nível do Clérigo
+Cleric|Level,,Nível de|Clérigo
 RANGE,,ALCANCE
+"Once a day, use a shadowy imitation of a Sorcerer|or Wizard spell up to 4th level to attack your foes.",,"Uma vez por dia, use uma imitação sombria de uma magia (até nível 4)| de Mago ou Feiticeiro para atacar seus inimigos."
++2 saving throws against enchantment,,+2 de resistências contra encantamento
 BONDED WEAPON,,ARMA VINCULADA
-Druid Level,,Nível do Druida
+Druid Level,,Nível de Druida
 Gender,,Gênero
 CHAOTIC,,CAÓTICO
+Profession (herbalist),,Profissão (herbalista)
 Ki Pool (lawful),,Reserva de KI (leal)
+Settlement name,,Nome do acampamento
 Base Value,,Valor Base
+INFUSION,,INFUSÃO
 Soulknife|Level,,Lâmina da Alma|Nível
 Summon monster II,,Invocar Monstro II
+MEDIUM RANGE,,ALCANCE MÉDIO
 "Diplomacy, Handle Animal",,"Diplomacia, Adestrar Animal"
 Perform (dance),,Atuação (Dança)
 Use your own caster level for calculating the DC of wands,,Use o seu próprio nível de conjurador para o cálculo do CD de varinhas
+EVENT,,EVENTO
+(INVESTIGATOR),,(INVESTIGADOR)
 Trapfinding,,Encontrar Armadilhas
 Spell resistance,,Resistência a Magia
+Craft (sculptures),,Ofício (esculturas)
 +10 to move at full speed,,+3m ao mover-se em velocidade máxima
 Increase Caster Level,,Aumenta o Nível da Conjuração
 Buffs,,Buffs
+Healing|Today,,Cura|Hoje
 ROGUE TALENTS,,TALENTOS DE LADINO
+DR 5/— when wearing armour or using a shield,,RD 5/- quando vestindo armadura ou usando um escudo
 Friendly,,Amigável
 Belts,,Cintos
 UNCONTROLLED RAGE!,,FÚRIA DESCONTROLADA!
+Craft (armour),,Ofício (armadura)
+Piloting,,Pilotagem
+ROGUE’S EDGE,,LÂMINA DO LADINO
 Acid Fog,,Neblina Ácida
 BARD,,BARDO
+Greater ),,Maior )
+Your weapon and armour proficiencies,,Suas proficiências em armas e armaduras
+Calculate your six ability modifiers,,Calcular seus seis mod. de habilidade
 No Trace,,Não Rastreável
 ( BARBARIAN ),,( BÁRBARO )
 WHOLENESS OF BODY,,INTEGRIDADE CORPORAL
+Components,,Componentes
+A successful strike with smite evil|bypasses damage reduction.,,Um golpe bem sucedido com punir o mal|ultrapassa redução de dano.
+Any other racial abilities,,Quaisquer outras habilidades racias
+Hit|Die,,Dado|de Vida
+Mechanic|Level,,Nível de|Mecânico
+to negate,,para negar
 Cash,,Dinheiro
 Spirit heal,,Cura espiritual
 Bonus Spell,,Bônus de Magia
@@ -758,35 +1046,50 @@ Knowledge (dungeoneering),,Conhecimento (Masmorras)
 ITEM CREATION FEATS,,TALETOS DE CRIAÇÃO DE ITENS
 Improved Grapple,,Agarrar Aprimorado
 Subtype,,Subtipo
-FAVOURED TERRAIN BONUS,,BÔNUS DE TERRENO FAVORECIDO
+"Optionally, fix it with glue",,"Opcionalmente, concerte com cola"
+Ability score upgrades,,Melhorias nas habilidades
+VENGEANCE STRIKE,,GOLPE VINGATIVO
+FAVOURED TERRAIN BONUS,,BÔNUS DE TERRENO PREDILETO
 Mass Inflict Serious Wounds,,Infligir Ferimentos Sérios em Massa
 Unarmed Strike,,Ataque Desarmado
 RECUPERATION,,RECUPERAÇÃO
 Add 1d6 to one attack roll,,Adiciona 1d6 na rolagem de ataque
 Chest,,Peito
+WILD TALENTS,,TALENTOS SELVAGENS
 /  Town,,/ Cidade
 Use your own CHA bonus for calculating the DC of wands,,Use o seu próprio bônus CAR para o cálculo do CD de varinhas
+Temp|Score,,Pontuação|Temp.
 FAVOURED TERRAINS,,TERRENO FAVORITO
 Burrow,,Cavar
 10 mins,,10 mins
++1 caster level  on any Paladin spell,,+1 nível de conjurador em qualquer magia de Paladino
 MUTATED BLOODLINE,,MODIFICADOR DE LINHAGEM SANGUÍNEA
 CON|Increase,,Incremento de CON
+MECHANIC,,MECÂNICO
 True Seeing,,Visão da Verdade
 Damage reduction /―,,Redução de Dano / -
 Base,,Base
 +4 Swim and jump,,+4 natação e saltar
 Class abilities,,Habilidades da Classe
+BLIGHT DRUID,,DRUIDA DA RUÍNA
+Take your first level,,Pegue seu primeiro nível
 BARBARIAN,,BÁRBARO
+Locate and disable traps as a Rogue,,Localize e desabilite armadilhas como um Ladino
 Barbarian,,Barbaro
 40ft,,12m
 1d6 +,,1d6 +
+Credit,,Crédito
 Distance,,Distância
 30ft,,10m
++4 to Sleight of Hand checks to conceal small objects on your person.,,+4 em testes de prestidigitação para esconder pequenos objetos
+Challenges|Today,,Desafios|Hoje
+•  2d6 bleed damage (DC 15 heal check or magic to reverse),,• 2d6 de dano de sangramento (CD 15 em cura ou magia para reverter)
 Bleeding Critical,,Sangramento Crítico
 Bards can use all knowledge skills untrained,,Bardos pode usar todas as perícias de conhecimento sem treinamento
 Ki Pool (magic),,Reserva de KI (Magia)
 STABILITY,,ESTABILIDADE
 120ft,,36m
+Vigilante|Level,,Nível de|Vigilante
 Racial,,Racial
 Knowledge: Nature,,Conhecimento: Natureza
 30ft. Cone or|60ft. Line,,Cone de 9m ou|Linha de 18m
@@ -795,35 +1098,47 @@ Speak with any living creature,,Pode falar com qualquer criatura viva
 +8 Swim and jump,,+8 Natação e Saltar
 UNSTOPPABLE,,IMPARÁVEL
 Eyes of the Storm,,Olhos da tempestade
+CLOSE RANGE,,ALCANCE CURTO
 "Immunities (paralysis, sleep)",,"Imunidades (paralisia, dormir)"
 (BARBARIAN),,(BÁRBARO)
+Rewards,,Recompensas
 TAKE A CLASS LEVEL,,ESCOLHA UM NÍVEL DE CLASSE
+Takes no damage but drops carried item.,,Não recebe dano mas derruba o item carregado.
+Bonus to|ability scores,,Bônus nos|pontos de habilidade
 6d6,,6d6
 CURE / INFLICT,,CURAR / INFLIGIR
 DETECT UNDEAD,,DETECTAR MORTOS-VIVOS
+• Nauseated,,• Nauseado
 Allies within 10ft get +4 to saves against charm effects.,,Aliados até 3m ganham +4 testes contra efeitos de encantamento
 PENALTY,,PENALIDADE
 Summon monster VII,,Invocar Monstro VII
 Towns,,Cidades
-Treated as outsider,,Tratado como um extra-planar
+Non-Monk|Levels,,Níveis de|Não-monge
+Treated as outsider,,Tratado como um extraplanar
 Feet,,metros
+Manoeuvre,,Manobra
+Evocation,,Evocação
 Suggestion,,Sugestão
 All skills are considered class skills,,Todas as habilidades são consideradas perícias de classe
 Nerfs,,Nerfs
 Slow Fall 30 ft,,Queda Leve 9m
 Jump,,Saltar
 FORBIDDEN ELEMENT,,ELEMENTO PROIBIDO
+Damage|Taken,,Dano|Recebido
 HOSTILE,,HOSTIL
 SURVIVAL,,SOBREVIVÊNVIA
 Battle|Fortitude,,Fortitude de Batalha
 FAMILIAR,,FAMILIAR
 1 min,,1 min
 MOVE THROUGH ENEMY’S OWN SQUARE,,MOVER-SE PELO QUADRADO DO INIMIGO
+SPELL LEVEL,,NÍVEL DE MAGIA
 Bonus Spells|INT,,INT Bônus de Magias
 Active|Aura,,Ativar Aura
+Burn,,Queimar
 Full hit points,,Todos os pontos de vida
 Empty Body,,Corpo Vazio
 1d10,,1d10
+USED TODAY,,USADO HOJE
 Defence,,Defeza
 Enlarge person,,Aumentar Pessoa
 Inspire Heroics,,Inspirar Heroismo
@@ -832,64 +1147,102 @@ Strength|Bonus,,Bônus de Força
 ft.,,m.
 AURA OF COURAGE,,AURA DE CORAGEM
 1d6,,1d6
+Medusa’s Wrath,,Ira da Medusa
 Search,,Procurar
+Casting time,,Tempo de conjuração
 Summon Nature’s Ally II,,Invocar Aliado da Natureza II
 Damage Reduction,,Redução de Dano
 Other skills:|Craft - INT|Perform - CHA,,Outras Perícias:|Ofícios - INT|Atuação - CAR
 TELEPATHY,,TELEPATIA
+One skill|rank,,Uma graduação|de perícia
 mins,,Mins.
+BLOODRAGER!,,FURIANTE SANGUÍNEO!
+CURSE OF LYCANTHROPY,,MALDIÇÃO DE LICANTROPIA
 LAWFUL,,LEAL
 Power Points used today,,Pontos de Poder usados hoje
+1 ki point,,1 ponto de ki
+BONDED OBJECT,,OBJETO LIGADO
+Improved Critical / Keen weapon / Keen magical effect,,Crítico Aprimorado / Arma aguçada / Efeito mágico aguçado
+Profession (merchant),,Profissão (mercador)
 Turning|Check,,Expulsão|Teste
 CURE,,CURAR
+Inventions|per day,,Invenções|por dia
+Avoid all damage on successful reflex save,,Evita todo o dano em um teste de reflexos bem sucedido
 Base Bloodline,,Base da Linhagem Sanguínea
 "FEATS, TRAITS AND|SPECIAL ABILITIES",,"TALENTOS, PECULIARIDADES E HABILIDADES ESPECIAIS "
 Hat / Mask,,Chapéu / Máscara
+Four times a day,,Quatro vezes por dia
 Animal,,Animal
+Current Country,,País atual
+KINETICIST,,CINETICISTA
+VOLATILE MIND,,MENTE VOLÁTIL
+Use Magical Device,,Usar Dispositivo Mágico
+Temporary|Hit Points,,Pontos de Vida|Temporários
+• Sickened,,• Enjoado
 Int,,Int
 UTILITY,,Utilidade
+Evasive,,Evasivo
 HIGH JUMP,,PULO ALTO
+Add any bonus or penalty from your race:,,Adicione qualquer bônus ou penalidade da sua raça
+SOCIAL TALENTS,,TALENTOS SOCIAIS
+Starting point,,Ponto inicial
 EVIL,,MAL
 CHARGES,,CARGAS
+Organisation,,Organização
 Summon Nature’s Ally V,,Invocar Aliado da Natureza V
 Chain Lightning,,Corrente de Relâmpagos
 WIS - 4,,SAB - 4
 + Level,,+ Nível
+CONSUMPTION,,CONSUMO
 High Jump,,Salto Alto
 UNCANNY DODGE,,ESQUIVA SOBRENATURAL
 Damage bonus,,Bônus de dano
 SUGGESTION,,SUGESTÃO
 Weapon,,Arma
+Witch Hunter|Level,,Nível de|Caçador de Bruxas
 Fascinate,,Fascinar
 AC + INT (1 round),,CA + INT (turno)
 CHA - 8,,CAR - 8
 WEAPON,,ARMA
 Page,,Pagina
 sp,,pp
+Craft (weapons),,Ofício (armas)
+Uses today,,Usos hoje
 FASCINATE,,FASCINAR
 Energy resistance bonus,,Bônus de Resistência a Energia
 SPECIAL ABILITIES,,HABILIDADE ESPECIAL
+FRIGHTENING APPEARANCE,,APARÊNCIA ATERRORIZANTE
 Knowledge (planes),,Conhecimento (Planos)
 Inflict Light Damage,,Infligir Dano Leve
 Mass Inflict Critical Wounds,,Infligir Ferimentos Críticos em Massa
+Improved Trip,,Derrubar Aprimorado
 Mountebank|Level,,Charlatão|Nível
 Spell Level,,Nível de Magia
+Weapons considered Good aligned for overcoming DR.,,Armas consideradas de tendência Boa para superar RD.
 Cold,,Gelo
 PRESTIGE CLASS,,CLASSE DE PRESTIGIO
-Size|Modifier,,Modificador de Tamanho
+Size|Modifier,,Modificador de|Tamanho
 Use weapon of the wrong type,,Use uma arma do tipo errado
 HIT|POINTS,,PONTOS DE VIDA
 SURVIVALIST,,LISTA DE SOBREVIVÊNCIA
 Redirection,,Redirecionar
 Level|Bonus,,Nível|Bônus
+Weapon Focus:,,Foco em Arma:
+Inquisitor|Level,,Nível de|Inquisitor
 Sneak|Attack,,Ataque Furtivo
+Far Shot,,Tiro distante
+Fatigued|AC Penalty,,Fadigado|Penalidade de CA
 DMG,,DANO
 ARCHETYPE,,ARCHTIPO
+Liar,,Mentiroso
+"Fold along the dotted lines, making sure|the                hatched areas are hidden or face down",,"Dobre na linha tracejada, fazendo com que|as áreas hachuradas estejam escondidas ou para baixo"
 Acid Splash,,Esguicho Ácido
 DETECTIVE,,DETETIVE
+REINCARNATED DRUID,,DRUIDA REINCARNADO
 Dominate Person,,Dominar Pessoa
 Wilder|Level,,Feral|Nível
 rds,,rds
+CR,,ND
 Today,,Hoje
 Reduce effective falling height using wall,,Reduz a queda efetiva usando uma parede ou muralha
 Animate Dead,,Animar Morto
@@ -900,36 +1253,54 @@ Knowledge,,Conhecimento
 Weapon|Damage,,Dano da Arma
 Knowledge (engineering),,Conhecimento (Engenharia)
 ATTACK FEATS,,TALENTOS DE ATAQUE
+CODE OF CONDUCT,,CÓDIGO DE CONDUTA
 7ft,,2.1m
 Timeless Body,,Corpo Atemporal
 d10,,d10
 Total hit|points,,Total de pontos de vida
 TRANSFER WOUNDS,,TRANSFERIR FERIMENTOS
+Foes within 10ft take -4 on saving throws against fear,,Inimigos em até 6m recebem -4 em testes de resistência contra medo
+Gnome,,Gnomo
 "Treat hands, feet, knees and elbows as weapons",,"Trata mãos, pés, joelhos e cotovelos como armas"
 Monk Level,,Nível de Monge
 AURA,,AURA
 Craft (winemaking),,Ofício (Criador de Vinhos)
 d12,,d12
 Cost,,Custo
+Take no penalty to attack with both hands|while wearing a buckler.,,Não recebe penalidade ao atacar com as duas mãos|enquanto usando um broquel.
+Intimidate|check DC,,Teste de|Intimidação CD
 +6 Climb,,+6 Escalar
 "Handle Animal, Intimidate",,"Adestrar Animal, Intimidar"
-Improved|Evasion,,Aumentada|Evasão
-Favoured,,Favorecido
++2 to attack roll (affects critical range),,+2 em rolagem de ataque (afeta o alcance de crítico)
+To create magical item with metamagic,,Para criar itens mágicos com metamagia
+Improved|Evasion,,Evasão|Aprimorada
+NATURAL LYCANTHROPE,,LICANTROPO NATURAL
+Sickened,,Enjoado
+Ability|Increase,,Aumento de|Habilidade
+Favoured,,Predileto
 Master Strike,,Ataque Mestre
 (Good),,(Bom)
 Treat unarmed attacks as lawful weapons,,Considera ataque desarmado como Arma Leal
 DAMAGE REDUCTION,,REDUÇÃO DE DANO
 METAMAGIC,,METAMAGICA
+Apply this bonus to all knowledge skills,,Aplique este bônus a todas as perícias de conhecimento
+REINCARNATED|DRUID,,DRUIDA|REINCARNADO
+Deliver touch spells,,Distribuir magias de toque
 Extra attacks of opportunity,,Ataque extra de oportunidade
+Bloodrager|Level,,Nível de|Furiante Sanguíneo
+SANCTIFIED ROGUE,,LADINO SANTIFICADO
 with Armour,,com Armadura
+Duelist|Level,,Nível de|Duelista
 (Round up),,(Arredonda para Cima)
 Daze,,Pasmar
 INVENTORY,,Inventario
 Energy affinity,,Afinidade com Energia
 Fortitude,,Fortitude
+MAGICIAN,,MÁGICO
 /  Region,,/ Região
-"Begin or switch a bardic performance as a move action,|rather than as a standard action.",,"Começar ou trocar uma atuação de bardo como uma ação de movimento,ao invés de ação padrão."
+"Begin or switch a bardic performance as a move action,|rather than as a standard action.",,"Começar ou trocar uma performance de bardo como uma ação de movimento,|ao invés de ação padrão."
 1/day,,1/dia
+"On using Channel Positive Energy or Lay On Hands, heal the maximum possible amount.",,"Ao usar Canalizar Energia Positiva ou Curar Pelas Mãos, cure a quantidade máxima possível."
 BLOODLINE FEATS,,TALETOS DE LINHAGEM SANGUÍNEA
 Attack|Penalty,,Penalidade de Ataque
 (RANGER),,(PATRULHEIRO)
@@ -938,36 +1309,54 @@ Use a full attack action for more attacks,,Use uma ação de ataque total para m
 Neck / Throat,,Pescoço / Garganta
 +8 Perception,,+8 Percepção
 Detect thoughts,,Detectar pensamentos
+AIR,,AR
+PLAINS DRUID,,DRUIDA DAS PLANÍCIES
 Craft (armourer),,Ofício (Armoraria)
+Profession (brewer),,Profissão (cervejeiro)
+SHARE FAVOURED ENEMY,,COMPARTILHAR INIMIGO PREDILETO
 White,,Branco
 Dodge|Bonus,,Bônus de Esquiva
+JACK OF ALL TRADES,,PAU PRA TODA OBRA
 Destruction,,Destruição
 Attacks of opportunity leave enemy flat-footed,,Ataque de oportunidade deixa inimigos desprevenidos
 Natural|Armour,,Armadura|Natural
+Wizard|Level,,Nível de|Mago
 lb,,kg
 Spell Save DC = 10 + WIS + Spell Level,,Teste de Resistência CD = 10 + SAB + Nível da Magia
+Blinding Critical,,Crítico cegante
 Ranger Level,,Nível do Patrulheiro
 Locate Traps,,Localizar Armadilhas
 +20ft,,+6m
 Acrobatics skill +4,,Acrobacia +4
+Precise Shot,,Tiro Preciso
 String,,Corda
+"Take third attack with off-hand weapon, at -10 penalty",,"Realiza um terceiro ataque com a arma da mão inábil, com penalidade de -10"
 Size of|audience,,Tamanho da audiência
+TRUE EXPERTISE,,ESPECIALIZAÇÃO VERDADEIRA
+Era,,Era
 60 ft,,18m
+Bully,,Valentão
 Water,,Água
 Critical,,Crítico
 (WIS minimum 1),,(SAB minimo 1)
+Construct,,Construto
 Use provokes attack of opportunity,,O uso provoca ataque de oportunidade
 "Bluff, Sense Motive",,"Blefar, Sentir Motivação"
 Sing,,Cantar
 Level|Penalty,,Nível de Penalidade
 40 ft,,12m
+Speak with master,,Fale com o mestre
 To summon spirits,,Para invocar espiritos
 Performance radius,,Alcance da Atuação
 ATTRACT RATS,,ATRAIR RATOS
 DEFENCE & SAVING THROWS,,DEFESA & TESTES DE RESISTÊNCIA
 Disable Traps,,Desabilitar Armadilhas
+Favoured|     Enemy|     Terrain,,Terreno| Inimigo| Predileto
 Performance|result,,Resultado da atuação
 15ft.  Cone or|30ft. Line,,Cone de 4.5m ou|Linha de 9m
+2/day,,2/dia
+Wind Instruments,,Instrumentos Selvagens
+Creature|Level,,Nível da|Criatura
 POPULATION,,POPULAÇÃO
 Investigator|Level,,Nível do Investigador
 15ft,,4.5m
@@ -977,79 +1366,117 @@ Sneak attack,,Ataque Furtivo
 Armour AC,,Armadura CA
 Domain Spell,,Magia do Donínio
 Bard|Level,,Nível de|Bardo
+WEAPON SPECIALISATION,,ESPECIALIZAÇÃO EM ARMA
 Manifester|Level,,Nível de|Manifestação
 Knowledge (arcana),,Conhecimento (Arcano)
 Sleight of|Hand,,Prestidigitação
+Witch|Focus,,Foco de|Bruxa
 CRAFT,,OFICIO
+WATER,,ÁGUA
+SPENDING,,GASTANDO
 Sleight of Hand,,Prestidigitação
 Book,,Livro
+FORCE OF WILL,,FORÇA DE VONTADE
 "Diplomacy, Intimidate",,"Diplomacia, Intimidar"
 TOUCH,,TOQUE
+Exhausting Critical,,Crítico Exaustivo
 20 Reflex save,,20 em Testes de Reflexo
 Will,,Vontade
 Rounds Today,,Turnos Hoje
 MONEY,,DINHEIRO
 NPC,,NPC
+1st round,,1º turno
+Take no Acrobatics penalty when moving through threatened square|at full speed.,,Não recebe penalidade em Acrobacias quando se mover através de quadrado ameaçado|em velocidade completa
+AURA OF RESOLVE,,AURA DE DETERMINAÇÃO
 ARMOUR CLASS BONUS,,BÔNUS DE CLASSE DE ARMADURA
 2 pts,,2 pts
+1 hour meditation,,1 hora de meditação
 Open Lock,,Abrir Fechaduras
 TRAPS,,ARMADILHAS
 READ LANGUAGES,,LER IDIOMAS
+SAVING|THROW,,TESTE DE|RESISTÊNCIA
 Activate|ability,,Ativar habilidade
 Immune to compulsion effects including magic.,,Imune à efeitos de compulsão incluindo magicos.
+EFFECTIVE|CHARACTER LEVEL,,NÍVEL|EFETIVO DE|PERSONAGEM
 ACROBATICS,,ACROBACIAS
+Profession (stable master),,Profissão (mestre do estábulo)
+Cannot run or charge|-2 Strength and Dexterity,,Não pode correr ou realizar investida|-2 Força e Destreza
 INSPIRE COURAGE,,INSPIRAR CORAGEM
 Slow Fall 80 ft,,Queda Leve 24m
+• Fatigued,,• Fadigado
 Inflict Wounds,,Infligir Ferimentos
 CHA - 12,,CAR -12
 ATTACK DC,,CD ATAQUE
 Dying,,Morrendo
+STUNNING APPEARANCE,,APARÊNCIA ATORDOANTE
+Wild Empathy,,Empatia Selvagem
 Skills Used Today,,Perícias usadas hoje
 Spellcraft,,Arte da Magia
 Reduced ability damage,,Reduz dano da habilidade
 d20 +,,d20 +
 BONUS FEAT,,TALENTO BÔNUS
+Antipaladin|Level,,Anti-paladino|Nível
 AQUATIC DRUID,,DRUIDA AQUÁTICO
+Stat,,Atributo
+Piloting|Ranks,,Graduações de|Pilotagem
 Damage Reduction 5/Magic,,Redução de Dano Magico 5/
+VIGILANTE IDENTITY,,IDENTIDADE DO VIGILANTE
 Energy Resistance,,Resistência a Energia
 Damage|Bonus,,Bônus de Dano
 Wall of Stone,,Barreira de Pedra
+Darkvision,,Visão na penumbra
 Use redirection on a target who melee attacks an ally,,Use o redirecionamento em um alvo que ataques corpo a corpo um aliado
+Cause enemies within 30ft to become shaken,,Faz com que inimigos em 9m fiquem abalados
 to Humanoid form:,,para forma humanoide:
+Favoured| Enemy,,Inimigo|Predileto
+PATHFINDER SOCIETY,,SOCIEDADE PATHFINDER
 Concentration|Bonus,,Bônus de Concentração
 Affected|Alignments,,Alinhamentos afetados
 + 1d6,,+ 1d6
 d6 / 2d6,,d6 / 2d6
 EMPTY BODY,,CORPO VAZIO
 EFFECTS,,EFEITOS
+cr,,nd
 ARMOUR CLASS,,CLASSE DE ARMADURA
 Spell|Save DC,,Teste de Resistência CD
-HEALING|POINTS,,PONTOS DE CURA
+HEALING|POINTS,,PONTOS DE|CURA
 +2 Constitution,,+2 Constituição
 Blinded,,Cego
 Times per day,,Vezes por dia
+"Once a day, cast any spell from your spellbook|(excluding opposed schools; cannot use metamagic)",,"Uma vez por dia, conjure qualquer magia do seu livro de magias|(excluindo escolas opositoras; não pode usar metamagia)"
 Deity,,Divindade
+WELL-VERSED,,BEM-VERSADO
+Revert to base form at dawn or after 8 hrs rest.,,Reverte a forma base ao amanhecer ou depois de 8h de descanso.
 CONTROL SPIRIT,,CONTROLAR ESPIRITO
+Profession (butcher),,Profissão (açougueiro)
 (MONK),,(MONGE)
 Knowledge (history),,Conhecimento (História)
 CHANNEL POSITIVE ENERGY,,CANALIZAR ENERGIA POSITIVA
 Mobility,,Mobilidade
 Purity of Body,,Pureza Corporal
+PF-RPG,,PF-RPG
 "Acrobatics, Fly",,"Acrobacia, Voar"
 Fire Seeds,,Semente de Fogo
 Armour|Check|Penalty,,Penalidade em Teste de Armadura
+Halfling,,Halfling
 Trap|Sense,,Sentir|Armadilhas
 +4 Stealth,,+4 Furtividade
+Take 20 on Bluff and Disguise checks (limited uses),,Escolher 20 em testes de Blefar ou Disfarce (usos limitados)
 ANIMAL FRIEND,,AMIGO ANIMAL
 Total Repair,,Reparo Total
 Firestorm,,Tempestade de Fogo
 50 coins weighs 1lb,,50 moedas pesam 0.45kg
 Mass Hold Monster,,Imobilizar Monstro em Massa
 HEALTH SENSE,,SENSO DE CURA
+Tiring Critical,,Crítico Cansativo
 SECONDARY,,SECUNDÁRIO
 Bear,,Urso
+Twice a day,,Duas vezes por dia
+Greater Weapon Specialisation,,Especialização em Arma Aumentada
+• Bleed,,• Sangrar
 DRACONIC RESISTANCE,,RESISTÊNCIA DRACÔNICA
 MONK,,MONGE
+Shadowdancer|Level,,Nível de|Dançarino das Sombras
 Fast Rider,,Montar RAPIDO
 N/A,,N/A
 Maneuvre Training,,Treino de Manobra
@@ -1058,8 +1485,10 @@ Healing Effects,,Efeitos de cura
 Aggressive,,Agressivo
 Dex,,Des
 Tolerance,,Tolerância
+Recover all hit points with 8 hours rest,,Recupere todos os pontos de vida com 8 horas de descanso
 CHA - 4,,CAR -4
 Paladin|Level,,Nível de|Paladino
+To use several magical effects at once,,Para usar vários efeitos mágicos de uma vez
 • Fascinated,,• Facinar
 WEAPON ENHANCEMENT,,MELHORIAS DA ARMA
 Slow Fall 40 ft,,Queda Leve 12m
@@ -1067,38 +1496,56 @@ Capacity + 1,,Capacidade +1
 URBAN SHAPE,,FORMA URBANA
 Unlimited uses|per day,,Usos ilimitados por dia
 HOLY GUN,,ARMA SAGRADA
+Take no armour check penalty when riding.,,Não recebe penalidade em testes de armadura enquanto cavalga
+to confirm criticals,,para confirmar críticos
 Languages,,Idiomas
 LONG JUMP,,PULO LONGO
 Mass Hold Person,,Imobilizar Pessoas em Massa
 Acrobat|Level,,Nível de Acrobacia
 Dispel Magic,,Dissipar Magia
+INVESTIGATOR,,INVESTIGADOR
 BASE ATTACK|BONUS,,BÔNUS BASE DE ATAQUE
 TOTAL,,TOTAL
 MASTER STRIKE,,ATAQUE MESTRE
+Disarm Traps,,Desarmar Armadilhas
 Party Damage|Bonus,,Bônus de Dano em Grupo
+"If you are not a Sorcerer, gain bloodline powers as if you were.",,"Se vocẽ não for um Feiticeiro, ganhe poderes de linhagem sanguínea como se fosse."
+Take 10 on Spellcraft checks to identify magic items or decipher scrolls.,,Escolha 10 em testes de Artes Mágicas para identificar itens mágicos e decifrar pergaminhos.
 Capacity,,Capacidade
 Temp Attack,,ATAQUE TEMP
 "Add 1d6 to Knowledge, Linguistics or Spellcraft",,"Adiciona 1d6 para Conhecimento, Linguística e Arte da Magia"
 Bonus,,Bônus
 +6 Swim and jump,,+6 Natação e Saltar
 Craft (founder),,Ofício (Forjaria)
+MAGICAL SUPREMACY,,SUPREMACIA MAGICA
 REQUEST AID,,SOLICITAR AJUDA
 Craft (leatherworking),,Ofício (Curtição)
+Twice per day.,,Duas vezes por dia
 CHARACTER,,Personagem
-Barbarian|Level,,Nível do Bárbaro
+Ranger’s|Luck|Today,,Sorte do|Patrulheiro|Hoje
+Barbarian|Level,,Nível de|Bárbaro
+Stun (or other effects) target for one round,,Atordoa (ou outros efeitos) o alvo por um turno
 DETECT EVIL,,DETECTAR O MAL
 "Master strike cannot be used again on the same target within|24 hours, whether they pass the Fortitude save or not.",,"Ataque mestre não pode ser usado novamente no mesmo alvo em|24h, passando ou não no teste de Fortitude."
 Attribute|modifiers,,Modificador de Atributos
+2 ki points,,2 pontos de ki
+"Cannot suffer sneak attack by being flanked,|unless by Rogue four levels higher.",,"Não pode sofrer ataques furtivos ao ser flanqueado,|a não ser por Ladino quatro níveis maior."
 Inflict Critical Damage,,Infligir Dano Crítico
+MAP FIGURE,,FIGURA NO MAPA
 DIAMOND SOUL,,ALMA DE DIAMANTE
 TATTOOS,,TATUAGENS
+Select new mercies each day,,Escolha novas piedades a cada dia
 ANIMAL FOCUS,,ANIMAL FOCUS
 APPEARANCE,,APARÊNCIA
 BONUS,,BÔNUS
+Improved Bull Rush,,Ultrapassar Aprimorado
 Knowledge: Religion,,Conhecimento: Religião
 10d6,,10 d6
+Add magical properties to non-magical arrows as you fire them.,,Adicione propriedades mágicas à flechas não mágicas ao dispará-las
++1d10,,+1d10
 Bardic performance,,Atuação de Bardo
 Origin,,Origem
+Effective|Druid Level,,Nível Efetivo|de Druida
 COMBAT MANOEUVRES,,MANOBRAS DE COMBATE
 Level|Adjustment,,Nível|Ajuste
 Knowledge: Dungeoneering,,Conhecimento: Masmorra
@@ -1107,26 +1554,40 @@ Improved uncanny dodge,,Esquiva Sobrenatural Aprimorada
 Current Shape,,Forma Atual
 "Bluff, Disguise",,"Blefar, Disfarçar"
 STR,,FOR
+Effective|Spell Level,,Nível efetivo|de magia
 KNOWLEDGE: SPIRITS,,CONHECIMENTO: Espiritos
 Experience,,EXPERIÊNCIA
 "Racial,|Feats,|Synergy",,"Racial, Talentos, Sinergia"
+Purchase starting equipment,,Compre equipamento inicial
+Profession (engineer),,Profissão (engenheiro)
+Traps|today,,Armadilhas|hoje
 Discern Location,,Discernir Localização
+SPEECH,,DISCURSO
 Monkey,,Macaco
 AC,,CA
+Weapon Specialisation:,,Especialização em arma:
+PARTY FUNDS,,FUNDOS DO GRUPO
 PARTY,,GRUPO
 +10ft Speed,,+3m de Velocidade
 ROGUE,,LADINO
 "of selected energy type, using any weapon.",,"do tipo de energia selecionada, usando qualquer arma."
+Profession (librarian),,Profissão (bibliotecário)
 1ft,,30cm
 SPIRIT HEAL,,CURA ESPIRITUAL
 MOUNTED COMBAT,,COMBATE MONTADO
+STATS,,ATRIBUTOS
+• Panicked,,• Em Pânico
 PREPARED ARCANE SPELLS,,MAGIAS ARCANAS PREPARADAS
 EXTENDED PERFORMANCE,,ATUAÇÃO ESTENDIDA
 READ MAGIC,,LER MAGIA
 +1d6 Channel Energy damage,,+1d6 de Dano ao Canalizar Energia
+FRIENDS AND FOES,,AMIGOS E INIMIGOS
+Weapon Specialisation,,Especialização em arma
+ARCANE BOND,,LIGAÇÃO ARCANA
 Perform (percussion),,Atuação (Instrumentos de Percussão)
 Protection from Arrows,,Proteção contra Flechas
 Damage reduction,,Redução de Dano
+Enchantment,,Encantamento
 Speed,,Velocidade
 AURA OF FAITH,,AURA DE FÉ
 DRACONIC SKIN,,PELE DRACÔNICA
@@ -1139,9 +1600,12 @@ Token,,Ficha
 d6,,d6
 Throat,,Garganta
 Damage reduction /magic,,Redução de Dano Magico
+NPC GROUP,,GRUPO DE PdM
 2d6 +,,2d6 +
 DURATION,,DURACAÇÃO
 3d6,,3d6
+QUEST ITEMS,,ITENS DE MISSÃO
+Attack penalty when making|a full attack,,Penalidade de ataque quando realizando um ataque completo
 Act,,Atuar
 FRIEND,,AMIGO
 BASTION OF GOOD,,BASTIÃO DO BEM
@@ -1155,65 +1619,94 @@ Half-orc,,Meio-Orc
 (SORCERER),,(FEITICEIRO)
 Weapon type,,Tipo de arma
 Heavy Load,,Carga Pesada
-Caster|Level,,Nível do Conjurador
-Morale|Bonus,,Bônus Moral
+DUAL IDENTITY,,IDENTIDADE DUPLA
+Summoned|Today,,Invocado|Hoje
+Caster|Level,,Nível de|Conjurador
+Morale|Bonus,,Bônus de|Moral
 DIVINE GRACE,,GRAÇA DIVINA
 Iron Monk,,Monge de Ferro
+per successive hit,,por acerto consecutivo
+Take no attack penalty for using a tower shield in combat.,,Não tem penalidade de ataque ao usar um escudo torre em combate.
+HUNTER’S BOND,,ELO DO CAÇADOR
+Improved Critical,,Crítico Aprimorado
 AURA OF DESPAIR,,AURA DE DESESPERO
 ft,,m
 Name,,Nome
 MOUNT,,MONTARIA
+Thrice a day,,Três vezes por dia
 Holy,,Sagrado
 Maximum|Penalty,,Penalidade Máxima
+Take 1d6 damage,,Recebe 1d6 de dano
 EYES OF THE STORM,,OLHOS DA TEMPESTADE
 Slow Fall 20 ft,,Queda Leve 6m
+"Item can communicate with its wielder,|regardless of language.",,"Item pode falar com seu portador,|independente da linguagem."
 Detect Magic|Today,,Magias Detectadas Hoje
 CONTROLLED|SPIRITS,,ESPÍRITOS CONTROLADOS
 Arms,,Braços
+Districts,,Distritos
 sq,,m²
 "Climb, Fly, Survival, Swim",,"Escalar, Voar, Sobrevivência, Nadar"
 FEMALE,,FEMININO
 +4 Climb,,+4 Escalar
 Message,,Mensagem
+TEAMWORK FEATS,,TALENTOS DE TRABALHO EM EQUIPE
 AURA OF HEALING,,AURA DE CURA
 CATCH LEDGE,,SEGURAR NA BORDA
 FAST RIDER,,MONTAR RAPIDO
 Inflict Light Wounds,,Infligir Ferimento Leve
+ITEM’S TOTAL|EGO SCORE,,TOTAL DE PONTOS|DE EGO DO ITEM
 LEGEND LORE,,LENDAS E HISTÓRIAS
 Craft (stone masonry),,Ofício (Alvenaria em Pedra)
 TURNING CHECK,,TESTE DE EXPULSÃO
+Dragon Form (2/day),,Forma de Dragão (2/dia)
 Active,,Ativar
 FAVOURED ENEMIES,,INIMIGO FAVORITO
 Inventory,,Inventário
 Extract|Save DC,,Teste de extrair CD
+AFFILIATIONS,,AFILIAÇÕES
+SPELL RANGES,,ALCANCES DE MAGIA
 Race,,Raça
+Enemies within 10ft take -4 to all saving throws.,,Inimigos em 6m recebem -4 em todas as resistências
 Perform (act),,Atuação (Teatro)
+Personality,,Personalidade
+Profession (woodcutter),,Profissão (lenhador)
 Weapon|Enhancement|Bonus,,BÔNUS DE MELHORIAS DA ARMA
 "From level 10, a Rogue|can take Advanced Talents",,"No nível 10, um Ladino|pode adquirir Talentos Avançados"
+against larger foes,,contra inimigos maiores
+Max|Attacks,,Máximo de|Ataques
 "Dorjes, Power stones,|Tattoos, Components",,"Dorjes, Pedras de Poder,Tatuagens, Componentes"
+MYSTIC PERSISTENCE,,PERSISTÊNCIA MÍSTICA
 Allies within 10ft get +4 to saves against fear effects.,,Aliados dentro de 3 metros ganham +4 em para testes contra efeitos de medo.
 IMPROVED AID,,AJUDA MELHORADA
 FEAT,,TALENTO
+Take the better of two rolls on a Fortitude or Will save,,Escolha o melhor entre duas rolagens em um teste de Fortitude ou Vontade
 Ghost Sound,,Som Fantasma
+Flurry of Blows Attack Bonus,,Bônus de Ataque da Rajada de Golpes
 DEFENCE,,DEFESA
 5ft,,1.5m
+Racial abilities,,Habilidades raciais
 Endurance,,Resistência
 Earthquake,,Terremoto 
+Hunter|Level,,Nível de|Caçador
 Attack weak point,,Atacar ponto fraco
 HYBRID FORM,,FORMA HIBRIDA
-DRUID,,DRUIDA
+DRUID,,DRÚIDA
 +4 Dexterity,,+4 Destreza
+III,,III
 Advanced Talents,,Talentos Avançados
 Spell Resistance,,Resistência Mágica
 Character name,,Nome do Personagem
+Craft (glass),,Ofício (vidro)
 Survival,,Sobrevivência
 Farms,,Fazendas
 (BARD),,(BARDO)
+Enemies within 10ft are shaken for 1rd + 1rd per 5 over the DC.,,Inimigos em até 6m são abalados por 1 rodada + 1 rodada para cada 5 além da CD.
 +6 Constitution,,+ Constituição
-INT - 12,,INT -12
+INT - 12,,INT - 12
 50 ft,,15m
 Spell Save DC = 10 + INT + Spell Level,,Teste de Magia CD = 10 + INT + Nível da Magia
 Use any skill as if you were trained,,Usar qualquer perícia como se você fosse treinado
+Elf,,Elfo
 Detect spirits,,Detectar Espiritos
 gp,,po
 Extracts|per day,,Extrair por dia
@@ -1229,24 +1722,33 @@ INT,,INT
 d100,,d100
 Basic|Damage,,Dano Base
 +1 per level,,+1 por Nível
+Your base speed (measured in feet per six seconds),,Sua velocidade base (medida em metros por 6 segundos)
 Scenario,,Cenário
 Control spirit,,Controlar espirito
+"Take second attack with off-hand weapon, at -5 penalty",,"Realiza um segundo ataque com a arma da mão inábil, com -5 de penalidade"
 Craft (glassblowing),,Ofício (Inflação de Vidro)
+SANCTIFIED|ROGUE,,LADINO|SANTIFICADO
 DEITY,,DIVINDADE
 to attacks of opportunity,,para ataques de oportunidade
 Summon Undead V,,Invocar Mortos-Vivos V
 Caster Levels,,Níveis de conjuração
+Area / Target,,Área / Alvo
 Iaijutsu Focus,,Foco Iaijutsu
-Worn Items,,Itens Desgastados
+Worn Items,,Itens Vestidos
 Arcane|Caster Level,,Nível de Conjuração Arcana
 Magic vestment,,Roupa Encantada
+• Confused,,• Confuso
 Artiste,,Artista
 "Bluff, Diplomacy,|  Intimidate",,"Blefar, Diplomacia, Intimidar"
+WITCH,,BRUXA
+Mystic Persistence,,Presenção Mística
 Bloodline powers,,Poderes de Linhagem sanguínea
 Bardic Knowledge,,Conhecimento de Bardo
 Spell critical,,Magia Crítica
 Resistance to selected|  energy type,,Resistência ao tipo de energia selecionada
 COMBAT ABILITIES,,Habilidades de Combate
+Mutation,,Mutação
+2nd round,,2º turno
 DEX,,DES
 Country,,País
 AURA OF CARE,,AURA DE CUIDADOS
@@ -1254,25 +1756,39 @@ Water Breathing,,Respirar na Água
 2d6 / 3d8,,2d6 / 3d8
 LEVELS,,Níveis
 "Climb, Jump, Swim",,"Escalar, Saltar, Nadar"
+Assassin|Level,,Nível de|Assassino
 MONASTIC MOUNT,,MONTARIA MONÁSTICA
 Detect Undead,,Detectar Mortos-Vivos
 RANGED,,ALCANCE
 Strength,,Força
 AC BONUS,,BÔNUS DE CA
 Damage:,,Dano:
+UNCHAINED,,Desacorrentado
 Soul,,Alma
+Take only half damage on a failed reflex save.,,Recebe apenas metade do dano em um teste de reflexos mal sucedido
+Cause an enemy to die of joy or sorrow,,Faz um inimigo morrer de alegria ou tristeza
+Cast any spell from the Wizard spell list,,Pode conjurar qualquer magia da lista de magias do Mago
+Profession (baker),,Profissão (padeiro)
 Duration|of bonus,,Duração do bônus
 LANGUAGES,,IDIOMAS
 Ability Modifier = (Total Ability Score - 10) ÷ 2    (Round down),,Modificador de Habilidade = (Valor Total de Habilidade - 10) ÷ 2 (Arredondado para baixo)
 Armour|Bonus,,Bônus de Armadura
+rks,,grad
+Fatigued|Penalty,,Fadigado|Penalidade
 ENERGY RESISTANCE,,RESISTÊNCIA A ENERGIA
+Weapon Focus,,Foco em arma
 WIDE AUDIENCE,,GRANDE AUDIÊNCIA
 Vicious,,Vícios
 15 Acrobatics,,15 de Acrobacia
 PARTY INVENTORY,,INVENTÓRIO DO GRUPO
++1 use /day of Lay On Hands,,+1 uso/dia de Curar Pelas Mãos
 Energy,,Energia
+Bombs Today,,Bombas Hoje
 Earth,,Terra
+Craft (shoes),,Ofício (sapatos)
 EQUIPMENT,,EQUIPAMENTO
+bp,,PC
+Greater Two-weapon Fighting,,Combater com duas mãos aumentado
 Mounted Speed,,Velocidade Montado
 Wall of Fire,,Barreira de Fogo
 CLASSES,,CLASSES
@@ -1281,89 +1797,140 @@ Fighter,,Lutador
 80 ft,,24m
 ACROBAT,,ACROBACIAS
 9ft,,2.7m
+Keen,,Aguçado
 Creature Name,,Nome da Criatura
 100 ft,,30m
+OATHBOUND PALADIN,,PALADINO PRESO AO JURAMENTO
+"On a successful surprise attack, opt to demoralise enemies.",,"Em um ataque surpresa bem sucedido, opte por desmoralizar inimigos."
 Spell Failure,,Falha Magica
+Half-elf,,Meio-elfo
 With half hit points,,Com metade dos pontos de vida
 2d8,,2d8
-Ability Modifier =|    (Total Ability Score - 10) ÷ 2,,Modificador de Habilidade = (Total de pontos de habilidade - 10) ÷ 2
+Perfect Strike,,Golpe Perfeito
+Ability Modifier =|    (Total Ability Score - 10) ÷ 2,,Mod. de Habilidade =| (Total de pontos de habilidade - 10) ÷ 2
 Light <weight>,,Leveza
+Manyshot,,Tiros múltiplos
 5 ft,,1.5m
 HEALING DOMAIN,,DOMÍNIO DA CURA
 Elemental Swarm,,Grupo de Elementais
 Base Save,,Teste Base
 Linguistics,,Linguística
+HIT POINTS & SKILL RANKS,,PONTOS DE VIDA & GRADUAÇÕES EM PERÍCIAS
 Ki Pool,,Reserva de KI
 Can be dispelled,,pode ser dissipado
+Profession (gambler),,Profissão (apostador)
 Immune to fear effects including magic.,,Imune a efeitos do medo incluindo magiacos
-Disguise,,Disfarçar
+"Take 10 on Acrobatics, Climb, Escape Artist, Fly, Ride or Swim checks,|even while distracted or in immediate danger.",,"Escolher 10 em testes de Acrobacia, Escalar, Arte da Fuga, Vôo, Cavalgar ou Nadar,|mesmo enquanto distraído ou em perigo imediato."
+Disguise,,disfarçar
 "Climbing, flying and|  swimming speeds",,"Velocidade de Escalar, Voar e Nadar"
+BLOODRAGER,,FURIANTE SANGUÍNEO
 3d8,,3d8
+Witch|Level,,Nível de|Bruxa
+Judgements|Today,,Julgamentos|Hoje
 allies within,,aliados dentro
+"Cannot be flanked or sneak attacked, except|by a Rogue 4 levels higher.",,"Não pode ser flanqueado ou sofrer ataques furtivos,|a não ser por Ladino quatro níveis maior."
 Hide,,Esconder
+DATE,,DATA
 30 ft,,9m
 Perfect Self,,Auto-Perfeição
 Player,,Jogador
 Power Points,,Pontos de Poder
+EXPERT|TRAINER,,TREINADOR|EXPERT
 d8 / 2d8,,d8 / 2d8
+Rounds today,,Rodadas hoje
 Bonus Language:,,Bônus de Idioma:
 FORTITUDE OF THE CRYPT,,FORTITUDE DA CRIPTA
 DISTRACTION,,DISTRAÇÃO
 Auras Today,,Auras Hoje
 Wisdom,,Sabedoria
+FRIGHTENING TUNE,,TOM ATERRORIZANTE
+Profession (sailor),,Profissão (marinheiro)
 (Round down),,(Arredonda para Baixo)
 Ki Pool (adamantine),,Reserva de KI (adamantino)
 Inflict Serious Damage,,Infligir Dano Sério
+MAGIC ATTACKS,,ATAQUES MÁGICOS
+WEAPON TRAINING,,TREINAMENTO EM ARMA
 SPECIAL MOUNT,,MONTARIA ESPECIAL
 Electricity,,Elétrico
+From level 2:,,A partir do nível 2:
 Initiative bonus,,Bônus de Iniciativa
 SPEED,,VELOCIDADE
 Greater Prying Eyes,,Grandes olhos curiosos
 PERSONALITY,,PERSONALIDADE
+DIPLOMACY MODIFIERS,,MOD. DE DIPLOMACIA
 Base|Speed,,Velocidade Basica
 CROWD CONTROL,,CONTROLAR GRUPO
 BONUS LANGUAGES,,BÔNUS de IDIOMA
 BARDIC PERFORMANCE,,PERFORMANCE DE BARDO
 Bonus combat feat,,Talentos bônus de combate
+Profession (courtesan),,Profissão (conrtesã)
+"-2 to attack rolls, damage rolls,| saving throws, skill and ability checks",,"-2 em rolagens de ataque, rolagens de dano,|resistências, perícias e testes de habilidades"
+II,,II
+Craft (cloth),,Ofício (tecido)
 Gifts,,Presentes
 DRACONIC ADAPTATION,,ADAPTAÇÃO DRACÔNICA
 Bonus Spells,,Magias Bônus
 Weapon|Enhancement,,Melhorias da Arma
+"From level 8, heal ability damage once per day.",,"A partir do nível 8, cure dano em habilidades uma vez por dia."
+EXPANDED REPERTOIRE,,REPERTÓRIO EXPANDIDO
 Caster Level,,Nível do Conjurador
+"Once a day, cast any bard, cleric or sorcerer/wizard spell.|Uses a spell slot of the spell’s level.|Minimum casting time 1 round.",,"Uma vez por dia, conjure qualquer magia de bardo, clérigo ou mago/feiticeiro.|Usa um espaço de magia do nível da magia.|Tempo de conjuração mínimo de 1 rodada."
+Pathfinder Society Faction,,Facção da sociedade Pathfinder
 Slow Fall 70 ft,,Queda Leve 21m
 Weapon|Damage|Bonus,,Bônus Dano da Arma
 "Cannot rage, run or charge|while fatigued.",,"Não pode entrar em Fúria, Correr ou dar Investida|enquanto estiver fatigado."
+coins,,moedas
 Value,,Valor
+Rounds|today,,Rodadas|hoje
+"In the event of a personality conflict, the wielder|must make a will save against the item’s ego,|or the item becomes dominant.",,"No evento de conflito de personalidades, o portador|deve fazer um teste vontade contra o ego do item,|ou o item se torna dominante."
 OTHER DAMAGE,,OUTROS DANO
 +20ft Speed,,+6m de Velocidade
+Profession (tanner),,Profissão (curtidor)
+Stunning Critical,,Crítico Atordoante
 CRIT,,CRIT
+Profession (shepherd),,Profissão (pastor)
 Rogue|Talents,,Talentos do Ladino
 Climb,,Escalar
 Deny DEX bonus to AC,,Remove DES Bônus da CA
 Knowledge (religion),,Conhecimento (Religião)
+Profession (soldier),,Profissão (soldado)
 Scorpion Style,,Estilo Escorpion
 None,,Nenhum
 Ghost Touch,,Toque Fantasma
+Meticulous,,Meticuloso
 Craft (pottery),,Ofícios (Poesia)
 "Apply this bonus to Diplomacy, Knowledge (history),|Knowledge (local) and Knowledge (nobility) checks",,"Aplica este bônus para testes de Diplomacia, Conhecimento (historia), Conhecimento (local) e Conhecimento (nobreza)"
 HOLY CHAMPION,,CAMPEÃO SAGRADO
+Additional abilities,,Habilidades adicionais
 Use monk level in place of BAB for calculating CMB,,Use o nível do monge no lugar de BBA para calcular BMC
+Keyboard|Instruments,,Teclado|Instrumentos
 KNOWN SPELLS,,MAGIAS CONHECIDAS
 Spot,,Observar
+HIT|DICE,,DADOS|DE VIDA
 Times Today,,Hoje
 Cure Wounds,,Curar Ferimentos
 COUNTERSONG,,MÚSICA DE PROTEÇÃO
 FORT,,FORT
+Craft (leather),,Ofício (couro)
+AETHER,,ÉTER
 CHARACTER|BACKGROUND,,Antecedentes do Personagem
 Shatter,,Despedaçar
 Size Modifier|x4,,Modificador de Tamanho x4
 Flurry of Blows,,Rajada de Golpes
 Sense Motive,,Sentir Motivação
+(WIZARD),,(MAGO)
 Creatures|summoned|today,,Criaturas Invocadas Hoje
 Aura,,Aura
+WILDBLOODED|SORCERER,,FEITICEIRO DE|SANGUE SELVAGEM
 Prestige,,Pretigio
+10/magic,,10/magia
+Sage,,Sábio
 Size,,Tamanho
+Twice per day,,Duas vezes por dia
+Fighter|Level,,Nível de|Guerreiro
 RANGED|ATTACK,,ALCANCE DO ATAQUE
+Promotions,,Promoções
+SOCIAL CONNECTIONS,,CONEXÕES SOCIAIS
 Slow Fall 90 ft,,Queda Leve 27m
 HOME,,Casa
 CREATURE TYPE,,TIPO DA CRIATURA
@@ -1372,10 +1939,12 @@ Temp|Bonus,,Bônus Tem
 Air,,Ar
 Energy Type,,Tipo de Energia
 Sneak Attack +1d6,,Ataque Furtivo +1d6
+Remember to role-play your character traits.,,Lembre-se de interpretar os traços do seu personagem.
 2d10,,2d10
 Climb Speed,,Velocidade de Escalar
 Mass Suggestion,,Sugestão em Massa
 Use Rope,,Usar Cordas
+TATTOOED|SORCERER,,FEITICEIRO|TATOADO
 DRACONIC AURA,,AURA DRACÔNICA
 •  1d4 strength or dexterity damage,,• 1d4 dano de força ou destreza
 REF,,REF
@@ -1385,14 +1954,21 @@ Bluff,,Blefar
 Base|Attack,,Base de Ataque
 Wholeness of Body,,Integridade Corporal
 ALCHEMIST,,ALQUIMISTA
-Class|Skill,,Perícias da Classe
+FIREARMS,,ARMAS DE FOGO
+Class|Skill,,Perícias|da Classe
+Add your Dragon Disciple level and Sorcerer level to gain access|to draconic bloodline powers.,,Adicione seu nível de Díscípulo do Dragão e Feiticeiro para ganhar acesso|aos poderes da linhagem sanguínea dracônica.
 Item|Bonus,,Item|Bônus
 Basic Value,,Valor Base
 Misc,,Outros
 Use d6 for medium or d4 for small sized characters.,,Use d6 para médio ou d4 para personagens pequenos
 Horrid Wilting,,EVAPORAÇÃO
+Number of|Witches,,Número de|Bruxas
 Fire Shield,,Escudo de Fogo
 SAMURAI,,SAMURAI
+Profession (miller),,Profissão (moleiro)
+ARCHERY,,TIRO COM ARCO
+SETTLEMENT,,ACAMPAMENTO
+CHOICES,,ESCOLHAS
 Range:,,Alcance:
 Bonus|Points,,Pontos de Bônus
 BARDIC KNOWLEDGE,,CONHECIMENTO DE BARDO
@@ -1400,6 +1976,7 @@ SUMMON SHADOW,,Invocar Sombra
 Agile Manoeuvres,,Manobras Ágeis
 Points,,Pontos
 10ft,,3m
+USES PER DAY,,USOS POR DIA
 Martial Lore,,Conhecimento Marcial
 Knowledge (nature),,Conhecimento (Natureza)
 Uncanny Dodge,,Esquiva Sobrenatural
@@ -1407,118 +1984,172 @@ TWO-WEAPON FIGHTING,,LUTAR COM DUAS ARMAS
 (PALADIN),,(PALADINO)
 Summon monster I,,Invocar Monstro I
 (CLERIC),,(Clérigo)
+Take -2 penalty to AC against any enemy except challenged target,,Receba -2 de penalidade na CA contra qualquer inimigo exceto o alvo desafiado
 Attack and damage,,Ataque e dano
+FIGHTER,,GUERREIRO
 Feat Sharing|Today,,Talento partilhado por dia
 Perform (wind),,Atuação (Instrumentos de Sopro)
 HEALTH,,CURA
 Base Attack|Bonus,,Bônus Base de Ataque
 Courage Bonus,,Bônus de Coragem
 FAVOURED ENEMY,,INIMIGO FAVORITO
+Profession (farmer),,Profissão (fazendeiro)
+Base magic item,,Item mágico base
 Still Mind,,Mente Tranquila
 Craft (calligraphy),,Ofícios (Escrita)
+TIMELINE,,LINHA DO TEMPO
 MALE,,MASCULINO
 Paralysed,,Paralizado
 HARD TO KILL,,DURO DE MATAR
 "Bluff, Diplomacy",,"Blefar, Diplomacia"
+Immune to charm effects including magic.,,Imune à efeitos de encantamento incluindo magia.
+Saving throw,,Teste de resistênia
 Use bonus in place of...,,Use bônus no lugar de...
+ARCTIC DRUID,,DRUIDA ÁRTICO
 Comprehend Languages,,Compreender Idiomas
+Dance,,Dançar
 55ft,,16.5m
 BASE ATTACK,,BASE DE ATAQUE
 Sneak Attack +2d6,,Ataque Furtivo +2d6
 BARBARIAN!,,BÁRBARo!
 INITIATIVE,,INICIATIVA
 DIVINE HEALTH,,CURA DIVINA
+Profession (trapper),,Profissão (armadilheiro)
+Craft (stonemasonry),,Profissão (escultor)
 Craft (chemist),,Ofício (Química)
 Summon Nature’s Ally IV,,Invocar Aliado da Natureza IV
+Take 20 Today,,Escolher 20 Hoje
 REDIRECTION,,REDIRECIONAR
+TRAINING,,TREINAMENTO
 35ft,,10.5m
 60ft,,18m
 No penalty for using an improvised weapon,,Sem penalidade para usar uma arma improvisada
 Summon Swarm,,Invocar Enxame
 FEATS,,TALETOS
+Aether,,Éter
 BLOODLINES,,LINHAGEM SANGUÍNEA
 Item,,Item
 (ALCHEMIST),,(ALQUIMISTA)
 Speciality Spell,,Magia Especializada
 PORTRAIT,,Imagem
+STUNNING FIST,,PUNHO ATORDOANTE
+Avoid half damage on failed reflex save,,Evita metade do dano em uma resistência de reflexos falha
 Bonus|Combat|Feat,,Talentos Bônus de Combate
 6ft,,1.8m
 OF,,DE
+to Diplomacy to alter an animal’s attitude,,à Diplomacia para alterar a atitude de um animal
 Cone of Cold,,Cone Glacial
-Wild|Shape|Level,,Nível da|Forma|Selvagem
+Wild|Shape|Level,,Nível da Forma Selvagem
+Society,,Sociedade
+Spells|Today,,Magias|Por Dia
 Sneak Attack +3d6,,Ataque Furtivo +3d6
 Discern Lies,,Discernir Mentiras
 Gain damage reduction 5/evil.,,Ganha de redução de dano 5/mal.
 Power|Save DC,,Poder|CD Teste
 AC + INT,,CA + INT
+• Paralysed,,• Paralizado
 DISCERN LIES,,DISCERNIR MENTIRAS
 Fast Movement,,Movimento Rapido
+Festivals,,Festivais
 Temp Damage,,Dano Temporário
 "Armour, Shield",,"Armadura, Escudo"
+Witch Sense,,Sentidos de Bruxa
 Wall of Iron,,Barreira de Ferro
+Evolutions,,Evoluções
 DAMAGE,,DANO
 FAVOURED ENEMY BONUS,,BÔNUS DE INIMIGO FAVORITO
 Trap Sense +5,,Sentir Armadilha +5
 CASTER SUPPORT,,SUPORTE DO CONJURADOR
 Euphoria|Bonus,,Bônus de Euforia
+Impaling Critical,,Crítico Empalante
+die,,dado
+Immune to the effects of all diseases including magic.,,Imune aos efeitos de todas as doenças incluindo mágicas
 SPELL SCHOOLS,,LIVRO DE MAGIAS
 Attack|Bonus,,Bônus de Ataque
 HEALING PERFORMANCE,,PONTOS DE CURA
 Untrained,,Sem Treinamento
+Craft (paintings),,Ofício (pinturas)
 Nature Bond Domain,,Domínio do Elo com a Natureza
+Profession (innkeeper),,Profissão (estalajadeiro)
 Move Silently,,Furtividade
 HIT POINTS,,PONTOS DE VIDA
+SHAMAN,,XAMÃ
+"Spend two uses of Smite Evil to grant allies the ability to|smite evil. The bonus lasts 1 minute, but must be used in|the first round.",,"Gasta dois usos de Punir o Mal para dar aos aliados a habilidade de|punir o mal. O bônus dura 1 minuto, mas deve ser usado|na primeira rodada."
+Long,,Longo
 SAVES,,TESTES
 d8,,d8
 Protection,,Proteção
 100 gp,,100 po
 Heal wounds,,Curar ferimentos
+Master’s bonus ability,,Bônus de habilidade do mestre
 Max Speed,,Velocidade Max
 Craft (carpentry),,Ofícios (Carpintaria)
 Spells|per day,,Magias|por dia
 FEATS & SPECIAL ABILITIES,,TALETOS E HABILIDADES ESPECIAIS
+No age penalties or artificial ageing,,Sem penalidades de idade ou envelhecimento artificial
 Greater Rage,,Fúria Aprimorada
 Gain temporary hp on melee attacks,,Ganha pv temporariamente para ataques corpo a corpo
+Witch|Hunter|Level,,Nível de|Caçador|de Bruxas
 +6 Perception,,+6 Percepção
 Animal Companion’s Name,,Nome do Companheiro Animal
+See below.,,Veja abaixo.
+Craft (bows),,Ofício (arcos)
 VALUABLE ITEMS,,ITENS DE VALOR
 Add monk level to Acrobatics checks for jumping,,Adiciona nível do monge para testes de Acrobacia para saltar
 Mass Inflict Moderate Wounds,,Infligir Ferimentos Moderados em Massa
+Times|per day,,Vezes|por dia
 (Use adjusted CON),,(Use para ajustar CON)
+ENGINEER,,ENGENHEIRO
+INITIATIVE|MARKER,,INICIATIVA|MARCADOR
 Craft (tailor),,Ofício (
+ranks,,graduações
 Range,,Alcance
 Medium,,Médio
 Events,,Eventos
 DIVINE BOND,,ligação divina
 PAYMENTS,,Pagamentos
+LONG RANGE,,ALCANCE LONGO
 4d6,,4d6
+Shot on the Run,,Tiro em movimento
 Light weapon,,Arma Leve
 Skill,,Perícias
 PREPARED SPELLS,,MAGIAS PREPARADAS
 Improved Evasion,,Evasão Aprimorada
+To persuade a hostile spirit to communicate,,Para persuadir um espírito hostil a se comunicar
+• Blind,,• Cego
+Full|Moon,,Lua|Cheia
+VI,,VI
 Divination,,Adivinhação
 DC 15,,CD 15
+"When fight defensively, using total defence or Combat|Expertise, cannot be flanked except by a Rogue 4 levels higher.",,"Quando lutar defensivamente, usando defesa total, ou Especialização|em Combate, não pode ser flanqueado, exceto por Ladino quatro níveis maior."
 Modifier,,Modificador
 Stealth,,Furtividade
 +8 Climb,,+8 Escalar
+Preferred Clothing,,Vestimenta adequada
+Times|Today,,Vezes|Hoje
 "Disable Device, Intimidate",,"Desabilitar Dispositivo, Intimidar"
+Extra,,Extra
 Fire and cold resistance,,Resistência a Fogo e Gelo
 INT|Bonus,,Bônus INT
 Point|Cost,,Custo de Ponto
+(FIGHTER),,(GUERREIRO)
 Face,,Face
 Bonus to attack and damage rolls,,Bônus de ataque e rolagens de dano
 SMITE GOOD,,DESTRUIR O BEM
-Size|Modifier x4,,Modificador de Tamanho x4
+Size|Modifier x4,,Mod. de|Tamanho x4
 Reduced damage on Defensive Roll,,Reduz dano nas rolagens defencivas
+Penalty for insufficient strength,,Penalidade por força insuficiente
 Ability|Score,,Pontos de|Habilidade
 Serious Wounds,,Ferimentos Sérios
 Find The Path,,Encontrar o Caminho
+Penalties to Perception due to weather are halved,,Penalidades em Percepção devidas ao clima são reduzidas pela metade
 CHANNEL ENERGY,,CANALIZAR ENERGIA
 "Initiative, Listen and Spot",,"Iniciativa, Ouvir e ""Local"""
 Ninja Level,,Nível do Ninja
 Weight,,Peso
 Enemy,,Inimigo
 LORE MASTER,,MESTRE DO CONHECIMENTO
+Improved Critical or Keen weapon,,Crítico Aprimorado ou Arma aguçada
 Cone of Fire,,Cone de Fogo
 pts,,pts
 Disable traps,,Desabilitar armadilhas
@@ -1527,36 +2158,59 @@ Countersong,,Música de Proteção
 DC 10,,CD 10
 EGO,,EGO
 Fears,,Medos
+d00,,d
+LYCANTHROPIC EMPATHY,,Empatia Licantrópica
 Acrobatics|Bonus,,Bônus de Acrobacias
+Spellcaster|Level,,Nível de|Conjurador Mágico
+Use shadow power twice a day.,,Use poder das sombras duas vezes por dia
 Energy Alteration,,Alterar Energia
-Bards can wear light armour without risking|spell failure.,,Bardos podem vestir armaduras leves sem risco de falha Arcana.
+Bards can wear light armour without risking|spell failure.,,Bardos podem vestir armaduras leves sem risco de|Falha Arcana.
 MASS SUGGESTION,,SUGESTÃO EM MASSA
 Intelligence,,Inteligência
+• Exhasted,,• Exausto
 Bonus to attack rolls and dodge bonus to AC,,Bônus nas jogadas de ataque e bônus de esquiva na CA
+BLOODRAGE!,,FÚRIA SANGUÍNEA!
+Two-weapon Fighting,,Combater com duas armas
+Craft (ships),,Ofício (navios)
 Power|Level,,Nível de Poder
 ARMOUR CHECK,,TESTE DE ARMADURA
 Craft (jeweler),,Ofício (Joaleiro)
+"Gain an emissary familiar, treating paladin level as wizard level.",,"Ganhe um familiar emissário, tratando o nível de paladino como nível de mago."
+POWERS AND PURPOSE,,PODERES E PROPÓSITO
+"If the item is magical, learn its properties|and command word.",,"Se o item é mágico, aprenda suas propriedades|e palava de comando."
 Energy|Resistance,,Resistência a Energia
 Medium Load,,Carga Média
 Con,,Con
 Coward,,Covarde
+Channelling positive energy uses up two of today’s|uses of Lay On Hands.,,Canalizar energia positiva usa até dois dias|de usos de Curar pelas mãos.
 2 targets,,2 alvos
 "Weapons, Ammo, Scrolls, Potions",,"Armas, Munições, Pergaminhos, Poções"
 Aid,,Ajuda
 Levels,,Níveis
 Inflict Moderate Wounds,,Infligir Ferimentos Moderados
+Kineticist|Level,,Nível de|Cineticista
 • Dazed,,• Pasmar
 REDUCTION,,REDUÇÃO
+Skill modifier,,Mod. de perícia
 Spells|Known,,Magias|Conhecidas
 Perform (keyboard),,Atuação (Teclados)
+Profession (gardener),,Profissão (jardineiro)
+RIVAL,,RIVAL
+Channel Negative Energy,,Canalizar Energia Negativa
 Bull,,Touro
 Track,,Rastrear
+"Once a day, cast any bard, cleric or sorcerer/wizard spell.|Uses a spell slot of the spell’s level.",,"Uma vez por dia, conjure qualquer magia de bardo, clérigo ou mago/feiticeiro.|Usa um espaço de magia do nível da magia."
 BASIC SPEED,,VELOCIDADE BASICA
 PERFECT SELF,,AUTO-PERFEIÇÃO
 Acrobatics,,Acrobacia
+Counter magical effects that depend on sound.|Allies within 30ft use Performance roll in place of a saving throw,,Anula efeitos mágicos que dependem de som. Aliados em 9m usam teste de Performance em vez de resistências
 ENERGY,,ENERGIA
+Spirit Magic,,Magia de Espírito
 Craft (alchemy),,Ofícios (Alquemia)
+Performance,,Apresentação
+Unlimited uses per day,,Usos ilimitados por dia
 Tier,,Nível
+ABILITY SCORE,,PONTOS DE HABILIDADE
 Torso,,TORSO
 Evil Cleric,,Clérigo Mal
 School,,Escola
@@ -1567,11 +2221,16 @@ Blue,,Azul
 AURA OF RIGHTEOUSNESS,,AURA DE JUSTIÇA
 Gain damage resistance 10/epic,,Ganha de redução de dano 10/épico.
 Normal,,Normal
++1 hp or skill rank per level,,+1 PV ou graduação em perícia por nível
 Disable Device,,Desabilitar Dispositivo
+SWAMP DRUID,,DRUIDA DO PÂNTANO
 Foresight,,Sexto Sentido
+"As a move action, share half your Favoured Enemy|bonus against a single target with all allies within 30 ft",,"Como uma ação de movimentação, compartilhe metade do seu Bônus de|Inimigo Predileto contra um único alvo com todos os aliados em 6m"
 Bonus Points,,Pontos de Bônus
 Total,,Total
+WEAPON MASTERY,,MAESTRIA EM ARMA
 BAB,,BBA
+SENSES,,SENTIDOS
 Employer,,Empregador
 Energy Drain,,Drenar Energia
 Basic,,Base
@@ -1584,26 +2243,36 @@ Escape Artist,,Arte da Fuga
 silver,,prata
 DAMAGE BONUS,,BÔNUS DE DANO
 Ninja|Level,,Nível do Ninja
+Profession (miner),,Profissão (mineiro)
+Suggest actions to already fascinated creatures,,Sugere ações para criaturas já fascinadas
 Summon monster IX,,Invocar Monstro IX
 Max AC DEX,,Max CA DES
 Head,,Cabeça
+Profession (driver),,Profissão (motorista)
 CLERIC,,CLERIGO
 Damage Reduction 2/Magic,,Redução de Dano Magico 2/
+Skill|Ranks,,Graduações em|Perícias
 Damage Reduction:,,Redução de Dano:
 (always active),,(sempre ativo)
 Wild Shape (Feline only),,Forma Selvagem (Somente Felino)
 Use Magic Device,,Usar Dispositivo Magico
 Balance,,Equilíbrio
 to Handle Animal of a chosen type,,para Adestrar um Animal do tipo escolhido
+Connection Spell,,Magia de Conecção
 CRITICAL,,CRITÍCO
 to Hybrid or Animal form:,,para forma hibrida ou animal:
 Elemental Protection,,Elemental de Proteção
 Temp,,Temporário
 Arcane Pool,,Reserva arcana
+ITEMS,,ITEMS
+Profession (porter),,Profissão (porteiro)
 "While raging, deal additional damage:",,"Enquanto em fúria, causa dano adicional:"
+"Cut out carefully with a sharp knife or scissors,|using the      marks as guides",,"Recorde com cuidado com estilete ou tesoura,|use as marcações como guia"
+Bonus to Initiative and selected skills when in this terrain,,Bônus em iniciativa e perícias selecionadas quando neste terreno
 Assets,,Ativos
 Indomitable Will,,Vontade Inabaláve
-MELEE|ATTACK,,ATAQUE CORPO A CORPO
+MELEE|ATTACK,,ATAQUE|CORPO A CORPO
+Other items,,Outros itens
 Knowledge: Arcana,,Conhecimento: Arcano
 XP,,XP
 Oratory,,Oratória
@@ -1611,39 +2280,56 @@ WILD EMPATHY,,EMPATIA COM A NATUREZA
 CONTAINER,,RECIPIENTE
 Cha,,CAR
 Class,,Classe
+Allies|Today,,Aliados|Hoje
 Controlled Rage,,Fúria Controlada
+CAVE DRUID,,DRUIDA DA CAVERNA
 Racial|Bonus,,Bônus Racial
 cp,,pc
+Don’t die until negative hp equals double|your constitution score.,,Não morre enquanto os PV negativos se igualem|ao dobro de sua constituição.
 Summon monster IV,,Invocar Monstro IV
 "Scrolls, Potions,|Wands, Components",,"Pergaminhos, poções, varinhas, componentes"
 Song of Freedom,,Melodia da Libertação
-KI POOL,,Piscina de KI
++1d8,,+1d8
+KI POOL,,Reserva de KI
 Knowledge (psionics),,Conhecimento (Psionismo)
 Other|Classes,,Outras Classes
 Immune to all diseases including magic.,,Imune a todas as doenças incluíndo magicas.
 Manoeuvre Training,,Treinamento de Manobras
+"Bluff, Computers, Culture, Diplomacy, Disguise,|Engineering, Intimidate, Medicine",,"Blefar, Computadores, Cultura, Diplomacia, Disfarce,|Engenharia, Intimidação, Medicina"
 Craft (weaving),,Ofício (Tecelagem)
 Combat Reflexes,,Reflexos em Combate
+2nd,,2º
 Age,,Idade
 Gain damage reduction 5/good.,,Ganha de redução de dano 5/bom.
 Parents,,Pais
+Shadow|power|today,,Poder|das Sombras|hoje
 + Size|  diff x4,,+ Tamanho | Dif x4
 DC 20,,CD 20
+LYCANTHROPE,,Licantropo
+Alchemist|Level,,Nível de|Alquimista
 Summon Undead III,,Invocar Mortos-Vivos II
+FAVOURED|CLASS BONUS,,BÔNUS DE CLASSE|PREDILETA
 PSIONICS,,PSIÔNICOS
 Base|Attack|Bonus,,Bônus Base de Ataque
+Craft (books),,Ofício (livros)
 Armour Class Bonus,,Bônus de Classe de Armadura
 NATURE BOND,,LIGAÇÃO COM A NATUREZA
 Your size and size modifier,,Seu tamanho e modificador de tamanho
-Properties,,Patrimônio
+Properties,,Propriedades
 Summon|Monster,,Invocar Monstro
+for every 10ft of your standard move above 30ft,,para cada 6m do seu movimento padrão além de 9m
+Favoured Enemy,,Inimigo Predileto
 Wounds,,Ferimentos/
+Consult the book to find out:,,Consulte o livro para descobrir:
 50ft,,15m
 1d3,,1d3
 Level,,Nível
 Ghost warrior,,Guerreiro Fantasma
 =  4 hours per spell level,,= 4 horas por nível de magia
 1d8,,1d8
+SCOUT,,BATEDOR
+"May make a standard or move action,| but not both",,"Pode fazer uma ação padrão ou de movimento,| mas não ambas"
+DESERT DRUID,,DRUIDA DO DESERTO
 Religion,,Religião
 Type,,Tipo
 BLOODLINE,,Linhagem Sanguínea
@@ -1651,13 +2337,18 @@ BLOODLINE,,Linhagem Sanguínea
 Dexterity|Bonus,,Bônus de Destreza
 Gear value,,Valor do Equipamento
 CMD,,DMC
+Take the better of 2 will saves,,Escolha o melhor de 2 testes de vontade
 Coins,,Moedas
 (BARBARIAN!),,(BÁRBARO!)
 1 target,,1 alvo
+Greater Weapon Focus,,Foco em Arma Aumentado
 Armour|& Shield,,Armadura e Escudo
 Slow Fall 50 ft,,Queda Leve 15m
+Profession (fisherman),,Profissão (pescador)
+"Mass Cure Serious Wounds|Removes the fatigued, sickened and shaken conditions",,"Curar Ferimentos Graves em Massa|Remove as condições fadigado, enjoado e abalado"
 DC MODIFIERS,,MODIFICADOR DE CD
 SUMMONED CREATURE,,CRIATURA INVOCADA
+FESTIVALS,,FESTIVAIS
 IMMORTAL,,IMORTAL
 ALIGNMENT,,ALINHAMENTO
 Copper,,Cobre
@@ -1668,18 +2359,26 @@ NO TRACE,,Não Rastreável
 SAVAGE|BARBARIAN!,,BÁRBARO SELVAGEM
 Charisma,,Carisma
 Control Undead,,Controlar Mortos-Vivos
+SOCIAL IDENTITY,,IDENTIDADE SOCIAL
+JUNGLE DRUID,,DRUIDA DA SELVA
 +8 Stealth,,+8 Furtividade
 SCROLLS,,PERGAMINHOS
 BONUS COMBAT FEATS,,TALETOS BÔNUS DE COMBATE
 +4 to jump,,+4 em saltar
 TRAITS,,PECULIARIDADE
+Samurai|Level,,Nível de|Samurai
 Constitution|Bonus,,Bônus de Constituição
 Versatile Improvisation,,Improvisação versátil
 Alignment,,Alinhamento
 Autohypnosis,,Autohipnose
+Craft (traps),,Ofício (armadilhas)
 PSICRYSTAL,,CRISTAL PSÍQUICO
 EMPATHY,,EMPATIA
+Profession (architect),,Profissão (arquiteto)
+Casting|Stat,,Atributo de|Conjuração
 MANOEUVRE TRAINING,,TREINAMENTO DE MANOBRAS
++1 DC on Channel Positive Energy,,+1 CD em Canalizar Energia Positiva
+Uses|Today,,Usos|Hoje
 Dexterity,,Destreza
 Bonus Feat,,Talento Bônus
 Creature Type,,Tipo da Criatura
@@ -1687,25 +2386,41 @@ Creature Type,,Tipo da Criatura
 Detect Magic,,Detectar Magia
 Base|Attack Bonus /|Monk Level,,Bônus de Base de Ataque / Nível do Monge
 Perform (sing),,Atuação (Canto)
+Abundant step,,Passo abundante
+DEBTS,,DÉBITOS
+SAVING THROW,,TESTE DE RESISTÊNCIA
+Spirit|Power,,Poder|Espiritual
 Base|Spells,,Base|Magia
-INT - 4,,INT -4
+INT - 4,,INT - 4
 HEAL /|DAMAGE,,CURAR / DANO
+Power cost,,Custo de poder
+Strikes|Today,,Golpes|Hoje
+• Stunned,,• Atordoado
 Contagion,,Praga
 Bloodline Spell,,Magia de Linhagem Sanguínea
+WITCH HUNTER,,CAÇADOR DE BRUXAS
 Summon monster III,,Invocar Monstro III
+Modifiers,,Modificadores
+Critical Focus,,Foco em Crítico
 Treat unarmed attacks as adamantine weapons,,Trata o ataque desarmado como arma de adamante
 Body,,Corpo
 Fly,,Voar
 Constitution|Score,,Pontos de Constituição
+Bonus to ability scores,,Bônus às pontuações de habilidades
 WILD SHAPE,,FORMA SELVAGEM
-Power|Attack,,Poder de Ataque
++ WIS,,+ SAB
+Power|Attack,,Ataque|Poderoso
+SUPERCHARGE,,SUPERINVESTIDA
 Summon Nature’s Ally VI,,Invocar Aliado da Natureza VI
+Spell|Resistance,,Resistência à|Magia
 ARMOUR,,Armadura
 Temp Attack|Bonus,,Bônus Temporário de Ataque
 NOTES,,NOTAS
+Saving throw = 10 + Casting Stat + Spell Level,,Teste de resistência = 10 + Habilidade de Conjuração + Nível da Magia
 Base|Value,,Valor Base
 per turn,,por turno
 RANGER,,PATRULHEIRO
+Spells from your opposed schools cost two slots to prepare.,,Magias de suas escolas opositoras custam dois espaços para preparar
 One hit|point,,um ponto de vida
 Eyes,,Olhos
 Wildshaper|Level,,Nível da Forma Selvagem
@@ -1713,71 +2428,107 @@ Constitution,,Constituição
 HEALING SALVE,,TESTE DE CURA
 Knowledge: Aeronautics,,Conhecimento: Aeronauticos
 Summon monster V,,Invocar Monstro V
+"Smiting damage bonus applies double for the|first successful strike against evil outsiders, |evil dragons and the undead.",,"Dano punitivo bônus é aplicado dobrado para o|primeiro golpe bem sucedido contra extraplanares malígnos, |dragões malígnos e mortos-vivos."
 Decipher Script,,Decifrar Escrita
+POISON RESISTANCE,,RESISTÊNCIA À VENENO
 To summon any spirit,,Para invocar qualquer espirito
 Check Penalty,,Penalidades nos Teste
+REGULAR PAYMENTS,,PAGAMENTOS REGULARES
 Shield AC,,Escudo CA
+VIII,,VIII
 Darkvision 60ft,,Visão no Escuro 18m
 Knowledge: Geography,,Conhecimento: Geografia
+Enemies within 10ft take -4 to saves against fear effects.,,Inimigos em até 6m recebem -4 em testes de resistência contra efeitos de medo.
+(Bad),,(Ruim)
 Dodge,,Esquiva
+Insults,,Insultos
 Tongue of the Sun and Moon,,Idiomas do Sol e da Lua
+Cavalier|Level,,Nível de|Cavaleiro
 Trap Sense +1,,Sentir Armadilha +1
+Metamagic|Adjustment,,Metamagia|Ajuste
+Craft (clothing),,Ofício (vestimentas)
+IN SUMMER,,NO VERÃO
+Improved Feint,,Fintar Aprimorado
 Great fortitude,,Fortitude Melhorada
 SKILLS,,PERÍCIAS
 Moderate Wounds,,Ferimentos Moderados
+Improved Impaling Critical,,Crítico Empalante Aprimorado
 Disintegrate,,Desintegrar
 Summon monster VI,,Invocar Monstro VI
 Enhancement|Bonus,,Bônus de Melhoria
+SUMMONER,,INVOCADOR
 Inflict or cure wounds with a touch.,,Infligir ou curar ferimentos com o toque
 Mount Type,,Tipo de Montaria
+Fatigue|Modifier,,Mod. de|Fadiga
 - Size|  mod x4,,- Mod Tamanho X4
+2 mins,,2 mins
 DOMAINS,,DOMÍNIOS
 Cleric Level,,Nível do Clérigo
 at half speed,,com metade da velocidade
 25ft,,7.5m
+Slippery mind,,Mente escorregadia
+SUPERIOR TACTICS,,TÁTICAS SUPERIORES
 Bonus feat,,Talento Bônus
 Appraise,,Avaliar
+STATS DISPLAY,,MOSTRA DE ATRIBUTOS
 Valuables,,Objetos de Valor
+Stunning Fist,,Punho Atordoante
 Acrobatic,,Acrobacia
 DOMAIN SECRET,,DOMÍNIO SECRETO
+Craft (locks),,Ofício (trancas)
 Dominate Monster,,Dominar Monstro
+Two-handed weapon,,Arma de duas mãos
 Intimidate,,Intimidar
 PREPARED DIVINE SPELLS,,MAGIAS DIVINAS PREPARADAS
 Charisma|Score,,Modificador de Carisma
+Weapon and armour proficiencies,,Proficiência em arma e armadura
 CONCENTRATION,,CONCENTRAÇÃO
 Synergy,,Sinergia
 Alignment|Bonus,,Bônus de Alinhamento
 Bonus to all|saving throws,,Bônus para todos os testes de resistência
 Summon Undead IV,,Invocar Mortos-VivosIV
+Monk bonus applies when|unarmoured and unencumbered,,Bônus do monge são aplicados quando|não usar armadura e não estiver sobrecarregado
 Feats,,Talentos
+EARTH,,TERRA
 VERSATILE DANCE,,DANÇA VERSÁTIL
+FIRE,,FOGO
+Intelligent items with an ego 20 or more always|consider themselves superior to any character.,,Itens inteligentes com ego de 20 ou mais sempre|consideram-se superiores à qualquer personagem.
+bonus granted to,,bônus dado ao
 SpellLevel,,Nível de Magia
+Round,,Rodada
 Fortification:,,Fortificar:
 Dislikes,,Ódios
 Kingdom,,Reino
 TRACK,,Rastrear
 Knowledge - INT|Profession - WIS,,Conhecimento - INT|Profissão - VON
+Illusion,,Ilusão
 TOUCH OF CORRUPTION,,TOQUE DE CORRUPÇÃO
 Fortune|Today,,Fortuna Hoje
 20ft,,6m
 Constitution checks;|  Fortitude saves,,Teste de Constituição; Teste de Fortitude
+Earn double money from a public performance,,Ganha dinheiro dobrado por uma performance em público
 Inflict Critical Wounds,,Infligir Ferimento Crítico
 Skill|Bonus,,Bônus de Perícias
+MASTER OF PERSUASION,,MESTRE DE PERSUASÃO 
 Damage,,Dano
 Improved Uncanny Dodge,,Esquiva Sobrenatural Aprimorada
 SNEAK ATTACK,,ATAQUE FURTIVO
++2 to any one ability score,,+2 para qualquer habilidade
 Additional Domain,,Domínio Adicional
 Grand Diplomat,,Grande Diplomata
 CHA,,CAR
 2 pt,,2 pt
 if you fail a jump by 4 or less,,se falhar o pulo em 4 ou menos
+Hit|dice,,Dado de|vida
 Bull’s Strength,,Força de Touro
 Save DC,,Teste de CD
 "Diplomacy, Sense Motive",,"Diplomacia, Sentir Motivação"
 Bonus|Spells,,Magias Bônus
 Summon Nature’s Ally III,,Invocar Aliado da Natureza III
 Mass Fire Shield,,Escudo de Fogo em Massa
+Attribute|scores,,Pontuação de|atributo
 Morale Penalty,,Penalidade de Moralidade
+Profession (barrister),,Profissão (advogado)
 Smite Good,,Destruir o Bem
 Dwarf,,Anão
 Slow Fall 60 ft,,Queda Leve 18m
@@ -1793,81 +2544,120 @@ BRAVERY,,BRAVURA
 Add elemental damage to an attack,,Adiciona dano elemental para um ataque
 Temp|Modifier,,Modificador Termp
 Abadius,,Abadius
+Suggest actions to one already fascinated creature,,Sugere ações à uma criatura já fascinada
+SCIENCE OFFICER,,OFICIAL DE CIÊNCIA
+Linked,,Ligado
 +2 Dexterity,,+2 Destreza
 SAVE DC,,TESTE CD
 Affiliation,,Afiliação
 Platinum,,Platina
-+ 100 ft.,,+ 30 m
-DOMAIN,,Domínio
+VIGILANTE,,VIGILANTE
+second sneak attack in a round,,segundo golpe furtivo em uma rodada
++ 100 ft.,,+30m
+DOMAIN,,DOMÍNIO
 Speed Climb,,Velocidade de Escalar
 Cone of Acid,,Cone de Ácido
 Uses|per day,,Usos|Diários
+FORWARD,,EM FRENTE
+Scribe scroll,,Escrever pergaminho
+KI POWERS,,PODERES DE KI
 WILL,,VONTADE
 Sorcerer|Level,,Nível do Feiticeiro
+MERCIES,,MISERICÓRDIAS
 Character Name,,Nome do Personagem
 - 1 per 5lb| carried,,-1 por 2.2 kg carregados
 Immune to all poisons,,Imune a todos os venenos
 Hands,,Mãos
 Knowledge:,,Conhecimento:
+WILL SAVE DC,,TESTE DE VONTADE CD
 Enhancements,,Melhorias
 CLASS,,CLASSE
 Human,,Humano
 SORCERER,,FEITICEIRO
++4 morale bonus to Will saves against enchantment,,+4 de bônus de moral para testes de Vontade contra encantamento
 Character traits,,Peculiaridades do Personagem
-Unarmed|Strike|Damage,,Dano de Ataque Desarmado
+FAIL,,FALHA
+Unarmed|Strike|Damage,,Dano de|Ataque|Desarmado
 Hair,,Cabelo
+"On a successful surprise attack, target must make a will save|or be stunned until the end of your next turn.",,"Em um ataque surpresa bem sucedido, o alvo deve fazer um teste de vontade ou ser atordoado até o fim do seu próximo turno."
+Total skill|ranks,,Total de graduações|em perícia
+Necromancy,,Necromancia
 GRAPPLE,,AGARRAR
 Energy|  Shield,,Escudo de Energia
 "Weapons, Ammo",,"Armas, Munição"
 CHANGE SHAPE,,Alterar Forma
++4 to attack,,+4 no ataque
 KINGDOM SIZE,,TAMANHO DO REINO
 ANIMAL TYPE,,TIPO DE ANIMAL
 Burning Hands,,Mãos Flamejantes
 Attacks of opportunity against manoeuvres,,Ataque de oportunidade contra manobras
 Knowledge (geography),,Conhecimento (Geografia)
+Penetrating Strike,,Golpe Penetrante
 pp,,ppl
 Knowledge (local),,Conhecimento (Local)
+Uses per day,,Usos por dia
+Specialist|Spell,,Especialista|Magia
 x 4,,X 4
 Healing Points,,Ponto de Cura
+Vitalist|Level,,Nível de|Vitalista
 Size Modifier|× 4,,Modificador de Tamanho x4
+SAVING|THROWS,,TESTES DE|RESISTÊNCIA
+"Use your base or animal score, whichever is higher",,"Use seu bônus base ou animal, o que for maior"
 Mass Inflict Light Wounds,,Infligir Ferimentos Leves em Massa
 RAGE!,,FÚRIA!
 2d6,,2d6
 ATTACK,,ATAQUE
 Diamond Body,,Corpo de Diamante
+Item can decipher magical writing.,,Item pode decifrar escritas mágicas.
 Craft (sculpting),,Ofício (Lapidação)
 POWER LEVELS,,NÍVEIS DE PODER
+Expertise|Bonus,,Bônus de|Especialização
 = d6 +,,= d6 +
 Wall of Force,,Barreira de Força
+"On a successful Sense Motive, reveals lies and enchantments",,"Em um testes de Sentir Motivação bem sucedido, releva mentiras e encantamentos"
 Defensive|Bonus,,Bônus defencivo
 Craft (cooking),,Ofício (Cozinhar)
-INT - 8,,INT -8
-Ability|Modifier,,Modificador de Habilidade
+INT - 8,,INT - 8
++3d6 damage,,+3d6 de dano
+Ability|Modifier,,Modificador de|Habilidade
+Take 20|Today,,Escolher 20|Hoje
 Fog Cloud,,Névoa
+RACIAL ABILITIES,,HABILIDADES RACIAIS
 SOOTHING PERFORMANCE,,PERFORMANCE SUÁVE
+Hit Dice,,Dados de vida
 Basic attributes,,Atributos Basicos
+Points|Today,,Pontos|Hoje
 1 to 9,,1 para 9
 Deflection|Modifier,,Modificador de|Deflexão
-Modifier = (Ability Score - 10) ÷ 2,,Modificador = (Pontos de habilidade - 10) ÷ 2
+Modifier = (Ability Score - 10) ÷ 2,,Mod. = (Pontos de habilidade - 10) ÷ 2
 Wisdom|Penalty,,Penalidade de Sabedoria
 You can use your Perform (dance) skill bonus in place|of your Acrobatics skill bonus,,Você pode usar seus pontos bônus de Atuação (Dança) no lugar dos seus pontos bônus de Acrobacias
 Fame,,Fama
 Ammo,,Munição
+-4 initiative; 20% miss chance when attacking|-4 on opposed Perception|automatically fail Perception checks for sound,,-4 iniciativa; 20% de chance de erro ao atacar|-4 em Percepção oposta|automaticamente falha em testes de Percepção para som
 Light <illumination>,,Luz <iluminação>
 KINGDOM|POPULATION,,POPULAÇÃO DO REINO
 BATTLE FORTITUDE,,FORTITUDE DE BATALHA
+Summoner|Level,,Nível de|Invocador
+Profession (clerk),,Profissão (balconista)
 Pick a class,,Escolha uma Classe
 Concentration,,Concentração
 QUIVERING PALM,,MÃOS VIBRANTES
 Spring Attack,,Ataque em Movimento
 Ghost touch,,Toque Fantasma
+Able to take 10 on any skill,,Apto a receber 10 em qualquer perícia
+Observant,,Observante
 Perform (comedy),,Atuação (Comédia)
 ANIMAL SPEAKER,,FALAR COM ANIMAL
+Heal / Harm,,Cura / Fere
 Non-lethal,,não letal
 "Apply this bonus to all Knowledge (geography),|(nature), (local) and Linguistics",,"Aplica este bônus para todos os Conhecimentos (geografia), (natureza), (local) e Linguística"
 ATTACKS,,ATAQUES
+• Dazzled,,• Pasmo
 Desnus,,Desnus
+WITCH FOCUS,,FOCO DE BRUXA
 Summon Undead I,,Invocar Mortos-Vivos I
+Percussion,,Percussão
 Unconscious,,Inconsciente
 INFLICT,,INFliGIR
 Speed with Armour,,Velocidade Vestindo Armadura
@@ -1875,12 +2665,15 @@ MYSTIC WISDOM,,SABEDORIA MÍSTICA
 Increase damage reduction to 10/evil.,,Aumente a redução de dano de 10/mal.
 WIS,,SAB
 POPULACE,,POPULAÇÃO
+Rapid Shot,,Tiro Rápido
 3 rounds,,3 turnos
 Treat unarmed attacks as magic weapons,,Tratarataques desarmados como armas mágicas
 Channel Power,,Canalizar Poder
+Craft (baskets),,Ofício (cestas)
 WIS - 8,,SAB - 8
 "No attack penalty, may attack of opportunity when grappling",,"Sem penalidade de ataque, pode usar ataque de oportunidade quando agarrando"
 COMBAT,,COMBATE
+Profession (midwife),,Profissão (parteira)
 Improved aid,,Ajuda Melhorada
 ANIMAL COMPANION,,COMPANHEIRO ANIMAL
 KNOWN POWERS,,PODERES CONHECIDOS
@@ -1894,63 +2687,95 @@ POTIONS,,POÇÕES
 Daze Monster,,Pasmar Monstro
 Bonus|Feat,,Talento Bônus
 Summon Nature’s Ally I,,Invocar Aliado da Natureza I
+SLIPPERY MIND,,MENTE ESCORREGADIA
+"Once per day, become a dragon.",,"Uma vez por dia, transforme-se em um dragão."
 Location,,Localização
 ANIMAL FORM,,FORMA ANIMAL
 Listen,,Ouvir
 Melée damage,,Dano Corpo a Corpo
+TAKE 10,,ESCOLHER 10
 "From level 12, gain resistance to one energy type.",,"A partir do nível 12, ganha resistência a um tipo de energia"
 Fly Speed,,Velocidade de Vôo
 Hold Person,,Imobilizar Pessoa
+Improved Disarm,,Desarme Aprimorado
 7d6,,7d6
 Training,,Treinamento
+Apply a critical effect to the,,Aplique um efeito de crítico ao
+Outcome,,Lucro
 DC,,CD
 Knowledge: Psionics,,Conhecimento: Psionicos
 1 pt,,1 pt
 "Acrobatics, Heal",,"Acrobacia, Curar"
+PERFECT ADVANTAGE,,VANTAGEM PERFEITA
 Swim,,Nadar
 Bard Level,,Nível de Bardo
+• Shaken,,• Abalado
 Special Ammo,,Munição Especial
 Common,,Comum
+INVESTIGATOR TALENTS,,TALENTOS DE INVESTIGADOR
+Advanced Talent,,Talento avançado
 BUILD A CHARACTER,,Construir um Personagem
 Knowledge: The Planes,,Conhecimento: Planos
+Magical beast,,Besta Mágica
 Base|Points,,Pontos Base
 Forbidden Domain,,Domínio Proibido
+Speak with animals of its kind,,Fale com animais de sua espécie
 EXTRACTS,,EXTRAIR
 LAY ON HANDS,,Cura Pelas Mãos
 2d8 / 4d8,,2d8 / 4d8
+Nature,,Natureza
 Open / Close,,Abrir / Fechar
 Improved|uncanny dodge,,esquiva sobrenatural aprimorada
 Headband,,Bandana
 Charisma|Penalty,,Penalidade de Carisma
 hp,,pv
+Operative|Level,,Nível de|Operativo
 DRACONIC INVOCATIONS,,INVOCAÇÕES DRACÔNICAs
 BARDIC PERFORMANCE & BATTLE DANCE,,ATUAÇÃO DE BARDO E DANÇA DE BATALHA
+SKILL|RANKS,,PERÍCIA|GRADUAÇÕES
 Single-minded,,Mente-única
+Influence,,Influência
 Favoured Enemy Bonus,,Bônus Inimigo Favorito
 Reflex,,Reflexo
 Green,,Verde
 Diplomacy,,Diplomacia
+Consult the book to see what increase you get to your|Base Attack Bonus and Saving Throws at this level.,,Consulte o livro para ver que incremento você recebe em seu|Bônus Base de Ataque e Resistência neste nível.
+Close,,Próximo
 Detect Secret Doors,,Detectar Portas Secretas
 Trained,,Treinado
 Ring,,Anel
 Inspire Courage,,Inspirar Coragem
+SPELL|RANGE,,ALCANCE DE|MAGIA
+Dragon Form (1/day),,Forma de Dragão (1/dia)
 Control Shape,,Controlar Forma
+VOW,,VOTO
 Wis,,Sab
 Tumble,,Arte da Fuga
 Discern Lies|Today,,Discernir Mentiras Hoje
 Bonus language,,Bônus de Idioma
+Use a performance roll to influence animals,,Use testes de performance para influenciar animais
+Threat range,,Alcance de ameaça
+Head / Hat / Mask,,Cabeça / Chapéu / Máscara
 COMBAT STYLE,,ESTILO DE COMBATE
+EXPERTISE,,ESPECIALIZAÇÃO
 +4 Strength,,+4 Força
 "Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",,"O dano do ataque furtivo pode ser aplicado quando um inimigos esta flanqueado ou|não possui seu bônus de DES na CA.|Em ataques a distância, só é aplicado com 10m.|Não é multiplicado em hits críticos.|Não pode ser não-letal, a não ser que utilize uma arma não-letal."
+TOTAL FUNDS,,FUNDOS TOTAIS
+STORM DRUID,,DRUIDA DA TEMPESTADE
+Break Enchantment,,Quebrar Encantamento
 Sml / Lrg,,peq / gde
 Trap Sense +6,,Sentir Armadilha +6
+Enemies are frightened and flee your performance,,Inimigos ficam aterrorizados e fogem com sua apresentação
 Creature type,,Tipo da Criatura
 Immune to all diseases,,Imune a todas as doenças
+Special properties,,Propriedades especiais
 4d8,,4d8
 Waist,,Cintura
 Party Attack|Bonus,,Bônus de Ataquem em Grupo
+Concept,,Conceito
 MANOEUVRES,,MANOBRAS
-Bonus|Feats,,Talento|Bônus
+Bonus|Feats,,Talentos|Bônus
+Cast|Today,,Conjurações|Hoje
 Unconcious,,Inconciênte
 Perception,,Percepção
 Handle Animal,,Adestrar Animal
@@ -1963,25 +2788,36 @@ ORIGINS,,ORIGENS
 Damage|to targets,,Alvos do dano
 CLASS ABILITIES,,HABILIDADES DA CLASSE
 DRACONIC WRATH,,IRÁ DRACÔNICA
+LEGENDARY HERO,,HERÓI LENDÁRIO
 "Racial,|Feats",,"Taletos Raciais,"
 Prying Eyes,,Olhos curiosos
 Armour class|bonus,,Bônus de classe de armadura
+Craft (jewelry),,Ofício (joalheria)
 Gain a +1 bonus to Fortitude and Will saves.,,Ganha +1 de Bônus para testes de Fortitude e Vontade.
++ 4 to all saving throws|+ 4 to AC,,+4 em todas as resistências|+4 na CA
 Skill Ranks,,Graduações em Perícia
+Rolls|Today,,Rolagens|Hoje
 Class|Level,,Nível da Classe
+Deafening Critical,,Crítico Ensurdecedor
 Redirection|Today,,Redirecionar hoje
 Protection from arrows,,Proteção contra Flechas
 DORJES,,DORJE
 ATTRIBUTES,,ATRIBUTOS
 Nimble,,Ligeiro
 ARCHMAGE ARCANA,,ARCHMAGO ARCANO
+UNSHAKEABLE,,INABALÁVEL
 Attack,,Ataque
 2 rounds,,2 turnos
+Profession (cook),,Profissão (cozinheiro)
 Power,,Poder
 WANDS,,VARINHAS
-Fatigued,,Fadiga
+Fatigued,,Fadigado
 Spell|Level,,Magia|Nível
+Social name,,Nome social
 Sympathetic,,Simpatico
+Aspect,,Aspecto
+Illusions|today,,Ilusões|hoje
+Is this a favoured class?,,Esta é uma classe predileta?
 Damage type:,,Tipo de Dano;
 PERFORMANCES,,ATUAÇÃO
 Base Weapon,,Arma Base
@@ -1991,24 +2827,33 @@ Area,,Área
 Trap Sense +2,,Encontrar Armadilhas +2
 +6 Stealth,,+6 Furtividade
 RIGHTEOUS CAUSE,,CAUSA JUSTA
+CASH,,DINHEIRO
+Three times per day.,,Três vezes por dia.
 Foes|Today,,Inimigos hoje
 Blade Barrier,,Barreira de Lâminas
 Conditional Modifiers,,Modificadores Condicionais
 Base Form,,Forma Básica
 Duration,,Duração
+• Deafened,,• Surdo
+Light Wounds,,Feridas Leves
 Perform (oratory),,Atuação (Oratória)
+Hero,,Herói
 BUILDINGS,,CONTRUÇÕES
 Implosion,,Implosão
 120 ft,,36m
 MOUNTAIN DRUID,,MONTARIA DRUIDA
 Ranger|Level,,Nível de|Ranger
+AMAZING INITIATIVE,,INICIATIVA INCRÍVEL
 Effective|Character|Level,,Nível|Efetivo de|Personagem
+SOCIAL,,SOCIAL
 Stoneskin,,Pele Rochosa
 Critical Wounds,,Ferimento Críticos
 Detect Thoughts,,Detectar Pensamentos
-45ft,,13.5
+45ft,,13.5m
+Weapon Mastery,,Maestria em arma
 Radius centred|on the Cleric,,Raio centrado no Clérigo
 Focus,,Focus
+Saves,,RESISTÊNCIAS
 BUFFS,,BUFFS
 Temp Speed,,Deslocamento Temporário
 POWER STONES,,PEDRAS DE PODER
@@ -2017,7 +2862,9 @@ ATTACK BONUS,,BÔNUS DE ATAQUE
 Granted Power,,Poder Garantido
 Initiative,,Iniciativa
 Rogue|Level,,Nível de|Ladino
+Uses|today,,Usos|Hoje
 Swim Speed,,Velocidade de Nadar
+INITIATIVE|MARKERS,,INICIATIVA|MARCADORES
 Channel Positive Energy,,Canalizar Energia Positiva
 AC Bonus,,Bônus de CA
 Racial|bonus,,Bônus Racial
@@ -2026,6 +2873,7 @@ VERSATILE PERFORMANCE,,ATUAÇÃO VERSÁTIL
 Class Skills,,Perícias da Classe
 2pt,,2pt
 RAGE,,FÚRIA
+NINJA,,NINJA
 Character number,,Número de personagem
 The head of Alfredo Garcia,,A cabeça de Alfredo Garcia
 1 rounds,,1 turno
@@ -2033,27 +2881,35 @@ Detect Good / Evil / Law / Chaos,,Detectar Bem / Mal / Ordem / Caos
 Deflect Arrows,,Desviar Objetos
 MOVE THROUGH THREATENED SQUARE,,MOVER-SE POR QUADRADOS AMEAÇADOS
 AURA OF DEPRAVITY,,AURA DE DEPRAVAÇÃO
-Uses Today,,Hoje
+Uses Today,,Usado Hoje
+• Frightened,,• Aterrorizado
+MAGICAL CHILD,,CRIANÇA MÁGICA
 ARMOUR TRAINING,,TREINAMENTO DE ARMADURA
 Incendiary Cloud,,Nuvem Incendiária
 "As a move action, detect evil in one creature or item within 60ft.",,"Como uma ação de movimento, detectar o mal em uma criatura ou item dentro de 18 metros"
 Comedy,,Comédia
+Rogue’s Edge,,Lâmina do Ladino
 +2 Strength,,+2 Força
+Quick Draw,,Saque rápido
 (ROGUE),,(LADINO)
 Craft (brewery),,Ofício (Cervejaria)
 Clothes / Body,,Roupas / Corpo
 d10 / 3d6,,d10 / 3d6
 Clairaudience / Clairvoyance,,Clarividência / Clariaudiência
 Ready,,Ler
+"On using Smite Evil to successfully hit an outsider, that outsider is subject to Banishment.|The effect of Smite Evil ends after this attack.",,"Ao usar Punir o Mal para atingir com sucesso um extraplanar, este extraplanar é submetido à Banimento.|O efeito de Punir o Mal acaba após esse ataque."
 Foes within 10ft lose any immunity to fear,,inimigos dentro de 3 metros perdem qualquer imunidade ao medo
 or,,ou
 Diamond Soul,,Alma de Diamante
+PROMOTIONS,,PROMOÇÕES
 MELEE,,CORPO A CORPO
+"Place of origin, nationality, culture",,"Lugar de origem, nacionalidade, cultura"
 WIZARD,,MAGO
 Inflict Serious Wounds,,Infligir Ferimento Sério
 Armor Class Bonus,,Bônus de Classe de Armadura
 Handle Animal|Bonus,,Bônus para Adestrar Animal
 Black,,Negro
+SAVING THROW DC,,CD DE TESTE DE RESISTÊNCIA
 RIGHTEOUS HUNTER,,CAÇADOR JUSTO
 DEATH DOMAIN,,DOMÍNIO DOS MORTOS
 +10ft,,+3m
@@ -2061,33 +2917,55 @@ Debts,,Debtos
 Summon Monster,,Invocar Monstro
 Likes,,Favoritos
 Dodge|Modifier,,Modificador de Esquiva
+Use in place of Diplomacy to improve the attitude of an animal,,Use no lugar de Diplomacia para melhorar a atitude de um animal
 Domain,,Domínio
+URBAN DRUID,,DRUIDA URBANO
+Standard,,Padrão
+Stunned,,Atordoado
 Temp AC,,CA Temporária
 PALADIN,,PALADINO
+Str,,For
+d6 +,,d6 +
+1st,,1º
 DC 25,,CD 25
+DIRGE OF DOOM,,MARCHA FÚNEBRE
+LEVEL,,NÍVEL
 ARCANE ARMOUR,,ARMADURA ARCANA
+VII,,VII
+Monk Level|÷ 4,,Nível de Monge|÷ 4
 Gather Information,,Obter Informação
 Truespeak,,Fala Verdadeira
+PILOT,,PILOTO
 Burrow Speed,,Velocidade de Cavar
+AVENGER,,VINGADOR
 Acid,,Ácido
 BONUS FEATS,,TALENTO BÔNUS
 4ft,,1.2m
 Crowd Control,,Controlar Grupo
 Craft (bookbinding),,Ofício (Encadernação)
+"Imitate any sorcerer or wizard conjuration spell up to 3rd level,|but summoned creatures only have 20% strength, 20% hit|points and deal 20% damage.",,"Imita qualquer magia de conjuração de feiticeiro ou mago (até nível 3),|mas criaturas invocadas terão apenas 20% da força, 20% dos pontos|de vida e causam 20% de dano."
+Multiplier,,Multiplicador
+BASE ATTACK & SAVING THROWS,,ATAQUE BASE & RESISTÊNCIAS
 Red,,Vermelho
 Item can talk in languages it knows.,,Item pode falar em idiomas que ele conhece.
 Mystic Wisdom,,Sabedoria Mística
 = ECL + 3,,= NEP + 3
 Height,,Altura
+WITCH SENSE,,SENTIDO DE BRUXA
 Summon spirit,,Invocar Espirito
 SPELLS,,MAGIAS
+Carried by / given to,,Carregado por / dado à
 Summon,,Invocar
 Campaign,,Campanha
 Ventriloquism,,Ventriloquismo
 Style skill,,Estilo de perícia
 Touch,,Toque
+require,,requer
+Transmutation,,Transmutação
+"Allocate these scores to your six stats:|Strength, Dexterity, Constitution,|Intelligence, Wisdom and Charisma",,"Aloque estas pontuações para seus seis atributos:|Força, Destreza, Constituição,|Inteligência, Sabedoria e Carisma"
 A successful sneak attack can also deliver one of:| • Sleep for 1d4 hours| • Paralysed for 2d6 rounds| • Slain,,Um ataque furtivo bem sucedido pode causar um efeito:| •  Dormir por 1d4 horas| •  Paralizado por 2d6 rodadas| • Assassinado
 11ft,,3.3m
+Perfect Style,,Estilo Perfeito
 Bonus to Diplomacy|and Intimidate,,Bônus para Diplomacia e Intimidar
 TRAP SENSE,,SENTIR ARMADILHAS
 Dazed,,Pasmo
@@ -2096,38 +2974,52 @@ Mouse,,Rato
 Double damage to inanimate structures.,,Dano dobrado para estruturas inanimadas.
 Good saves:,,Teste de Bondade:
 ARCANE POOL,,RESERVA ARCANA
+Deafened,,Surdo
 Heal,,Curar
+Components / Focus,,Componentes / Foco
+Staggered,,Cambaleante
 Defensive|Casting|Bonus,,Bônus de Conjuração Defensiva
 Region,,Região
 Notes,,Notas
 Summon Undead II,,Invocar Mortos-Vivos II
+Unlimited range,,Alcance ilimitado
 Total Weight,,Peso Total
 Inflict Moderate Damage,,Infligir Dano Moderado
 Craft (painting),,Ofício (Pintura)
 to ignore 10ft of falling damage,,ignora 3m de dano por queda
+Greater Vital Strike,,Golpe Vital Aumentado
+CROSSBLOODED|SORCERER,,FEITICEIRO DE|SANGUE MESTIÇO
 xp,,xp
 Resolved,,Resolvido
 DC reduction,,Redução de CD
-FRIENDLY,,AMIGÁVEL
+Vigilante name,,Nome de Vigilante
+FRIENDLY,,AMIGAVEL
 Temp Damage|Bonus,,Dano Temporário|Bônus
 Druid|Level,,Nível de|Druida
+ALCHEMY,,ALQUIMIA
+Bonus against charm and compulsion effects,,Bônus contra efeitos de encantamento e compulsão
 Successful critical hit|(with a light or one-handed piercing melee weapon),,Acerto crítico (com uma arma perfurante leve ou de uma mão em ataques corpo a corpo)
 "Apply this bonus to Knowledge (arcana),|Spellcraft and Use Magical Device",,"Aplica este bônus para Conhecimento (arcano), Arte da Magia e Usar Dispositivo Magico"
 Capacity + 2,,Capacidade +2
-Monk|Level,,Nível do Monge
+Improved Vital Strike,,Golpe Vital Aprimorado
+Monk|Level,,Nível de|Monge
 Good Cleric,,Clérigo do BEm
 1pt,,1pt
+CAPTAIN,,CAPITÃO
 Bonus to Perception|and Disable Device,,Bônus de Percepção e Desabilitar Dispositivo
 SPELL CRITICAL,,MAGIA CRÍTICA
 AURA OF JUSTICE,,AURA DE JUSTIÇA
 2ft,,0.6m
 + 2 + 4d6,,+ 2 + 4d6
+1 pt per range increment,,1 pt por incremento no alcance
 Your starting languages,,Seus idiomas de partida
+Change shape as a move action.,,Muda de forma como uma ação de movimento
 Craft (masonry),,Ofício (Alvenaria)
 2d4,,2d4
 "Bluff, Intimidate",,"Blefar, Intimidar"
 Spell Save DC = 10 + CHA + Spell Level,,Resistência a Magia CD = 10 + CAR + Nível da Magia
 dice,,dados
+Item value,,Valor do item
 Misc|Modifier,,Outros Modificadores
 Max Weight,,Peso Max
 Arms / Wrists,,Braços / Pulsos
@@ -2135,25 +3027,39 @@ Silver,,Prata
 Obscuring Mist,,Névoa Obscurecente
 Max|Ranks,,MAX|GRADUAÇÕES
 Use redirection on any melee attacker,,Use o redirecionamento em qualquer atacante corpo a corpo.
-Base|Attack Bonus,,BÔNUS BASE DE ATAQUE
+Heavy,,Pesado
+Base|Attack Bonus,,Bônus|Base de Ataque
+Shaman|Level,,Nível de|Xamã
 SHIELD,,ESCUDO
+Disarm magical traps as a Rogue.,,Desarme armadilhas mágicas como um Ladino.
+Race (including subtypes or customisations),,Raça (incluindo subtipos ou personalizações)
 Stable,,Estável
 Spell immunity,,Imune a magia
 d10+7,,d10+7
 BESTIAL MOUNT,,MONTARIA BESTIAL
 INVULNERABILITY,,INVUNERABILIDADE
 INIT,,INIC
+OTHER EVENTS,,OUTROS EVENTOS
+MAGIC ITEMS,,ITENS MÁGICOS
 Light Load,,Carga Leve
-Counter magical effects that depend on sight.|Allies within 30ft use Performance roll in place of a saving throw,,Contra efeitos mágicos que dependem da visão. Aliados com 10m usam rolam Atuação no lugar de resistencias
+VIGILANTE TALENTS,,TALENTOS DE VIGILANTE
+Rank / Position,,Patente / Posição
+Counter magical effects that depend on sight.|Allies within 30ft use Performance roll in place of a saving throw,,Anula efeitos mágicos que dependem de visão.|Aliados em 9m usam teste em Performance no lugar de resistências
 Perform (string),,Atuação (Instrumentos de Corda)
-Other:,,Outro;
+15/magic,,15/magia
+Other:,,Outro:
+Gorgon’s Fist,,Punho da Górgona
 Ability Modifier = (Total Ability Score - 10) ÷ 2,,Modificador de Habilidade = Valor Total de Habilidade - 10) ÷ 2
 Uncanny dodge,,Esquiva misteriosa
 Ride,,Montaria
 Survival|Bonus,,Sobrevivência|Bônus
+(BLOODRAGER),,(FURIANTE SANGUÍNEO)
 Evasion,,Evasão
+Kingdom’s|Income,,Lucros do|Reino
+Throw Anything,,Arremessar Qualquer Coisa
 Motivations,,Motivações
 Snatch Arrows,,Flechas Arrebatadoras
+"Bonus to attack, damage and selected skills against this enemy",,"Bônus de ataque, dano e perícias selecionadas contra este inimigo"
 "Diplomacy, Perception",,"Diplomacia, Percepção"
 3ft,,1.2m
 Power Attack,,Poder de Ataque
@@ -2163,6 +3069,8 @@ Animal|companion,,Companheiro Animal
 +6 Strength,,+6 Força
 CONTROLLED RAGE,,FÚRIA CONTROLADA
 Item can read any language.,,Item pode ler qualquer idioma
+Catch off-guard,,Pegar Desprevenido
+Improved Precise Shot,,Tiro Preciso Melhorado
 Sneak Attack,,Ataque furtivo
 ACTIONS,,AÇÕES
 CMB,,BMC
