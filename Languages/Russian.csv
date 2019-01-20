@@ -1,657 +1,668 @@
 Original,Part of,Translation
-RAGE!,RAGE!|Modifier,Модиф.
-Modifier,RAGE!|Modifier,ЯРОСТИ!
-Heal your own wounds -,Heal your own wounds - 2 ki points,Исцелить собственные раны - 
-2 ki points,Heal your own wounds - 2 ki points,2 очка ки
-Level,25’+ 5’ × (Level ÷ 2),Уровень
-UNARMED ATTACK,UNARMED ATTACK BONUS,БЕЗОРУЖНАЯ АТАКА
-BONUS,UNARMED ATTACK BONUS,БОНУС
-Mighty,Mighty RAGE!,МОГУЧАЯ 
-RAGE!,Mighty RAGE!," ЯРОСТЬ!"
-Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,Стена щитов
-to,Shield Wall    +1 / +2 to AC when both using shields,к
-AC,Shield Wall    +1 / +2 to AC when both using shields,КБ
-when both using shields,Shield Wall    +1 / +2 to AC when both using shields,когда оба со щитами
-SNEAK DAMAGE,SNEAK DAMAGE|BONUS,УРОН АТАКИ ИСПОДТИША
-BONUS,SNEAK DAMAGE|BONUS,БОНУС
-Damage Reduction 3/,Damage Reduction 3/―,Сокращение урона 3/
-COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|DEFENCE,БОЕВОЙ|МАНЕВР
-DEFENCE,COMBAT|MANOEUVRE|DEFENCE,ЗАЩИТА
-Fast Movement,Fast Movement +30 ft,Быстрое Передвижение
-+30 ft,Fast Movement +30 ft,+30фт
-Fast Movement,Fast Movement +60 ft,Быстрое Передвижение
-+60 ft,Fast Movement +60 ft,+60фт
-A Thousand Faces,A Thousand Faces|Change appearance at will,Тасяча Лиц
-Change appearance at will,A Thousand Faces|Change appearance at will,Изменить внешность по желанию
-HEALING,HEALING|HIT POINTS,ЛЕЧЕНИЕ| ОЧКИ ЗДОРОВЬЯ
-HIT POINTS,HEALING|HIT POINTS,ОЧКИ ЗДОРОВЬЯ
-Slow Fall,Slow Fall 80 ft,Замедление падения 
-80 ft,Slow Fall 80 ft," 80 фт"
-ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,ШТРАФ К ПРОВЕРКАМ|ОТ
-REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,ДОСПЕХА
-Lookout,Lookout    Act in surprise round if ally can act,Бдительность
-Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,Действовать в предбоевой раунд если союзник может действовать
-Slip magically between spaces -,Slip magically between spaces - 2 ki points,Магическое движение между квадратами - 
-2 ki points,Slip magically between spaces - 2 ki points," 2 очка ки"
-"Baron, Duke, King or Queen","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Барон, Герцог, Король или Королева"
-"– If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","- Если свободно, королевство проваливает броски управления и не может захватывать или развивать шестигранники"
-FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,ШКВАЛ УДАРОВ
-BASE ATTACK BONUS,FLURRY OF BLOWS|BASE ATTACK BONUS,БАЗОВЫЙ БОНУС  К АТАКЕ
-Damage Reduction 2/,Damage Reduction 2/―,Сокращение урона 2/
-Chaotic:,Chaotic: +2 Loyalty,Хаос: 
-Loyalty,Chaotic: +2 Loyalty," Верность"
-(which grants,(which grants +24 to Acrobatics checks for jumping),(что дает 
-to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
-Venom Immunity,Venom Immunity|Immune to all poisons,Иммунитет к яду 
-Immune to all poisons,Venom Immunity|Immune to all poisons," Невосприимчив ко всем ядам"
-to jump checks -,+20 to jump checks - 1 ki point,к проверкам прыжков
-1 ki point,+20 to jump checks - 1 ki point,1 очко ки
-SUBTOTAL,SUBTOTAL BUFFS & TEAMWORK,ПОДЫТОГ
-BUFFS & TEAMWORK,SUBTOTAL BUFFS & TEAMWORK,БАФФЫ И КОМАНДНАЯ РАБОТА
-Tireless,Tireless RAGE!,Неутомимая
-RAGE!,Tireless RAGE!,ЯРОСТЬ!
-(which grants,(which grants +16 to Acrobatics),(что дает 
-to Acrobatics),(which grants +16 to Acrobatics)," к Акробатике)"
-FAMILIAR,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,ФАМИЛЬЯР
-ANIMAL COMPANION,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,ЖИВОТНОЕ-СПУТНИК
-MOUNT,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,ЕЗДОВОЕ
-SUMMONED CREATURE,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,ПРИЗВАННОЕ СОЗДАНИЕ
-ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,КЛАСС|ЗАЩИТЫ
-PENALTY,ARMOUR|CLASS|PENALTY,ШТРАФ
-Improved Back to Back,Improved Back to Back    +2 to ally’s AC,Улучшенная Спина к Спине
-to ally’s,Improved Back to Back    +2 to ally’s AC,к союзническому
-AC,Improved Back to Back    +2 to ally’s AC,КБ
-MILITARY,MILITARY    Create armed units (comes from allocation for settling towns),ВОЙСКА
-Create armed units (comes from allocation for settling towns),MILITARY    Create armed units (comes from allocation for settling towns),Создание войск (
-Broken Wing Gambit,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Гамбит Сломанного Крыла
-Grant,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Даёт
-", get attack of opportunity","Broken Wing Gambit    Grant +2 / +2, get attack of opportunity"," и атаку по возможности"
-Ruler of a colony or vassal state,"Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit","Правитель колонии, или вассального гос-ва"
-"– May also take any role for colony, with 1 less benefit","Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit",- Может так же исполнять любую роль в колонии со сниженной на 1 пользой
-Greater,Greater RAGE!,Великая
-RAGE!,Greater RAGE!,ЯРОСТЬ!
-Craft -,Craft - INT|Perform - CHA,Ремесло - 
-INT,Craft - INT|Perform - CHA," ИНТ "
-Perform -,Craft - INT|Perform - CHA,Выступление - 
-CHA,Craft - INT|Perform - CHA," ХАР"
-"economy,","+4 economy, -8 loyalty","экономика, "
-loyalty,"+4 economy, -8 loyalty"," верность"
-FASCINATE,FASCINATE|MAX AUDIENCE,ОЧАРОВАНИЕ
-MAX AUDIENCE,FASCINATE|MAX AUDIENCE,МАКС. ЗРИТЕЛЕЙ
-CHANNEL,CHANNEL|PER DAY,ПРОВЕДЕНИЙ
-PER DAY,CHANNEL|PER DAY,В ДЕНЬ
-INITIATIVE,INITIATIVE|BONUS,ИНИЦИАТИВЫ
-BONUS,INITIATIVE|BONUS,БОНУС
-Hammer the Gap,Hammer the Gap    On a successful attack,Пробить Бреш
-On a successful attack,Hammer the Gap    On a successful attack,При успешной атаке
-WILL,WILL|SAVE DC,ВОЛЯ
-SAVE DC,WILL|SAVE DC,КС СПАСА
+USES,USES|PER DAY,ПРИМЕНЕНИЙ
+PER DAY,USES|PER DAY," В ДЕНЬ"
+Resist Nature’s Lure,Resist Nature’s Lure|+4 to saves against the fey and plants,Устойчивость к Соблазнам Природы
++4 to saves against the fey and plants,Resist Nature’s Lure|+4 to saves against the fey and plants,+4 к спасам против фей и растений
+BASE|ATTACK,BASE|ATTACK BONUS,БАЗОВАЯ|АТАКА
+BONUS,BASE|ATTACK BONUS,БОНУС
+FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,ВРАСПЛОХ
+ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS," КЛАСС БРОНИ"
+Lawful:,Lawful: +2 Economy,ЗАКОН: 
+Economy,Lawful: +2 Economy," Экономика"
+Trackless Step,"Trackless Step|Leave no trail, unless deliberately",Бесследная Ходьба
+"Leave no trail, unless deliberately","Trackless Step|Leave no trail, unless deliberately","Не оставлять за собой следы, если только не специально."
+SPELL,SPELL RESISTANCE,СОПРОТИВЛЕНИЕ
+RESISTANCE,SPELL RESISTANCE,МАГИИ
+Damage Reduction 1/,Damage Reduction 1/―,Снижение Урона 1/
+Morale Bonus,Morale Bonus    Inspire Courage and similar,Бонус Морали
+Inspire Courage and similar,Morale Bonus    Inspire Courage and similar,Вдохновляющая Отвага и подобное
 RANGED ATTACK,RANGED ATTACK|BONUS,ДАЛЬНЯЯ АТАКА
 BONUS,RANGED ATTACK|BONUS,БОНУС
-TRAP,TRAP SENSE,ПОИСЕ 
-SENSE,TRAP SENSE," ЛОВУШЕК"
-Slow Fall,Slow Fall 90 ft,Замедление падения 
-90 ft,Slow Fall 90 ft," 70 фт"
-Duck and Cover,Duck and Cover    Take ally’s result on reflex save,Спрятать голову в песок
-Take ally’s result on reflex save,Duck and Cover    Take ally’s result on reflex save,Взять результат союзника по спасброску за рефлекс
-Class|Skills,Class|Skills|+3,Классовые|Навыки
-Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,Оружейное Мастерство
-Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,Увеличенный критический диапазон и автоподтверждение крита
-Vital Strike,Vital Strike    Extra damage dice,Жестокий Удар
-Extra damage dice,Vital Strike    Extra damage dice,Дополнительная кость урона
-Woodland Stride,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Лесная Прогулка 
-Move through undergrowth at normal speed|and taking no damage,Woodland Stride|Move through undergrowth at normal speed|and taking no damage," Передвижение через любой вид подлеска| без потери скорости и не получая урона"
-DAMAGE,DAMAGE|REDUCTION,СОКРАЩЕНИЕ
-REDUCTION,DAMAGE|REDUCTION,УРОНА
-COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,БОЕВОЙ|МАНЕВР
-DEFENCE,COMBAT|MANEUVRE|DEFENCE,ЗАЩИТА
-"stability,","+2 stability, +2bp consumption","стабильность, "
-+2bp,"+2 stability, +2bp consumption",+2 потребление 
-consumption,"+2 stability, +2bp consumption"," bp"
-INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,ВДОХНОВЕНИЕ ГЕРОИЧНОСТИ
-MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,МАКС. ЦЕЛЕЙ
-WILL,WILL SAVE,ВОЛИ
-SAVE,WILL SAVE,СПАС
-Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",Улучшенный Партнёрский Финт
-"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO","Когда союзник делает финт, получи АпВ"
+Rapid Shot,"Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty",Быстрая стрельба
+"When making a full-round attack, get one additional attack in return for a -2 penalty","Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty","Проводя действие полной атаки, получить дополнительный выстрел со штрафом -2"
+TOUCH,TOUCH ARMOUR CLASS,КАСАНИЕ
+ARMOUR CLASS,TOUCH ARMOUR CLASS," КЛАСС БРОНИ"
+TRAP SENSE,TRAP SENSE|BONUS,ПОИСК ЛОВУШЕК
+BONUS,TRAP SENSE|BONUS,БОНУС
+STRENTH|SCORE,STRENTH|SCORE|BONUS,ПОКАЗАТЕЛЬ|СИЛЫ 
+BONUS,STRENTH|SCORE|BONUS," БОНУС"
+RAGE!,RAGE!|TODAY,ЯРОСТЬ! 
+TODAY,RAGE!|TODAY," СЕГОДНЯ"
+Evil:,Evil: +2 Economy,Зло: 
+Economy,Evil: +2 Economy," Экономика"
+STUNNING FIST,STUNNING FIST|PER DAY,ОГЛУШАЮЩИЙ КУЛАК 
+PER DAY,STUNNING FIST|PER DAY," СЕГОДНЯ"
+Damage Reduction 5/,Damage Reduction 5/―,Сокращение урона 5/
+Shot on the Run,Shot on the Run    Attack at any point during your move,Стрельба на Ходу
+Attack at any point during your move,Shot on the Run    Attack at any point during your move,Атаковать в любой момент движения
+POWERS,POWERS|KNOWN,СИЛЫ
+KNOWN,POWERS|KNOWN,Известные
+SMITING ATTACK,SMITING ATTACK|BONUS,БОНУС
+BONUS,SMITING ATTACK|BONUS,СОКРУШАЮЩЕЙ АТАКИ
+FLAT-FOOTED,FLAT-FOOTED AC,ВРАСПЛОХ
+AC,FLAT-FOOTED AC,КЗ
+(which grants,(which grants +16 to Acrobatics),(что дает 
+to Acrobatics),(which grants +16 to Acrobatics)," к Акробатике)"
+OPPOSED,OPPOSED SCHOOLS,ПРОТИВОПОЛОЖНЫЕ
+SCHOOLS,OPPOSED SCHOOLS,ШКОЛЫ
+"economy,","+4 economy, -8 loyalty","экономика, "
+loyalty,"+4 economy, -8 loyalty"," верность"
+Shot on the run,Shot on the run    Attack at any point during your move,Стрельба на Ходу
+Attack at any point during your move,Shot on the run    Attack at any point during your move,Атаковать в любой момент движения
+Fast Movement,Fast Movement +60 ft,Быстрое Передвижение
++60 ft,Fast Movement +60 ft,+60фт
+POWER,POWER|PER DAY,СИЛ
+PER DAY,POWER|PER DAY,В ДЕНЬ
+POWER POINTS,POWER POINTS|MAX COST,МАКС. СТОИМОСТЬ
+MAX COST,POWER POINTS|MAX COST,ОЧКОВ СИЛЫ
+(which grants,(which grants +8 to Acrobatics checks for jumping),(что дает 
+to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
+Venom Immunity,Venom Immunity|Immune to all poisons,Иммунитет к яду 
+Immune to all poisons,Venom Immunity|Immune to all poisons," Невосприимчив ко всем ядам"
 Greater Two-weapon Fighting,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Великий Бой с Оружием в Обеих Руках
 Third attack with your off-hand weapon,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Третья атака с оружием во второстепенной руке
-(which grants,(which grants +4 to Acrobatics),(что дает 
-to Acrobatics),(which grants +4 to Acrobatics)," к Акробатике)"
-Slow Fall,Slow Fall 50 ft,Замедление падения 
-50 ft,Slow Fall 50 ft,50 фт
-Two-weapon Fighting,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Бой с Оружием в Обеих Руках
-Penalty for wielding two weapons reduced to -4 / -4,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Штраф за использование двух оружий снижается до -4 / -4
+RAGE!,RAGE! POWERS,СИЛЫ
+POWERS,RAGE! POWERS,ЯРОСТИ!
+Assume ethereal state for 1 minute -,Assume ethereal state for 1 minute - 3 ki points,Обрести состояние эфирности на 1 минуту - 
+3 ki points,Assume ethereal state for 1 minute - 3 ki points," 3 очка ки"
+DODGE,DODGE|BONUS,БОНУС
+BONUS,DODGE|BONUS,УКЛОНЕНИЯ
+Good:,Good: +2 Loyalty,Добро: 
+Loyalty,Good: +2 Loyalty," Верность"
+Paired Opportunists,Paired Opportunists    When adjacent,Партнёрский Оппортунизм
+When adjacent,Paired Opportunists    When adjacent,Когда вплотную
+Off-hand weapon,Off-hand weapon    (crossbow only),Вспомогательная рука
+(crossbow only),Off-hand weapon    (crossbow only),(только арбалет)
+"economy,","+2 economy, -2 loyalty","экономика, "
+loyalty,"+2 economy, -2 loyalty"," верность"
+FLAT-FOOTED,FLAT-FOOTED|CMD,ВРАСПЛОХ
+CMD,FLAT-FOOTED|CMD,ЗБМ
+INTIMIDATE,INTIMIDATE|BONUS,ЗАПУГИВАНИЕ
+BONUS,INTIMIDATE|BONUS,БОНУС
+DEFLECTION,DEFLECTION|BONUS,МОДИФИКАТОР
+BONUS,DEFLECTION|BONUS,ОТРАЖЕНИЯ
+Damage Reduction 3/,Damage Reduction 3/―,Сокращение урона 3/
+Devastating Strike,Devastating Strike    +2 per extra die,Разрушающий Удар
+per extra die,Devastating Strike    +2 per extra die,за дополнительную кость
+CHANNEL,CHANNEL|RANGE,ПРОВЕДЕНИЕ
+RANGE,CHANNEL|RANGE,РАДИУС
+CHANNEL,CHANNEL|PER DAY,ПРОВЕДЕНИЙ
+PER DAY,CHANNEL|PER DAY,В ДЕНЬ
+Shake It Off,Shake It Off     +1 to all saving throws per adjacent ally,Стряхнуть
+to all saving throws per adjacent ally,Shake It Off     +1 to all saving throws per adjacent ally,ко всем спасброскам за прилегающего союзника
 Knowledge -,Knowledge - INT|Profession - WIS,Знаниие -
 INT,Knowledge - INT|Profession - WIS,ИНТ
 Profession -,Knowledge - INT|Profession - WIS,Профессия-
 WIS,Knowledge - INT|Profession - WIS,МУД
-ENERGY,ENERGY|ROLL,ЭНЕРГИИ
-ROLL,ENERGY|ROLL,БРОСОК
-SPECIALITY,SPECIALITY SCHOOL,СПЕЦИАЛИЗАЦИЯ НА
-SCHOOL,SPECIALITY SCHOOL,ШКОЛЕ
-BASE|ATTACK,BASE|ATTACK|BONUS,БАЗОВЫЙ|АТАКИ
-BONUS,BASE|ATTACK|BONUS,БОНУС
-Point-blank shot,Point-blank shot    Within 30ft,Выстрел упор
-Within,Point-blank shot    Within 30ft,до
-30ft,Point-blank shot    Within 30ft,30фт
-Manyshot,Manyshot    Shoot two arrows simultaneously,Залп
-Shoot two arrows simultaneously,Manyshot    Shoot two arrows simultaneously,Выстрел одновременно двумя стрелами
-Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Чувство природы
-+2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 к навыкам Знание (природа) и Выживание
-SIXTH,SIXTH|SENSE,ШЕСТОЕ 
-SENSE,SIXTH|SENSE," ЧУВСТВО"
-BUILDINGS,BUILDINGS    Add buildings to towns,СТРОИТЕЛЬСТВО
-Add buildings to towns,BUILDINGS    Add buildings to towns,Постройка строений в городах
-TAKE 20,TAKE 20 PER DAY,ВЗЯТЬ 20 
-PER DAY,TAKE 20 PER DAY," В ДЕНЬ"
-RAGE!,RAGE!|Today,ЯРОСТЬ!
-Today,RAGE!|Today,Сегодня
-"stability,","+4 stability, +8bp consumption","стабильность, "
-+8bp,"+4 stability, +8bp consumption",+8 потребление 
-consumption,"+4 stability, +8bp consumption"," bp"
-Improved Devastating Strike,Improved Devastating Strike  +2 per die,улучшенный сокрушительный удар
-per die,Improved Devastating Strike  +2 per die,за кость
-Devastating Strike,Devastating Strike    +2 per extra die,Разрушающий Удар
-per extra die,Devastating Strike    +2 per extra die,за дополнительную кость
-Wild Empathy,Wild Empathy|Improve the attitude of an animal,Сочувствие животным
-Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Улучшение отношение животных
-Manyshot,"Manyshot    When making a full-round attack, your first attack has two arrows",Мультивыстрел
-"When making a full-round attack, your first attack has two arrows","Manyshot    When making a full-round attack, your first attack has two arrows","Проведя полнораундовую атаку, первым выстрелом вылетают две стрелы"
+PROHIBITED,PROHIBITED SCHOOLS,ЗАПРЕЩЕННЫЕ
+SCHOOLS,PROHIBITED SCHOOLS,ШКОЛЫ
+RAGE!,RAGE!|PER DAY,ЯРОСТЬ!
+PER DAY,RAGE!|PER DAY,В ДЕНЬ
+STUNNING FIST,STUNNING FIST|TODAY,ОГЛУШАЮЩИЙ КУЛАК 
+TODAY,STUNNING FIST|TODAY," СЕГОДНЯ"
+MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,МАКС БОНУС|ЛОВ
+BONUS,MAX ARMOUR|DEX BONUS,К КБ
+Level,25’+ 5’ × (Level ÷ 2),Уровень
++ 4 to all saving throws|+ 4 dodge bonus to,+ 4 to all saving throws|+ 4 dodge bonus to AC,+ 4 ко всем спасброскам
+AC,+ 4 to all saving throws|+ 4 dodge bonus to AC,+ 4 бонус уклонения к КБ
+Improved Two-weapon Fighting,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Улучшенный Бой с Двумя Оружиями
+Second attack with your off-hand weapon,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Вторая атака с оружием в вспомогательной руке
+"stability,","+1 stability, +1bp consumption","стабильность, "
++1bp,"+1 stability, +1bp consumption",+1 потребление 
+consumption,"+1 stability, +1bp consumption"," bp"
+Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,Скоординированные Манёвры
+to,Coordinated Manoeuvres    +2 to CMB,к
+CMB,Coordinated Manoeuvres    +2 to CMB,ББМ
+Cleaving Finish,Cleaving Finish    Extra attack if enemy is knocked out,Добивающее Расщепление
+Extra attack if enemy is knocked out,Cleaving Finish    Extra attack if enemy is knocked out,Доп. атака если враг без сознания
+SMITINGS,SMITINGS|PER DAY,СОКРУШЕНИЙ
+PER DAY,SMITINGS|PER DAY,В ДЕНЬ
+Vital Strike,Vital Strike    Extra damage dice,Жестокий Удар
+Extra damage dice,Vital Strike    Extra damage dice,Дополнительная кость урона
+CMD,CMD BONUS,ЗБМ
+BONUS,CMD BONUS,БОНУС
+WILL|SAVE,WILL|SAVE|BONUS,СПАС|ВОЛИ
+BONUS,WILL|SAVE|BONUS,БОНУС
+ARMOUR,ARMOUR CLASS,КЛАСС
+CLASS,ARMOUR CLASS,ЗАЩИТЫ
+HEALING POINTS,HEALING POINTS|PER DAY,ОЧКОВ ЛЕЧЕНИЯ
+PER DAY,HEALING POINTS|PER DAY,В ДЕНЬ
+REFLEX,REFLEX SAVE,РЕАКЦИИ
+SAVE,REFLEX SAVE,СПАС
+ETHERIAL,ETHERIAL|ROUNDS,БЕСТЕЛЕСНЫХ
+ROUNDS,ETHERIAL|ROUNDS,РАУНДОВ
+Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,Изворотливость
+Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,"Не провоцирует АпВ, когда рядом с союзником"
+Broken Wing Gambit,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Гамбит Сломанного Крыла
+Grant,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Даёт
+", get attack of opportunity","Broken Wing Gambit    Grant +2 / +2, get attack of opportunity"," и атаку по возможности"
 Double Slice,Double Slice    Add your full STR to damage with an off-hand weapon,Двойное Рассечение
 Add your full,Double Slice    Add your full STR to damage with an off-hand weapon,Добавьте свой
 STR,Double Slice    Add your full STR to damage with an off-hand weapon,СИЛ
 to damage with an off-hand weapon,Double Slice    Add your full STR to damage with an off-hand weapon,к урону оружия во вспомогательной руке
-Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,Союзный Заклинатель
-to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,для преодоления сопротивления заклинания
-Bonus Spells,Bonus Spells|WIS,Бонусных
-WIS,Bonus Spells|WIS,МУД
-POWER,POWER|PER DAY,СИЛ
-PER DAY,POWER|PER DAY,В ДЕНЬ
-(which grants,(which grants +8 to Acrobatics),(что дает 
-to Acrobatics),(which grants +8 to Acrobatics)," к Акробатике)"
-Off-hand weapon,Off-hand weapon    (crossbow only),Вспомогательная рука
-(crossbow only),Off-hand weapon    (crossbow only),(только арбалет)
-(which grants,(which grants +24 to Acrobatics),(что дает 
-to Acrobatics),(which grants +24 to Acrobatics)," к Акробатике)"
-FORTITUDE,FORTITUDE SAVE,СТОЙКОСТИ
-SAVE,FORTITUDE SAVE,СПАС
-Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Считается пришельцем 
-Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic," Иммунитет к Очарованию Персоны и другим эффектам,|цель которых - не пришельцы.|Сокращение урона "
-10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic," 10/хаос"
-+ 4 to all saving throws|+ 4 dodge bonus to,+ 4 to all saving throws|+ 4 dodge bonus to AC,+ 4 ко всем спасброскам
-AC,+ 4 to all saving throws|+ 4 dodge bonus to AC,+ 4 бонус уклонения к КБ
-TRAP SENSE,TRAP SENSE|REFLEX BONUS,ОЩУЩЕНИЕ ЛОВУШЕК
-REFLEX BONUS,TRAP SENSE|REFLEX BONUS,БОНУС РЕАКЦИИ
-GREATER,GREATER RAGE!,БОЛЬШАЯ
-RAGE!,GREATER RAGE!,ЯРОСТЬ!
-STRENTH|SCORE,STRENTH|SCORE|BONUS,ПОКАЗАТЕЛЬ|СИЛЫ 
-BONUS,STRENTH|SCORE|BONUS," БОНУС"
-Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Фокус Ярости
-Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Сокрушающий удар без штрафа для первой атаки
-Off-hand weapon,Off-hand weapon    (2 less for a light weapon),Вспомогательная рука
-less for a light weapon),Off-hand weapon    (2 less for a light weapon),меньше для лёгкого оружия)
-PROHIBITED,PROHIBITED SCHOOLS,ЗАПРЕЩЕННЫЕ
-SCHOOLS,PROHIBITED SCHOOLS,ШКОЛЫ
-"loyalty,","+4 loyalty, +8bp consumption","верность, "
-+8bp,"+4 loyalty, +8bp consumption",+8 потребление 
-consumption,"+4 loyalty, +8bp consumption"," bp"
-(which grants,(which grants +8 to Acrobatics checks for jumping),(что дает 
-to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
-DURATION,DURATION|PER DAY,ДЛИТЕЛЬНОСТЬ
-PER DAY,DURATION|PER DAY,В ДЕНЬ
-RAGE!,RAGE!  DURATION|PER DAY,ДЛИТЕЛЬНОСТЬ
-DURATION,RAGE!  DURATION|PER DAY,ЯРОСТИ!
-PER DAY,RAGE!  DURATION|PER DAY,В ДЕНЬ
-Trackless Step,"Trackless Step|Leave no trail, unless deliberately",Бесследная Ходьба
-"Leave no trail, unless deliberately","Trackless Step|Leave no trail, unless deliberately","Не оставлять за собой следы, если только не специально."
-Cost:,Cost: 2 pt,Цена:
-2 pt,Cost: 2 pt,2 оч
-Pack Attack,Pack Attack    Ally’s attack allows you to take 5ft step,Атака Стаи
-Ally’s attack allows you to take,Pack Attack    Ally’s attack allows you to take 5ft step,Атака союзника позволяет вам сделать 
-5ft,Pack Attack    Ally’s attack allows you to take 5ft step,5фт
-step,Pack Attack    Ally’s attack allows you to take 5ft step,шаг
-Combat Expertise,Combat Expertise  AC bonus,Знания Боя
-AC,Combat Expertise  AC bonus,КБ
-bonus,Combat Expertise  AC bonus,бонус
-Damage Reduction 1/,Damage Reduction 1/―,Сокращение урона 1/
-Masterwork,Masterwork     Doesn’t stack with magic bonus,Искусно сделанное
-Doesn’t stack with magic bonus,Masterwork     Doesn’t stack with magic bonus,Не складывается с магическим бонусом
-TO TURN CREATURE,TO TURN CREATURE  MAX HIT DICE,ОБРАТИТЬ СУЩЕСТВО
-MAX HIT DICE,TO TURN CREATURE  MAX HIT DICE,МАКС. КОСТЕЙ ХИТОВ
-UNREST,UNREST LEVEL,ВОЛНЕНИЯ
-LEVEL,UNREST LEVEL,УРОВЕНЬ
-Charge,Charge    -2 to AC for the rest of the round,Рывок
-to,Charge    -2 to AC for the rest of the round,к
-AC,Charge    -2 to AC for the rest of the round,КБ
-for the rest of the round,Charge    -2 to AC for the rest of the round,на остаток раунда
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,БОЕВОЙ МАНЕВР
-BONUS,COMBAT MANOEUVRE|BONUS,БОНУС
-COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,БОЕВОЙ|МАНЕВР
-BONUS,COMBAT|MANOEUVRE|BONUS,БОНУС
-BASE|ATTACK,BASE|ATTACK BONUS,БАЗОВАЯ|АТАКА
-BONUS,BASE|ATTACK BONUS,БОНУС
-BASE ATTACK,BASE ATTACK BONUS,БАЗОВЫЙ БОНУС
-BONUS,BASE ATTACK BONUS,АТАКИ
-Pinpoint Targeting,"Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Точное прицеливание
-"Make a single attack that bypasses shields, armour and natural armour","Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour","Одиночный выстрел, который игнорирует щиты, доспехи и натуральную броню"
-MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,МАКС БОНУС|ЛОВ
-BONUS,MAX ARMOUR|DEX BONUS,К КБ
-Great Cleave,Great Cleave    Any number of extra attacks per round,Бойня+
-Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,Неогр. кол-во доп. атак в раунд
-Clustered shots,Clustered shots    Group arrows to overcome damage reduction,Кластерный Выстрел
-Group arrows to overcome damage reduction,Clustered shots    Group arrows to overcome damage reduction,"Сгруппируй стрелы, чтобы превзойти снижение урона"
-Improved snap shot,Improved snap shot    AoO with a ranged weapon within 15ft,Улучшенный выстрел навскидку
-AoO with a ranged weapon within,Improved snap shot    AoO with a ranged weapon within 15ft,ВА с оружием дальнего боя в радиусе
-15ft,Improved snap shot    AoO with a ranged weapon within 15ft,15фт
-Back to Back,Back to Back     +2 to AC against flanking,Спина к Спине
-to,Back to Back     +2 to AC against flanking,к
-AC,Back to Back     +2 to AC against flanking,КБ
-against flanking,Back to Back     +2 to AC against flanking,против окружения
-STUNNING FIST,STUNNING FIST|PER DAY,ОГЛУШАЮЩИЙ КУЛАК 
-PER DAY,STUNNING FIST|PER DAY," СЕГОДНЯ"
-Precise Strike,Precise Strike    When flanking,Точный Удар
-When flanking,Precise Strike    When flanking,Когда окружён
-RAGE!,RAGE!|Duration,ЯРОСТЬ!
-Duration,RAGE!|Duration,Длительность
-(which grants,(which grants +4 to Acrobatics checks for jumping),(что дает 
-to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
-CMD,CMD BONUS,ЗБМ
-BONUS,CMD BONUS,БОНУС
-(which grants,(which grants +12 to Acrobatics checks for jumping),(что дает 
-to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
-OPPOSED,OPPOSED SCHOOLS,ПРОТИВОПОЛОЖНЫЕ
-SCHOOLS,OPPOSED SCHOOLS,ШКОЛЫ
-SMITING ATTACK,SMITING ATTACK|BONUS,БОНУС
-BONUS,SMITING ATTACK|BONUS,СОКРУШАЮЩЕЙ АТАКИ
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,БОЕВОЙ МАНЕВР
-DEFENCE,COMBAT MANOEUVRE|DEFENCE,ЗАЩИТА
-DAMAGE,DAMAGE|BONUS,БОНУС
-BONUS,DAMAGE|BONUS,К УРОНУ
-Greater snap shot,Greater snap shot    Damage and critical confirmation bonus,Великий выстрел навскидку
-Damage and critical confirmation bonus,Greater snap shot    Damage and critical confirmation bonus,Бонус к урону и подтверждению крита
-Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,Цель Внеочередной Атаки
-Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,"Доп. атака, когда союзник попадает из оружия дальнего боя"
-Cleaving Finish,Cleaving Finish    Extra attack if enemy is knocked out,Добивающее Расщепление
-Extra attack if enemy is knocked out,Cleaving Finish    Extra attack if enemy is knocked out,Доп. атака если враг без сознания
-SETTLE,SETTLE    Create new towns,ЗАСЕЛЕНИЕ
-Create new towns,SETTLE    Create new towns,Создание новых городов
-Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Точный выстрел
-Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,"Нет штрафа -4 при атаке цели, вовлеченной в ближний бой"
-TO DESTROY CREATURE,TO DESTROY CREATURE  MAX HIT DICE,УНИЧТОЖИТЬ СУЩЕСТВО
-MAX HIT DICE,TO DESTROY CREATURE  MAX HIT DICE,МАКС. КОСТЕЙ ХИТОВ
-d6,d6 +,к6
-Critical Mastery,Critical Mastery    Apply two critical effects at once,Мастерство Крита
-Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,Нанести два крит. эффекта за раз
-Shot on the Run,Shot on the Run    Attack at any point during your move,Стрельба на Ходу
-Attack at any point during your move,Shot on the Run    Attack at any point during your move,Атаковать в любой момент движения
-Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,КС Акробатики = Вражеская
-CMD,Acrobatics DC = Opponent’s CMD,ЗБМ
-GRAPPLE,GRAPPLE BONUS,ЗАХВАТ
-BONUS,GRAPPLE BONUS,БОНУС
-SMITING DAMAGE,SMITING DAMAGE|BONUS,УРОН СОКРУШЕНИЯ
-BONUS,SMITING DAMAGE|BONUS,БОНУС
-Point Blank Shot,Point Blank Shot    +1 to attack and damage within 30ft,Выстрел в упор 
-+1 to attack and damage within 30ft,Point Blank Shot    +1 to attack and damage within 30ft,+1 к атакам и урону на расстояние до 30фт
-"economy,","+2 economy, -2 loyalty","экономика, "
-loyalty,"+2 economy, -2 loyalty"," верность"
-Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,Скоординированные Манёвры
-to,Coordinated Manoeuvres    +2 to CMB,к
-CMB,Coordinated Manoeuvres    +2 to CMB,ББМ
-(which grants,(which grants +16 to Acrobatics checks for jumping),(что дает 
-to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
-"loyalty,","+3 loyalty, +4bp consumption","верность, "
-+4bp,"+3 loyalty, +4bp consumption",+4 потребление
-consumption,"+3 loyalty, +4bp consumption"," bp"
-MELEE ATTACK,MELEE ATTACK|BONUS,БЛИЖНЯЯ АТАКА
-BONUS,MELEE ATTACK|BONUS,БОНУС
-FORTITUDE|SAVE,FORTITUDE|SAVE DC,КС спаса
-DC,FORTITUDE|SAVE DC,Стойкости
-"loyalty,","+1 loyalty, +1bp consumption","верность, "
-+1bp,"+1 loyalty, +1bp consumption",+1 потребление 
-consumption,"+1 loyalty, +1bp consumption"," bp"
-Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,Поймать Момент
-AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,AoO когда союзник подтверждает критический удар
+"economy,","+1 economy, -1 loyalty","экономика, "
+loyalty,"+1 economy, -1 loyalty"," верность"
+ASSIGN LEADERSHIP,ASSIGN LEADERSHIP    Adjust kingdom rolls,НАЗНАЧИТЬ ЛИДЕРСТВО
+Adjust kingdom rolls,ASSIGN LEADERSHIP    Adjust kingdom rolls,Совершить броски королевства
+Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Великий Проникающий Удар
+Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Игнорирует снижение урона вплоть до
+(which grants,(which grants +4 to Acrobatics),(что дает 
+to Acrobatics),(which grants +4 to Acrobatics)," к Акробатике)"
+Rapid shot,Rapid shot    Extra attack at full,Быстрая стрельба 
+Extra attack at full,Rapid shot    Extra attack at full,Доп. атака полнораундовым действием
 2 × (d10 +,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",2 × (d10 + 
 CON,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save"," ВЫН "
 ") temporary hit points,|+2 attack, +1 fortitude save","2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save"," ) временных очков здоровья,|+2 к атаке, + 1 к спасам стойкости"
-KI POOL,KI POOL|CAPACITY,ЗАПАС КИ
-CAPACITY,KI POOL|CAPACITY,ПРЕДЕЛ
-Morale Bonus,Morale Bonus    Inspire Courage and similar,Бонус Морали
-Inspire Courage and similar,Morale Bonus    Inspire Courage and similar,Вдохновляющая Отвага и подобное
-EVIL DAMAGE,EVIL DAMAGE|BONUS,УРОН ЗЛУ
-BONUS,EVIL DAMAGE|BONUS,БОНУС
-STUNNING FIST,STUNNING FIST|TODAY,ОГЛУШАЮЩИЙ КУЛАК 
-TODAY,STUNNING FIST|TODAY," СЕГОДНЯ"
-Fast Movement,Fast Movement +10 ft,Быстрое Передвижение
-+10 ft,Fast Movement +10 ft,+10фт
-Improved Precise Shot,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Улучшенный точный выстрел
-Ignore the penalties for partial cover or partial concealment,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Игнорирование штрафа за частичное укрытие и частичный покров
-loyalty,-1 loyalty,верность
-Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,КС Акробатики = 5 + Вражеская
-CMD,Acrobatics DC = 5 + Opponent’s CMD,ЗБМ
-CHANNEL,CHANNEL|RANGE,ПРОВЕДЕНИЕ
-RANGE,CHANNEL|RANGE,РАДИУС
-EXOTIC WEAPON ATTACK,EXOTIC WEAPON ATTACK BONUS,АТАКА ЭКЗОТИЧЕСКИМ ОРУЖИЕМ
-BONUS,EXOTIC WEAPON ATTACK BONUS,БОНУС
-BASE ATTACK,BASE ATTACK|BONUS,БАЗОВЫЙ БОНУС
-BONUS,BASE ATTACK|BONUS,АТАКИ
-(which grants,(which grants +12 to Acrobatics),(что дает 
-to Acrobatics),(which grants +12 to Acrobatics)," к Акробатике)"
-ft,30 ft,фт
-Neutral:,Neutral: +2 Stability,Нейтрал: 
-Stability,Neutral: +2 Stability," Стабильность"
-Tandem Trip,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",Тандемный Заход
-"When ally is adjacent, roll twice for trip","Tandem Trip    When ally is adjacent, roll twice for trip CMB","Когда союзник прилегает, бросьте дважды для прохождения"
-CMB,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",ББМ
-FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,ВРАСПЛОХ
-ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,КЛАСС ЗАЩИТЫ
-TERRAIN,"TERRAIN    Build farms, roads, mines etc",МЕСТНОСТЬ
-"Build farms, roads, mines etc","TERRAIN    Build farms, roads, mines etc","Постройка ферм, дорог, шахт и т.д."
-Rapid Shot,"Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty",Быстрая стрельба
-"When making a full-round attack, get one additional attack in return for a -2 penalty","Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty","Проводя действие полной атаки, получить дополнительный выстрел со штрафом -2"
-(which grants,(which grants +20 to Acrobatics),(что дает 
-to Acrobatics),(which grants +20 to Acrobatics)," к Акробатике)"
-Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Великий Проникающий Удар
-Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Игнорирует снижение урона вплоть до
-Bullseye shot,Bullseye shot    Line up shot as a move action,Выстрел в Яблочко
-Line up shot as a move action,Bullseye shot    Line up shot as a move action,Подготовить выстрел в качестве сопутствующего действия
-Precise shot,Precise shot    No penalty firing into melee,Точный выстрел
-No penalty firing into melee,Precise shot    No penalty firing into melee,"Нет штрафа при атаке цели, вовлеченной в ближний бой"
-Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Фехтование
-Use,Weapon Finesse    Use DEX for melee attack,Используйте
-DEX,Weapon Finesse    Use DEX for melee attack,ЛОВ
-for melee attack,Weapon Finesse    Use DEX for melee attack,для ближней атаки
-CON,+ CON| per level,ВЫН
-per level,+ CON| per level,за уровень
-Damage Reduction 5/,Damage Reduction 5/―,Сокращение урона 5/
 WILL,WILL SAVE DC,ВОЛИ
 SAVE DC,WILL SAVE DC,КС СПАСА
-Slow Fall,Slow Fall 40 ft,Замедление падения 
-40 ft,Slow Fall 40 ft," 70 фт"
-DC,DC 20,КС
-Coordinated Defence,Coordinated Defence    +2 to CMD,Скоординированная Защита
-to,Coordinated Defence    +2 to CMD,к
-CMD,Coordinated Defence    +2 to CMD,ЗБМ
-ATTACK,ATTACK|BONUS,МОДИФИКАТОР
-BONUS,ATTACK|BONUS,АТАКИ
-Assume ethereal state for 1 minute -,Assume ethereal state for 1 minute - 3 ki points,Обрести состояние эфирности на 1 минуту - 
-3 ki points,Assume ethereal state for 1 minute - 3 ki points," 3 очка ки"
-Strength Score|Penalty:,Strength Score|Penalty: -2,Штрав параметра|Силы:
-DEPOSIT,DEPOSIT    4000gp in trade goods and treasure nets 1bp,ЗАЛОГ
-4000gp in trade goods and treasure nets 1bp,DEPOSIT    4000gp in trade goods and treasure nets 1bp,Продав сокровища и товары на 4000зм получить 1bp
-Lawful:,Lawful: +2 Economy,ЗАКОН: 
-Economy,Lawful: +2 Economy," Экономика"
-Haste,Haste    One extra attack at full bonus,Спешка
-One extra attack at full bonus,Haste    One extra attack at full bonus,Доп. атака со всеми бонусами
-Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Вечное тело
-"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged","Больше не стареет, не может быть магически состарен"
-Collect taxes and manage finances,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",Сбор налогов и управление финансами
-"– If vacant,","Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes","- Если пусто,"
-economy and kingdom can’t levy taxes,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",экономика и королевство не может облагать налогами
-USES,USES|PER DAY,ИСПОЛЬЗОВАНИЙ
-PER DAY,USES|PER DAY,В ДЕНЬ
-SPELL,SPELL RESISTANCE,СОПРОТИВЛЕНИЕ
-RESISTANCE,SPELL RESISTANCE,МАГИИ
-DC,DC 15,КС
-Two-weapon Defence,Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Оборона с Оружием в Обеих Руках
-+1 shield bonus to AC for using two weapons (+2 if fighting defensively),Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),+1 бонус щита к КБ за использование двух оружий (+2 если в защитной позиции)
-ETHERIAL,ETHERIAL|ROUNDS,БЕСТЕЛЕСНЫХ
-ROUNDS,ETHERIAL|ROUNDS,РАУНДОВ
-Fast Movement,Fast Movement +20 ft,Быстрое Передвижение 
-+20 ft,Fast Movement +20 ft,+20фт
-DODGE,DODGE|BONUS,БОНУС
-BONUS,DODGE|BONUS,УКЛОНЕНИЯ
-CREATURES AFFECTED,CREATURES AFFECTED TOTAL HIT DICE,ПОДВЕРЖЕНО СУЩЕСТВ
-TOTAL HIT DICE,CREATURES AFFECTED TOTAL HIT DICE,СУММА КОСТЕЙ ХИТОВ
-Two-weapon fighting,Two-weapon fighting    Reduces penalty to:,Бой с оружием в обеих руках
-Reduces penalty to:,Two-weapon fighting    Reduces penalty to:,Снижение штрафа до
-No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Не может действовать в раунде|Теряет бонус 
-DEX,No action this round|Lose DEX bonus to AC; -2 AC," ЛОВ"
-bonus to,No action this round|Lose DEX bonus to AC; -2 AC," к"
-AC,No action this round|Lose DEX bonus to AC; -2 AC," КЗ"
-Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",Кавалерийская Формация
-"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount","Делить место, производить рывок сквозь союзного всадника"
-WITHDRAW,"WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check",ПОБОРЫ
-"Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","+2000зм за каждый bp. +1 к волнению, затем проверка на верность"
-HEALING POINTS,HEALING POINTS|PER DAY,ОЧКОВ ЛЕЧЕНИЯ
-PER DAY,HEALING POINTS|PER DAY,В ДЕНЬ
-"economy,","+3 economy, -4 loyalty","экономика, "
-loyalty,"+3 economy, -4 loyalty"," верность"
-Make unarmed strikes with any free limb|Flurry of blows uses full,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",Совершите безоружную атаку любой свободной конечностью|К шквалу ударов применяется полный бонус
-STR,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand"," СИЛ"
-"bonus, even with off hand","Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",", даже к неосновным атакам"
-WILD EMPATHY,WILD EMPATHY|BONUS,Бонус Дикого сопереживания
-saving throws against enchantment,+2 saving throws against enchantment,к спасброскам против очарования
-SMITINGS,SMITINGS|PER DAY,СОКРУШЕНИЙ
-PER DAY,SMITINGS|PER DAY,В ДЕНЬ
-Shot on the run,Shot on the run    Attack at any point during your move,Стрельба на Ходу
-Attack at any point during your move,Shot on the run    Attack at any point during your move,Атаковать в любой момент движения
-ATTACK,ATTACK ACTIONS,БОЕВЫЕ
-ACTIONS,ATTACK ACTIONS,УМЕНИЯ
-Commands the army,"Commands the army – If vacant, -4 loyalty",Командует армией
-"– If vacant,","Commands the army – If vacant, -4 loyalty","- Если свободно,"
-loyalty,"Commands the army – If vacant, -4 loyalty",лояльность
-USES,USES PER DAY,ИСПОЛЬЗОВАНИЙ
-PER DAY,USES PER DAY,В ДЕНЬ
-FLAT-FOOTED,FLAT-FOOTED AC,ВРАСПЛОХ
-AC,FLAT-FOOTED AC,КЗ
-Feint Partner,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",Партнёрский Финт
-"When ally feints, enemy loses","Feint Partner    When ally feints, enemy loses DEX bonus to AC","Когда союзник делает финт, противник теряет"
-DEX,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",бонус ЛОВ
-bonus to,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",к
-AC,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",КБ
-Rapid shot,Rapid shot    Extra attack at full,Быстрая стрельба 
-Extra attack at full,Rapid shot    Extra attack at full,Доп. атака полнораундовым действием
-SHARE FAVOURED ENEMY,SHARE FAVOURED ENEMY|DURATION,ОБЩИЙ ИЗБРАННЫЙ ВРАГ
-DURATION,SHARE FAVOURED ENEMY|DURATION,ДЛИТЕЛЬНОСТЬ
-Outflank,Outflank    When flanking,Обход с фланга
-When flanking,Outflank    When flanking,Когда обошёл с фланга
+Cost:,Cost: 1 pt,Стоимость:
+1 pt,Cost: 1 pt,1 оч
+BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,ЗНАНИЯ БАРДА
+BONUS,BARDIC KNOWLEDGE |BONUS,БОНУС
+Precise Strike,Precise Strike    When flanking,Точный Удар
+When flanking,Precise Strike    When flanking,Когда окружён
+Fast Movement,Fast Movement +50 ft,Быстрое Передвижение
++50 ft,Fast Movement +50 ft,+50фт
+FORTITUDE,FORTITUDE SAVE,СТОЙКОСТИ
+SAVE,FORTITUDE SAVE,СПАС
+Wild Empathy,Wild Empathy|Improve the attitude of an animal,Понимание животных
+Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal," Улучшение отношения с животным"
+Slow Fall,Slow Fall 90 ft,Замедление падения 
+90 ft,Slow Fall 90 ft," 70 фт"
 Use monk level in place of,Use monk level in place of BAB for calculating CMB,Исп. уровень монаха вместо
 BAB,Use monk level in place of BAB for calculating CMB,ББА
 for calculating,Use monk level in place of BAB for calculating CMB,для расчета
 CMB,Use monk level in place of BAB for calculating CMB,ББМ
-FATIGUED,FATIGUED|DURATION,УСТАЛОСТЬ
-DURATION,FATIGUED|DURATION,ДЛИТЕЛЬНОСТЬ
-WILL|SAVE,WILL|SAVE|BONUS,СПАС|ВОЛИ
-BONUS,WILL|SAVE|BONUS,БОНУС
-Cleave,Cleave    Extra attack if you hit,Бойня
-Extra attack if you hit,Cleave    Extra attack if you hit,"Доп. атака, если попадёшь"
-TOUCH,TOUCH AC,КАСАНИЕ
-AC,TOUCH AC,КЗ
-Forbidden|During,Forbidden|During|RAGE!,Нельзя|Во время
-RAGE!,Forbidden|During|RAGE!,ЯРОСТИ!
-Improved Two-weapon Fighting,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Улучшенный Бой с Двумя Оружиями
-Second attack with your off-hand weapon,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Вторая атака с оружием в вспомогательной руке
-INT,+ INT| per level,ИНТ
-per level,+ INT| per level,за уровень
-Slow Fall,Slow Fall 60 ft,Замедление падения 
-60 ft,Slow Fall 60 ft," 60 фт"
+ATTACK,ATTACK|BONUS,БОНУС|АТАКИ
+BONUS,ATTACK|BONUS,БОНУС
+MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,МАСТЕРСКИЙ УДАР
+FORTITUDE DC,MASTER STRIKE|FORTITUDE DC,КС СТОЙКОСТИ
+RAGE!,RAGE!|Today,ЯРОСТЬ!
+Today,RAGE!|Today,Сегодня
+CRITICAL,CRITICAL EFFECTS,КРИТИЧЕСКИЕ
+EFFECTS,CRITICAL EFFECTS,ЭФФЕКТЫ
+Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Показатель Ловкости|Штраф
+Level,400’+ 40’ × Level,Уровень
+Off-hand weapon,Off-hand weapon    (2 less for a light weapon),Вспомогательная рука
+less for a light weapon),Off-hand weapon    (2 less for a light weapon),меньше для лёгкого оружия)
+Bullseye shot,Bullseye shot    Line up shot as a move action,Выстрел в Яблочко
+Line up shot as a move action,Bullseye shot    Line up shot as a move action,Подготовить выстрел в качестве сопутствующего действия
+TO DESTROY CREATURE,TO DESTROY CREATURE  MAX HIT DICE,УНИЧТОЖИТЬ СУЩЕСТВО
+MAX HIT DICE,TO DESTROY CREATURE  MAX HIT DICE,МАКС. КОСТЕЙ ХИТОВ
+Snap shot,Snap shot    AoO with a ranged weapon within 5ft,Выстрел навсскидку
+AoO with a ranged weapon within,Snap shot    AoO with a ranged weapon within 5ft,ВА с оружием дальнего боя в радиусе
+5ft,Snap shot    AoO with a ranged weapon within 5ft,5фт
+(which grants,(which grants +4 to Acrobatics checks for jumping),(что дает 
+to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
+TEAMWORK,TEAMWORK|FEATS,КОМАНДНАЯ РАБОТА
+FEATS,TEAMWORK|FEATS,ЧЕРТЫ
+Greater snap shot,Greater snap shot    Damage and critical confirmation bonus,Великий выстрел навскидку
+Damage and critical confirmation bonus,Greater snap shot    Damage and critical confirmation bonus,Бонус к урону и подтверждению крита
+Strength Score|Penalty:,Strength Score|Penalty: -2,Штрав параметра|Силы:
 "stability,","+3 stability, +4bp consumption","стабильность, "
 +4bp,"+3 stability, +4bp consumption",+4 потребление 
 consumption,"+3 stability, +4bp consumption"," bp"
-CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,ПОКАЗАТЕЛЬ|ВЫНОСЛИВОСТИ
-BONUS,CONSTITUTION|SCORE|BONUS,БОНУС
-Fast Movement,Fast Movement +50 ft,Быстрое Передвижение
-+50 ft,Fast Movement +50 ft,+50фт
-Death or Glory,"Death or Glory   +4 (+1 at levels 11, 16, 20)",Смерть или Слава
-"at levels 11, 16, 20)","Death or Glory   +4 (+1 at levels 11, 16, 20)","на 11, 16 и 20 уровнях)"
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,Магическое заклинание
-THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,Шанс провала
-Good:,Good: +2 Loyalty,Добро: 
-Loyalty,Good: +2 Loyalty," Верность"
-At levels,"At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.",На уровнях
-"and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","и 16 вы получаете 1 очко навыков.|Если величина - нечётное число, модификатор способности увеличивается."
-REFLEX,REFLEX SAVE,РЕАКЦИИ
-SAVE,REFLEX SAVE,СПАС
-RAGE!,RAGE!|TODAY,ЯРОСТЬ! 
-TODAY,RAGE!|TODAY," СЕГОДНЯ"
-FLURRY ATTACK,FLURRY ATTACK BONUS,БОНУС
-BONUS,FLURRY ATTACK BONUS,ШКВАЛЬНОЙ АТАКИ
-TEAMWORK,TEAMWORK|FEATS,КОМАНДНАЯ РАБОТА
-FEATS,TEAMWORK|FEATS,ЧЕРТЫ
-POWER POINTS,POWER POINTS|PER DAY,ОЧКИ СИЛЫ
-PER DAY,POWER POINTS|PER DAY,В ДЕНЬ
-POWERS,POWERS|KNOWN,СИЛЫ
-KNOWN,POWERS|KNOWN,Известные
-"economy,","+1 economy, -1 loyalty","экономика, "
-loyalty,"+1 economy, -1 loyalty"," верность"
-MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,МАСТЕРСКИЙ УДАР | КС СТОЙКОСТИ
-FORTITUDE DC,MASTER STRIKE|FORTITUDE DC,КС СТОЙКОСТИ
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,ПРОВАЛ МИСТИЧЕСКОГО ЗАКЛИНАНИЯ
-THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,ШАНС
-Cost:,Cost: 1 pt,Стоимость:
-1 pt,Cost: 1 pt,1 оч
-loyalty,+1 loyalty,верность
-FOES,FOES|PER DAY,ВРАГОВ
-PER DAY,FOES|PER DAY,В ДЕНЬ
-Quick Draw,Quick Draw    Draw your weapon as a free action,Быстрое Извлечение
-Draw your weapon as a free action,Quick Draw    Draw your weapon as a free action,Извлечь оружие в качестве свободного действия
-Shake It Off,Shake It Off     +1 to all saving throws per adjacent ally,Стряхнуть
-to all saving throws per adjacent ally,Shake It Off     +1 to all saving throws per adjacent ally,ко всем спасброскам за прилегающего союзника
-RAGE!,RAGE!|PER DAY,ЯРОСТЬ!
-PER DAY,RAGE!|PER DAY,В ДЕНЬ
+Slow Fall,Slow Fall 40 ft,Замедление падения 
+40 ft,Slow Fall 40 ft," 70 фт"
+(which grants,(which grants +20 to Acrobatics checks for jumping),(что дает 
+to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
+EVIL DAMAGE,EVIL DAMAGE|BONUS,УРОН ЗЛУ
+BONUS,EVIL DAMAGE|BONUS,БОНУС
+TOUCH,TOUCH AC,КАСАНИЕ
+AC,TOUCH AC,КЗ
+Back to Back,Back to Back     +2 to AC against flanking,Спина к Спине
+to,Back to Back     +2 to AC against flanking,к
+AC,Back to Back     +2 to AC against flanking,КБ
+against flanking,Back to Back     +2 to AC against flanking,против окружения
+Chaotic:,Chaotic: +2 Loyalty,Хаос: 
+Loyalty,Chaotic: +2 Loyalty," Верность"
+(which grants,(which grants +24 to Acrobatics checks for jumping),(что дает 
+to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
+Pack Attack,Pack Attack    Ally’s attack allows you to take 5ft step,Атака Стаи
+Ally’s attack allows you to take,Pack Attack    Ally’s attack allows you to take 5ft step,Атака союзника позволяет вам сделать 
+5ft,Pack Attack    Ally’s attack allows you to take 5ft step,5фт
+step,Pack Attack    Ally’s attack allows you to take 5ft step,шаг
+HEALING,HEALING|HIT POINTS,ЛЕЧЕНИЕ
+HIT POINTS,HEALING|HIT POINTS,ОЧКИ ЗДОРОВЬЯ
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,БОЕВОЙ МАНЕВР
+BONUS,COMBAT MANOEUVRE|BONUS,БОНУС
+DC,DC 15,КС
+SNEAK DAMAGE,SNEAK DAMAGE|BONUS,УРОН АТАКИ ИСПОДТИША
+BONUS,SNEAK DAMAGE|BONUS,БОНУС
+DURATION,DURATION|PER DAY,ДЛИТЕЛЬНОСТЬ
+PER DAY,DURATION|PER DAY,В ДЕНЬ
+Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Точный выстрел
+Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,"Нет штрафа -4 при атаке цели, вовлеченной в ближний бой"
+Masterwork,Masterwork     Doesn’t stack with magic bonus,Искусно сделанное
+Doesn’t stack with magic bonus,Masterwork     Doesn’t stack with magic bonus,Не складывается с магическим бонусом
+Charge,Charge    -2 to AC for the rest of the round,Рывок
+to,Charge    -2 to AC for the rest of the round,к
+AC,Charge    -2 to AC for the rest of the round,КБ
+for the rest of the round,Charge    -2 to AC for the rest of the round,на остаток раунда
+ATTACK,ATTACK ACTIONS,БОЕВЫЕ
+ACTIONS,ATTACK ACTIONS,УМЕНИЯ
+Cost:,Cost: 2 pt,Цена:
+2 pt,Cost: 2 pt,2 оч
+AC,AC BONUS,КЗ
+BONUS,AC BONUS,БОНУС
+FORTITUDE,FORTITUDE|SAVE DC,СТОЙКОСТЬ
+FORTITUDE|SAVE,FORTITUDE|SAVE DC,КС СПАСА|ПО
+SAVE DC,FORTITUDE|SAVE DC,КС СПАСА
+DC,FORTITUDE|SAVE DC,СТОЙКОСТЬ
+Far Shot,Far Shot    Attack penalty per range increment decreases from -2 to -1,Дальний выстрел 
+Attack penalty per range increment decreases from -2 to -1,Far Shot    Attack penalty per range increment decreases from -2 to -1,-1 вместо -2 штраф за каждый полный отрезок дальности
+FAMILIAR,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,ФАМИЛЬЯР
+ANIMAL COMPANION,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE," ВЕРНЫЙ ЗВЕРЬ"
+MOUNT,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE," СКАКУН"
+SUMMONED CREATURE,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE," ПРИЗВАННОЕ СОЗДАНИЕ"
+WEAPON,WEAPON BONUSES,БОНУСЫ
+BONUSES,WEAPON BONUSES,ОРУЖИЯ
 Focused shot,Focused shot    Within 30ft,Сфокусированный Выстрел
 Within,Focused shot    Within 30ft,В радиусе
 30ft,Focused shot    Within 30ft,30фт
-STABILITY,"STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest",СТАБИЛЬНОСТЬ
-"On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","при успехе, -1 волнение или добавить 1bp; при провале, +1 волнение; при провале выше 4, +d4 волнение"
-Slow Fall,Slow Fall 70 ft,Замедление падения 
-70 ft,Slow Fall 70 ft," 70 фт"
-WIS,(WIS minimum 1),МУД 
-minimum 1),(WIS minimum 1)," минимум 1)"
-WEAPON,WEAPON BONUSES,БОНУСЫ
-BONUSES,WEAPON BONUSES,ОРУЖИЯ
-ATTACK,ATTACK BONUS,БОНУС
-BONUS,ATTACK BONUS,АТАКИ
+Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,Союзный Заклинатель
+to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,для преодоления сопротивления заклинания
+Improved snap shot,Improved snap shot    AoO with a ranged weapon within 15ft,Улучшенный выстрел навскидку
+AoO with a ranged weapon within,Improved snap shot    AoO with a ranged weapon within 15ft,ВА с оружием дальнего боя в радиусе
+15ft,Improved snap shot    AoO with a ranged weapon within 15ft,15фт
+WITHDRAW,"WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check",ПОБОРЫ
+"Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","+2000зм за каждый bp. +1 к волнению, затем проверка на верность"
+No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Не может действовать в раунде|Теряет бонус 
+DEX,No action this round|Lose DEX bonus to AC; -2 AC," ЛОВ"
+bonus to,No action this round|Lose DEX bonus to AC; -2 AC," к"
+bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,КБ
+AC,No action this round|Lose DEX bonus to AC; -2 AC," КЗ"
+Damage Reduction 4/,Damage Reduction 4/―,Сокращение урона 4/
+(which grants,(which grants +8 to Acrobatics),(что дает 
+to Acrobatics),(which grants +8 to Acrobatics)," к Акробатике)"
+COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,БОЕВОЙ|МАНЕВР
+DEFENCE,COMBAT|MANEUVRE|DEFENCE,ЗАЩИТА
+Outflank,Outflank    When flanking,Обход с фланга
+When flanking,Outflank    When flanking,Когда обошёл с фланга
+(which grants,(which grants +12 to Acrobatics checks for jumping),(что дает 
+to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
+Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Считается пришельцем 
+Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic," Иммунитет к Очарованию Персоны и другим эффектам,|цель которых - не пришельцы.|Сокращение урона "
+10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic," 10/хаос"
+SAVE,SAVE DC,СПАСБРОСОК
+DC,SAVE DC,КС
+CON,+ CON| per level,ВЫН
+per level,+ CON| per level,за уровень
+Two-weapon Defence,Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Оборона с Оружием в Обеих Руках
++1 shield bonus to AC for using two weapons (+2 if fighting defensively),Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),+1 бонус щита к КБ за использование двух оружий (+2 если в защитной позиции)
+INITIATIVE,INITIATIVE BONUS,МОДИФИКТОР
+BONUS,INITIATIVE BONUS," ИНИЦИАТИВЫ"
+WILL,WILL|SAVE DC,ВОЛЯ
+WILL|SAVE,WILL|SAVE DC,СЛ ИСПЫТАНИЯ
+SAVE DC,WILL|SAVE DC,КС СПАСА
+ft,30 ft,фт
+d6,d6 +,к6
 Double Slice,Double Slice    No damage penalty,Двойное Рассечение
 No damage penalty,Double Slice    No damage penalty,Без штрафа к урону
-Wild Shape,Wild Shape|Become any small or medium animal,Дикая форма
-Become any small or medium animal,Wild Shape|Become any small or medium animal,Превращаться в любое маленькое или среднее животное
-QUIVER,QUIVER DAYS,ДНЕЙ
-DAYS,QUIVER DAYS,ДРОЖАНИЯ
+USES,USES PER DAY,ИСПОЛЬЗОВАНИЙ
+PER DAY,USES PER DAY,В ДЕНЬ
+Level,100’+ 10’ × Level,Уровень
+"economy,","+3 economy, -4 loyalty","экономика, "
+loyalty,"+3 economy, -4 loyalty"," верность"
+Precise shot,Precise shot    No penalty firing into melee,Точный выстрел
+No penalty firing into melee,Precise shot    No penalty firing into melee,"Нет штрафа при атаке цели, вовлеченной в ближний бой"
+Bonus Spells,Bonus Spells|WIS,Бонусных
+WIS,Bonus Spells|WIS,МУД
+Fast Movement,Fast Movement +40 ft,Быстрое Передвижение 
++40 ft,Fast Movement +40 ft," +40фт"
+Slow Fall,Slow Fall 30 ft,Замедление падения 
+30 ft,Slow Fall 30 ft," 30 фт"
 WILD EMPATHY,WILD EMPATHY BONUS,БОНУС
 BONUS,WILD EMPATHY BONUS,ПРИРОДНОЙ ЭМПАТИИ
-Paired Opportunists,Paired Opportunists    When adjacent,Партнёрский Оппортунизм
-When adjacent,Paired Opportunists    When adjacent,Когда вплотную
-POWER POINTS,POWER POINTS|MAX COST,МАКС. СТОИМОСТЬ
-MAX COST,POWER POINTS|MAX COST,ОЧКОВ СИЛЫ
-Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,Скоординированный рывок
-Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,"Совершите рывок к тому же врагу, что и союзник"
-BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,ЗНАНИЯ БАРДА
-BONUS,BARDIC KNOWLEDGE |BONUS,БОНУС
+MILITARY,MILITARY    Create armed units (comes from allocation for settling towns),ВОЙСКА
+Create armed units (comes from allocation for settling towns),MILITARY    Create armed units (comes from allocation for settling towns),Создание войск (
+BASE ATTACK,BASE ATTACK|BONUS,БАЗОВЫЙ БОНУС
+BONUS,BASE ATTACK|BONUS,АТАКИ
+Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,Цель Внеочередной Атаки
+Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,"Доп. атака, когда союзник попадает из оружия дальнего боя"
+saving throws against enchantment,+2 saving throws against enchantment,к спасброскам против очарования
+Great Cleave,Great Cleave    Any number of extra attacks per round,Бойня+
+Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,Неогр. кол-во доп. атак в раунд
+Improved Devastating Strike,Improved Devastating Strike  +2 per die,улучшенный сокрушительный удар
+per die,Improved Devastating Strike  +2 per die,за кость
+Collect taxes and manage finances,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",Сбор налогов и управление финансами
+"– If vacant,","Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes","- Если пусто,"
+economy and kingdom can’t levy taxes,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",экономика и королевство не может облагать налогами
+Improved Precise Shot,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Улучшенный точный выстрел
+Ignore the penalties for partial cover or partial concealment,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Игнорирование штрафа за частичное укрытие и частичный покров
+Damage Reduction 2/,Damage Reduction 2/―,Сокращение урона 2/
+MIGHTY,MIGHTY RAGE!,МОГУЧАЯ
+RAGE!,MIGHTY RAGE!,ЯРОСТЬ!
+SHARE FAVOURED ENEMY,SHARE FAVOURED ENEMY|DURATION,ОБЩИЙ ИЗБРАННЫЙ ВРАГ
+DURATION,SHARE FAVOURED ENEMY|DURATION,ДЛИТЕЛЬНОСТЬ
+Bonus Spells,Bonus Spells|CHA,Бонусных
+CHA,Bonus Spells|CHA,ХАР
+SPECIALITY,SPECIALITY SCHOOL,СПЕЦИАЛИЗАЦИЯ НА
+SCHOOL,SPECIALITY SCHOOL,ШКОЛЕ
+loyalty,+1 loyalty,верность
+ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,ШТРАФ К ПРОВЕРКАМ|ОТ
+REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,ДОСПЕХА
+Penetrating Strike,Penetrating Strike    Ignore damage reduction up to    5/—,Проникающий Удар
+Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to    5/—,Игнорирует снижение урона вплоть до
+Cleave,Cleave    Extra attack if you hit,Бойня
+Extra attack if you hit,Cleave    Extra attack if you hit,"Доп. атака, если попадёшь"
+WILD EMPATHY,WILD EMPATHY|BONUS,ПОНИМАНИЕ ЖИВОТНЫХ
+BONUS,WILD EMPATHY|BONUS," МОД"
+KNOWLEDGE,KNOWLEDGE |BONUS,БОНУС
+BONUS,KNOWLEDGE |BONUS,ЗНАНИЯ
+Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Нестареющее тело
+"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged","Больше не стареет, не может быть магически состарен"
+Manyshot,"Manyshot    When making a full-round attack, your first attack has two arrows",Залп
+"When making a full-round attack, your first attack has two arrows","Manyshot    When making a full-round attack, your first attack has two arrows","Проведя полнораундовую атаку, первым выстрелом вылетают две стрелы"
+WIS,(WIS minimum 1),МУД 
+minimum 1),(WIS minimum 1)," минимум 1)"
+Improved Shield Bash,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Улучшенный Удар Щитом
+Use Shield Bash and keep your shield bonus to,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,"Использовать Удар Щитом, сохраняя бонус щита к"
+AC,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,КБ
+TRAP,TRAP SENSE,ПОИСЕ 
+SENSE,TRAP SENSE," ЛОВУШЕК"
+Craft -,Craft - INT|Perform - CHA,Ремесло - 
+INT,Craft - INT|Perform - CHA," ИНТ "
+Perform -,Craft - INT|Perform - CHA,Выступление - 
+CHA,Craft - INT|Perform - CHA," ХАР"
+(which grants,(which grants +12 to Acrobatics),(что дает 
+to Acrobatics),(which grants +12 to Acrobatics)," к Акробатике)"
+Death or Glory,"Death or Glory   +4 (+1 at levels 11, 16, 20)",Смерть или Слава
+"at levels 11, 16, 20)","Death or Glory   +4 (+1 at levels 11, 16, 20)","на 11, 16 и 20 уровнях)"
+BASE ATTACK,BASE ATTACK BONUS,БАЗОВЫЙ БОНУС
+BONUS,BASE ATTACK BONUS,АТАКИ
 RAGE!,RAGE! POWERS |KNOWN,СИЛ
 POWERS,RAGE! POWERS |KNOWN,ЯРОСТИ!
 KNOWN,RAGE! POWERS |KNOWN,ИЗВЕСТНО
-"loyalty,","+2 loyalty, +2bp consumption","верность, "
-+2bp,"+2 loyalty, +2bp consumption",+2 потребление 
-consumption,"+2 loyalty, +2bp consumption"," bp"
-CRITICAL,CRITICAL EFFECTS,КРИТИЧЕСКИЕ
-EFFECTS,CRITICAL EFFECTS,ЭФФЕКТЫ
-Swap Places,Swap Places    Switch places with an ally,Рокировка
-Switch places with an ally,Swap Places    Switch places with an ally,Поменяться местами с союзником
-"stability,","+1 stability, +1bp consumption","стабильность, "
-+1bp,"+1 stability, +1bp consumption",+1 потребление 
-consumption,"+1 stability, +1bp consumption"," bp"
-TRAP SENSE,TRAP SENSE|BONUS,ПОИСК ЛОВУШЕК
-BONUS,TRAP SENSE|BONUS,БОНУС
-RAGE!,RAGE! POWERS,СИЛЫ
-POWERS,RAGE! POWERS,ЯРОСТИ!
-Far Shot,Far Shot    Attack penalty per range increment decreases from -2 to -1,Дальний выстрел 
-Attack penalty per range increment decreases from -2 to -1,Far Shot    Attack penalty per range increment decreases from -2 to -1,-1 вместо -2 штраф за каждый полный отрезок дальности
-Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Показатель Ловкости|Штраф
-Level,400’+ 40’ × Level,Уровень
-ASSIGN LEADERSHIP,ASSIGN LEADERSHIP    Adjust kingdom rolls,НАЗНАЧИТЬ ЛИДЕРСТВО
-Adjust kingdom rolls,ASSIGN LEADERSHIP    Adjust kingdom rolls,Совершить броски королевства
-TALENTS,TALENTS|KNOWN,Талантов
-KNOWN,TALENTS|KNOWN,известно
-MIGHTY,MIGHTY RAGE!,МОГУЧАЯ
-RAGE!,MIGHTY RAGE!,ЯРОСТЬ!
-(which grants,(which grants +20 to Acrobatics checks for jumping),(что дает 
-to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
-TURNS,TURNS PER DAY,ОБРАЩЕНИЙ
-PER DAY,TURNS PER DAY,В ДЕНЬ
-ARMOUR,ARMOUR CLASS,КЛАСС
-CLASS,ARMOUR CLASS,ЗАЩИТЫ
-FLAT-FOOTED,FLAT-FOOTED|CMD,ВРАСПЛОХ
-CMD,FLAT-FOOTED|CMD,ЗБМ
-Queen Consort or Prince Consort,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,Королева Консорт или Принц Консорт
-– May rule if the Ruler is absent. but must pass loyalty check or,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,"- Может править, если отсутствует правитель. Но должен проходить проверку лояльности или"
-unrest,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,волнения
-Shielded Caster,Shielded Caster    +4 to concentration checks,Защищённый Заклинатель
-to concentration checks,Shielded Caster    +4 to concentration checks,к проверкам концентрации
-Slow Fall,Slow Fall 30 ft,Замедление падения 
-30 ft,Slow Fall 30 ft," 30 фт"
-Slow Fall,Slow Fall Any distance,Замедление падения 
-Any distance,Slow Fall Any distance,Без ограничений
-SAVE,SAVE DC,СПАСБРОСОК
-DC,SAVE DC,КС
-INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,ПРИЗЫВ К ПОДВИГАМ
-MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,МАКС. ЦЕЛЕЙ
-Bonus Spells,Bonus Spells|CHA,Бонусных
-CHA,Bonus Spells|CHA,ХАР
+FATIGUED,FATIGUED|DURATION,УСТАЛОСТЬ
+DURATION,FATIGUED|DURATION,ДЛИТЕЛЬНОСТЬ
+INITIATIVE,INITIATIVE|BONUS,ИНИЦИАТИВЫ
+BONUS,INITIATIVE|BONUS,БОНУС
+A Thousand Faces,A Thousand Faces|Change appearance at will,Тасяча Лиц
+Change appearance at will,A Thousand Faces|Change appearance at will,Изменить внешность по желанию
+(which grants,(which grants +16 to Acrobatics checks for jumping),(что дает 
+to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping)," к проверкам Акробатики при прыжках)"
+GRAPPLE,GRAPPLE BONUS,ЗАХВАТ
+BONUS,GRAPPLE BONUS,БОНУС
+STABILITY,"STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest",СТАБИЛЬНОСТЬ
+"On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","при успехе, -1 волнение или добавить 1bp; при провале, +1 волнение; при провале выше 4, +d4 волнение"
+to jump checks -,+20 to jump checks - 1 ki point,к проверкам прыжков
+1 ki point,+20 to jump checks - 1 ki point,1 очко ки
+SIXTH,SIXTH|SENSE,ШЕСТОЕ 
+SENSE,SIXTH|SENSE," ЧУВСТВО"
+FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,ШКВАЛ УДАРОВ
+BASE ATTACK BONUS,FLURRY OF BLOWS|BASE ATTACK BONUS,БАЗОВЫЙ БОНУС  К АТАКЕ
+INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,ВДОХНОВЕНИЕ ГЕРОИЧНОСТИ
+MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,МАКС. ЦЕЛЕЙ
 Lose,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",Не учитывать бонус
 DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed"," ЛОВ "
 bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed"," к "
 AC,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed"," КЗ"
 -4 on,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed"," -4 к навыкам на "
 STR,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed"," СИЛ "
-and,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed"," и "
+and,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",", встречных Внимания,|50% шанс промаха при атаке|Акробатика КС10 для движения не с 1/2 скоростью"
 "skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",", встречных Восприятия,|50% шанс промаха при атаке|Акробатика КС10 для движения не с 1/2 скоростью"
-Improved Shield Bash,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Улучшенный Удар Щитом
-Use Shield Bash and keep your shield bonus to,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,"Использовать Удар Щитом, сохраняя бонус щита к"
-AC,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,КБ
-DAMAGE,DAMAGE BONUS,БОНУС
-BONUS,DAMAGE BONUS,УРОНА
-stability,-1 stability,стабильность
-Fast Movement,Fast Movement +40 ft,Быстрое Передвижение 
-+40 ft,Fast Movement +40 ft," +40фт"
-Snap shot,Snap shot    AoO with a ranged weapon within 5ft,Выстрел навсскидку
-AoO with a ranged weapon within,Snap shot    AoO with a ranged weapon within 5ft,ВА с оружием дальнего боя в радиусе
-5ft,Snap shot    AoO with a ranged weapon within 5ft,5фт
-Damage Reduction 4/,Damage Reduction 4/―,Сокращение урона 4/
-Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,Высвобождение
-Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,"Не провоцирует АпВ, когда рядом с союзником"
-DEFLECTION,DEFLECTION|BONUS,МОДИФИКАТОР
-BONUS,DEFLECTION|BONUS,ОТРАЖЕНИЯ
-Improved Cleaving Finish,Improved Cleaving Finish    Any number per round,Улучшенное Добивающее Расщепление
-Any number per round,Improved Cleaving Finish    Any number per round,Любое кол-во в раунд
-TOUCH,TOUCH ARMOUR CLASS,КАСАНИЕ
-ARMOUR CLASS,TOUCH ARMOUR CLASS,КЛАСС ЗАЩИТЫ
-HEXES,HEXES    Claim and abandon hexes,ШЕСТИГРАННИК
-Claim and abandon hexes,HEXES    Claim and abandon hexes,Занимать и покидать шестигранники
-Slow Fall,Slow Fall 20 ft,Замедление падения 
-20 ft,Slow Fall 20 ft," 12 фт"
-Penetrating Strike,Penetrating Strike    Ignore damage reduction up to    5/—,Проникающий Удар
-Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to    5/—,Игнорирует снижение урона вплоть до
-AC,AC BONUS,КЗ
-BONUS,AC BONUS,БОНУС
+Wild Shape,Wild Shape|Become any small or medium animal,Дикая форма
+Become any small or medium animal,Wild Shape|Become any small or medium animal,Стать любым маленьким или средним животным
+INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,ПРИЗЫВ К ПОДВИГАМ
+MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,МАКС. ЦЕЛЕЙ
+Point Blank Shot,Point Blank Shot    +1 to attack and damage within 30ft,Выстрел в упор 
++1 to attack and damage within 30ft,Point Blank Shot    +1 to attack and damage within 30ft,+1 к атакам и урону на расстояние до 30фт
 FEAR EFFECT,FEAR EFFECT|WILL BONUS,УЖАС
 WILL BONUS,FEAR EFFECT|WILL BONUS,БОНУС ВОЛИ
-Resist Nature’s Lure,Resist Nature’s Lure|+4 to saves against the fey and plants,Устойчивость к Соблазнам Природы
-+4 to saves against the fey and plants,Resist Nature’s Lure|+4 to saves against the fey and plants,+4 к спасам против фей и растений
-INITIATIVE,INITIATIVE BONUS,ИНИЦИАТИВЫ
-BONUS,INITIATIVE BONUS,БОНУС
-Evil:,Evil: +2 Economy,Зло: 
-Economy,Evil: +2 Economy," Экономика"
-MAX POWER,MAX POWER|LEVEL,МАКС УРОВЕНЬ
-LEVEL,MAX POWER|LEVEL,СИЛЫ
-KNOWLEDGE,KNOWLEDGE |BONUS,БОНУС
-BONUS,KNOWLEDGE |BONUS,ЗНАНИЯ
-Level,100’+ 10’ × Level,Уровень
+FOES,FOES|PER DAY,ВРАГОВ
+PER DAY,FOES|PER DAY,В ДЕНЬ
+Critical Mastery,Critical Mastery    Apply two critical effects at once,Мастерство Крита
+Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,Нанести два крит. эффекта за раз
+Slow Fall,Slow Fall Any distance,Замедление падения 
+Any distance,Slow Fall Any distance,Без ограничений
+KI POOL,KI POOL|CAPACITY,ЗАПАС КИ
+CAPACITY,KI POOL|CAPACITY,ПРЕДЕЛ
+QUIVER,QUIVER DAYS,ДНЕЙ
+DAYS,QUIVER DAYS,ДРОЖАНИЯ
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,БОЕВОЙ МАНЕВР
+DEFENCE,COMBAT MANOEUVRE|DEFENCE,ЗАЩИТА
+Fast Movement,Fast Movement +30 ft,Быстрое Передвижение
++30 ft,Fast Movement +30 ft,+30фт
+TAKE 20,TAKE 20 PER DAY,ВЗЯТЬ 20 
+PER DAY,TAKE 20 PER DAY," В ДЕНЬ"
+"stability,","+2 stability, +2bp consumption","стабильность, "
++2bp,"+2 stability, +2bp consumption",+2 потребление 
+consumption,"+2 stability, +2bp consumption"," bp"
+loyalty,-1 loyalty,верность
+"stability,","+4 stability, +8bp consumption","стабильность, "
++8bp,"+4 stability, +8bp consumption",+8 потребление 
+consumption,"+4 stability, +8bp consumption"," bp"
+"loyalty,","+2 loyalty, +2bp consumption","верность, "
++2bp,"+2 loyalty, +2bp consumption",+2 потребление 
+consumption,"+2 loyalty, +2bp consumption"," bp"
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|DEFENCE,БОЕВОЙ|МАНЕВР
+DEFENCE,COMBAT|MANOEUVRE|DEFENCE,ЗАЩИТА
+Commands the army,"Commands the army – If vacant, -4 loyalty",Командует армией
+"– If vacant,","Commands the army – If vacant, -4 loyalty","- Если свободно,"
+loyalty,"Commands the army – If vacant, -4 loyalty",лояльность
+EXOTIC WEAPON ATTACK,EXOTIC WEAPON ATTACK BONUS,АТАКА ЭКЗОТИЧЕСКИМ ОРУЖИЕМ
+BONUS,EXOTIC WEAPON ATTACK BONUS,БОНУС
+"Baron, Duke, King or Queen","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Барон, Герцог, Король или Королева"
+"– If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","- Если свободно, королевство проваливает броски управления и не может захватывать или развивать шестигранники"
+ATTACK,ATTACK BONUS,БОНУС
+BONUS,ATTACK BONUS,АТАКИ
+Woodland Stride,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Лесная Прогулка 
+Move through undergrowth at normal speed|and taking no damage,Woodland Stride|Move through undergrowth at normal speed|and taking no damage," Передвижение через любой вид подлеска| без потери скорости и не получая урона"
+FASCINATE,FASCINATE|MAX AUDIENCE,ОЧАРОВАНИЕ
+MAX AUDIENCE,FASCINATE|MAX AUDIENCE,МАКС. ЗРИТЕЛЕЙ
+Fast Movement,Fast Movement +20 ft,Быстрое Передвижение 
++20 ft,Fast Movement +20 ft,+20фт
+SUBTOTAL,SUBTOTAL BUFFS & TEAMWORK,ПОДЫТОГ
+BUFFS & TEAMWORK,SUBTOTAL BUFFS & TEAMWORK,БАФФЫ И КОМАНДНАЯ РАБОТА
+Clustered shots,Clustered shots    Group arrows to overcome damage reduction,Кластерный Выстрел
+Group arrows to overcome damage reduction,Clustered shots    Group arrows to overcome damage reduction,"Сгруппируй стрелы, чтобы превзойти снижение урона"
+At levels,"At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.",На уровнях
+"and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","и 16 вы получаете 1 очко навыков.|Если величина - нечётное число, модификатор способности увеличивается."
+Slow Fall,Slow Fall 20 ft,Замедление падения 
+20 ft,Slow Fall 20 ft," 12 фт"
+BASE|ATTACK,BASE|ATTACK|BONUS,БАЗОВЫЙ|АТАКИ
+BONUS,BASE|ATTACK|BONUS,БОНУС
+Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Чувство природы
++2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 к навыкам Знание (природа) и Выживание
+FLURRY ATTACK,FLURRY ATTACK BONUS,БОНУС
+BONUS,FLURRY ATTACK BONUS,ШКВАЛЬНОЙ АТАКИ
+DAMAGE,DAMAGE BONUS,БОНУС
+BONUS,DAMAGE BONUS,УРОНА
+UNREST,UNREST LEVEL,ВОЛНЕНИЯ
+LEVEL,UNREST LEVEL,УРОВЕНЬ
+INT,+ INT| per level,ИНТ
+per level,+ INT| per level,за уровень
+Forbidden|During,Forbidden|During|RAGE!,Нельзя|Во время
+RAGE!,Forbidden|During|RAGE!,ЯРОСТИ!
+Neutral:,Neutral: +2 Stability,Нейтрал: 
+Stability,Neutral: +2 Stability," Стабильность"
+Slow Fall,Slow Fall 80 ft,Замедление падения 
+80 ft,Slow Fall 80 ft," 80 фт"
+ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,КЛАСС|ЗАЩИТЫ
+PENALTY,ARMOUR|CLASS|PENALTY,ШТРАФ
+Heal your own wounds -,Heal your own wounds - 2 ki points,Исцелить собственные раны - 
+2 ki points,Heal your own wounds - 2 ki points,2 очка ки
+Improved Back to Back,Improved Back to Back    +2 to ally’s AC,Улучшенная Спина к Спине
+to ally’s,Improved Back to Back    +2 to ally’s AC,к союзническому
+AC,Improved Back to Back    +2 to ally’s AC,КБ
+TO TURN CREATURE,TO TURN CREATURE  MAX HIT DICE,ОБРАТИТЬ СУЩЕСТВО
+MAX HIT DICE,TO TURN CREATURE  MAX HIT DICE,МАКС. КОСТЕЙ ХИТОВ
+CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,ПОКАЗАТЕЛЬ|ВЫНОСЛИВОСТИ
+BONUS,CONSTITUTION|SCORE|BONUS,БОНУС
 +2 WIS,+2 WIS and -2 CHA in all three forms.,+2 МУДР
 and,+2 WIS and -2 CHA in all three forms.,и
 -2 CHA,+2 WIS and -2 CHA in all three forms.,-2 ХАР
 in all three forms.,+2 WIS and -2 CHA in all three forms.,во всех формах.
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,ПРОВАЛ МИСТИЧЕСКОГО ЗАКЛИНАНИЯ
+THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,ШАНС
+Combat Expertise,Combat Expertise  AC bonus,Знания Боя
+AC,Combat Expertise  AC bonus,КБ
+bonus,Combat Expertise  AC bonus,бонус
+Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,Стена щитов
+to,Shield Wall    +1 / +2 to AC when both using shields,к
+AC,Shield Wall    +1 / +2 to AC when both using shields,КБ
+when both using shields,Shield Wall    +1 / +2 to AC when both using shields,когда оба со щитами
+RAGE!,RAGE!|Duration,ЯРОСТЬ!
+Duration,RAGE!|Duration,Длительность
+CREATURES AFFECTED,CREATURES AFFECTED TOTAL HIT DICE,ПОДВЕРЖЕНО СУЩЕСТВ
+TOTAL HIT DICE,CREATURES AFFECTED TOTAL HIT DICE,СУММА КОСТЕЙ ХИТОВ
+Slip magically between spaces -,Slip magically between spaces - 2 ki points,Магическое движение между квадратами - 
+2 ki points,Slip magically between spaces - 2 ki points," 2 очка ки"
+Pinpoint Targeting,"Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Точное прицеливание
+"Make a single attack that bypasses shields, armour and natural armour","Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour","Одиночный выстрел, который игнорирует щиты, доспехи и натуральную броню"
+Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,КС Акробатики = 5 + Вражеская
+CMD,Acrobatics DC = 5 + Opponent’s CMD,ЗБМ
+Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Фехтование
+Use,Weapon Finesse    Use DEX for melee attack,Используйте
+DEX,Weapon Finesse    Use DEX for melee attack,ЛОВ
+for melee attack,Weapon Finesse    Use DEX for melee attack,для ближней атаки
+Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,КС Акробатики = Вражеская
+CMD,Acrobatics DC = Opponent’s CMD,ЗБМ
+Duck and Cover,Duck and Cover    Take ally’s result on reflex save,Спрятать голову в песок
+Take ally’s result on reflex save,Duck and Cover    Take ally’s result on reflex save,Взять результат союзника по спасброску за рефлекс
+(which grants,(which grants +20 to Acrobatics),(что дает 
+to Acrobatics),(which grants +20 to Acrobatics)," к Акробатике)"
+HEXES,HEXES    Claim and abandon hexes,ШЕСТИГРАННИК
+Claim and abandon hexes,HEXES    Claim and abandon hexes,Занимать и покидать шестигранники
+DAMAGE,DAMAGE|BONUS,БОНУС
+BONUS,DAMAGE|BONUS,К УРОНУ
+Queen Consort or Prince Consort,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,Королева Консорт или Принц Консорт
+– May rule if the Ruler is absent. but must pass loyalty check or,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,"- Может править, если отсутствует правитель. Но должен проходить проверку лояльности или"
+unrest,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,волнения
+Make unarmed strikes with any free limb|Flurry of blows uses full,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",Совершите безоружную атаку любой свободной конечностью|К шквалу ударов применяется полный бонус
+STR,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand"," СИЛ"
+"bonus, even with off hand","Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",", даже к неосновным атакам"
+Lookout,Lookout    Act in surprise round if ally can act,Бдительность
+Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,Действовать в предбоевой раунд если союзник может действовать
+Fast Movement,Fast Movement +10 ft,Быстрое Передвижение
++10 ft,Fast Movement +10 ft,+10фт
+ENERGY,ENERGY|ROLL,ЭНЕРГИИ
+ROLL,ENERGY|ROLL,БРОСОК
+MELEE ATTACK,MELEE ATTACK|BONUS,БЛИЖНЯЯ АТАКА
+BONUS,MELEE ATTACK|BONUS,БОНУС
+stability,-1 stability,стабильность
+Manyshot,Manyshot    Shoot two arrows simultaneously,Мультивыстрел
+Shoot two arrows simultaneously,Manyshot    Shoot two arrows simultaneously,Выстрел одновременно двумя стрелами
+Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,Оружейное Мастерство
+Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,Увеличенный критический диапазон и автоподтверждение крита
+Point-blank shot,Point-blank shot    Within 30ft,Выстрел упор
+Within,Point-blank shot    Within 30ft,до
+30ft,Point-blank shot    Within 30ft,30фт
+"loyalty,","+4 loyalty, +8bp consumption","верность, "
++8bp,"+4 loyalty, +8bp consumption",+8 потребление 
+consumption,"+4 loyalty, +8bp consumption"," bp"
+DAMAGE,DAMAGE|REDUCTION,СОКРАЩЕНИЕ
+REDUCTION,DAMAGE|REDUCTION,УРОНА
+Greater,Greater RAGE!,Великая
+RAGE!,Greater RAGE!,ЯРОСТЬ!
+TALENTS,TALENTS|KNOWN,ТАЛАНТОВ
+KNOWN,TALENTS|KNOWN,ИЗВЕСТНО
+DEPOSIT,DEPOSIT    4000gp in trade goods and treasure nets 1bp,ЗАЛОГ
+4000gp in trade goods and treasure nets 1bp,DEPOSIT    4000gp in trade goods and treasure nets 1bp,Продав сокровища и товары на 4000зм получить 1bp
+"loyalty,","+3 loyalty, +4bp consumption","верность, "
++4bp,"+3 loyalty, +4bp consumption",+4 потребление
+consumption,"+3 loyalty, +4bp consumption"," bp"
+Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Фокус Ярости
+Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Сокрушающий удар без штрафа для первой атаки
+Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",Кавалерийская Формация
+"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount","Делить место, производить рывок сквозь союзного всадника"
+Tandem Trip,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",Тандемный Заход
+"When ally is adjacent, roll twice for trip","Tandem Trip    When ally is adjacent, roll twice for trip CMB","Когда союзник прилегает, бросьте дважды для прохождения"
+CMB,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",ББМ
+DC,DC 20,КС
+Slow Fall,Slow Fall 70 ft,Замедление падения 
+70 ft,Slow Fall 70 ft," 70 фт"
+Hammer the Gap,Hammer the Gap    On a successful attack,Пробить Бреш
+On a successful attack,Hammer the Gap    On a successful attack,При успешной атаке
+Coordinated Defence,Coordinated Defence    +2 to CMD,Скоординированная Защита
+to,Coordinated Defence    +2 to CMD,к
+CMD,Coordinated Defence    +2 to CMD,ЗБМ
+Shielded Caster,Shielded Caster    +4 to concentration checks,Защищённый Заклинатель
+to concentration checks,Shielded Caster    +4 to concentration checks,к проверкам концентрации
+Quick Draw,Quick Draw    Draw your weapon as a free action,Быстрое Извлечение
+Draw your weapon as a free action,Quick Draw    Draw your weapon as a free action,Извлечь оружие в качестве свободного действия
+Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,Поймать Момент
+AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,AoO когда союзник подтверждает критический удар
+(which grants,(which grants +24 to Acrobatics),(что дает 
+to Acrobatics),(which grants +24 to Acrobatics)," к Акробатике)"
+Tireless,Tireless RAGE!,Неутомимая
+RAGE!,Tireless RAGE!,ЯРОСТЬ!
+Feint Partner,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",Партнёрский Финт
+"When ally feints, enemy loses","Feint Partner    When ally feints, enemy loses DEX bonus to AC","Когда союзник делает финт, противник теряет"
+DEX,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",бонус ЛОВ
+bonus to,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",к
+AC,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",КБ
+Improved Cleaving Finish,Improved Cleaving Finish    Any number per round,Улучшенное Добивающее Расщепление
+Any number per round,Improved Cleaving Finish    Any number per round,Любое кол-во в раунд
+TERRAIN,"TERRAIN    Build farms, roads, mines etc",МЕСТНОСТЬ
+"Build farms, roads, mines etc","TERRAIN    Build farms, roads, mines etc","Постройка ферм, дорог, шахт и т.д."
+Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,Скоординированный рывок
+Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,"Совершите рывок к тому же врагу, что и союзник"
+RAGE!,RAGE!|Modifier,Модиф.
+Modifier,RAGE!|Modifier,ЯРОСТИ!
+WILL,WILL SAVE,ВОЛИ
+SAVE,WILL SAVE,СПАС
+Slow Fall,Slow Fall 50 ft,Замедление падения 
+50 ft,Slow Fall 50 ft,50 фт
+TRAP SENSE,TRAP SENSE|REFLEX BONUS,ОЩУЩЕНИЕ ЛОВУШЕК
+REFLEX BONUS,TRAP SENSE|REFLEX BONUS,БОНУС РЕАКЦИИ
+TURNS,TURNS PER DAY,ОБРАЩЕНИЙ
+PER DAY,TURNS PER DAY,В ДЕНЬ
+Mighty,Mighty RAGE!,МОГУЧАЯ 
+RAGE!,Mighty RAGE!," ЯРОСТЬ!"
+GREATER,GREATER RAGE!,БОЛЬШАЯ
+RAGE!,GREATER RAGE!,ЯРОСТЬ!
+UNARMED ATTACK,UNARMED ATTACK BONUS,БЕЗОРУЖНАЯ АТАКА
+BONUS,UNARMED ATTACK BONUS,БОНУС
+Haste,Haste    One extra attack at full bonus,Спешка
+One extra attack at full bonus,Haste    One extra attack at full bonus,Доп. атака со всеми бонусами
+SMITING DAMAGE,SMITING DAMAGE|BONUS,УРОН СОКРУШЕНИЯ
+BONUS,SMITING DAMAGE|BONUS,БОНУС
+Two-weapon Fighting,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Бой с Оружием в Обеих Руках
+Penalty for wielding two weapons reduced to -4 / -4,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Штраф за использование двух оружий снижается до -4 / -4
+Swap Places,Swap Places    Switch places with an ally,Рокировка
+Switch places with an ally,Swap Places    Switch places with an ally,Поменяться местами с союзником
+Ruler of a colony or vassal state,"Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit","Правитель колонии, или вассального гос-ва"
+"– May also take any role for colony, with 1 less benefit","Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit",- Может так же исполнять любую роль в колонии со сниженной на 1 пользой
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,Мистическое заклинание
+THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,Шанс провала
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,БОЕВОЙ|МАНЕВР
+BONUS,COMBAT|MANOEUVRE|BONUS,БОНУС
+Two-weapon fighting,Two-weapon fighting    Reduces penalty to:,Бой с оружием в обеих руках
+Reduces penalty to:,Two-weapon fighting    Reduces penalty to:,Снижение штрафа до
+MAX POWER,MAX POWER|LEVEL,МАКС УРОВЕНЬ
+LEVEL,MAX POWER|LEVEL,СИЛЫ
+Class|Skills,Class|Skills|+3,Классовые|Навыки
+BUILDINGS,BUILDINGS    Add buildings to towns,СТРОИТЕЛЬСТВО
+Add buildings to towns,BUILDINGS    Add buildings to towns,Постройка строений в городах
+POWER POINTS,POWER POINTS|PER DAY,ОЧКИ СИЛЫ
+PER DAY,POWER POINTS|PER DAY,В ДЕНЬ
+SETTLE,SETTLE    Create new towns,ЗАСЕЛЕНИЕ
+Create new towns,SETTLE    Create new towns,Создание новых городов
+Linguistics and Knowledge are class skills using,Linguistics and Knowledge are class skills using WIS,"Лингвистика и Знание классовые навыки, требующие"
+WIS,Linguistics and Knowledge are class skills using WIS," МУД"
+Slow Fall,Slow Fall 60 ft,Замедление падения 
+60 ft,Slow Fall 60 ft," 60 фт"
+"loyalty,","+1 loyalty, +1bp consumption","верность, "
++1bp,"+1 loyalty, +1bp consumption",+1 потребление 
+consumption,"+1 loyalty, +1bp consumption"," bp"
+RAGE!,RAGE!  DURATION|PER DAY,ДЛИТЕЛЬНОСТЬ
+DURATION,RAGE!  DURATION|PER DAY,ЯРОСТИ!
+PER DAY,RAGE!  DURATION|PER DAY,В ДЕНЬ
+Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",Улучшенный Партнёрский Финт
+"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO","Когда союзник делает финт, получи АпВ"
 + 10 to speed|unless wearing|heavy armour,,+ 10 к скорости|если не надета|тяжёлая броня
+BANNER,,БАННЕР
 Trap Sense +3,,Поиск Ловушек +3
 INSPIRE COMPETENCE,,ВДОХНОВЕНИЕ
 Debit,,Дебет
 Profession (scribe),,Профессия (писарь)
 Cleric|Level,,Уровень|Священника
+RANGE,,ДАЛЬНОСТЬ
 BONDED WEAPON,,СВЯЗЬ С ОРУЖИЕМ
 Taxation,,Налоги
-Druid Level,,Уровень друида
+Druid Level,,Уровень Друида
 Gender,,Пол
 CHAOTIC,,ХАОС
 Profession (herbalist),,Профессия (травник)
@@ -662,7 +673,7 @@ Base Value,,Базовое Значение
 INFUSION,,ВНУШЕНИЕ
 Soulknife|Level,,Уровень|Клинка Душ
 MEDIUM RANGE,,СРЕДНЯЯ ДИСТАНЦИЯ
-"Diplomacy, Handle Animal",,"Дипломатия, Приручение животных"
+"Diplomacy, Handle Animal",,"Дипломатия, Дрессировка"
 Perform (dance),,Представление (танец)
 EVENT,,Событие
 Trapfinding,,Обнаружение ловушек
@@ -671,7 +682,7 @@ Spell resistance,,Сопр. магии
 Craft (sculptures),,Ремесло (скульптуры)
 +10 to move at full speed,,+10 к передвижению на полной скорости
 Buffs,,Баффы
-ROGUE TALENTS,,ПЛУТОВСКИЕ ТАЛАНТЫ
+ROGUE TALENTS,,ВОРОВСКИЕ ПРИЁМЫ
 DR 5/— when wearing armour or using a shield,,"СУ 5/ - когда носишь броню, или используешь щит"
 Friendly,,Дружественный
 Belts,,Пояс
@@ -713,6 +724,7 @@ Burrow,,Зарываться
 CON|Increase,,ВЫН|Увеличение
 Base,,Базовый
 Class abilities,,Классовые особенности
+BLIGHT DRUID,,ЧУМНОЙ ДРУИД
 Take your first level,,Получите свой первый уровень
 BARBARIAN,,ВАРВАР
 Barbarian,,Варвар
@@ -726,7 +738,7 @@ Ki Pool (magic),,Запас Ки (магия)
 STABILITY,,СТАБИЛЬНОСТЬ
 120ft,,120фт
 Vigilante|Level,,Мстителя|Уровень
-Racial,,Расовый
+Racial,,Народа
 Knowledge: Nature,,Знание: Природа
 Marksman|Level,,Уровень|Стрелка
 Speak with any living creature,,Общение с любым живым существом
@@ -768,7 +780,7 @@ AURA OF COURAGE,,АУРА ОТВАГИ
 Medusa’s Wrath,,Гнев Медузы
 Search,,Поиск
 Casting time,,Время создания заклинания
-Damage Reduction,,Понижение урона
+Damage Reduction,,Снижение Урона
 Other skills:|Craft - INT|Perform - CHA,,Прочие навыки:|Ремесло-ИНТ|Представление-ХАР
 Population,,Население
 TELEPATHY,,ТЕЛЕПАТИЯ
@@ -776,6 +788,7 @@ Inspire Greatness,,Вдохновляющее Величие
 One skill|rank,,один навык/ранг
 CURSE OF LYCANTHROPY,,проклятие ликантропии
 LAWFUL,,ПОРЯДОК
+Power Points used today,,Очков силы использовано
 Viceroy,,Наместник
 BONDED OBJECT,,СВЯЗАННЫЙ ОБЪЕКТ
 Improved Critical / Keen weapon / Keen magical effect,,Улучшеный Крит / Режущее оружие / Режущий магический эффект
@@ -793,7 +806,7 @@ Use Magical Device,,Использование магич. устройств
 Temporary|Hit Points,,Временные|Очки Здоровья
 Int,,Инт
 UTILITY,,ПОЛЕЗНОСТЬ
-HIGH JUMP,,ПРЫЖОК В ВЫСОТУ
+HIGH JUMP,,ВЫСОКИЙ ПРЫЖОК
 Add any bonus or penalty from your race:,,Добавить любой бонус или штраф вашей расы
 SOCIAL TALENTS,,СОЦИАЛЬНЫЕ ТАЛАНТЫ
 Starting point,,отправная точка
@@ -810,6 +823,7 @@ Effective|Level,,Эффективный|Уровень
 Weapon,,Оружие
 Fascinate,,ОЧАРОВАТЬ
 CHA - 8,,ХАР - 8
+WEAPON,,ОРУЖИЕ
 Page,,Страница
 sp,,см
 Craft (weapons),,Ремесло (оружие)
@@ -823,7 +837,7 @@ Mountebank|Level,,Уровень|Шарлатана
 Spell Level,,Уровень заклинания
 Weapons considered Good aligned for overcoming DR.,,Оружие считается добрым в целях преодоления поглощения урона.
 PRESTIGE CLASS,,Престиж-класс
-Size|Modifier,,Модиф.|Размера
+Size|Modifier,,Мод.|Размера
 HIT|POINTS,,очки здоровья?
 Level|Bonus,,Бонус|Уровня
 Weapon Focus:,,Фокус на Оружии:
@@ -853,13 +867,13 @@ d10,,d10
 Total hit|points,,Всего очков здоровья
 Gnome,,Гном
 "Treat hands, feet, knees and elbows as weapons",,"Руки, ноги, колени и локти считаются оружием"
-Monk Level,,Уровень Монаха
+Monk Level,,Уровень монаха
 AURA,,АУРА
 Craft (winemaking),,Ремесло (винодел)
 Cryptic|Level,,Уровень|Шифра
 Cost,,Цена
 Intimidate|check DC,,КС проверки|угрозы
-"Handle Animal, Intimidate",,"Приручение животных, Устрашение"
+"Handle Animal, Intimidate",,"Дрессировка, Запугивание"
 +2 to attack roll (affects critical range),,+2 к броску атаки (влияет на крит. диапозон)
 Improved|Evasion,,Улучш.| Уворот
 NATURAL LYCANTHROPE,,Естественный оборотень
@@ -867,7 +881,7 @@ Sickened,,Заболел
 Favoured,,Заклятый
 Master Strike,,Мастерский Удар
 Treat unarmed attacks as lawful weapons,,Безоружные атаки считаются оружием порядка
-DAMAGE REDUCTION,,СОКРАЩЕНИЕ УРОНА
+DAMAGE REDUCTION,,СНИЖЕНИЕ УРОНА
 METAMAGIC,,МЕТАМАГИЯ
 Apply this bonus to all knowledge skills,,Применять бонус ко всем навыкам знаний
 Rage 3/day,,Ярость 3/день
@@ -895,8 +909,9 @@ JACK OF ALL TRADES,,МАСТЕР НА ВСЕ РУКИ
 Natural|Armour,,Естественная|Броня
 Wizard|Level,,Уровень|Волшебника
 lb,,фнт
-Spell Save DC = 10 + WIS + Spell Level,,КС Спаса от заклинания = 10 + МУД + Уровень заклинания
+Spell Save DC = 10 + WIS + Spell Level,,СЛ Испытания Заклинания = 10 + МУД + Уровень заклинания
 Blinding Critical,,Ослепляющий Крит
+Sneaky,,Проворный
 Ranger Level,,Уровень Следопыта
 Locate Traps,,Поиск Ловушек
 Acrobatics skill +4,,Навык акробатики +4
@@ -922,7 +937,7 @@ Investigator|Level,,Следователя|Уровень
 15ft,,15фт
 Trap Sense +4,,Поиск Ловушек +4
 Armour AC,,КЗ Брони
-Domain Spell,,Заклинание Домена
+Domain Spell,,Заклинание Сферы
 Bard|Level,,Уровень|Барда
 Manifester|Level,,Уровень|Заявителя
 Knowledge (arcana),,Знание (волшебство)
@@ -930,7 +945,8 @@ WATER,,ВОДА
 SPENDING,,РАСХОДЫ
 Sleight of Hand,,Ловкость рук
 Book,,Книга
-"Diplomacy, Intimidate",,"Дипломатия, Устрашение"
+FORCE OF WILL,,СИЛА ВОЛИ
+"Diplomacy, Intimidate",,"Дипломатия, Запугивание"
 TOUCH,,Прикосновение
 Exhausting Critical,,Выматывающий Крит
 20 Reflex save,,Спас реакции 20
@@ -939,7 +955,7 @@ Rounds Today,,Раундов сегодня
 MONEY,,ДЕНЬГИ
 NPC,,НПС
 AURA OF RESOLVE,,АУРА РЕШИТЕЛЬНОСТИ
-ARMOUR CLASS BONUS,,БОНУС КЛАССА ЗАЩИТЫ
+ARMOUR CLASS BONUS,,БОНУС КЛАССА БРОНИ
 Open Lock,,Открыть замок
 TRAPS,,ЛОВУШКИ
 READ LANGUAGES,,ЧИТАЕМЫЕ ЯЗЫКИ
@@ -956,7 +972,7 @@ CHA - 12,,ХАР - 12
 Dying,,Умирает
 STUNNING APPEARANCE,,ШОКИРУЮЩИЕ ОБЛИЧИЕ
 Wild Empathy,,Связь с Природой
-Spellcraft,,Магическое ремесло
+Spellcraft,,Колдовство
 d20 +,,d20 +
 Antipaladin|Level,,Уровень|Антипаладина
 Stat,,Стат
@@ -975,11 +991,11 @@ d6 / 2d6,,d6 / 2d6
 EMPTY BODY,,ПУСТОЕ ТЕЛО
 Athletics,,Атлетика
 EFFECTS,,ЭФФЕКТЫ
-ARMOUR CLASS,,КЛАСС ЗАЩИТЫ
-Spell|Save DC,,КС Спаса|от заклинания
-HEALING|POINTS,,ОЧКИ|ЛЕЧЕНИЯ
+ARMOUR CLASS,,КЛАСС БРОНИ
+Spell|Save DC,,СЛ Испытания|заклинания
+HEALING|POINTS,,ОЧКИ|ЗДОРОВЬЯ
 Blinded,,Ослеплен
-Times per day,,Использований в День
+Times per day,,Использований в день
 WELL-VERSED,,ИСКУШЕННЫЙ
 Revert to base form at dawn or after 8 hrs rest.,,Вернуться к базовой форме??? на рассвета или после 8-часового отдыха
 Profession (butcher),,Профессия (мясник)
@@ -999,6 +1015,7 @@ Rova,,Рова
 MYTHIC POWER,,МИФИЧЕСКИЕ СИЛЫ
 Tiring Critical,,Изнуряющий Крит
 AFFLICTED LYCANTHROPE,,одержимый оборотень
+Twice a day,,Дважды в день
 Greater Weapon Specialisation,,Великая специализация в оружии
 MONK,,МОНАХ
 IX,,IX
@@ -1010,6 +1027,7 @@ Dex,,Лов
 Recover all hit points with 8 hours rest,,Восстановите всё здоровье за восьмичасовой отдых
 CHA - 4,,ХАР - 4
 Paladin|Level,,Уровень|Паладина
+Move action,,Сопутствующее действие
 Slow Fall 40 ft,,Медленное Падение 40фт
 TAXATION,,НАЛОГИ
 Unlimited uses|per day,,Без ограничений|в день
@@ -1023,6 +1041,7 @@ MASTER STRIKE,,МАСТЕРСКИЙ УДАР
 Attained,,Пытался
 Disarm Traps,,Обезвреживание ловушек
 Temp Attack,,Врем. Атака
+"Add 1d6 to Knowledge, Linguistics or Spellcraft",,"Плюс 1к6 к Знанию, Лингвистике или Колдовству"
 DEFLECTION|BONUS,,ОТКЛОНЕНИЕ|БОНУС
 Bonus,,Бонус
 Craft (founder),,Ремесло (плавильщик)
@@ -1076,6 +1095,7 @@ Speed,,Скорость
 AURA OF FAITH,,АУРА ВЕРЫ
 Psicraft,,Псионика
 days,,дней
+5d6,,5d6
 GOOD,,ДОБРО
 Token,,Символические
 d6,,d6
@@ -1093,13 +1113,14 @@ Craft (mechanic),,Ремесло (механик)
 FALL,,ПАДЕНИЕ
 Craft (carver),,Ремесло (резчик)
 Half-orc,,Полуорк
+(SORCERER),,(ЧАРОДЕЙ)
 Weapon type,,Тип оружия
 Heavy Load,,Тяжелая нагрузка
 DUAL IDENTITY,,ДВОЙНАЯ ЛИЧИНА
 Summoned|Today,,Призывов|Сегодня
 Caster|Level,,Уровень|Заклинателя
 Morale|Bonus,,Бонус|Морали
-DIVINE GRACE,,БОЖЕСТВЕННАЯ МИЛОСТЬ
+DIVINE GRACE,,МИЛОСТЬ БОЖЕСТВА
 per successive hit,,за каждый успешный удар
 Calistril,,Калистрил
 HUNTER’S BOND,,ОХОТНИЧЬИ УЗЫ
@@ -1126,13 +1147,13 @@ FAVOURED ENEMIES,,ИЗБРАННЫЕ ВРАГИ
 Inventory,,Инвентарь
 AFFILIATIONS,,ЧЛЕНСТВА
 SPELL RANGES,,ДАЛЬНОСТЬ ЗАКЛИНАНИЙ
-Race,,Раса
+Race,,Народ
 Perform (act),,Представление (миниатюра)
 Personality,,Личность
 Profession (woodcutter),,Профессия (дровосек)
 "From level 10, a Rogue|can take Advanced Talents",,С 10го уровня Плут может брать| Продвинутые Таланты
 against larger foes,,против больших врагов
-Allies within 10ft get +4 to saves against fear effects.,,Союзники в радиусе 10фт получают +4 против страха
+Allies within 10ft get +4 to saves against fear effects.,,Союзники в радиусе 10фт получают бонус +4 против страха
 FEAT,,Черты
 Flurry of Blows Attack Bonus,,Бонус Шквала Ударов
 Flurry|Attack,,Шквальная|Атака
@@ -1140,6 +1161,7 @@ DEFENCE,,ЗАЩИТА
 5ft,,5фт
 Racial abilities,,Рассовые особенности
 Endurance,,Крепкое тело
+Hunter|Level,,Охотника|Уровень
 KINGDOM MANAGEMENT,,УПРАВЛЕНИЕ КОРОЛЕВСТВОМ
 HYBRID FORM,,ГИБРИДНАЯ ФОРМА
 DRUID,,ДРУИД
@@ -1147,7 +1169,7 @@ III,,III
 Abundant Step,,Широкий Шаг
 Rage 2/day,,Ярость 2/день
 Advanced Talents,,Продвинутые Таланты
-Spell Resistance,,Сопр. магии
+Spell Resistance,,Устойчивость к Магии
 Character name,,Имя персонажа
 Craft (glass),,Ремесло (стекло)
 Survival,,Выживание
@@ -1188,6 +1210,7 @@ LEVELS,,УРОВНИ
 Assassin|Level,,Уровень|Убийцы
 RANGED,,ДАЛЬНИЙ БОЙ
 Strength,,Сила
+Damage:,,Урон:
 UNCHAINED,,ОСВОБОЖДЁННЫЙ
 Cause an enemy to die of joy or sorrow,,Заставляет врага умереть от смеха или печали
 Profession (baker),,Профессия (пекарь)
@@ -1195,7 +1218,7 @@ LANGUAGES,,ЯЗЫКИ
 Ability Modifier = (Total Ability Score - 10) ÷ 2    (Round down),,Модификатор = (Значение хар-ки - 10) ÷ 2 (Округление вниз)
 d <dice>,,d <кость>
 Armour|Bonus,,Бонус|Брони
-rks,,rks
+rks,,рнг
 Fatigued|Penalty,,Усталый|Штраф
 Weapon Focus,,Фокус на Оружии
 15 Acrobatics,,Акробатика 15
@@ -1214,12 +1237,12 @@ OATHBOUND PALADIN,,ДАВШИЙ ОБЕТ ПАЛАДИН
 Vacancies,,Вакансии
 Spell Failure,,Срыв закл-ия
 Half-elf,,Полуэльф
-2d8,,2d8
-Ability Modifier =|    (Total Ability Score - 10) ÷ 2,,Модификатор параметра =| (Суммарный показатель - 10) ÷ 2
+2d8,,2к8
+Ability Modifier =|    (Total Ability Score - 10) ÷ 2,,Модификатор =| (Значение хар-ки - 10) ÷ 2
 Base attack bonus and saving throws,,Базовый бонус атаки и спасброски
 Light <weight>,,Легкий
 Base Save,,Базовый Спас
-Linguistics,,Лингвистика
+Linguistics,,Лингвистике
 HIT POINTS & SKILL RANKS,,ОЧКИ ЗДОРОВЬЯ И НАВЫКОВ
 Ki Pool,,Запас Ки
 Profession (gambler),,Профессия (игрок)
@@ -1241,11 +1264,12 @@ Wisdom,,Мудрость
 Kuthona,,Куфона
 FRIGHTENING TUNE,,ТРЕВОЖНАЯ МЕЛОДИЯ
 Profession (sailor),,Профессия (матрос)
-(Round down),,(Округлять к меньшему)
+(Round down),,(Округлять вниз)
 Ki Pool (adamantine),,Запас Ки (адамантин)
 WEAPON TRAINING,,ТРЕНИРОВКА ОРУЖИЯ
 SPECIAL MOUNT,,СПЕЦИАЛЬНЫЙ СКАКУН
-SPEED,,Скорость
+From level 2:,,Со 2го уровня:
+SPEED,,СКОРОСТЬ
 PERSONALITY,,ЛИЧНОСТЬ
 Base|Speed,,Базовая|Скорость
 BARDIC PERFORMANCE,,ВЫСТУПЛЕНИЯ БАРДА
@@ -1260,8 +1284,9 @@ Pathfinder Society Faction,,Фракция Общества Следопытов
 Slow Fall 70 ft,,Медленное падение 70 фт
 Weapon|Damage|Bonus,,Бонус|К урону|Оружием
 "Cannot rage, run or charge|while fatigued.",,"Ярость, бег или натиск невозможны|во время усталости."
+Grace,,Грация
 coins,,монеты
-Value,,Значение
+Value,,Кол-во
 Magister,,Магистр
 Profession (tanner),,Профессия (кожевник)
 Stunning Critical,,Оглушающий Крит
@@ -1276,10 +1301,10 @@ None,,Нет
 Craft (pottery),,Ремесло (гончарное дело)
 HOLY CHAMPION,,СВЯТОЙ ЧЕМПИОН
 Keyboard|Instruments,,Клавишные|Инструменты
-KNOWN SPELLS,,Известные заклинания
+KNOWN SPELLS,,ИЗВЕСТНЫЕ ЗАКЛИНАНИЯ
 Spot,,Определить
 HIT|DICE,,КОСТИ|ХИТОВ
-Times Today,,Использовано сегодня
+Times Today,,Использовано Сегодня
 Cure Wounds,,Лечение Ранений
 COUNTERSONG,,ОТВЕТНАЯ ПЕСНЯ
 FORT,,СТОЙ
@@ -1300,6 +1325,7 @@ RANGED|ATTACK,,ДАЛЬНЯЯ|АТАКА
 Economy|Roll,,Экономика|Бросок
 Promotions,,Продвижения
 Slow Fall 90 ft,,Медленное падение 90 фт
+Perception|Check|DC,,Проверка|Внимания|СЛ
 Target is also frightened unless they pass a will save.,,"Цель так же напугана, если они не пройдут спас по воле."
 Temp|Bonus,,Врем.|Бонус
 SURGE,,ВСПЛЕСК
@@ -1311,7 +1337,7 @@ HEX|TOKENS,,ЖЕТОНЫ|НАГОВОРОВ
 Climb Speed,,Скорость лазания
 Mass Suggestion,,Массовое Внушение
 Use Rope,,Исп. веревку
-REF,,РЕФ
+REF,,РЕФЛ
 "Bonus applies to saving throws against Bardic Performance, sonic|and language-dependent effects.",,"Бонус применим к спасброскам против выступлений других бардов,| а также звуковых и зависящих от звука эффектов."
 Bluff,,Обман
 Base|Attack,,Базовая|Атака
@@ -1327,7 +1353,7 @@ CHOICES,,ВЫБОРЫ
 Range:,,Дальность:
 Bonus|Points,,Доп.|Очки
 BARDIC KNOWLEDGE,,ЗНАНИЕ БАРДА
-10ft,,10фт
+10ft,,10ft
 Weapon Attack Bonus,,Бонус Атаки Оружия
 Martial Lore,,Боевые Учения
 Knowledge (nature),,Знание (природа)
@@ -1391,6 +1417,7 @@ Temp Damage,,Врем. Урон
 Monthly income,,Месячный доход
 Nerf,,Нерф
 SENSEI,,СЕНСЕЙ
+DAMAGE,,УРОН
 FAVOURED ENEMY BONUS,,БОНУС ИЗБРАННОГО ВРАГА
 Trap Sense +5,,Поиск Ловушек +5
 Impaling Critical,,Пронзающий Крит
@@ -1416,7 +1443,8 @@ FEATS & SPECIAL ABILITIES,,ЧЕРТЫ И ОСОБЫЕ СПОСОБНОСТИ
 if larger/|smaller,,если больше/|меньше
 No age penalties or artificial ageing,,Нет штрафов от возраста или магического старения
 CITY,,ГОРОД
-Animal Companion’s Name,,Имя животного-компаньона
++6 Perception,,+6 Внимание
+Animal Companion’s Name,,Имя верного зверя
 See below.,,См. ниже.
 Craft (bows),,Ремесло (луки)
 Skald|Level,,Уровень|Скальда
@@ -1424,20 +1452,23 @@ VALUABLE ITEMS,,ЦЕННЫЕ ВЕЩИ
 Add monk level to Acrobatics checks for jumping,,Добавить уровень монаха к проверках Акробатики при прыжках
 INITIATIVE|MARKER,,МАРКЕР|ИНИЦИАТИВЫ
 Craft (tailor),,Ремесло (портной)
-Range,,Дальность
+Range,,Дистанция
 Medium,,Средний
 Events,,События
 DIVINE BOND,,БОЖЕСТВЕННАЯ СВЯЗЬ
 PAYMENTS,,ВЫПЛАТЫ
 LONG RANGE,,ДАЛЬНЯЯ ДИСТАЦИЯ
+4d6,,4d6
 Skill,,Навык
 PREPARED SPELLS,,ПОДГОТОВЛЕННЫЕ ЗАКЛИНАНИЯ
 Improved Evasion,,Улучшенный Уворот
+• Blind,,Слепой
 Full|Moon,,Полная|Луна
 DC 15,,КС 15
 Modifier,,Модификатор
-Stealth,,Незаметность
+Stealth,,Скрытность
 Preferred Clothing,,Предпочитаемая одежда
+"Disable Device, Intimidate",,"Механика, Запугивание"
 Extra,,Доп.
 Strength|Multiplier,,Множитель|Силы
 Point|Cost,,Стоимость|в Очках
@@ -1459,11 +1490,13 @@ EGO,,ЭГО
 Fears,,Страхи
 d00,,d
 LYCANTHROPIC EMPATHY,,СОЧУВСТВИЕ ЛИКАНТРОПА
+Cat’s Grace,,Кошачья грация
 Bards can wear light armour without risking|spell failure.,,Барды могут носить легкую броню без|риска провалить заклинание
 Magus|Level,,Уровень|Магуса
 MASS SUGGESTION,,МАССОВОЕ ВНУШЕНИЕ
 Intelligence,,Интелект
 BLOODRAGE!,,КРОВАВАЯ ЯРОСТЬ!
+Two-weapon Fighting,,Бой с Оружием в Обеих Руках
 Craft (ships),,Ремесло (корабли)
 Power|Level,,Уровень|Силы
 ARMOUR CHECK,,ПРОВЕРКА БРОНИ
@@ -1471,6 +1504,7 @@ Craft (jeweler),,Ремесло (ювелир)
 POWERS AND PURPOSE,,СИЛЫ И ЦЕЛИ
 Medium Load,,Средняя нагрузка
 Con,,ВЫН
+RACE,,НАРОД
 Coward,,Трус
 Channelling positive energy uses up two of today’s|uses of Lay On Hands.,,Проведение позитивной энергии расходует до двух|ежедневных применений Возложения Рук
 "Weapons, Ammo, Scrolls, Potions",,"Оружие, Боеприпасы, Свитки, Зелья"
@@ -1500,19 +1534,19 @@ Rounds|Today,,Раундов|Сегодня
 "Ranger bonus feats can be taken without the normal pre-requisites,|but only apply when not wearing heavy armour.",,"Следопыт может брать бонусные навыки без удовлетворения их требованиям,|но только если не носит тяжелой брони."
 AURA OF RIGHTEOUSNESS,,АУРА ПРАВЕДНОСТИ
 Normal,,Средние
-Disable Device,,Вывод устройств из строя
+Disable Device,,Механика
 "As a move action, share half your Favoured Enemy|bonus against a single target with all allies within 30 ft",,Действием движения разделить 1/2 бонуса Заклятого Врага|против одиночной цели с союзниками в радиусе 30фт
 Bonus Points,,Доп. Очки
 Total,,Всего
 WEAPON MASTERY,,МАСТЕР ПО ОРУЖИЮ
-BAB,,ББА
+BAB,,БМА
 SENSES,,ЧУВСТВА
 Employer,,Работодатель
 STA,,СТА
 Basic,,Базовый
 Gold,,Золото
 DEADLY PERFORMANCE,,СМЕРТОНОСНОЕ ВЫСТУПЛЕНИЕ
-Escape Artist,,Высвобождение
+Escape Artist,,Изворотливость
 silver,,серебро
 Ninja|Level,,Уровень|Ниндзя
 Profession (miner),,Профессия (шахтер)
@@ -1528,7 +1562,7 @@ Balance,,Баланс
 CRITICAL,,КРИТИЧЕСКИЙ
 to Hybrid or Animal form:,,к Гибридной и Животной форме:
 +2 to saves against enchantments,,+2 к спасам от очарований
-Temp,,Временный
+Temp,,Врем.
 ITEMS,,ВЕЩИ
 Profession (porter),,Профессия (портье)
 "Cut out carefully with a sharp knife or scissors,|using the      marks as guides",,"Аккуратно вырезать, используя острый нож или ножницы,|используя пометки как направляющие"
@@ -1541,7 +1575,7 @@ Other items,,Другие вещи
 Knowledge: Arcana,,Знание: Волшебство
 XP,,ОПЫТ
 Oratory,,Ораторское
-WILD EMPATHY,,СОПЕРЕЖИВАНИЕ ПРИРОДЕ
+WILD EMPATHY,,ПОНИМАНИЕ ЖИВОТНЫХ
 CONTAINER,,КОНТЕЙНЕР
 Cha,,ХАР
 Class,,Класс
@@ -1605,6 +1639,7 @@ Craft (traps),,Ремесло (ловушки)
 PSICRYSTAL,,ПСИКРИСТАЛЛ
 EMPATHY,,Сочувствие
 Profession (architect),,Профессия (архитектор)
+Casting|Stat,,Характеристика|Заклинателя
 Uses|Today,,Исп.|Сегодня
 Dexterity,,Ловкость
 Bonus Feat,,Доп. Черта
@@ -1623,6 +1658,7 @@ Gozran,,Гозран
 INT - 4,,ИНТ - 4
 Background,,Прошлое
 Lamashan,,Ламашан
+• Stunned,,Оглушённый
 Mythic|Tier,,Мифический|Уровень
 Bloodline Spell,,Заклинания наследия
 Bonus hit points|per tier,,Доп. очки здоровья|за уровень
@@ -1631,7 +1667,7 @@ Treat unarmed attacks as adamantine weapons,,Безоружные атаки с�
 Body,,Тело
 Two-weapon Defence,,Двуклинковая защита
 Fly,,Полет
-WILD SHAPE,,ДИКАЯ ФОРМА
+WILD SHAPE,,ПРИРОДНЫЙ ОБЛИК
 + WIS,,+ МУДР
 Power|Attack,,Мощная|Атака
 Staggering Critical,,Оглушающий Крит
@@ -1648,6 +1684,7 @@ Eyes,,Глаза
 Constitution,,Выносливость
 "Smiting damage bonus applies double for the|first successful strike against evil outsiders, |evil dragons and the undead.",,Бонусный урон Сокрушения удваивается|при первой успешной атаке против злых пришельцев|злых драконов и нежити
 Decipher Script,,Расшифровать
+POISON RESISTANCE,,СОПРОТИВЛЕНИЕ ЯДУ
 Check Penalty,,Штраф проверок
 REGULAR PAYMENTS,,РЕГУЛЯРНЫЕ ВЫПЛАТЫ
 Shield AC,,КЗ Щита
@@ -1679,7 +1716,7 @@ Valuables,,Ценности
 Stunning Fist,,Оглушающий Кулак
 Craft (locks),,Ремесло (замки)
 Two-handed weapon,,Двуручное оружие
-Intimidate,,Устрашение
+Intimidate,,Запугивание
 Weapon and armour proficiencies,,Квалификации использования оружия и брони
 Synergy,,Синергия
 Bonus to all|saving throws,,Бонус ко всем|спасброскам
@@ -1732,8 +1769,9 @@ VIGILANTE,,Мститель
 second sneak attack in a round,,вторая атака исподтишка в раунд
 DOMAIN,,СФЕРА
 4/silver,,4/серебро
-Uses|per day,,Использований|в день
+Uses|per day,,Применений|в день
 WILL,,ВОЛЯ
+Sorcerer|Level,,Уровень|Чародея
 MERCIES,,МИЛОСЕРДИЯ
 ECONOMY,,ЭКОНОМИКА
 - 1 per 5lb| carried,,-1 за 5фнт|переносимых
@@ -1743,7 +1781,7 @@ WILL SAVE DC,,КС СПАСА ВОЛИ
 Enhancements,,Улучшения
 CLASS,,КЛАСС
 Human,,Человек
-SORCERER,,КОЛДУН
+SORCERER,,ЧАРОДЕЙ
 Character traits,,Черты персонажа
 Unarmed|Strike|Damage,,Урон|Безоружной|Атаки
 Hair,,Волосы
@@ -1759,6 +1797,7 @@ Penetrating Strike,,Проникающий Удар
 pp,,пм
 Knowledge (local),,Знание (краеведение)
 5/silver,,5/серебро
+Uses per day,,Использований в день
 Specialist|Spell,,Специалиста|Заклинания
 x 4,,x 4
 "Using any combination of|unarmed strikes and Monk|weapons: Kama, Nunchaku,|Quarterstaff, Sai, Shuriken,|Siangham",,"Использовать любую комбинацию из|безоружных ударов и Монашеских|оружий: Камы, Нунчаков,|Посоха, Сай, Сюрикенов,| Сингхам"
@@ -1785,11 +1824,12 @@ RACIAL ABILITIES,,РАСОВЫЕ ОСОБЕННОСТИ
 SOOTHING PERFORMANCE,,УСПОКАИВАЮЩЕЕ ВЫСТУПЛЕНИЕ
 Hit Dice,,Кости Хитов
 Basic attributes,,Базовые характеристики
-Deflection|Modifier,,Модиф.|Отражения
+Deflection|Modifier,,Мод.|Отражения
 Fame,,Слава
-Ammo,,Аммуниция
--4 initiative; 20% miss chance when attacking|-4 on opposed Perception|automatically fail Perception checks for sound,,"-4 к инициативе; 20% шанс промаха при атаке|-4 к встречным проверкам Восприятия|Автопровал проверок Восприятия, зависящих от звука"
+Ammo,,Снаряды
+-4 initiative; 20% miss chance when attacking|-4 on opposed Perception|automatically fail Perception checks for sound,,"-4 к инициативе; 20% шанс промаха при атаке|-4 к встречным проверкам Внимания|Автопровал проверок Внимания, зависящих от звука"
 KINGDOM|POPULATION,,КОРОЛЕВСТВО|НАСЕЛЕНИЕ
+Summoner|Level,,Призывателя|Уровень
 Profession (clerk),,Профессия (чиновник)
 Pick a class,,Выберите класс
 Concentration,,Концентрация
@@ -1813,9 +1853,10 @@ KINGDOM FINANCES,,ФИНАНСЫ КОРОЛЕВСТВА
 "If unrest is more than 10, abandon a hex",,"Если волнения больше 10, покиньте шестигранник"
 Craft (baskets),,Ремесло (корзины)
 WIS - 8,,МУД - 8
+Connection to party,,Отношения со спутниками
 COMBAT,,СРАЖЕНИЕ
 Profession (midwife),,Профессия (акушерка)
-ANIMAL COMPANION,,Животное-компаньон
+ANIMAL COMPANION,,ВЕРНЫЙ ЗВЕРЬ
 KNOWN POWERS,,ИЗВЕСТНЫЕ СИЛЫ
 Temp CMB,,Врем. ББМ
 Hit Die,,Кость хитов
@@ -1846,6 +1887,7 @@ Knowledge: The Planes,,Знание: Планы
 Base|Points,,Базовые|Очки
 LAY ON HANDS,,ВОЗЛОЖЕНИЕ РУК
 2d8 / 4d8,,2d8 / 4d8
+Saving|Throw|Bonus,,Бонус|Спас-|Броска
 Nature,,Природа
 Headband,,Налобная повязка
 hp,,ПЗ
@@ -1882,7 +1924,7 @@ Concept,,Концепт
 Bonus|Feats,,Бонус.Черты
 Unconcious,,Без сознания
 Perception,,Восприятие
-Handle Animal,,Приручение животных
+Handle Animal,,Дрессировка
 Class skills,,Классовые навыки
 Knowledge (nobility),,Знание (дворянство)
 Paladin Level,,Уровень Паладина
@@ -1921,6 +1963,7 @@ CASH,,ДЕНЬГИ
 Foes|Today,,Врагов|Сегодня
 Conditional Modifiers,,Модификаторы особых условий
 Duration,,Длительность
+• Deafened,,Оглохшый
 Light Wounds,,Легкие Ранения
 Perform (oratory),,Представление (ораторское исскуство)
 Hero,,Герой
@@ -1934,12 +1977,13 @@ Critical Wounds,,Критические Ранения
 Weapon Mastery,,Оружейное Мастерство
 Radius centred|on the Cleric,,Радиус с центром|на Священнике
 Focus,,Фокус
+Saves,,Спасброски
 BUFFS,,БАФФЫ
 Danger Sense +5,,Чувство Опасности +5
 Temp Speed,,Врем. Скорость
 POWER STONES,,КАМНИ СИЛЫ
 ATTACK BONUS,,БОНУС АТАКИ
-Granted Power,,Предоставляемые силы
+Granted Power,,Дарованная сила
 Initiative,,Инициатива
 Outline how you’d like the character to develop in the future.|This plan may change once the adventure starts.,,"Запишите, как вы видите дальнейшее развитие персонажа.|Этот план может измениться в ходе приключений."
 Rogue|Level,,Уровень|Плута
@@ -1955,7 +1999,8 @@ NINJA,,НИНДЗЯ
 Character number,,Номер персонажа
 Deflect Arrows,,Отражение стрел
 MOVE THROUGH THREATENED SQUARE,,ДВИЖЕНИЕ ЧЕРЕЗ УГРОЖАЕМЫЙ КВАДРАТ
-Uses Today,,Использовано сегодня
+Uses Today,,Применено сегодня
+• Frightened,,Напуганный
 ARMOUR TRAINING,,ТРЕНИРОВКА БРОНИ
 "As a move action, detect evil in one creature or item within 60ft.",,Действием движения обнаружить зло в одном существе/предмете в 60фт.
 Comedy,,Комедия
@@ -1970,11 +2015,12 @@ PROMOTIONS,,ПРОДВИЖЕНИЯ
 MELEE,,БЛИЖНИЙ БОЙ
 "Place of origin, nationality, culture",,"Место для происхождения, национальности, культуры"
 WIZARD,,ВОЛШЕБНИК
+Handle Animal|Bonus,,Дрессировка|Бонус
 Treasury funds,,Казначейский фонд
 SAVING THROW DC,,КС СПАСБРОСКА
 Debts,,Долги
 Likes,,Предпочтения
-Dodge|Modifier,,Модиф.|Уклонения
+Dodge|Modifier,,Мод.|Уклонения
 Use in place of Diplomacy to improve the attitude of an animal,,Исп. вместо Дипломатии для улучшения отношения зверя
 Ruler,,Правитель
 Domain,,Домен
@@ -1982,9 +2028,10 @@ Smitings Today,,Сокрушений Сегодня
 Standard,,Обычные
 Danger Sense +2,,Чувство Опасности +2
 Stunned,,Ошеломлен
-Temp AC,,Временный КЗ
+Temp AC,,Временный КБ
 PALADIN,,ПАЛАДИН
 Str,,СИЛ
+d6 +,,d6 +
 DC 25,,КС 25
 DIRGE OF DOOM,,ПАНИХИДА ПОГИБЕЛИ
 LEVEL,,УРОВЕНЬ
@@ -1996,6 +2043,7 @@ Truespeak,,Убеждение
 Monthly expenditure,,Месячные затраты
 Burrow Speed,,Скорость рытья
 AVENGER,,МСТИТЕЛЬ
+Acid,,Кислота
 BONUS FEATS,,БОНУСНЫЕ ЧЕРТЫ
 4ft,,4ft
 A dose of wolfsbane grants another fortitude save.,,Доза борца даёт дополнительный спасбросок по стойкости.
@@ -2021,6 +2069,7 @@ Weapon|Training,,Тренировка|Оружия
 Staggered,,Пошатывается
 Region,,Регион
 Notes,,Заметки
+Point Blank Shot,,Выстрел Вплотную
 Total Weight,,Общий Вес
 Craft (painting),,Ремесло (художник)
 TURN UNDEAD,,ОБРАЩЕНИЕ НЕЖИТИ
@@ -2045,7 +2094,7 @@ Your starting languages,,Ваши начальное знание языков
 Crippling Critical,,Калечащий Крит
 Change shape as a move action.,,Сменить форму действием движения
 Craft (masonry),,Ремесло (камнеукладчик)
-"Bluff, Intimidate",,"Обман, Устрашение"
+"Bluff, Intimidate",,"Обман, Запугивание"
 Spell Save DC = 10 + CHA + Spell Level,,КС спаса от заклинания = 10 + ХАР + Уровень заклинания
 dice,,кости
 Item value,,Ценность предмета
@@ -2055,13 +2104,14 @@ Arms / Wrists,,Кисти / Запястья
 Silver,,Серебро
 Max|Ranks,,Макс|Рангов
 Heavy,,Высокие
-Base|Attack Bonus,,Базовый|бонус атаки
+Base|Attack Bonus,,Базовый|Мод. Атаки
 Shaman|Level,,Уровень|Шамана
 SHIELD,,ЩИТ
 Race (including subtypes or customisations),,Раса (включая подтипы и кастомизацию)
 Stable,,Стабилиз.
 TREASURY,,СОКРОВИЩНИЦА
 INIT,,ИНИЦ
+OTHER EVENTS,,ИНЫЕ СОБЫТИЯ
 Light Load,,Легкая нагрузка
 VIGILANTE TALENTS,,ТАЛАНТЫ МСТИТЕЛЯ
 Rank / Position,,Ранг / Позиция
@@ -2079,6 +2129,7 @@ Motivations,,Мотивации
 Snatch Arrows,,ЛОВЛЯ СТРЕЛ
 Max Load,,Макс. нагрузка
 "Bonus to attack, damage and selected skills against this enemy",,"Бонус к атаке, урону и выбранным умениям против данного врага"
+"Diplomacy, Perception",,"Дипломатия, Внимание"
 3ft,,3фт
 Power Attack,,Мощная Атака
 Carried Items,,Переносимые вещи
@@ -2089,7 +2140,7 @@ Catch off-guard,,Импровизация
 Danger Sense +6,,Чувство Опасности +6
 Sneak Attack,,Скрытая атака
 ACTIONS,,ДЕЙСТВИЯ
-CMB,,ББМ
+CMB,,МБМ
 Forgery,,Подделывание
 Disable|Device,,Вывод устройств|из строя
 From Level 4,,С 4 Уровня
