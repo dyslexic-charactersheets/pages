@@ -1,303 +1,695 @@
 Original,Part of,Translation
-(which grants,(which grants +20 to Acrobatics checks for jumping),(el cual otorga
-to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
-Point Blank Shot,Point Blank Shot    +1 to attack and damage within first range increment,Disparo a bocajarro
-+1 to attack and damage within first range increment,Point Blank Shot    +1 to attack and damage within first range increment,+1 al taque y daño dentro del primer incremento rango
-BONUS,EXPERTISE|BONUS,BONUS
-AC,"Allows you to make an extra attack at your full bonus, |but take a -2 penalty to attack rolls and -4 to AC until |your next turn",CA
-"stability,","+1 stability, +1bp consumption","Estabilidad,"
-+1bp,"+1 stability, +1bp consumption",+1bp
-consumption,"+1 stability, +1bp consumption",consumo
-Level,25’+ 5’ × (Level ÷ 2),Nivel
-TRAP SENSE,TRAP SENSE|REFLEX BONUS,BONUS REFLEJOS
-REFLEX BONUS,TRAP SENSE|REFLEX BONUS,SENTIDO DE TRAMPAS
-Penetrating Strike,Penetrating Strike    Ignore damage reduction up to    5/—,Ataque penetrante
-Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to    5/—,Ignora RD hasta 
-SHARE FAVOURED ENEMY,SHARE FAVOURED ENEMY|DURATION,COMPARTIR ENEMIGO PREDILECTO
-DURATION,SHARE FAVOURED ENEMY|DURATION,DURACIÓN
-BREATH WEAPON,BREATH WEAPON|DAMAGE,ARMA DE ALIENTO
-DAMAGE,BREATH WEAPON|DAMAGE,DAÑO
-BONUS,WILD SURGE|BONUS,BONUS
-Back to Back,Back to Back    +2 to AC against flanking,Espalda con Espalda
-to,Back to Back    +2 to AC against flanking,a
-AC,Back to Back    +2 to AC against flanking,CA
-against flanking,Back to Back    +2 to AC against flanking,contra flanqueo
-IMTIMIDATE,IMTIMIDATE|BONUS,INTIMIDAR
-BONUS,IMTIMIDATE|BONUS,BONUS
-Precise shot,Precise shot    No penalty firing into melee,Disparo preciso
-No penalty firing into melee,Precise shot    No penalty firing into melee,Sin penalizador al atacar enemigo en combate
-Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Penaliz. Punt.|Destreza:
-Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Cuerpo Eterno
-"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged","No envejece, no puede envejecer mágicamente"
-LEVEL,MAX POWER|LEVEL,NIVEL
-DURATION,BREATH|DURATION,DURACIÓN
-TAKE 20,TAKE 20|PER DAY,ELEGIR 20
-PER DAY,TAKE 20|PER DAY,AL DÍA
-"Baron, Duke, King or Queen","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Barón, Duque, Rey o Reina"
-"– If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","- Si está vacante, el Reino falla todas las pruebas de comando y no puede reclamar o desarrollas hexágonos"
-Fast Movement,Fast Movement +60 ft,Movimiento Rápido
-+60 ft,Fast Movement +60 ft,+60'
-Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,Lanzador de Conjuros Aliado
-to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,para superar la resistencia a conjuros
-OR,SPELLBANE OR CURSEBREAKER|PER DAY,O
-PER DAY,SPELLBANE OR CURSEBREAKER|PER DAY,AL DÍA
+Lawful:,Lawful: +2 Economy,Legal:
+Economy,Lawful: +2 Economy,Economía
+Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,Carga Coordinada
+Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,Carga contra el mismo objetivo que el aliado
+Queen Consort or Prince Consort,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,Reina Consorte o Príncipe Consorte
+– May rule if the Ruler is absent. but must pass loyalty check or,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,"– Puede gobernar si el Regente está ausente, pero debe superar prueba de lealtad o"
+unrest,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,malestar
+Neutral:,Neutral: +2 Stability,Neutral:
+Stability,Neutral: +2 Stability,Estabilidad
 HEALING,SPIRIT|HEALING,CURACIÓN
-Liases with the people,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",Coopera con la gente
-"– If vacant,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","- Si vacante,"
-"loyalty,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","lealtad,"
-unrest at upkeep and no bonus from festivals,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",malestar durante el mantenimiento y sin bonus por festivales.
-SMITINGS,SMITINGS|PER DAY,CASTIGOS
-PER DAY,SMITINGS|PER DAY,POR DÍA
-Leads kingdom’s defences,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",Lidera las defensas del Reino
-"– If vacant,","Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability","- Si vacante,"
-loyalty and,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",lealtad y
-stability,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",estabilidad
-Slow Fall,Slow Fall 80 ft,Caída lentificada
-80 ft,Slow Fall 80 ft,80 ft
-Slow Fall,Slow Fall 40 ft,Caída Lentificada
-40 ft,Slow Fall 40 ft,40'
-QUIVER,QUIVER DAYS,DÍAS
-DAYS,QUIVER DAYS,TEMBLOR
-PER DAY,GRIT POINTS|PER DAY,AL DÍA
-Dodge bonus to,Dodge bonus to AC,Bonus de esquiva a
-AC,Dodge bonus to AC,CA
-Venom Immunity,Venom Immunity|Immune to all poisons,Inmunidad al veneno
-Immune to all poisons,Venom Immunity|Immune to all poisons,Inmune a todos los venenos
-CMB,"As part of a full attack, make additional|combat manoeuvres at a penalty to CMB.",BMC
-BONUS,STREETWISE|BONUS,BONUS
-POISON RESISTANCE,POISON RESISTANCE FORTITUDE SAVE BONUS,RESISTENCIA A VENENOS
-FORTITUDE SAVE BONUS,POISON RESISTANCE FORTITUDE SAVE BONUS,BONIFICADOR A SALV DE FORTALEZA POR
-Dead Shot,"Dead Shot    Roll all attacks, additional hits add dice",Disparo certero
-"Roll all attacks, additional hits add dice","Dead Shot    Roll all attacks, additional hits add dice","Lanza por todos los ataques, los aciertos añaden dados de daño"
-FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,BONUS ATAQUE BASE
-BASE ATTACK BONUS,FLURRY OF BLOWS|BASE ATTACK BONUS,RÁFAGA DE GOLPES
-BANE,BANE|PER DAY,PERDICIÓN
-PER DAY,BANE|PER DAY,AL DÍA
-DC,Trick Riding  Ignore Ride checks of DC 15; no penalty for riding bareback; use Mounted Combat twice,CD
-Slow Fall,Slow Fall Any distance,Caída Lentificada
-Any distance,Slow Fall Any distance,Cualquier distancia
-Paired Opportunists,Paired Opportunists    When adjacent,Oportunistas en pareja
-When adjacent,Paired Opportunists    When adjacent,Cuando está adyacente
-"Recover from being fatigued, shaken or sickened","Recover from being fatigued, shaken or sickened|Level 8: recover from being exhausted, frightened, nauseated or staggered","Te recuperas de las condiciones de fatigado, estremecido o indispuesto"
-Level 8:,"Recover from being fatigued, shaken or sickened|Level 8: recover from being exhausted, frightened, nauseated or staggered",Nivel 8:
-"recover from being exhausted, frightened, nauseated or staggered","Recover from being fatigued, shaken or sickened|Level 8: recover from being exhausted, frightened, nauseated or staggered","Te recuperas de las condiciones de  exhausto, asustado, mareado o grogui"
-BONUS,DEXTERITY|SCORE|BONUS,BONUS
-PER DAY,POWER POINTS|PER DAY,AL DÍA
-"stability,","+2 stability, +2bp consumption","Estabilidad,"
-+2bp,"+2 stability, +2bp consumption",+2bp
-consumption,"+2 stability, +2bp consumption",consumo
-Physical Resistance,Physical Resistance -3,Resistencia Física
-DC 20,"On entering an anti-psionic area, pass a Will Save (DC 20)|to keep your mind blade active for this duration:",CD 20
-Two-weapon Rend,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",Desgarrar con dos armas
-"If you hit with both weapons, do an extra 1d10 + (","Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage","Si golpeas con ambas armas, haz un extra 1d10 ("
-STR,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",FUE
-× 1½) damage,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",× 1½) daño
-WIS,"Add WIS to CMB, once a round",SAB
-to,"Add WIS to CMB, once a round",a
-CMB,"Add WIS to CMB, once a round",BMC
-Forbidden|During,Forbidden|During|RAGE!,Prohibido|Durante
-RAGE!,Forbidden|During|RAGE!,FURIA!
-Grants,Grants +24 to Acrobatics,Concede
-to Acrobatics,Grants +24 to Acrobatics,a Acrobacias
-ASSIGN LEADERSHIP,ASSIGN LEADERSHIP    Adjust kingdom rolls,ASIGNAR LIDERAZGO
-Adjust kingdom rolls,ASSIGN LEADERSHIP    Adjust kingdom rolls,Ajusta las pruebas del reino
-TODAY,PERFECT STRIKE|TODAY,HOY
-Double Slice,Double Slice    Add your full STR to damage with an off-hand weapon,Doble Tajo
-Add your full,Double Slice    Add your full STR to damage with an off-hand weapon,Añade completamente tu
-STR,Double Slice    Add your full STR to damage with an off-hand weapon,FUE
-to damage with an off-hand weapon,Double Slice    Add your full STR to damage with an off-hand weapon,al daño con arma en mano torpe
-Shake It Off,Shake It Off     +1 to all saving throws per adjacent ally,Sacudirselo
-to all saving throws per adjacent ally,Shake It Off     +1 to all saving throws per adjacent ally,a todas las salvaciones por aliados adyacente
-TRAP SENSE,TRAP SENSE|BONUS,BONUS
-BONUS,TRAP SENSE|BONUS,SENTIDO DE TRAMPAS
-KNOWN,ARCANA|KNOWN,CONOCIDOS
-POOL,ENHANCEMENT|POOL,RESERVA
-SPELL,SPELL RESISTANCE,RESISTENCIA A
-RESISTANCE,SPELL RESISTANCE,CONJUROS
-WILD EMPATHY,WILD EMPATHY BONUS,EMPATIA SALVAJE
-BONUS,WILD EMPATHY BONUS,BONUS
-Cost:,Cost: all remaining pts,Coste:
-BONUS,SACRED|BONUS,BONUS
-Fast Movement,Fast Movement +40 ft,Movimiento Rápido
-+40 ft,Fast Movement +40 ft,+40 ft
-BONUS,ENHANCEMENT|BONUS,BONUS
-Enlarge Spell,Enlarge Spell  +1,Ampliar conjuro
-Intelligence,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",Inteligencia
-"– If vacant,","Intelligence – If vacant, -4 economy and +1 unrest at upkeep","- Si vacante,"
-economy and,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",economía y
-unrest at upkeep,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",malestar durante el mantenimiento
+Improved Natural Weapon,Improved Natural Weapon    Increased damage dice,Arma Natural Mejorada
+Increased damage dice,Improved Natural Weapon    Increased damage dice,Dado de daño incrementado
+Cost:,Cost: (1 pt to fix as a move action),Coste:
+to jump checks -,+20 to jump checks - 1 ki point,a pruebas de Saltar -
+1 ki point,+20 to jump checks - 1 ki point,1 punto ki
+Commands the army,"Commands the army – If vacant, -4 loyalty",Manda sobre el ejército
+"– If vacant,","Commands the army – If vacant, -4 loyalty","- Si vacante,"
+loyalty,"Commands the army – If vacant, -4 loyalty",lealtad
+HEALING,HEALING|POINTS,CURACIÓN
+Lose,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",Pierde
+DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DES
+bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",bonus a
+AC,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",CA
+-4 on,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",-4 a
+STR,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",FUE
+and,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",y
+"skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","habilidades, Percepción opuestas|50% de fallo cuando atacas|CD 10 Acrobacias para mover mas de vel. Media"
+PER DAY,ENHANCE HEALING|PER DAY,AL DÍA
+Guides religious worship,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",Guía la devoción religiosa
+"– If vacant,","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","- Si vacante,"
+"loyalty and stability, and","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","lealtad y estabilidad, y"
+unrest at upkeep,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",malestar durante mantenimiento
+Shot on the Run,Shot on the Run    Attack at any point during your move,Disparo a la carrera
+Attack at any point during your move,Shot on the Run    Attack at any point during your move,Ataca en cualquier momento durante tu movimiento
 Feint Partner,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",Compañero de finta
 "When ally feints, enemy loses","Feint Partner    When ally feints, enemy loses DEX bonus to AC","Cuando el aliado finta, el enemigo pierde "
 DEX,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",DES
 bonus to,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",bonus a
 AC,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",CA
-CORRUPTION,CORRUPTION|HIT POINTS,CORRUPCIÓN
-HIT POINTS,CORRUPTION|HIT POINTS,PUNTOS GOLPE
-Mighty,Mighty RAGE!,Furia
-RAGE!,Mighty RAGE!,Poderosa
-DC,DC    5,CD
-MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,BONUS MAX. DES
-BONUS,MAX ARMOUR|DEX BONUS,ARMADURA
-Fast Movement,Fast Movement +10 ft,Movimiento Rápido
-+10 ft,Fast Movement +10 ft,+10 ft
-Level,400’+ 40’ × Level,Nivel
-Improved Precise Shot,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Disparo Preciso Mejorado
-Ignore the penalties for partial cover or partial concealment,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Ignora los penalizadores por cobertura u ocultamiento parcial
-Pack Attack,Pack Attack    Ally’s attack allows you to take 5ft step,Ataque en manada
-Ally’s attack allows you to take,Pack Attack    Ally’s attack allows you to take 5ft step,Los ataques del aliado te permiten hacer
-5ft,Pack Attack    Ally’s attack allows you to take 5ft step,5 ft
-step,Pack Attack    Ally’s attack allows you to take 5ft step,paso
-Neutral:,Neutral: +2 Stability,Neutral:
-Stability,Neutral: +2 Stability,Estabilidad
-COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,DEFENSA|MANIOBRA
-DEFENCE,COMBAT|MANEUVRE|DEFENCE,COMBATE
-Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,Ruta de Escape
-Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,No provoca AdO cuando está adyacente a un aliado
-POWER POINTS,POWER POINTS|MAX COST,PUNTOS DE PODER
-MAX COST,POWER POINTS|MAX COST,COSTO MAXIMO
-Grant more abilities to allies -,Grant more abilities to allies - 2 ki points,Conceder más aptitudes a aliados -
-2 ki points,Grant more abilities to allies - 2 ki points,2 puntos ki
-WILL SAVE,WILL SAVE|BONUS,SALV VOL
-BONUS,WILL SAVE|BONUS,BONUS
+CURRENT,CURRENT|FEATS,ACTUAL
+FEATS,CURRENT|FEATS,DOTES
+20ft,Treat unarmed attacks as magic weapons|Increase range of a thrown object 20ft - 1 ki point,20ft
+1 ki point,Treat unarmed attacks as magic weapons|Increase range of a thrown object 20ft - 1 ki point,1 punto ki
+TOUCH,TOUCH ARMOUR CLASS,CLASE DE ARMADURA
+ARMOUR CLASS,TOUCH ARMOUR CLASS,TOQUE
+INITIATIVE,INITIATIVE BONUS,BONUS
+BONUS,INITIATIVE BONUS,INICIATIVA
+CREATURES AFFECTED,CREATURES AFFECTED TOTAL HIT DICE,CRIATURAS AFECTADAS
+Tandem Trip,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",Derribo en tandem
+"When ally is adjacent, roll twice for trip","Tandem Trip    When ally is adjacent, roll twice for trip CMB","Cuando un aliado está adyacente, tira dos veces para derribar"
+CMB,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",BMC
+TRICKS,TRICKS|KNOWN,TRUCOS
+KNOWN,TRICKS|KNOWN,CONOCIDOS
+POISON RESISTANCE,POISON RESISTANCE FORTITUDE SAVE BONUS,RESISTENCIA A VENENOS
+FORTITUDE SAVE BONUS,POISON RESISTANCE FORTITUDE SAVE BONUS,BONIFICADOR A SALV DE FORTALEZA POR
+QUIVER,QUIVER DAYS,DÍAS
+DAYS,QUIVER DAYS,TEMBLOR
+POWERS,POWERS|KNOWN,PODERES
+KNOWN,POWERS|KNOWN,CONOCIDOS
+Resist Nature’s Lure,Resist Nature’s Lure|+4 to saves against the fey and plants,Resistir la atracción de la Naturaleza
++4 to saves against the fey and plants,Resist Nature’s Lure|+4 to saves against the fey and plants,+4 a salvaciones contra fatas y plantas
+ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,REDUCCIÓN|PENALIZACIÓN
+REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,USO ARMADURA
+CHA,Power Save DC = 10 + CHA + Power Level,CHA
+Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",Formacion de Caballería
+"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount","Comparte espacio, carga a través de la montura aliada"
+Low-light Vision,Low-light Vision| • Can see twice as far as normal in dim light| • Can see outdoors on a moonlit night as clearly as during the day| • Low-light vision is colour vision,Visión en la penumbra
+• Can see twice as far as normal in dim light| • Can see outdoors on a moonlit night as clearly as during the day| • Low-light vision is colour vision,Low-light Vision| • Can see twice as far as normal in dim light| • Can see outdoors on a moonlit night as clearly as during the day| • Low-light vision is colour vision,• Puede ver el doble de lejos que en luz ténue|• Puede ver en el exterior con luna como si fuera de día|• Visión en la penumbra permite ver colores
 Greater,Greater RAGE!,Furia
 RAGE!,Greater RAGE!,Mayor
-RAGE,"When you take damage of at least your level while|RAGING, add to the number of rounds of RAGE today",FURIA
-today,"When you take damage of at least your level while|RAGING, add to the number of rounds of RAGE today",hoy
-A Thousand Faces,A Thousand Faces|Change appearance at will,Mil Caras
-Change appearance at will,A Thousand Faces|Change appearance at will,Cambia apariencia a voluntad
-WIS,Use WIS in place of STR/DEX for monk weapons,SAB
-STR,Use WIS in place of STR/DEX for monk weapons,FUE
-DEX,Use WIS in place of STR/DEX for monk weapons,DES
-HIT POINTS,TEMPORARY|HIT POINTS,PUNTOS GOLPE
-USES,USES|PER DAY,USOS
-PER DAY,USES|PER DAY,AL DÍA
-1 ki point,"As a swift action, gain +4 insight bonus to any skill or ability check, at a cost of 1 ki point",1 punto ki
-BONUS,FOCUS|BONUS,BONUS
-DC,DC 10,CD
+PER DAY,REDIRECTION|PER DAY,AL DÍA
+Intelligence,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",Inteligencia
+"– If vacant,","Intelligence – If vacant, -4 economy and +1 unrest at upkeep","- Si vacante,"
+economy and,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",economía y
+unrest at upkeep,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",malestar durante el mantenimiento
+Damage Reduction 4/,Damage Reduction 4/―,Reducción de Daño 4/
+At levels,"At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.",A niveles
+"and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","y 16 puedes añadir 1 a una única puntuación de característica.|Si esa punt. era un numero impar, eso significa un incremento en el modif. habilidad."
+MAX HIT DICE,TO DESTROY CREATURE  MAX HIT DICE,DADOS DE GOLPE MAX.
+Cost:,Cost: all remaining pts,Coste:
+TAKE 10,TAKE 10|PER DAY,ELEGIR 10
+PER DAY,TAKE 10|PER DAY,AL DÍA
+"Recover from being fatigued, shaken or sickened","Recover from being fatigued, shaken or sickened|Level 8: recover from being exhausted, frightened, nauseated or staggered","Te recuperas de las condiciones de fatigado, estremecido o indispuesto"
+Level 8:,"Recover from being fatigued, shaken or sickened|Level 8: recover from being exhausted, frightened, nauseated or staggered",Nivel 8:
+"recover from being exhausted, frightened, nauseated or staggered","Recover from being fatigued, shaken or sickened|Level 8: recover from being exhausted, frightened, nauseated or staggered","Te recuperas de las condiciones de  exhausto, asustado, mareado o grogui"
+EVIL DAMAGE,EVIL DAMAGE|BONUS,BONUS DAÑO
+BONUS,EVIL DAMAGE|BONUS,MALIGNO
+Enforce rural justice,"Enforce rural justice – If vacant, -4 economy",Hace cumpli la justicia rural
+"– If vacant,","Enforce rural justice – If vacant, -4 economy","- Si vacante,"
+economy,"Enforce rural justice – If vacant, -4 economy",economía
+Masterwork,Masterwork     Doesn’t stack with magic bonus,Gran Calidad
+Doesn’t stack with magic bonus,Masterwork     Doesn’t stack with magic bonus,No acumula con bonus mágicos
+TRAP SENSE,TRAP SENSE|REFLEX BONUS,SENTIDO DE TRAMPAS
+REFLEX BONUS,TRAP SENSE|REFLEX BONUS,BON REF
+TRAP,TRAP SENSE,TRAMPA
+Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Disparo Preciso
+Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,Sin penalización -4 por disparar a melee
+MILITARY,MILITARY    Create armed units (comes from allocation for settling towns),MILITAR
+Create armed units (comes from allocation for settling towns),MILITARY    Create armed units (comes from allocation for settling towns),Crea unidades armadas (viene de 
+MORALE,MORALE|BONUS,BONUS
+BONUS,MORALE|BONUS,MORAL
+Damage,Damage +1d6,Daño
++1d6,Damage +1d6,+1d6
+BONUS,DECEPTION|BONUS,BONUS
+DODGE,DODGE|BONUS,ESQUIVA
+BONUS,DODGE|BONUS,BONUS
+Slip magically between spaces -,Slip magically between spaces - 2 ki points,Se desplaza mágicamente entre espacios -
+2 ki points,Slip magically between spaces - 2 ki points,2 puntos ki
+BONUS,VERMIN EMPATHY|BONUS,BONUS
+TRAP,TRAP|SAVE DC,TRAMPA
+SAVE DC,TRAP|SAVE DC,CD SALV
+Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Penaliz. Punt.|Destreza:
+AC,+2 shield bonus to AC and CMD while stationary,CA
+and,+2 shield bonus to AC and CMD while stationary,y
+CMD,+2 shield bonus to AC and CMD while stationary,BMC
+Two-weapon fighting,Two-weapon fighting    Reduces penalty to:,Luchar con dos armas
+Reduces penalty to:,Two-weapon fighting    Reduces penalty to:,Reduce la penalización a:
+BONUS,DEVICE|BONUS,BONUS
+CHALLENGES,CHALLENGES|PER DAY,DESAFÍOS
+PER DAY,CHALLENGES|PER DAY,AL DÍA
 "stability,","+4 stability, +8bp consumption","Estabilidad,"
 +8bp,"+4 stability, +8bp consumption",+8bp
 consumption,"+4 stability, +8bp consumption",consumo
-BONUS,DISPEL BONUS,BONUS
-PER DAY,LUCKY ROLLS|PER DAY,AL DÍA
-MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,GOLPE MAESTRO
-FORTITUDE DC,MASTER STRIKE|FORTITUDE DC,CD FORTALEZA
-Lookout,Lookout    Act in surprise round if ally can act,Centinela
-Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,Actuas en asalto sorpresa si el aliado puede
+MELEE DAMAGE,MELEE DAMAGE|BONUS,DAÑO MELEE
+BONUS,MELEE DAMAGE|BONUS,BONUS
+FORTITUDE,FORTITUDE|SAVE DC,FORTALEZA
+FORTITUDE|SAVE,FORTITUDE|SAVE DC,CD SALV
+SAVE DC,FORTITUDE|SAVE DC,CD SALV
+DC,FORTITUDE|SAVE DC,CD
+Leads kingdom’s defences,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",Lidera las defensas del Reino
+"– If vacant,","Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability","- Si vacante,"
+loyalty and,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",lealtad y
+stability,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",estabilidad
+2 ki points,Receive enlightenment while you rest - 2 ki points,2 puntos ki
+Fast Movement,Fast Movement +30 ft,Movimiento Rápido
++30 ft,Fast Movement +30 ft,+30'
+PROHIBITED,PROHIBITED SCHOOLS,Prohibidas
+SCHOOLS,PROHIBITED SCHOOLS,ESCUELAS
+Bonus to,Bonus to AC that applies only to|critical hit confirmation rolls,Bonus a
+AC,Bonus to AC that applies only to|critical hit confirmation rolls,CA
 Off-hand weapon,Off-hand weapon    (2 less for a light weapon),Arma mano torpe
 less for a light weapon),Off-hand weapon    (2 less for a light weapon),menos para un arma ligera)
+POWER POINTS,POWER POINTS|PER DAY,PUNTOS DE PODER
+PER DAY,POWER POINTS|PER DAY,AL DÍA
+RAGE!,Titanic RAGE!,FURIA!
+MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,BONUS MAX. DES
+BONUS,MAX ARMOUR|DEX BONUS,ARMADURA
+Grants,Grants +12 to Acrobatics,Concede
+to Acrobatics,Grants +12 to Acrobatics,a Acrobacias
+CHANNEL,CHANNEL|PER DAY,CANALIZAR
+PER DAY,CHANNEL|PER DAY,AL DÍA
+TAKE 20,TAKE 20|PER DAY,ELEGIR 20
+PER DAY,TAKE 20|PER DAY,AL DÍA
+PER DAY,LUCKY ROLLS|PER DAY,AL DÍA
+Dodge bonus to,Dodge bonus to AC,Bonus de esquiva a
+AC,Dodge bonus to AC,CA
 Devastating Strike,Devastating Strike    +2 per extra die,Golpe Devastador
 per extra die,Devastating Strike    +2 per extra die,por dado extra
-Two-weapon Fighting,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Combate con dos armas
-Penalty for wielding two weapons reduced to -4 / -4,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Penalización por blandir 2 armas reducido a -4 / -4
-SNEAK ATTACK,SNEAK ATTACK|BONUS,ATAQUE FURTIVO
-BONUS,SNEAK ATTACK|BONUS,BONUS
-"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get","You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.","Obtienes un número de rangos de habilidad de tu clase, a los que añades|tu modif. INT. Coloca estos rangos en habilidades.|Recuerda que las habilidades de clase obtienen"
-only if you have at least one rank.,"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.",solo si al menos posees un rango.
-Wild Shape,Wild Shape|Become any small or medium animal,Forma Salvaje
-Become any small or medium animal,Wild Shape|Become any small or medium animal,Se transforma en cualquier animal pequeño o mediano
-HEALING,HEALING|POINTS,CURACIÓN
-Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,Aprovecha el momento
-AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,AdO cuando un aliado confirma un crítico
-Wild Empathy,Wild Empathy|Improve the attitude of an animal,Empatía salvaje
-Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Mejora la actitud del animal
-Bonus Spells,Bonus Spells|WIS,Conjuros Adicionales
-WIS,Bonus Spells|WIS,SAB
-Bleeding Wound,"Bleeding Wound    Bleed damage equal to DEXAlternatively, 1 pt Strength, Dexterity or Constitution damage",Herida Sangrante
-"Bleed damage equal to DEXAlternatively, 1 pt Strength, Dexterity or Constitution damage","Bleeding Wound    Bleed damage equal to DEXAlternatively, 1 pt Strength, Dexterity or Constitution damage","Sangrado igual a DES|Otra alternativa, 1pt daño Fuerza, Destreza o Contitución"
-(which grants,(which grants +4 to Acrobatics),(concede
-to Acrobatics),(which grants +4 to Acrobatics),a Acrobacias)
-WIS,Linguistics and Knowledge are class skills using WIS,SAB
-ATTACK,ATTACK BONUS,ATAQUE
-BONUS,ATTACK BONUS,BONUS
-or,"Declare an elemental damage type before making an attack:|Acid, Cold, Electricity or Fire",o
-Acid,"Declare an elemental damage type before making an attack:|Acid, Cold, Electricity or Fire",Ácido
-REFLEX / FORTITUDE,REFLEX / FORTITUDE|SAVE DC,REFLEJOS / FORTALEZA
-DAMAGE,ELEMENTAL|DAMAGE,DAÑO
-Grant bonus to allies in 30ft -,Grant bonus to allies in 30ft - 1 ki point,Conceder bonus a aliados en 30 ft -
-1 ki point,Grant bonus to allies in 30ft - 1 ki point,1 punto ki
-Manyshot,Manyshot    Shoot two arrows simultaneously,Disparo multiple
-Shoot two arrows simultaneously,Manyshot    Shoot two arrows simultaneously,Disparas 2 flechas de forma simultanea
-Great Cleave,Great Cleave    Any number of extra attacks per round,Gran Hendedura
-Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,Cualquier número de ataques extra por asalto
-Tongue of the Sun and Moon,Tongue of the Sun and Moon|Speak with any living creature,Lengua del Sol y la Luna
-Speak with any living creature,Tongue of the Sun and Moon|Speak with any living creature,Habla con cualquier criatura viva
-Dodge bonus to,"Dodge bonus to AC, and morale bonus|to saving throws against fear",Bonus esquiva a
-AC,"Dodge bonus to AC, and morale bonus|to saving throws against fear",CA
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,DEFENSA DE MANIOBRA
-DEFENCE,COMBAT MANOEUVRE|DEFENCE,DE COMBATE
+Back to Back,Back to Back    +2 to AC against flanking,Espalda con Espalda
+to,Back to Back    +2 to AC against flanking,a
+AC,Back to Back    +2 to AC against flanking,CA
+against flanking,Back to Back    +2 to AC against flanking,contra flanqueo
+Grant bonus to an ally -,Grant bonus to an ally - 1 ki point,Conceder bonus a un aliado -
+1 ki point,Grant bonus to an ally - 1 ki point,1 punto ki
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,BONUS MANIOBRA
+BONUS,COMBAT MANOEUVRE|BONUS,DE COMBATE
+Bonus to,Bonus to CMB and CMD for your|chosen combat manoeuvres,Bonus a
+CMB,Bonus to CMB and CMD for your|chosen combat manoeuvres,BMC
+and,Bonus to CMB and CMD for your|chosen combat manoeuvres,y
+CMD,Bonus to CMB and CMD for your|chosen combat manoeuvres,BMC
+1 ki point,Increase bonus to +4 - 1 ki point,1 punto ki
+FOES,FOES|PER DAY,ENEMIGOS
+PER DAY,FOES|PER DAY,AL DÍA
+Physical Resistance,Physical Resistance -4,Resistencia Física
+TOUCH,TOUCH AC,CA de
+AC,TOUCH AC,TOQUE
+TOUCH AC,TOUCH AC|BONUS,CA TOQUE
+BONUS,TOUCH AC|BONUS,BONUS
+Broken Wing Gambit,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Tactica del Ala rota
+Grant,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Otorga 
+", get attack of opportunity","Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",", otorga ataque de oportunidad"
+RAGE!,Rounds of confusion do not count|against your rounds of RAGE! per day,FURIA!
+per day,Rounds of confusion do not count|against your rounds of RAGE! per day,al día
+WILL,WILL SAVE DC,CD SALV
+SAVE DC,WILL SAVE DC,VOL
+Greater Two-weapon Fighting,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Combate con dos armas mayor
+Third attack with your off-hand weapon,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Tercer ataque con arma en mano torpe
+SINGLE,SINGLE ATTACK,ATAQUE
+ATTACK,SINGLE ATTACK,SENCILLO
+Strength Score|Penalty:,Strength Score|Penalty: -2,Tirada Fuerza|Penalización:
+FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,CLASE DE ARMADURA
+ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,DESPREVENIDO
+2 ki points,Ally may re-roll attack or save - 2 ki points,2 puntos ki
+"On a hit, Fort (DC 10 + ½ level +","On a hit, Fort (DC 10 + ½ level + WIS) or stunned for 1 round","Si golpeado, Fort (CD 10 + ½ Nivel +"
+WIS,"On a hit, Fort (DC 10 + ½ level + WIS) or stunned for 1 round",SAB
+) or stunned for 1 round,"On a hit, Fort (DC 10 + ½ level + WIS) or stunned for 1 round",) o aturdido durante 1 asalto
+"stability,","+1 stability, +1bp consumption","Estabilidad,"
++1bp,"+1 stability, +1bp consumption",+1bp
+consumption,"+1 stability, +1bp consumption",consumo
+(which grants,(which grants +20 to Acrobatics),(que concede
+to Acrobatics),(which grants +20 to Acrobatics),a Acrobacias)
+Grants,Grants +16 to Acrobatics,Concede
+to Acrobatics,Grants +16 to Acrobatics,a Acrobacias
+1 ki point,Enter up to 4 stances immediately - 1 ki point,1 punto ki
+CMB,"This bonus can be applied to each manoeuvre only twice, once|to CMB and once to CMD.",BMC
+CMD,"This bonus can be applied to each manoeuvre only twice, once|to CMB and once to CMD.",BMC
+DC,REFLEX|SAVE DC,CD
+Lookout,Lookout    Act in surprise round if ally can act,Centinela
+Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,Actuas en asalto sorpresa si el aliado puede
+URBAN,URBAN|BARBARIAN!,URBANO
+"On a critical, Fort (DC 10 + ½ level +","On a critical, Fort (DC 10 + ½ level + DEX) or die","En un crítico, Fort (CD 10 + ½ Nivel +"
+DEX,"On a critical, Fort (DC 10 + ½ level + DEX) or die",DES
+) or die,"On a critical, Fort (DC 10 + ½ level + DEX) or die",) o muere
+DC 20,"On entering an anti-psionic area, pass a Will Save (DC 20)|to keep your mind blade active for this duration:",CD 20
+HIT POINTS,BASIC HEALING|HIT POINTS,PUNTOS GOLPE
+POWER,POWER|PER DAY,PODER
+PER DAY,POWER|PER DAY,POR DIA
+MELEE ATTACK,MELEE ATTACK|BONUS,BONUS ATAQUE
+BONUS,MELEE ATTACK|BONUS,MELEE
+Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,Maestría con Armas
+Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,Incrementa rango crítico y siempre confirma críticos
+ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,PENALIZACIÓN|CLASE DE
+PENALTY,ARMOUR|CLASS|PENALTY,ARMADURA
+ft,15 ft  3 sq,ft
+sq,15 ft  3 sq,c
+1d8,Act normally|Babble incoherently|Hurt yourself with item in hand|  Damage = 1d8 + STR|Attack nearest creature,1d8
+STR,Act normally|Babble incoherently|Hurt yourself with item in hand|  Damage = 1d8 + STR|Attack nearest creature,FUE
+DC,DC 25,CD
+Fast Movement,Fast Movement +40 ft,Movimiento Rápido
++40 ft,Fast Movement +40 ft,+40'
+Quick Draw,Quick Draw    Draw your weapon as a free action,Desenvainado Rápido
+Draw your weapon as a free action,Quick Draw    Draw your weapon as a free action,Desenvaina tu arma como acción gratuita
+COMBAT|MANEUVRE,COMBAT|MANEUVRE|BONUS,BONUS|MANIOBRA
+BONUS,COMBAT|MANEUVRE|BONUS,COMBATE
+Pinpoint Targeting,"Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Puntería Precisa
+"Make a single attack that bypasses shields, armour and natural armour","Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour","Hace un solo ataque que ignora escudos, armadura y armadura natural"
+DC,WISDOM|CHECK DC,CD
+KNOWN,ARCANA|KNOWN,CONOCIDOS
+Grants,Grants +4 to Acrobatics,Concede
+to Acrobatics,Grants +4 to Acrobatics,a Acrobacias
+Morale bonus to your mount’s strength|modifier during,Morale bonus to your mount’s strength|modifier during RAGE!|(+2 to Strength score),Bonus Moral al modif. fuerza de tu|montura durante la
+RAGE!,Morale bonus to your mount’s strength|modifier during RAGE!|(+2 to Strength score),FURIA!
+(+2 to Strength score),Morale bonus to your mount’s strength|modifier during RAGE!|(+2 to Strength score),(+2 a punt. de Fuerza)
+Gain 1hp on a successful melee attack|Gain,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,Gana 1pg con golpe melee exitoso|Gana
+WIS,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,SAB
+hp on a confirmed critical attack,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,pg en crítico confirmado
+Slow Fall,Slow Fall 50 ft,Caída lentificada
+50 ft,Slow Fall 50 ft,50 ft
+stability,-1 stability,Estabilidad
+Fast Movement,Fast Movement +20 ft,Movimiento Rápido
++20 ft,Fast Movement +20 ft,+20 ft
+FEAR EFFECT,FEAR EFFECTWILL BONUS,BONUS VOLUNTAD
+WILL BONUS,FEAR EFFECTWILL BONUS,EFECTO MIEDO
+RAGE!,RAGE!|TODAY,¡FURIA!
+TODAY,RAGE!|TODAY,HOY
+SAVE,SAVE DC,CD
+DC,SAVE DC,Salvacion
+PER DAY,DEVOTED STRIKES|PER DAY,AL DÍA
+Level,25’+ 5’ × (Level ÷ 2),Nivel
+AC,"Allows you to make an extra attack at your full bonus, |but take a -2 penalty to attack rolls and -4 to AC until |your next turn",CA
+Tireless,Tireless RAGE!,FURIA!
+RAGE!,Tireless RAGE!,Incansable
+Morale Bonus,Morale Bonus    Inspire Courage and similar,Bonificador de Moral
+Inspire Courage and similar,Morale Bonus    Inspire Courage and similar," Infundir Valor y similar"
+SHARE FAVOURED ENEMY,SHARE FAVOURED ENEMY|DURATION,COMPARTIR ENEMIGO PREDILECTO
+DURATION,SHARE FAVOURED ENEMY|DURATION,DURACIÓN
+Penetrating Strike,Penetrating Strike    Ignore damage reduction up to    5/—,Ataque penetrante
+Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to    5/—,Ignora RD hasta 
+PER DAY,TOUCH OF|SERENITY|PER DAY,AL DÍA
+BONUS,WISDOM|CHECK BONUS,BONUS
+Swap Places,Swap Places    Switch places with an ally,Cambiar sitios
+Switch places with an ally,Swap Places    Switch places with an ally,Cambia sitio con un aliado
+Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,Objetivo de oportunidad
+Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,Ataque extra cuando un aliado golpea a distancia
+TEAMWORK,TEAMWORK|FEATS,DOTES TRABAJO
+FEATS,TEAMWORK|FEATS,EN EQUIPO
+Critical Focus,Critical Focus),Soltura con críticos
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,BONUS|MANIOBRA
+BONUS,COMBAT|MANOEUVRE|BONUS,COMBATE
+STABILITY,"STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest",ESTABILIDAD
+"On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","Con éxito, -1 al malestar o añade 1 pc; con fallo, +1 al malestar; Con fallo por +4, +d4 malestar"
+CRITICAL,CRITICAL EFFECTS,EFECTOS
+EFFECTS,CRITICAL EFFECTS,CRÍTICOS
+Slow Fall,Slow Fall 20 ft,Caída Lentificada
+20 ft,Slow Fall 20 ft,20'
+Grants,Grants +8 to Acrobatics,Concede
+to Acrobatics,Grants +8 to Acrobatics,a Acrobacias
+1 ki point,Treat unarmed attacks as magic weapons|Increase range of attack by 50ft - 1 ki point,1 punto ki
+WITHDRAW,"WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check",RETIRAR
+"Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","Gana 2000po por bp. Incrementa malestar en 1, y haz prueba de Lealtad"
+CMB,"As part of a full attack, make additional|combat manoeuvres at a penalty to CMB.",BMC
+RAGE!,RAGE!|Modifier,Modificador de
+Modifier,RAGE!|Modifier,FURIA!
+Grants,Grants +20 to Acrobatics,Concede
+to Acrobatics,Grants +20 to Acrobatics,a Acrobacias
+ft,20 ft  4 sq,ft
+sq,20 ft  4 sq,c
+Duck and Cover,Duck and Cover    Take ally’s result on reflex save,A cubierto
+Take ally’s result on reflex save,Duck and Cover    Take ally’s result on reflex save,Usa el resultado de la Salv. Ref. del aliado
+loyalty,+1 loyalty,lealtad
+BONUS,CROWD BONUS,BONUS
+Grants,Grants +24 to Acrobatics,Concede
+to Acrobatics,Grants +24 to Acrobatics,a Acrobacias
+INT,+ INT| per level,INT
+per level,+ INT| per level,por nivel
+MAX HIT DICE,TO REBUKE CREATURE |MAX HIT DICE,DADOS DE GOLPE MAX.
+TODAY,ELEMENTAL FIST|TODAY,HOY
+RAGE!,RAGE! CONVERSION,FURIA!
+CONVERSION,RAGE! CONVERSION,CONVERSIÓN
+Craft -,Craft - INT|Perform - CHA,Artesanía -
+INT,Craft - INT|Perform - CHA,INT
+Perform -,Craft - INT|Perform - CHA,Interpretar -
+CHA,Craft - INT|Perform - CHA,CAR
+Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Golpe perforante Mejorado
+Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Ignora reducción de daño hasta
+RAGE!,RAGE! POWERS |KNOWN,PODERES
+POWERS,RAGE! POWERS |KNOWN,CONOCIDOS
+KNOWN,RAGE! POWERS |KNOWN,FURIA!
+DURATION,SCENT ABIILITY|DURATION,DURACIÓN
+(which grants,(which grants +20 to Acrobatics checks for jumping),(el cual otorga
+to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
+Precise shot,Precise shot    No penalty firing into melee,Disparo preciso
+No penalty firing into melee,Precise shot    No penalty firing into melee,Sin penalizador al atacar enemigo en combate
+WIS,"Add WIS to CMB, once a round",SAB
+to,"Add WIS to CMB, once a round",a
+CMB,"Add WIS to CMB, once a round",BMC
+(which grants,(which grants +12 to Acrobatics checks for jumping),(el cual otorga
+to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
+BONUS,DEXTERITY|SCORE|BONUS,BONUS
+BONUS,DISPEL BONUS,BONUS
+KNOWLEDGE,KNOWLEDGE |BONUS,SABER
+BONUS,KNOWLEDGE |BONUS,BONUS
+Use,Use WIS instead of DEX for attacks with a bow,Usa
+WIS,Use WIS instead of DEX for attacks with a bow,SAB
+instead of,Use WIS instead of DEX for attacks with a bow,en vez de
+DEX,Use WIS instead of DEX for attacks with a bow,DES
+for attacks with a bow,Use WIS instead of DEX for attacks with a bow,para ataques con un arco
+Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Ataque penetrante mayor
+Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Ignora RD hasta 
+Oversees international relations,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",Gestiona relaciones internacionales
+"– If vacant,","Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",- Si vacante
+stability and cannot issue Diplomatic or Exploration Edicts,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",estabilidad y no puede expedir Edictos Diplomáticos o de Exploración
+PER DAY,FOCUS|SUBJECTS|PER DAY,AL DÍA
+Natural Swimmer,Natural Swimmer|Swim at half land speed,Nadador Natural
+Swim at half land speed,Natural Swimmer|Swim at half land speed,Nada la mitad de la velocidad terrestre
+Strength rating,Strength rating    (composite bow),Valor de Fuerza
+(composite bow),Strength rating    (composite bow),(Arco compuesto)
+AC,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",CA
+and,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",y
+CMD,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",BMC
+ARMOUR,ARMOUR BONUS,ARMADURA
+BONUS,ARMOUR BONUS,BONUS
+TOTAL HIT DICE,CREATURES REBUKED|TOTAL HIT DICE,DADOS DE GOLPE TOTALES
+(which grants,(which grants +24 to Acrobatics),(que concede
+to Acrobatics),(which grants +24 to Acrobatics),a Acrobacias)
+Slow Fall,Slow Fall 40 ft,Caída Lentificada
+40 ft,Slow Fall 40 ft,40'
+Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Concentración Furiosa
+Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Ignora penalizaciones al Ataque Poderoso en el primer ataque
+BONUS,BONUS|DURATION,BONUS
+DURATION,BONUS|DURATION,DURACIÓN
+PER DAY,BARRAGES|PER DAY,AL DÍA
+CHANNEL ENERGY,CHANNEL ENERGY PER DAY,CANALIZAR ENERGÍA
+PER DAY,CHANNEL ENERGY PER DAY,AL DÍA
+2 ki points,"As a swift action once a day, create a 20ft-radius aura of|luck allowing yourself and all allies to take the better of two|rolls for attacks and saving throws.|Aura lasts 1 round for every 2 ki points spent",2 puntos ki
+HEXBLADE’S|CURSE,HEXBLADE’S|CURSE|PENALTY,HEXBLADE | MALDICION
+PENALTY,HEXBLADE’S|CURSE|PENALTY,PENALIZACIÓN
+STANCES,STANCES KNOWN,ESTANCIAS
+KNOWN,STANCES KNOWN,CONOCIDAS
+PER DAY,PERFORMANCE|PER DAY,AL DÍA
+Damage resistance,Damage resistance  10 / psionic,Reducción de daño
+10 / psionic,Damage resistance  10 / psionic,10 / psiónico
+Venom Immunity,Venom Immunity|Immune to all poisons,Inmunidad al Veneno
+Immune to all poisons,Venom Immunity|Immune to all poisons,Inmune a todos los venenos
+"Baron, Duke, King or Queen","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Barón, Duque, Rey o Reina"
+"– If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","- Si está vacante, el Reino falla todas las pruebas de comando y no puede reclamar o desarrollas hexágonos"
+DAMAGE,BACKLASH|DAMAGE,DAÑO
+RAGE,RAGE POWERS,FURIA
+POWERS,RAGE POWERS,PODERES
+Class|Skills,Class|Skills|+3,Habilidades Cláseas
 STUNNING FIST,STUNNING FIST|TODAY,PUÑETAZO ATURDIDOR
 TODAY,STUNNING FIST|TODAY,HOY
-Back to Back,Back to Back     +2 to AC against flanking,Espalda con espalda
-to,Back to Back     +2 to AC against flanking,a
-AC,Back to Back     +2 to AC against flanking,CA
-against flanking,Back to Back     +2 to AC against flanking,contra flanqueo
+Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,Maniobras Coordinadas
+to,Coordinated Manoeuvres    +2 to CMB,a
+CMB,Coordinated Manoeuvres    +2 to CMB,BMC
+UNREST,UNREST LEVEL,NIVEL
+LEVEL,UNREST LEVEL,MALESTAR
+Trackless Step,"Trackless Step|Leave no trail, unless deliberately",Pisada sin Rastro
+"Leave no trail, unless deliberately","Trackless Step|Leave no trail, unless deliberately","No deja rastro, si no quiere."
+loyalty,-1 loyalty,lealtad
+OPPOSED,OPPOSED SCHOOLS,OPUESTAS
+SCHOOLS,OPPOSED SCHOOLS,ESCUELAS
+(which grants,(which grants +8 to Acrobatics checks for jumping),(el cual otorga
+to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
+Damage Reduction 3/,Damage Reduction 3/―,Reducción de Daño 3/
+"economy,","+2 economy, -2 loyalty","economía,"
+loyalty,"+2 economy, -2 loyalty",lealtad
+BONUS,ENHANCEMENT|BONUS,BONUS
+Bonus Spells,Bonus Spells|CHA,Conjuros Adicionales
+CHA,Bonus Spells|CHA,CAR
+DC,DC 20,CD
+DURATION,DURATION|PER DAY,DURACIÓN
+PER DAY,DURATION|PER DAY,AL DÍA
+AC,"As a swift action, make a wisdom check (above). If successful, gain +2 to attack |until the end of your turn, and ignore damage reduction and hardness.|Alternatively, add half your level to Sense Motive, Reflex saves and a dodge bonus to AC until your next turn.",CA
+BUILDINGS,BUILDINGS    Add buildings to towns,EDIFICIOS
+Add buildings to towns,BUILDINGS    Add buildings to towns,Añade edificios a las ciudades
+Physical Resistance,Physical Resistance -1,Resistencia Física
+Dead Shot,"Dead Shot    Roll all attacks, additional hits add dice",Disparo certero
+"Roll all attacks, additional hits add dice","Dead Shot    Roll all attacks, additional hits add dice","Lanza por todos los ataques, los aciertos añaden dados de daño"
+MAX WEAPON,MAX WEAPON|ENHANCEMENT,Mejora máxima
+ENHANCEMENT,MAX WEAPON|ENHANCEMENT,del arma
+1d6,Drunken Strength 1d6,1d6
+Level,400’+ 40’ × Level,Nivel
+WIS,Use WIS in place of STR/DEX for monk weapons,SAB
+STR,Use WIS in place of STR/DEX for monk weapons,FUE
+DEX,Use WIS in place of STR/DEX for monk weapons,DES
+or,"Declare an elemental damage type before making an attack:|Acid, Cold, Electricity or Fire",o
+Acid,"Declare an elemental damage type before making an attack:|Acid, Cold, Electricity or Fire",Ácido
+Enlarge Spell,Enlarge Spell  +1,Ampliar conjuro
+ARMOUR,ARMOUR CLASS,CLASE DE
+CLASS,ARMOUR CLASS,ARMADURA
+(which grants,(which grants +12 to Acrobatics),(que concede
+to Acrobatics),(which grants +12 to Acrobatics),a Acrobacias)
+Wild Shape,Wild Shape|Become any small or medium animal,Forma Salvaje
+Become any small or medium animal,Wild Shape|Become any small or medium animal,Se transforma en cualquier animal pequeño o mediano
+Enforce law and order,"Enforce law and order – If present, -1 unrest at upkeep",Hace cumplir la ley y el orden
+"– If present,","Enforce law and order – If present, -1 unrest at upkeep","- Si presente,"
+unrest at upkeep,"Enforce law and order – If present, -1 unrest at upkeep",malestar durante mantenimiento
+TOTAL HIT DICE,MAX ANIMATE UNDEAD|TOTAL HIT DICE,DADOS DE GOLPE TOTALES
+"stability,","+3 stability, +4bp consumption","Estabilidad,"
++4bp,"+3 stability, +4bp consumption",+4bp
+consumption,"+3 stability, +4bp consumption",consumo
+OR,SPELLBANE OR CURSEBREAKER|PER DAY,O
+PER DAY,SPELLBANE OR CURSEBREAKER|PER DAY,AL DÍA
+Mighty,Mighty BLOODRAGE!,Poderosa
+BLOODRAGE!,Mighty BLOODRAGE!,¡Furia de sangre!
+WIS,Linguistics and Knowledge are class skills using WIS,SAB
+ft,30 ft,pies
+AC,Firearm attacks target the enemy’s touch AC in the first two |range increments. This stacks with similar effects.,CA
+TALENTS,TALENTS|KNOWN,TALENTOS
+KNOWN,TALENTS|KNOWN,CONOCIDOS
+1 pt per range increment,Cost: 1 pt per range increment,1 punto por incremente de alcance
+RAGE,RAGE|Duration,FURIA
+Duration,RAGE|Duration,Duración
+or,+2 spell save DC  or  +2 to attack  or  +2 against target’s spell resistance,o
+Fast Movement,Fast Movement +60 ft,Movimiento Rápido
++60 ft,Fast Movement +60 ft,+60 ft
+RAGE!,RAGE!|Duration,¡FURIA!
+Duration,RAGE!|Duration,Duración
+"economy,","+4 economy, -8 loyalty","economía,"
+loyalty,"+4 economy, -8 loyalty",lealtad
+Improved Back to Back,Improved Back to Back    +2 to ally’s AC,Espalda con Espalda Mejorado
+to ally’s,Improved Back to Back    +2 to ally’s AC,al del aliado
+AC,Improved Back to Back    +2 to ally’s AC,CA
+MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,GOLPE MAESTRO
+FORTITUDE DC,MASTER STRIKE|FORTITUDE DC,CD FORTALEZA
+BONUS,INSIGHT BONUS,BONUS
+BONUS,FLURRY ATTACK BONUS,BONUS
+FATIGUED,FATIGUED|DURATION,DURACIÓN
+DURATION,FATIGUED|DURATION,FATIGADO
+HEALING,HEALING|PER DAY,CURACIÓN
+PER DAY,HEALING|PER DAY,AL DÍA
+Natural armour bonus to,Natural armour bonus to AC|(does not stack with natural armour),Bonus armadura natural a
+AC,Natural armour bonus to AC|(does not stack with natural armour),CA
+(does not stack with natural armour),Natural armour bonus to AC|(does not stack with natural armour),(no acumulable con armadura natural)
+AC,Insight bonus to AC and CMD,CA
+and,Insight bonus to AC and CMD,y
+CMD,Insight bonus to AC and CMD,BMC
+BASE|ATTACK,BASE|ATTACK BONUS,BONUS|ATAQUE
+BONUS,BASE|ATTACK BONUS,BASE
+1 ki point / min,Impose a truce between fighting parties - 1 ki point / min,1 punto ki/minuto
+MIGHTY,MIGHTY RAGE!,¡FURIA
+RAGE!,MIGHTY RAGE!,PODEROSA!
+AC,Bonus to initiative and AC during surprise rounds,CA
+BONUS,PERCEPTION|BONUS,BONUS
+Damage,Damage +1,Daño
+DC,DC 30,CD
+"economy,","+1 economy, -1 loyalty","economía,"
+loyalty,"+1 economy, -1 loyalty",lealtad
+Chaotic:,Chaotic: +2 Loyalty,Caótico:
+Loyalty,Chaotic: +2 Loyalty,Lealtad
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,DEFENSA MANIOBRA
+DEFENCE,COMBAT MANOEUVRE|DEFENCE,DE COMBATE
+RAGE,RAGE POWERS |KNOWN,FURIA
+POWERS,RAGE POWERS |KNOWN,PODERES
+KNOWN,RAGE POWERS |KNOWN,CONOCIDOS
+HIT POINTS,TEMPORARY|HIT POINTS,PUNTOS GOLPE
+LEVEL,MAX POWER|LEVEL,NIVEL
+PER DAY,REROLL|PER DAY,AL DÍA
+ENERGY,ENERGY ROLL,ENERGÍA
+ROLL,ENERGY ROLL,TIRADA
+(which grants,(which grants +16 to Acrobatics checks for jumping),(el cual otorga
+to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
+SNEAK DAMAGE,SNEAK DAMAGE|BONUS,BON DAÑO
+BONUS,SNEAK DAMAGE|BONUS,FURTIVO
+"If target charged, gain +2 on","If target charged, gain +2 on CMB and +2 to the save DC","Si el objetivo ha cargado, gana +2 a"
+CMB,"If target charged, gain +2 on CMB and +2 to the save DC",BMC
+and +2 to the save DC,"If target charged, gain +2 on CMB and +2 to the save DC",y +2 a la CD de Salv.
+FASCINATE,FASCINATE|MAX AUDIENCE,FASCINAR
+MAX AUDIENCE,FASCINATE|MAX AUDIENCE,MAX AUDIENCIA
+DURATION,SICKENED|DURATION,DURACIÓN
+1d10,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,1d10
+2d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,2d8
+3d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,3d8
+4d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,4d8
+6d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,6d8
+8d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,8d8
+12d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,12d8
+Two-weapon Defence,Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Defensa con dos armas
++1 shield bonus to AC for using two weapons (+2 if fighting defensively),Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),+1 bonus escudo a CA por usar 2 armas (+2 si luchas defensivamente)
+DURATION,BREATH|DURATION,DURACIÓN
+WILD EMPATHY,WILD EMPATHY|BONUS,BONUS DE EMPATÍA
+BONUS,WILD EMPATHY|BONUS," SALVAJE"
+Critical Mastery,Critical Mastery    Apply two critical effects at once,Maestría con los críticos
+Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,Aplica dos efectos críticos a la vez
+TOTAL HIT DICE,MAX CONTROL UNDEAD|TOTAL HIT DICE,DADOS DE GOLPE TOTALES
+DAMAGE,DAMAGE|REDUCTION,REDUCCIÓN
+REDUCTION,DAMAGE|REDUCTION,DE DAÑO
+Bonus Spells,Bonus Spells|WIS,Conjuros Adicionales
+WIS,Bonus Spells|WIS,SAB
+POWER POINTS,POWER POINTS|MAX COST,PUNTOS DE PODER
+MAX COST,POWER POINTS|MAX COST,COSTO MAXIMO
+COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,DEFENSA|MANIOBRA
+DEFENCE,COMBAT|MANEUVRE|DEFENCE,COMBATE
+2 ki points,Heal somebody else’s wounds - 2 ki points,2 puntos ki
+BREATH WEAPON,BREATH WEAPON|DAMAGE,ARMA DE ALIENTO
+DAMAGE,BREATH WEAPON|DAMAGE,DAÑO
+DC,Trick Riding  Ignore Ride checks of DC 15; no penalty for riding bareback; use Mounted Combat twice,CD
+SNEAK ATTACK,SNEAK ATTACK|BONUS,ATAQUE FURTIVO
+BONUS,SNEAK ATTACK|BONUS,BONUS
+FORTITUDE,FORTITUDE SAVE,SALVACIÓN DE
+SAVE,FORTITUDE SAVE,FORTALEZA
+INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,INSPIRAR GRANDEZA
+MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,MAX AFECTADOS
+MAX,MAX|HEALTH,SALUD
+HEALTH,MAX|HEALTH,MÁXIMA
+Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",Compañero de finta mejorado
+"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO","Cuando el aliado finta, ganas AdO"
+DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DES
+bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",bonus a
+AC,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",CA
+STR,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",FUE
+BONUS,MAGICAL TALENT|BONUS,BONUS
+Great Cleave,Great Cleave    Any number of extra attacks per round,Gran Hendedura
+Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,Cualquier número de ataques extra por asalto
+Rapid Shot,"Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty",Disparo Rápido
+"When making a full-round attack, get one additional attack in return for a -2 penalty","Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty","Cuando hace un ataque de asalto completo, obtiene un ataque adicional con penal. -2"
 +2 WIS,+2 WIS and -2 CHA in all three forms.,+2 SAB
 and,+2 WIS and -2 CHA in all three forms.,y
 -2 CHA,+2 WIS and -2 CHA in all three forms.,-2 CAR
 in all three forms.,+2 WIS and -2 CHA in all three forms.,en las tres formas.
-ATTACK,ATTACK|BONUS,BONUS
-BONUS,ATTACK|BONUS,ATAQUE
-Good:,Good: +2 Loyalty,Bueno:
-Loyalty,Good: +2 Loyalty,Lealtad
-Slow Fall,Slow Fall 20 ft,Caída Lentificada
-20 ft,Slow Fall 20 ft,20'
-SETTLE,SETTLE    Create new towns,ASENTAR
-Create new towns,SETTLE    Create new towns,Crea nuevas ciudades
-FASCINATE,FASCINATE|MAX AUDIENCE,FASCINAR
-MAX AUDIENCE,FASCINATE|MAX AUDIENCE,MAX AUDIENCIA
-TODAY,PUNISHING KICK|TODAY,HOY
-BOMBS,BOMBS|PER DAY,BOMBAS
-PER DAY,BOMBS|PER DAY,AL DÍA
+CMD,CMD BONUS,BON
+BONUS,CMD BONUS,BMC
+Fast Movement,Fast Movement +10 ft,Movimiento Rápido
++10 ft,Fast Movement +10 ft,+10 ft
+Slow Fall,Slow Fall 60 ft,Caída Lentificada
+60 ft,Slow Fall 60 ft,60'
+PER DAY,PUNISHING KICK|PER DAY,AL DÍA
+RAGE,"When you take damage of at least your level while|RAGING, add to the number of rounds of RAGE today",FURIA
+today,"When you take damage of at least your level while|RAGING, add to the number of rounds of RAGE today",hoy
+VICTIMS,VICTIMS|PER DAY,VÍCTIMAS
+PER DAY,VICTIMS|PER DAY,AL DÍA
+ATTACK,ATTACK BONUS,ATAQUE
+BONUS,ATTACK BONUS,BONUS
+Cleaving Finish,Cleaving Finish    Extra attack if enemy is knocked out,Hendedura final
+Extra attack if enemy is knocked out,Cleaving Finish    Extra attack if enemy is knocked out,Ataque extra si el enemigo queda fuera de combate
+Slow Fall,Slow Fall Any distance,Caída lentificada
+Any distance,Slow Fall Any distance,Cualquier distancia
+REFLEX,REFLEX SAVE,SALVACIÓN
+SAVE,REFLEX SAVE,REFLEJOS
+CMB,Roll twice for CMB - 1 ki point,BMC
+1 ki point,Roll twice for CMB - 1 ki point,1 punto ki
+or,+2 spell save DC  or  +2 against spell resistance  or  +2 to attack,o
+Make unarmed strikes with any free limb|Flurry of blows uses full,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",Golpea sin armas con cualquier miembro libre|Ráfaga de golpes usa todo
+STR,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",FUE
+"bonus, even with off hand","Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand","bonus, incluso con mano torpe"
+Physical Resistance,Physical Resistance -5,Resistencia Física
+RAGE!,RAGE! 1/day,FURIA!
+1/day,RAGE! 1/day,1/día
+Mighty,Mighty RAGE!,Furia
+RAGE!,Mighty RAGE!,Poderosa
+Forbidden|During,Forbidden|During|RAGE!,Prohibido|Durante
+RAGE!,Forbidden|During|RAGE!,FURIA!
+Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,Aprovecha el momento
+AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,AdO cuando un aliado confirma un crítico
+Tongue of the Sun and Moon,Tongue of the Sun and Moon|Speak with any living creature,Lengua del Sol y la Luna
+Speak with any living creature,Tongue of the Sun and Moon|Speak with any living creature,Habla con cualquier criatura viva
+TERRAIN,"TERRAIN    Build farms, roads, mines etc",TERRENO
+"Build farms, roads, mines etc","TERRAIN    Build farms, roads, mines etc","Construye granjas, caminos, minas, etc"
+Slow Fall,Slow Fall 90 ft,Caída Lentificada
+90 ft,Slow Fall 90 ft,90'
+CASTER,CASTER LEVEL,INVOCADOR
+LEVEL,CASTER LEVEL,NIVEL
+KNOWLEDGE,KNOWLEDGE BONUS,BONUS
+BONUS,KNOWLEDGE BONUS,SABER
+Charge,Charge  -2 to AC for the rest of the round,Carga
+to,Charge  -2 to AC for the rest of the round,a
+AC,Charge  -2 to AC for the rest of the round,CA
+for the rest of the round,Charge  -2 to AC for the rest of the round,para el resto del turno
+HEALING POINTS,HEALING POINTS|PER DAY,PUNTOS DE CURACION
+PER DAY,HEALING POINTS|PER DAY,POR DIA
+Level,Level 8,Nivel
+(which grants,(which grants +4 to Acrobatics checks for jumping),(el cual otorga
+to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
 DAMAGE,DISRUPTION|DAMAGE,DAÑO
-"If target used Power Attack, +2 on","If target used Power Attack, +2 on CMB and +2 to the save DC","Si el objetivo ha usado Ataque Poderoso, +2 a"
-CMB,"If target used Power Attack, +2 on CMB and +2 to the save DC",BMC
-and +2 to the save DC,"If target used Power Attack, +2 on CMB and +2 to the save DC",y +2 a la CD de Salv.
-Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,Objetivo de oportunidad
-Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,Ataque extra cuando un aliado golpea a distancia
-Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Ataque penetrante mayor
-Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Ignora RD hasta 
-Low-light Vision,Low-light Vision| • Can see twice as far as normal in dim light| • Can see outdoors on a moonlit night as clearly as during the day| • Low-light vision is colour vision,Visión en la penumbra
-• Can see twice as far as normal in dim light| • Can see outdoors on a moonlit night as clearly as during the day| • Low-light vision is colour vision,Low-light Vision| • Can see twice as far as normal in dim light| • Can see outdoors on a moonlit night as clearly as during the day| • Low-light vision is colour vision,• Puede ver el doble de lejos que en luz ténue|• Puede ver en el exterior con luna como si fuera de día|• Visión en la penumbra permite ver colores
-INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,INSPIRAR GRANDEZA
-MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,MAX AFECTADOS
-Cost:,Cost: (1 pt to fix as a move action),Coste:
-SINGLE,SINGLE ATTACK,ATAQUE
-ATTACK,SINGLE ATTACK,SENCILLO
-FLURRY ATTACK,FLURRY ATTACK BONUS,ATAQUE DE RÁFAGA
-WIS,You may gain up to WIS|grit points each day,SAB
-(which grants,(which grants +16 to Acrobatics checks for jumping),(el cual otorga
-to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
-BASE|ATTACK,BASE|ATTACK BONUS,BON|ATAQUE
-BONUS,BASE|ATTACK BONUS,BASE
-(which grants,(which grants +16 to Acrobatics),(que concede
-to Acrobatics),(which grants +16 to Acrobatics),a Acrobacias)
-STABILITY,"STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest",ESTABILIDAD
-"On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","Con éxito, -1 al malestar o añade 1 pc; con fallo, +1 al malestar; Con fallo por +4, +d4 malestar"
-INITIATIVE,INITIATIVE|BONUS,BONUS
-BONUS,INITIATIVE|BONUS,INICIATIVA
-URBAN,URBAN|BARBARIAN!,URBANO
-saving throws against enchantment,+2 saving throws against enchantment,tiradas de salvación contra encantamientos
-BONUS,MAGICAL TALENT|BONUS,BONUS
-ARMOUR CLASS,ARMOUR CLASS|BONUS,Bonif.
-BONUS,ARMOUR CLASS|BONUS,Clase de Armadura
 Ignore the cover bonus to,Ignore the cover bonus to AC of targets partially immersed in water,Ignora el bonus de cobertura a
 AC,Ignore the cover bonus to AC of targets partially immersed in water,CA
 of targets partially immersed in water,Ignore the cover bonus to AC of targets partially immersed in water,de objetivos parcialmente inmersos en agua
-RAGE!,RAGE!|Today,FURIA!
-Today,RAGE!|Today,DIARIA
-2 ki points,Reflex save to avoid damage - 2 ki points,2 puntos ki
-Shot on the Run,Shot on the Run    Attack at any point during your move,Disparo a la carrera
-Attack at any point during your move,Shot on the Run    Attack at any point during your move,Ataca en cualquier momento durante tu movimiento
-ATTACK,ATTACK ACTIONS,ACCIONES
-ACTIONS,ATTACK ACTIONS,ATAQUE
-BONUS,AGILE|BONUS,BONUS
-(which grants,(which grants +8 to Acrobatics checks for jumping),(el cual otorga
-to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
+STUNNING FIST,STUNNING FIST|PER DAY,PUÑETAZO ATURDIDOR
+PER DAY,STUNNING FIST|PER DAY,AL DÍA
+BONUS,NO TRACE|BONUS,BONUS
+Damage Reduction 5/,Damage Reduction 5/―,Reducción de Daño 5/
 "Prince, Princess or favoured subject","Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest","Príncipe, Princesa o sujeto favorito"
 – May rule if the Ruler is absent. but must pass loyalty check or,"Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest","- Puede regir si el Regente está ausente, pero debe superar una prueba de lealtad o"
 unrest,"Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest",malestar
-FEAR EFFECT,FEAR EFFECTWILL BONUS,BONUS VOLUNTAD
-WILL BONUS,FEAR EFFECTWILL BONUS,EFECTO MIEDO
+AC,Bonus to attack rolls and dodge bonus to AC|when adjacent to two or more enemies,CA
+WILD EMPATHY,WILD EMPATHY BONUS,EMPATIA SALVAJE
+BONUS,WILD EMPATHY BONUS,BONUS
+saving throws against enchantment,+2 saving throws against enchantment,tiradas de salvación contra encantamientos
+Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Considerado un Ajeno
+Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Inmune a Hechizar Persona y otros efectos que|afecten a no ajenos.|Reducción de daño
+10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,10/Caótico
+Extend Spell,Extend Spell  +1,Prolongar conjuro
+Woodland Stride,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Zancada Forestal
+Move through undergrowth at normal speed|and taking no damage,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Te mueves a través de maleza a vel normal|y no recibes daño
+Broken Wing Gambit,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Fingir Debilidad
+Grant,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Concede
+", get attack of opportunity","Broken Wing Gambit    Grant +2/+2, get attack of opportunity",", consigue ataque de oportunidad"
+Ruler of a colony or vassal state,"Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit",Regidor de una colonia o estado vasallo
+"– May also take any role for colony, with 1 less benefit","Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit","- Puede tener cualquier rol para colonia, con 1 beneficio menos"
+Slow Fall,Slow Fall 30 ft,Caída lentificada
+30 ft,Slow Fall 30 ft,30 ft
+2d6,Drunken Strength 2d6,2d6
+WILL,WILL SAVE,SALVACIÓN
+SAVE,WILL SAVE,VOL
+1 ki point,Enhance weapon - 1 ki point per enhancement,1 punto ki
+Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,Lanzador de Conjuros Aliado
+to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,para superar la resistencia a conjuros
+Point Blank Shot,Point Blank Shot    +1 to attack and damage within first range increment,Disparo a bocajarro
++1 to attack and damage within first range increment,Point Blank Shot    +1 to attack and damage within first range increment,+1 al taque y daño dentro del primer incremento rango
+ATTACK,ATTACK ACTIONS,ACCIONES
+ACTIONS,ATTACK ACTIONS,ATAQUE
+TODAY,TOUCH OF|SERENITY|TODAY,HOY
+RAGE!,RAGE! DURATION,FURIA!
+DURATION,RAGE! DURATION,DURACION
+"If this attack of opportunity hits, gain a +2 circumstance |bonus to your","If this attack of opportunity hits, gain a +2 circumstance |bonus to your CMD to avoid the grapple.","Si este ataque de oportunidad da, gana un bonus de circuntancia|de+2 a tu"
+CMD,"If this attack of opportunity hits, gain a +2 circumstance |bonus to your CMD to avoid the grapple.",BMC
+DEPOSIT,DEPOSIT    4000gp in trade goods and treasure nets 1bp,DEPÓSITO
+4000gp in trade goods and treasure nets 1bp,DEPOSIT    4000gp in trade goods and treasure nets 1bp,4000po en bienes de consumo y tesorería y gana 1 bp
+Slow Fall,Slow Fall 80 ft,Caída Lentificada
+80 ft,Slow Fall 80 ft,80'
+BONUS,FOCUS|BONUS,BONUS
+Heal your own wounds -,Heal your own wounds - 2 ki points,Cura tus propias heridas -
+2 ki points,Heal your own wounds - 2 ki points,2 puntos ki
+PER DAY,SPIRIT SPELLS|PER DAY,AL DÍA
+Gain a bonus to saving throws -,Gain a bonus to saving throws - 1 ki point,Gana un bonus a pruebas de Salv -
+1 ki point,Gain a bonus to saving throws - 1 ki point,1 punto ki
+Weapon Finesse,Weapon Finesse  Use DEX for melee attack,Sutileza con armas
+Use,Weapon Finesse  Use DEX for melee attack,Usar
+DEX,Weapon Finesse  Use DEX for melee attack,DES
+for melee attack,Weapon Finesse  Use DEX for melee attack,para ataques melee
+FLAT-FOOTED,FLAT-FOOTED AC,CA
+AC,FLAT-FOOTED AC,DESPREVENIDO
+INTIMIDATE,INTIMIDATE|BONUS,INTIMIDAR
+BONUS,INTIMIDATE|BONUS,BONUS
+Grant bonus to allies in 30ft -,Grant bonus to allies in 30ft - 1 ki point,Conceder bonus a aliados en 30 ft -
+1 ki point,Grant bonus to allies in 30ft - 1 ki point,1 punto ki
+CMB,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,BMC
+and,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,y
+CMD,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,BMC
+RAGE!,EXTRA|RAGE!,FURIA!
+CON,+ CON| per level,CON
+per level,+ CON| per level,por nivel
+at levels,"at levels 3, 8, 13 and 18",a niveles
+and,"at levels 3, 8, 13 and 18",y
+RAGE,"If you fail a will save against a mind-affecting effect,|at the start of your next turn you can try again.|If you succeed, you RAGE and are CONFUSED.",FURIA
+Shake It Off,Shake It Off    +1 to all saving throws per adjacent ally,Sacudirse
+to all saving throws per adjacent ally,Shake It Off    +1 to all saving throws per adjacent ally,a todos los tiros Salv. Por aliado adyacente
+EVOLUTION,EVOLUTION|POOL,EVOLUCIÓN
+POOL,EVOLUTION|POOL,RESERVA
+1 ki point,Use unarmed strike damage dice for 1 rd - 1 ki point,1 punto ki
+Inflict extra damage -,Inflict extra damage - 1 ki point,Inflige daño extra -
+1 ki point,Inflict extra damage - 1 ki point,1 punto ki
+SPELL,SPELL RESISTANCE,RESISTENCIA A
+RESISTANCE,SPELL RESISTANCE,CONJUROS
+FEAT SHARING,FEAT SHARING|PER DAY,COMPARTIR DOTES
+PER DAY,FEAT SHARING|PER DAY,AL DÍA
+INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,INSPIRAR HEROÍSMO
+MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,MAX AFECTADOS
+Haste,Haste    One extra attack at full bonus,Acelerar
+One extra attack at full bonus,Haste    One extra attack at full bonus,Un ataque extra con bonus completo
 1d2,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d2
 1d3,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d3
 1d4,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d4
@@ -309,781 +701,389 @@ WILL BONUS,FEAR EFFECTWILL BONUS,EFECTO MIEDO
 6d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,6d6
 8d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,8d6
 12d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,12d6
-Physical Resistance,Physical Resistance -4,Resistencia Física
-TOTAL HIT DICE,MAX ANIMATE UNDEAD|TOTAL HIT DICE,DADOS DE GOLPE TOTALES
-Class|Skills,Class|Skills|+3,Habilidades|de Clase
-RAGE,Alcoholic drinks allow you to maintain RAGE for this round |without counting against your rounds per day.,FURIA
-2 pt,Cost: 2 pt,2 punt
-ft,20 ft  4 sq,ft
-sq,20 ft  4 sq,c
-RAGE!,EXTRA|RAGE!,FURIA!
-d6,d6 +,d6
-1 ki point,Enter up to 4 stances immediately - 1 ki point,1 punto ki
-Haste,Haste    One extra attack at full bonus,Acelerar
-One extra attack at full bonus,Haste    One extra attack at full bonus,Un ataque extra con bonus completo
-Penetrating Strike,Penetrating Strike    Ignore damage reduction up to 5/—,Golpe perforante
-Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to 5/—,Ignora reducción de daño hasta
-Oversees international relations,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",Gestiona relaciones internacionales
-"– If vacant,","Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",- Si vacante
-stability and cannot issue Diplomatic or Exploration Edicts,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",estabilidad y no puede expedir Edictos Diplomáticos o de Exploración
-CMB,"Bonus applies to CMB to attempt, |and CMD to resist, any of your |chosen manoeuvres.",BMC
-CMD,"Bonus applies to CMB to attempt, |and CMD to resist, any of your |chosen manoeuvres.",BMC
-Greater Two-weapon Fighting,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Combate con dos armas mayor
-Third attack with your off-hand weapon,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Tercer ataque con arma en mano torpe
-MELEE ATTACK,MELEE ATTACK|BONUS,BONO DE ATAQUE
-BONUS,MELEE ATTACK|BONUS,MELEE
-DISCOVERIES,DISCOVERIES|KNOWN,DESCUBRIMIENTOS
-KNOWN,DISCOVERIES|KNOWN,CONOCIDOS
-Resist Nature’s Lure,Resist Nature’s Lure|+4 to saves against the fey and plants,Resistir la Atracción de la Naturaleza
-+4 to saves against the fey and plants,Resist Nature’s Lure|+4 to saves against the fey and plants,+4 a salvaciones contra fatas y plantas
-RAGE,RAGE POWERS,FURIA
-POWERS,RAGE POWERS,PODERES
-HEXBLADE’S|CURSE,HEXBLADE’S|CURSE|PENALTY,HEXBLADE | MALDICION
-PENALTY,HEXBLADE’S|CURSE|PENALTY,PENALIZACIÓN
-PER DAY,BARRAGES|PER DAY,AL DÍA
-1d8,Act normally|Babble incoherently|Hurt yourself with item in hand|  Damage = 1d8 + STR|Attack nearest creature,1d8
-STR,Act normally|Babble incoherently|Hurt yourself with item in hand|  Damage = 1d8 + STR|Attack nearest creature,FUE
-Level,100’+ 10’ × Level,Nivel
-Combat Expertise,Combat Expertise  AC bonus,Pericia en combate
-AC,Combat Expertise  AC bonus,CA
-bonus,Combat Expertise  AC bonus,Bonificador
-Damage Reduction 3/,Damage Reduction 3/―,Reducción de Daño 3/
-Damage,Damage +1,Daño
-Cost:,Cost: 1 pt per range increment,Coste:
-Grants,Grants +16 to Acrobatics,Concede
-to Acrobatics,Grants +16 to Acrobatics,a Acrobacias
-AC,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,CA
-Bonus Spells,Bonus Spells|CHA,Conjuros Adicionales
-CHA,Bonus Spells|CHA,CAR
-RAGE!,RAGE! CONVERSION,FURIA!
-CONVERSION,RAGE! CONVERSION,CONVERSIÓN
-Slow Fall,Slow Fall 50 ft,Caída Lentificada
-50 ft,Slow Fall 50 ft,50'
-DAMAGE,BACKLASH|DAMAGE,DAÑO
-PER DAY,FORTUNE|PER DAY,AL DÍA
-Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,CD Acrobacias = 5 + DMC del oponente
-CMD,Acrobatics DC = 5 + Opponent’s CMD,BMC
-Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,Carga Coordinada
-Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,Carga contra el mismo objetivo que el aliado
-Damage Reduction 1/,Damage Reduction 1/―,Reducción de Daño 1/
-Level 16:,Level 16: Twice per day,Nivel 16:
-Twice per day,Level 16: Twice per day,Dos veces al día
-Improved Shield Bash,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Golpe con Escudo Mejorado
-Use Shield Bash and keep your shield bonus to,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Usa Golpear con EScudo y mantén tu bon de escudo a
-AC,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,CA
-INTIMIDATE,INTIMIDATE|BONUS,INTIMIDAR
-BONUS,INTIMIDATE|BONUS,BONUS
-"economy,","+4 economy, -8 loyalty","economía,"
-loyalty,"+4 economy, -8 loyalty",lealtad
-Sneaking Precision,Sneaking Precision    Apply a critical effect to the,Precisión furtiva
-Apply a critical effect to the,Sneaking Precision    Apply a critical effect to the,Aplicas un efecto crítico al
-BONUS,PERCEPTION|BONUS,BONUS
-CMB,Roll twice for CMB - 1 ki point,BMC
-1 ki point,Roll twice for CMB - 1 ki point,1 punto ki
-TO DESTROY CREATURE,TO DESTROY CREATURE  MAX HIT DICE,PARA DESTRUIR CRIATURA
-ARMOUR,ARMOUR BONUS,ARMADURA
-BONUS,ARMOUR BONUS,BONUS
-RAGE,RAGE|TODAY,FURIA
-TODAY,RAGE|TODAY,HOY
-Fast Movement,Fast Movement +30 ft,Movimiento Rápido
-+30 ft,Fast Movement +30 ft,+30 ft
-Improved Two-weapon Fighting,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Combate con dos armas mejorado
-Second attack with your off-hand weapon,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Segundo ataque con arma mano torpe
-Cleaving Finish,Cleaving Finish    Extra attack if enemy is knocked out,Hendedura final
-Extra attack if enemy is knocked out,Cleaving Finish    Extra attack if enemy is knocked out,Ataque extra si el enemigo queda fuera de combate
-TOUCH,TOUCH AC,CA de
-AC,TOUCH AC,TOQUE
-ft,30 ft,'
-RAGE,"If you fail a will save against a mind-affecting effect,|at the start of your next turn you can try again.|If you succeed, you RAGE and are CONFUSED.",FURIA
-JUDGEMENTS,JUDGEMENTS|PER DAY,JUICIOS
-PER DAY,JUDGEMENTS|PER DAY,AL DÍA
-Masterwork,Masterwork     Doesn’t stack with magic bonus,Gran Calidad
-Doesn’t stack with magic bonus,Masterwork     Doesn’t stack with magic bonus,No acumula con bonus mágicos
-Grants,Grants +12 to Acrobatics,Concede
-to Acrobatics,Grants +12 to Acrobatics,a Acrobacias
-Natural armour bonus to,Natural armour bonus to AC|(does not stack with natural armour),Bonus armadura natural a
-AC,Natural armour bonus to AC|(does not stack with natural armour),CA
-(does not stack with natural armour),Natural armour bonus to AC|(does not stack with natural armour),(no acumulable con armadura natural)
-BONUS,NO TRACE|BONUS,BONUS
-Critical Focus,Critical Focus),Soltura con críticos
-CRITICAL,CRITICAL EFFECTS,EFECTOS
-EFFECTS,CRITICAL EFFECTS,CRÍTICOS
-AC,"As a swift action, make a wisdom check (above). If successful, gain +2 to attack |until the end of your turn, and ignore damage reduction and hardness.|Alternatively, add half your level to Sense Motive, Reflex saves and a dodge bonus to AC until your next turn.",CA
-Broken Wing Gambit,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Tactica del Ala rota
-Grant,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Otorga 
-", get attack of opportunity","Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",", otorga ataque de oportunidad"
-PER DAY,TOUCH OF|SERENITY|PER DAY,AL DÍA
-Craft -,Craft - INT|Perform - CHA,Artesanía -
-INT,Craft - INT|Perform - CHA,INT
-Perform -,Craft - INT|Perform - CHA,Interpretar -
-CHA,Craft - INT|Perform - CHA,CAR
-MIGHTY,MIGHTY BLOODRAGE!,PODEROSA
-BLOODRAGE!,MIGHTY BLOODRAGE!,¡Furia de sangre!
-Damage Reduction 4/,Damage Reduction 4/―,Reducción de Daño 4/
-UNREST,UNREST LEVEL,NIVEL
-LEVEL,UNREST LEVEL,MALESTAR
-Pinpoint Targeting,"Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Puntería Precisa
-"Make a single attack that bypasses shields, armour and natural armour","Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour","Hace un solo ataque que ignora escudos, armadura y armadura natural"
-AC,Bonus to initiative and AC during surprise rounds,CA
-MAX WEAPON,MAX WEAPON|ENHANCEMENT,Mejora máxima
-ENHANCEMENT,MAX WEAPON|ENHANCEMENT,del arma
-FORTITUDE,FORTITUDE SAVE,SALVACIÓN DE
-SAVE,FORTITUDE SAVE,FORTALEZA
-ETHERIAL,ETHERIAL|ROUNDS,ASALTOS
-ROUNDS,ETHERIAL|ROUNDS,ETEREO
-ENERGY,ENERGY ROLL,ENERGÍA
-ROLL,ENERGY ROLL,TIRADA
-Bonus to,Bonus to AC that applies only to|critical hit confirmation rolls,Bonus a
-AC,Bonus to AC that applies only to|critical hit confirmation rolls,CA
-SAVE,SAVE DC,CD
-DC,SAVE DC,Salvacion
-Assume ethereal state for 1 minute -,Assume ethereal state for 1 minute - 3 ki points,Asume estado etereo durante 1 minuto -
-3 ki points,Assume ethereal state for 1 minute - 3 ki points,3 puntos ki
-SAVING,SAVING|THROW DC,SALV
-THROW DC,SAVING|THROW DC,CD DE LANZAMIENTO
-(which grants,(which grants +12 to Acrobatics checks for jumping),(el cual otorga
-to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
-RAGE!,RAGE! 1/day,FURIA!
-1/day,RAGE! 1/day,1/día
-PER DAY,PERFORMANCE|PER DAY,AL DÍA
-KNOWLEDGE,KNOWLEDGE BONUS,BONUS
-BONUS,KNOWLEDGE BONUS,SABER
-Enforce rural justice,"Enforce rural justice – If vacant, -4 economy",Hace cumpli la justicia rural
-"– If vacant,","Enforce rural justice – If vacant, -4 economy","- Si vacante,"
-economy,"Enforce rural justice – If vacant, -4 economy",economía
-Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Disparo Preciso
-Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,Sin penalización -4 por disparar a melee
-DODGE,DODGE|BONUS,ESQUIVA
-BONUS,DODGE|BONUS,BONUS
-DURATION,SCENT ABIILITY|DURATION,DURACIÓN
-FOES,FOES|PER DAY,ENEMIGOS
-PER DAY,FOES|PER DAY,AL DÍA
-"loyalty,","+2 loyalty, +2bp consumption","lealtad,"
-+2bp,"+2 loyalty, +2bp consumption",+2bp
-consumption,"+2 loyalty, +2bp consumption",consumo
-Slow Fall,Slow Fall 90 ft,Caída Lentificada
-90 ft,Slow Fall 90 ft,90'
-ENERGY,ENERGY|ROLL,TIRADA DE
-ROLL,ENERGY|ROLL,ENERGÍA
-"On a critical, Fort (DC 10 + ½ level +","On a critical, Fort (DC 10 + ½ level + DEX) or die","En un crítico, Fort (CD 10 + ½ Nivel +"
-DEX,"On a critical, Fort (DC 10 + ½ level + DEX) or die",DES
-) or die,"On a critical, Fort (DC 10 + ½ level + DEX) or die",) o muere
-"loyalty,","+1 loyalty, +1bp consumption","lealtad,"
-+1bp,"+1 loyalty, +1bp consumption",+1bp
-consumption,"+1 loyalty, +1bp consumption",consumo
-FORTITUDE,FORTITUDE|SAVE DC,FORTALEZA
-FORTITUDE|SAVE,FORTITUDE|SAVE DC,CD SALV
-SAVE DC,FORTITUDE|SAVE DC,CD SALV
-DC,FORTITUDE|SAVE DC,CD
-Slow Fall,Slow Fall 70 ft,Caída lentificada
-70 ft,Slow Fall 70 ft,70 ft
-PER DAY,PERFECT STRIKE|PER DAY,AL DÍA
-RAGE!,RAGE!|TODAY,¡FURIA!
-TODAY,RAGE!|TODAY,HOY
-OPPOSED,OPPOSED SCHOOLS,OPUESTAS
-SCHOOLS,OPPOSED SCHOOLS,ESCUELAS
-Hammer the Gap,Hammer the Gap    On a successful attack,Golpea en el Hueco
-On a successful attack,Hammer the Gap    On a successful attack,Tras un ataque exitoso
-RAGE!,RAGE! POWERS,PODERES
-POWERS,RAGE! POWERS,FURIA!
-RAGE!,RAGE!  DURATION|PER DAY,¡FURIA!
-DURATION,RAGE!  DURATION|PER DAY,DURACIÓN
-PER DAY,RAGE!  DURATION|PER DAY,AL DÍA
-VICTIMS,VICTIMS|PER DAY,VÍCTIMAS
-PER DAY,VICTIMS|PER DAY,AL DÍA
-Enforce law and order,"Enforce law and order – If present, -1 unrest at upkeep",Hace cumplir la ley y el orden
-"– If present,","Enforce law and order – If present, -1 unrest at upkeep","- Si presente,"
-unrest at upkeep,"Enforce law and order – If present, -1 unrest at upkeep",malestar durante mantenimiento
-POWERS,POWERS|KNOWN,PODERES
-KNOWN,POWERS|KNOWN,CONOCIDOS
-MAX HIT DICE,TO REBUKE CREATURE |MAX HIT DICE,DADOS DE GOLPE MAX.
-Level,Level 8,Nivel
-TRAP,TRAP SENSE,TRAMPA
-DEFLECTION,DEFLECTION|BONUS,BON
-BONUS,DEFLECTION|BONUS,DESVÍO
-GREATER,GREATER RAGE!,FURIA
-RAGE!,GREATER RAGE!,MAYOR!
-DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DES
-bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",bonus a
-AC,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",CA
-STR,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",FUE
-Strength rating,Strength rating    (composite bow),Valor de Fuerza
-(composite bow),Strength rating    (composite bow),(Arco compuesto)
-PER DAY,INVENTION USES |PER DAY,AL DÍA
-1 ki point / min,Impose a truce between fighting parties - 1 ki point / min,1 punto ki/minuto
-INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,INSPIRAR HEROÍSMO
-MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,MAX AFECTADOS
-Strength Score|Penalty:,Strength Score|Penalty: -2,Penal. Punt.|Fuerza
-Bonus to,Bonus to CMB and CMD for your|chosen combat manoeuvres,Bonus a
-CMB,Bonus to CMB and CMD for your|chosen combat manoeuvres,BMC
-and,Bonus to CMB and CMD for your|chosen combat manoeuvres,y
-CMD,Bonus to CMB and CMD for your|chosen combat manoeuvres,BMC
-EVIL DAMAGE,EVIL DAMAGE|BONUS,BONUS DAÑO
-BONUS,EVIL DAMAGE|BONUS,MALIGNO
-Damage resistance,Damage resistance  10 / psionic,Reducción de daño
-10 / psionic,Damage resistance  10 / psionic,10 / psiónico
-1d6,Drunken Strength 1d6,1d6
-2 × (d10 +,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",2 x (d10 +
-CON,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",CON
-") temporary hit points,|+2 attack, +1 fortitude save","2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",") puntos golpe temporales, |+2 ataque, +1 pruebas Fortaleza"
-1 ki point,Increase bonus to +4 - 1 ki point,1 punto ki
-CON,+ CON| per level,CON
-per level,+ CON| per level,por nivel
-BONUS,BONUS|SPELLS,BONUS
-"loyalty,","+4 loyalty, +8bp consumption","lealtad,"
-+8bp,"+4 loyalty, +8bp consumption",+8bp
-consumption,"+4 loyalty, +8bp consumption",consumo
-"On a hit, Fort (DC 10 + ½ level +","On a hit, Fort (DC 10 + ½ level + WIS) or stunned for 1 round","Si golpeado, Fort (CD 10 + ½ Nivel +"
-WIS,"On a hit, Fort (DC 10 + ½ level + WIS) or stunned for 1 round",SAB
-) or stunned for 1 round,"On a hit, Fort (DC 10 + ½ level + WIS) or stunned for 1 round",) o aturdido durante 1 asalto
-WILL,WILL SAVE,SALVACIÓN
-SAVE,WILL SAVE,VOL
-AC,Bonus to attack rolls and dodge bonus to AC|when adjacent to two or more enemies,CA
-BONUS,CROWD BONUS,BONUS
-ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,ARMADURA|CLASE
-PENALTY,ARMOUR|CLASS|PENALTY,PENALIZACIÓN
-FEAT SHARING,FEAT SHARING|DURATION,COMPARTIR DOTES
-DURATION,FEAT SHARING|DURATION,DURACIÓN
-CHANNEL,CHANNEL|RANGE,RANGO
-RANGE,CHANNEL|RANGE,CANALIZAR
-ft,15 ft  3 sq,ft
-sq,15 ft  3 sq,c
-Duck and Cover,Duck and Cover    Take ally’s result on reflex save,A cubierto
-Take ally’s result on reflex save,Duck and Cover    Take ally’s result on reflex save,Usa el resultado de la Salv. Ref. del aliado
-Commands the army,"Commands the army – If vacant, -4 loyalty",Manda sobre el ejército
-"– If vacant,","Commands the army – If vacant, -4 loyalty","- Si vacante,"
-loyalty,"Commands the army – If vacant, -4 loyalty",lealtad
-FEAT SHARING,FEAT SHARING|PER DAY,COMPARTIR DOTES
-PER DAY,FEAT SHARING|PER DAY,AL DÍA
-Natural Swimmer,Natural Swimmer|Swim at half land speed,Nadador Natural
-Swim at half land speed,Natural Swimmer|Swim at half land speed,Nada la mitad de la velocidad terrestre
-to jump checks -,+20 to jump checks - 1 ki point,a pruebas de salto -
-1 ki point,+20 to jump checks - 1 ki point,1 punto de ki
-Damage Reduction 5/,Damage Reduction 5/―,Reducción de Daño 5/
-BONUS,SAILOR’S BONUS,BONUS
-Charge,Charge    -2 to AC for the rest of the round,Cargar
-to,Charge    -2 to AC for the rest of the round,a
-AC,Charge    -2 to AC for the rest of the round,CA
-for the rest of the round,Charge    -2 to AC for the rest of the round,por el resto del turno
-Gain a bonus to saving throws -,Gain a bonus to saving throws - 1 ki point,Gana un bonus a pruebas de Salv -
-1 ki point,Gain a bonus to saving throws - 1 ki point,1 punto ki
-stability,-1 stability,Estabilidad
-BONUS,INSIGHT BONUS,BONUS
-CMB,"This bonus can be applied to each manoeuvre only twice, once|to CMB and once to CMD.",BMC
-CMD,"This bonus can be applied to each manoeuvre only twice, once|to CMB and once to CMD.",BMC
-AC,"Mounted Shield    Add your shield bonus to mount’s AC, and to Mounted Combat",CA
-Outflank,Outflank    When flanking,Rebasar
-When flanking,Outflank    When flanking,Cuando flanquea
-Extend Spell,Extend Spell  +1,Prolongar conjuro
-TOTAL HIT DICE,MAX CONTROL UNDEAD|TOTAL HIT DICE,DADOS DE GOLPE TOTALES
-Cost:,Cost: 1 pt,Coste:
-1 pt,Cost: 1 pt,1 pt
-Swap Places,Swap Places    Switch places with an ally,Cambiar sitios
-Switch places with an ally,Swap Places    Switch places with an ally,Cambia sitio con un aliado
-RAGE!,RAGE! DURATION,FURIA!
-DURATION,RAGE! DURATION,DURACION
-Slow Fall,Slow Fall 60 ft,Caída lentificada
-60 ft,Slow Fall 60 ft,60 ft
-WIS,(WIS minimum 1),SAB
-minimum 1),(WIS minimum 1),mínimo 1)
-CHA,Power Save DC = 10 + CHA + Power Level,CHA
-Clustered shots,Clustered shots    Group arrows to overcome damage reduction,Disparo concentrado
-Group arrows to overcome damage reduction,Clustered shots    Group arrows to overcome damage reduction,Agrupas ataques para sobreponer la RD
-DC,DC 15,CD
-HEALING,HEALING|PER DAY,CURACIÓN
-PER DAY,HEALING|PER DAY,AL DÍA
-BONUS,SPEED BONUS,BONUS
-Gain 1hp on a successful melee attack|Gain,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,Gana 1pg con golpe melee exitoso|Gana
-WIS,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,SAB
-hp on a confirmed critical attack,Gain 1hp on a successful melee attack|Gain WIS hp on a confirmed critical attack,pg en crítico confirmado
-AC,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",CA
-and,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",y
-CMD,"+2 insight to AC and CMD|+4 to Sense Motive, Stealth, Perception",BMC
-BONUS,DECEPTION|BONUS,BONUS
-Make unarmed strikes with any free limb|Flurry of blows uses full,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",Golpea sin armas con cualquier miembro libre|Ráfaga de golpes usa todo
-STR,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",FUE
-"bonus, even with off hand","Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand","bonus, incluso con mano torpe"
-RAGE,"Each alcoholic drink consumed results in|1 round of nausea after the end of your RAGE,|in addition to the normal fatigue.",FURIA
-COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,BONO DE|MANIOBRA DE
-BONUS,COMBAT|MANOEUVRE|BONUS,COMBATE
-Bonus to,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,Bonus a
-CMB,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,BMC
-and,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,y
-CMD,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,BMC
-AC,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,CA
-Shake It Off,Shake It Off    +1 to all saving throws per adjacent ally,Sacudirse
-to all saving throws per adjacent ally,Shake It Off    +1 to all saving throws per adjacent ally,a todos los tiros Salv. Por aliado adyacente
-Manyshot,"Manyshot    When making a full-round attack, your first attack has two arrows",Disparos múltiples
-"When making a full-round attack, your first attack has two arrows","Manyshot    When making a full-round attack, your first attack has two arrows","Cuando hace un ataque de asalto completo, tu primer ataque lanza 2 flechas"
-(which grants,(which grants +8 to Acrobatics),(concede
-to Acrobatics),(which grants +8 to Acrobatics),a Acrobacias)
-MIGHTY,MIGHTY RAGE!,¡FURIA
-RAGE!,MIGHTY RAGE!,PODEROSA!
-Grant bonus to an ally -,Grant bonus to an ally - 1 ki point,Conceder bonus a un aliado -
-1 ki point,Grant bonus to an ally - 1 ki point,1 punto ki
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,BON MANIOBRA
-BONUS,COMBAT MANOEUVRE|BONUS,DE COMBATE
-BONUS,BONUS|DURATION,BONUS
-DURATION,BONUS|DURATION,DURACIÓN
-HIT POINTS,BASIC HEALING|HIT POINTS,PUNTOS GOLPE
-1 ki point,"As a swift action, deal damage equal to your Unarmed Strike when using an improvised weapon|Damage bonus lasts for one round - 1 ki point",1 punto ki
-"stability,","+3 stability, +4bp consumption","Estabilidad,"
-+4bp,"+3 stability, +4bp consumption",+4bp
-consumption,"+3 stability, +4bp consumption",consumo
-No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Sin acciones este asalto|Pierde
-DEX,No action this round|Lose DEX bonus to AC; -2 AC,bonus DES
-bonus to,No action this round|Lose DEX bonus to AC; -2 AC,a
-bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,bonus a CA; -2
-AC,No action this round|Lose DEX bonus to AC; -2 AC,CA
-PER DAY,DEVOTED STRIKES|PER DAY,AL DÍA
-TODAY,TOUCH OF|SERENITY|TODAY,HOY
-Fast Movement,Fast Movement +20 ft,Movimiento Rápido
-+20 ft,Fast Movement +20 ft,+20 ft
-Improved Devastating Strike,Improved Devastating Strike  +2 per die,Golpe Devastador Mejorado
-per die,Improved Devastating Strike  +2 per die,por dado
-BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,CONOCIMIENTO DE BARDO
-BONUS,BARDIC KNOWLEDGE |BONUS,BONIF.
-Coordinated Defence,Coordinated Defence    +2 to CMD,Defensa Coordinada
-to,Coordinated Defence    +2 to CMD,a
-CMD,Coordinated Defence    +2 to CMD,DMC
-RESOLVE,RESOLVE|USES PER DAY,Resolución
-AC,+2 shield bonus to AC and CMD while stationary,CA
-and,+2 shield bonus to AC and CMD while stationary,y
-CMD,+2 shield bonus to AC and CMD while stationary,BMC
-Chaotic:,Chaotic: +2 Loyalty,Caótico:
-Loyalty,Chaotic: +2 Loyalty,Lealtad
-TEAMWORK,TEAMWORK|FEATS,DOTES TRABAJO
-FEATS,TEAMWORK|FEATS,EN EQUIPO
-WITHDRAW,"WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check",RETIRAR
-"Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","Gana 2000po por bp. Incrementa malestar en 1, y haz prueba de Lealtad"
-Critical Mastery,Critical Mastery    Apply two critical effects at once,Maestría con los críticos
-Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,Aplica dos efectos críticos a la vez
-CMB,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,BMC
-and,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,y
-CMD,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,BMC
-BONUS,NAKED COURAGE|BONUS,BONUS
-Improved Cleaving Finish,Improved Cleaving Finish    Any number per round,Hendedura final Mejorada
-Any number per round,Improved Cleaving Finish    Any number per round,Cualquier número por asalto
-WEAPON,WEAPON BONUSES,BONUS
-BONUSES,WEAPON BONUSES,ARMA
-HEALING,HEALING|HIT POINTS,CURACIÓN
-HIT POINTS,HEALING|HIT POINTS,PUNTOS GOLPE
-Sneak Attack,Sneak Attack +1d6,Ataque Furtivo
-+ 4 to all saving throws|+ 4 dodge bonus to,+ 4 to all saving throws|+ 4 dodge bonus to AC,+4 a todas las pruebas salvación|+4 bonus esquiva a
-AC,+ 4 to all saving throws|+ 4 dodge bonus to AC,CA
-ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,REDUCCIÓN|PENALIZACIÓN
-REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,USO ARMADURA
-Morale Bonus,Morale Bonus    Inspire Courage and similar,Bonus Moral
-Inspire Courage and similar,Morale Bonus    Inspire Courage and similar,Infundir Valor y similar
-Damage,Damage +1d6,Daño
-+1d6,Damage +1d6,+1d6
-Mighty,Mighty BLOODRAGE!,Poderosa
-BLOODRAGE!,Mighty BLOODRAGE!,¡Furia de sangre!
-DISCERN LIES,DISCERN LIES|PER DAY,DISCERNIR MENTIRAS
-PER DAY,DISCERN LIES|PER DAY,AL DÍA
-Grants,Grants +20 to Acrobatics,Concede
-to Acrobatics,Grants +20 to Acrobatics,a Acrobacias
-TERRAIN,"TERRAIN    Build farms, roads, mines etc",TERRENO
-"Build farms, roads, mines etc","TERRAIN    Build farms, roads, mines etc","Construye granjas, caminos, minas, etc"
-SNEAK DAMAGE,SNEAK DAMAGE|BONUS,BON DAÑO
-BONUS,SNEAK DAMAGE|BONUS,FURTIVO
-RAGE!,RAGE!|Modifier,Modificador de
-Modifier,RAGE!|Modifier,FURIA!
-2 ki points,Ally may re-roll attack or save - 2 ki points,2 puntos ki
-DC,DC +1,CD
-HEALING POINTS,HEALING POINTS|PER DAY,PUNTOS DE CURACION
-PER DAY,HEALING POINTS|PER DAY,POR DIA
-(which grants,(which grants +12 to Acrobatics),(que concede
-to Acrobatics),(which grants +12 to Acrobatics),a Acrobacias)
-RAGE!,RAGE!|PER DAY,FURIA!
-PER DAY,RAGE!|PER DAY,POR DIA
-1 ki point,Double damage reduction - 1 ki point,1 punto ki
-MAX HIT DICE,TO TURN CREATURE  MAX HIT DICE,DADOS DE GOLPE MAX.
-TOTAL HIT DICE,CREATURES AFFECTED TOTAL HIT DICE,DADOS DE GOLPE TOTALES
-Damage Reduction 2/,Damage Reduction 2/―,Reducción de Daño 2/
-2d6,Drunken Strength 2d6,2d6
-Maximum,Maximum +5,Máximo
-Charge,Charge  -2 to AC for the rest of the round,Carga
-to,Charge  -2 to AC for the rest of the round,a
-AC,Charge  -2 to AC for the rest of the round,CA
-for the rest of the round,Charge  -2 to AC for the rest of the round,para el resto del turno
-DAMAGE,DAMAGE|BONUS,BON
-BONUS,DAMAGE|BONUS,DAÑO
-TRICKS,TRICKS|KNOWN,TRUCOS
-KNOWN,TRICKS|KNOWN,CONOCIDOS
-SPECIALITY,SPECIALITY SCHOOL,ESCUELAS
-SCHOOL,SPECIALITY SCHOOL,ESPECIALIDAD
-WILL|SAVE,WILL|SAVE|BONUS,BON
-BONUS,WILL|SAVE|BONUS,SALV|VOL
-Quick Draw,Quick Draw    Draw your weapon as a free action,Desenvainado Rápido
-Draw your weapon as a free action,Quick Draw    Draw your weapon as a free action,Desenvaina tu arma como acción gratuita
-2 ki points,"As a swift action once a day, create a 20ft-radius aura of|luck allowing yourself and all allies to take the better of two|rolls for attacks and saving throws.|Aura lasts 1 round for every 2 ki points spent",2 puntos ki
-2 ki points,Heal somebody else’s wounds - 2 ki points,2 puntos ki
-"If this attack of opportunity hits, gain a +2 circumstance |bonus to your","If this attack of opportunity hits, gain a +2 circumstance |bonus to your CMD to avoid the grapple.","Si este ataque de oportunidad da, gana un bonus de circuntancia|de+2 a tu"
-CMD,"If this attack of opportunity hits, gain a +2 circumstance |bonus to your CMD to avoid the grapple.",BMC
-CONCENTRATION,CONCENTRATION|BONUS,CONCENTRACIÓN
-BONUS,CONCENTRATION|BONUS,BONUS
-TAKE 20,TAKE 20 PER DAY,ELEGIR 20
-PER DAY,TAKE 20 PER DAY,AL DÍA
-Lose,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",Pierde
-DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",bon de
-bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DES a
-AC,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",CA
--4 on,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",-4 a
-STR,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",FUE
-and,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",y
-"skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","habilidad, Percepción opuesta|50% probabilidad de fallar al atacar|CD 10 de Acrobacias para moverse más de la mitad de velocidad normal"
-RAGE,RAGE|Duration,FURIA
-Duration,RAGE|Duration,Duración
-FLAT-FOOTED,FLAT-FOOTED|CMD,DMC
-CMD,FLAT-FOOTED|CMD,DESPREVENIDO
-Favoured Terrain,Favoured Terrain|Bonus in a given terrain,Terreno predilecto
-Bonus in a given terrain,Favoured Terrain|Bonus in a given terrain,Bonus en un terreno determinado
-DEPOSIT,DEPOSIT    4000gp in trade goods and treasure nets 1bp,DEPÓSITO
-4000gp in trade goods and treasure nets 1bp,DEPOSIT    4000gp in trade goods and treasure nets 1bp,4000po en bienes de consumo y tesorería y gana 1 bp
-MAX HIT DICE,TO DESTROY CREATURE |MAX HIT DICE,DADOS DE GOLPE MAX.
-DURATION,SERENITY|DURATION,DURACIÓN
-HEXES,HEXES    Claim and abandon hexes,HEXÁGONOS
-Claim and abandon hexes,HEXES    Claim and abandon hexes,Reclamar y abandonar hexágonos
-REFLEX,REFLEX SAVE,SALVACIÓN
-SAVE,REFLEX SAVE,REFLEJOS
-TAKE 10,TAKE 10|PER DAY,ELEGIR 10
-PER DAY,TAKE 10|PER DAY,AL DÍA
-loyalty,-1 loyalty,lealtad
-STRENTH|SCORE,STRENTH|SCORE|BONUS,BON PUNT DE
-BONUS,STRENTH|SCORE|BONUS,FUERZA
-GOOD DAMAGE,GOOD DAMAGE|BONUS,DAÑO BUENO
-BONUS,GOOD DAMAGE|BONUS,BONUS
-KNOWLEDGE,KNOWLEDGE |BONUS,BON
-BONUS,KNOWLEDGE |BONUS,SABER
-BONUS,PERFORMANCE|BONUS,BONUS
-Sneak Attack,Sneak Attack +2d6,Ataque Furtivo
-or,+2 spell save DC  or  +2 to attack  or  +2 against target’s spell resistance,o
-RAGE!,Titanic RAGE!,FURIA!
-RAGE!,RAGE! POWERS |KNOWN,PODERES
-POWERS,RAGE! POWERS |KNOWN,CONOCIDOS
-KNOWN,RAGE! POWERS |KNOWN,FURIA!
-Shielded Caster,Shielded Caster    +4 to concentration checks,Lanzador Protegido
-to concentration checks,Shielded Caster    +4 to concentration checks,a tiradas de concentración
-INITIATIVE,INITIATIVE BONUS,BONUS
-BONUS,INITIATIVE BONUS,INICIATIVA
-BUILDINGS,BUILDINGS    Add buildings to towns,EDIFICIOS
-Add buildings to towns,BUILDINGS    Add buildings to towns,Añade edificios a las ciudades
-DC,DC 20,CD
-CASTER,CASTER LEVEL,INVOCADOR
-LEVEL,CASTER LEVEL,NIVEL
-WILL,WILL|SAVE DC,CD SALV
-SAVE DC,WILL|SAVE DC,VOLUNTAD
-DC,WILL|SAVE DC,CD
-TALENTS,TALENTS|KNOWN,TALENTOS
-KNOWN,TALENTS|KNOWN,CONOCIDOS
-at levels,"at levels 3, 8, 13 and 18",a niveles
-and,"at levels 3, 8, 13 and 18",y
-Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Sentido de la Naturaleza
-+2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 a Saber (Naturaleza) y Supervivencia
-ARMOUR,ARMOUR CLASS,CLASE DE
-CLASS,ARMOUR CLASS,ARMADURA
-Far Shot,Far Shot    Attack penalty per range increment decreases from -2 to -1,Disparo a larga distancia
-Attack penalty per range increment decreases from -2 to -1,Far Shot    Attack penalty per range increment decreases from -2 to -1,Penal. al ataque por incremento de rango descience de -2 a -1
-2 ki points,Receive enlightenment while you rest - 2 ki points,2 puntos ki
-Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Considerado un Ajeno
-Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Inmune a Hechizar Persona y otros efectos que|afecten a no ajenos.|Reducción de daño
-10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,10/Caótico
-DURATION,DURATION|PER DAY,DURACIÓN
-PER DAY,DURATION|PER DAY,AL DÍA
-Physical Resistance,Physical Resistance -2,Resistencia Física
-Grants,Grants +4 to Acrobatics,Concede
-to Acrobatics,Grants +4 to Acrobatics,a Acrobacias
-WILL,WILL SAVE DC,CD SALV
-SAVE DC,WILL SAVE DC,VOL
-PER DAY,PUNISHING KICK|PER DAY,AL DÍA
-TRAP,TRAP|SAVE DC,TRAMPA
-SAVE DC,TRAP|SAVE DC,CD SALV
-PER DAY,SPIRIT SPELLS|PER DAY,AL DÍA
-Fast Movement,Fast Movement +50 ft,Movimiento Rápido
-+50 ft,Fast Movement +50 ft,+50 ft
-"economy,","+2 economy, -2 loyalty","economía,"
-loyalty,"+2 economy, -2 loyalty",lealtad
-POWER,POWER|PER DAY,PODER
-PER DAY,POWER|PER DAY,POR DIA
-Tireless,Tireless RAGE!,FURIA!
-RAGE!,Tireless RAGE!,Incansable
-Evil:,Evil: +2 Economy,Malo:
-Economy,Evil: +2 Economy,Economía
-Two-weapon fighting,Two-weapon fighting    Reduces penalty to:,Luchar con dos armas
-Reduces penalty to:,Two-weapon fighting    Reduces penalty to:,Reduce la penalización a:
-20ft,Treat unarmed attacks as magic weapons|Increase range of a thrown object 20ft - 1 ki point,20ft
-1 ki point,Treat unarmed attacks as magic weapons|Increase range of a thrown object 20ft - 1 ki point,1 punto ki
-Focused shot,Focused shot    Within 30ft,Disparo enfocado
-Within,Focused shot    Within 30ft,a
-30ft,Focused shot    Within 30ft,30'
-MAX,MAX|HEALTH,SALUD
-HEALTH,MAX|HEALTH,MÁXIMA
-Cleave,Cleave    Extra attack if you hit,Hendedura
-Extra attack if you hit,Cleave    Extra attack if you hit,Ataque extra si golpeas
-PER DAY,ELEMENTAL FIST|PER DAY,AL DÍA
-Collect taxes and manage finances,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",Recauda impuestos y gestiona finanzas
-"– If vacant,","Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes","- Si está vacante,"
-economy and kingdom can’t levy taxes,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",la economía y el Reino no puede recaudar impuestos
-loyalty,+1 loyalty,lealtad
-DC,REFLEX|SAVE DC,CD
-Death or Glory,"Death or Glory    +4 (+1 at levels 11, 16, 20)",Muerte o Gloria
-"at levels 11, 16, 20)","Death or Glory    +4 (+1 at levels 11, 16, 20)","a niveles 11, 16, 20)"
-STUNNING FIST,STUNNING FIST|PER DAY,PUÑETAZO ATURDIDOR
-PER DAY,STUNNING FIST|PER DAY,AL DÍA
-FATIGUED,FATIGUED|DURATION,DURACIÓN
-DURATION,FATIGUED|DURATION,FATIGADO
-DC,WISDOM|CHECK DC,CD
-BONUS,DANCE|BONUS,BONUS
-"If target charged, gain +2 on","If target charged, gain +2 on CMB and +2 to the save DC","Si el objetivo ha cargado, gana +2 a"
-CMB,"If target charged, gain +2 on CMB and +2 to the save DC",BMC
-and +2 to the save DC,"If target charged, gain +2 on CMB and +2 to the save DC",y +2 a la CD de Salv.
-TOTAL HIT DICE,CREATURES REBUKED|TOTAL HIT DICE,DADOS DE GOLPE TOTALES
-CRITICAL  HIT,CRITICAL  HIT|RESISTANCE,GOLPE CRÍTICO
-RESISTANCE,CRITICAL  HIT|RESISTANCE,RESISTENCIA
-MILITARY,MILITARY    Create armed units (comes from allocation for settling towns),MILITAR
-Create armed units (comes from allocation for settling towns),MILITARY    Create armed units (comes from allocation for settling towns),Crea unidades armadas (viene de 
-Guides higher learning and magic,"Guides higher learning and magic – If vacant, -4 economy",Guía el aprendizaje superior y la magia
-"– If vacant,","Guides higher learning and magic – If vacant, -4 economy","- Si vacante, "
-economy,"Guides higher learning and magic – If vacant, -4 economy",economía
-BASE|ATTACK,BASE|ATTACK|BONUS,BONUS|ATAQUE
-BONUS,BASE|ATTACK|BONUS,BASE
-(which grants,(which grants +20 to Acrobatics),(concede
-to Acrobatics),(which grants +20 to Acrobatics),a Acrobacias)
-WILL SAVE,WILL SAVE|DC,SALV. VOL.
-DC,WILL SAVE|DC,CD
-RAGE!,RAGE!|Duration,¡FURIA!
-Duration,RAGE!|Duration,Duración
-FLAT-FOOTED,FLAT-FOOTED AC,CA
-AC,FLAT-FOOTED AC,DESPREVENIDO
-15ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",15ft
-Point-blank shot,Point-blank shot    Within 30ft,Disparo a bocajarro
-Within,Point-blank shot    Within 30ft,a
-30ft,Point-blank shot    Within 30ft,30'
-MORALE,MORALE|BONUS,BONUS
-BONUS,MORALE|BONUS,MORAL
-FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,CLASE DE ARMADURA
-ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,DESPREVENIDO
-DAMAGE,DAMAGE|REDUCTION,REDUCCIÓN
-REDUCTION,DAMAGE|REDUCTION,DE DAÑO
-TOUCH AC,TOUCH AC|BONUS,CA TOQUE
-BONUS,TOUCH AC|BONUS,BONUS
-Precise Strike,Precise Strike    When flanking,Golpe Preciso
-When flanking,Precise Strike    When flanking,Cuando flanquea
-Woodland Stride,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Zancada Forestal
-Move through undergrowth at normal speed|and taking no damage,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Te mueves a través de maleza a vel normal|y no recibes daño
-Guides religious worship,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",Guía la devoción religiosa
-"– If vacant,","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","- Si vacante,"
-"loyalty and stability, and","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","lealtad y estabilidad, y"
-unrest at upkeep,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",malestar durante mantenimiento
-Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Sutileza con las armas
-Use,Weapon Finesse    Use DEX for melee attack,Uso
-DEX,Weapon Finesse    Use DEX for melee attack,DES
-for melee attack,Weapon Finesse    Use DEX for melee attack,para ataques c/c
-Slow Fall,Slow Fall 30 ft,Caída Lentificada
-30 ft,Slow Fall 30 ft,30'
-Half of Ranger’s|Favoured Enemy|bonus granted to|allies within,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,Mitad del bonus|de Enemigo Predilecto|del Explorador concedido|a aliados dentro
-30ft,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,30 pies
-INT,+ INT| per level,INT
-per level,+ INT| per level,por nivel
-AC,Firearm attacks target the enemy’s touch AC in the first two |range increments. This stacks with similar effects.,CA
-RAGE,RAGE  DURATION|PER DAY,FURIA
-DURATION,RAGE  DURATION|PER DAY,DURACIÓN
-PER DAY,RAGE  DURATION|PER DAY,AL DÍA
-Physical Resistance,Physical Resistance -1,Resistencia Física
-BASE ATTACK,BASE ATTACK BONUS,ATAQUE BASE
-BONUS,BASE ATTACK BONUS,BONUS
-1d10,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,1d10
-2d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,2d8
-3d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,3d8
-4d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,4d8
-6d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,6d8
-8d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,8d8
-12d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,12d8
-Use monk level in place of,Use monk level in place of BAB for calculating CMB,Usa nivel Monje en vez de
-BAB,Use monk level in place of BAB for calculating CMB,BAB
-for calculating,Use monk level in place of BAB for calculating CMB,para calcular
-CMB,Use monk level in place of BAB for calculating CMB,BMC
-PER DAY,ENHANCE HEALING|PER DAY,AL DÍA
-Improved Natural Weapon,Improved Natural Weapon    Increased damage dice,Arma Natural Mejorada
-Increased damage dice,Improved Natural Weapon    Increased damage dice,Dado de daño incrementado
-Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,Muro de Escudos
-to,Shield Wall    +1 / +2 to AC when both using shields,a
-AC,Shield Wall    +1 / +2 to AC when both using shields,CA
-when both using shields,Shield Wall    +1 / +2 to AC when both using shields,cuando ambos usan escudos
-(which grants,(which grants +24 to Acrobatics),(que concede
-to Acrobatics),(which grants +24 to Acrobatics),a Acrobacias)
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,UMBRAL DE FALLO DE
-THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,CONJURO ARCANO
-CHANNEL,CHANNEL|PER DAY,CANALIZAR
-PER DAY,CHANNEL|PER DAY,AL DÍA
-Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,Maestría con Armas
-Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,Incrementa rango crítico y siempre confirma críticos
-Ruler of a colony or vassal state,"Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit",Regidor de una colonia o estado vasallo
-"– May also take any role for colony, with 1 less benefit","Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit","- Puede tener cualquier rol para colonia, con 1 beneficio menos"
-FORTITUDE,FORTITUDE|DC,CD
-DC,FORTITUDE|DC,FORTALEZA
-PER DAY,REROLL|PER DAY,AL DÍA
-MELEE DAMAGE,MELEE DAMAGE|BONUS,DAÑO MELEE
-BONUS,MELEE DAMAGE|BONUS,BONUS
-Tandem Trip,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",Derribo en tandem
-"When ally is adjacent, roll twice for trip","Tandem Trip    When ally is adjacent, roll twice for trip CMB","Cuando un aliado está adyacente, tira dos veces para derribar"
-CMB,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",BMC
-(which grants,(which grants +4 to Acrobatics checks for jumping),(el cual otorga
-to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
-CMD,CMD BONUS,BON
-BONUS,CMD BONUS,BMC
-RANGED ATTACK,RANGED ATTACK|BONUS,BONO DE ATAQUE
-BONUS,RANGED ATTACK|BONUS,A DISTANCIA
-Lawful:,Lawful: +2 Economy,Legal:
-Economy,Lawful: +2 Economy,Economía
-Slip magically between spaces -,Slip magically between spaces - 2 ki points,Se desplaza mágicamente entre espacios -
-2 ki points,Slip magically between spaces - 2 ki points,2 puntos ki
-At levels,"At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.",A niveles
-"and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","y 16 puedes añadir 1 a una única puntuación de característica.|Si esa punt. era un numero impar, eso significa un incremento en el modif. habilidad."
+2 ki points,Reflex save to avoid damage - 2 ki points,2 puntos ki
 "economy,","+3 economy, -4 loyalty","economía,"
 loyalty,"+3 economy, -4 loyalty",lealtad
-Vital Strike,Vital Strike    Extra damage dice,Golpe vital
-Extra damage dice,Vital Strike    Extra damage dice,Dado de daño extra
-TODAY,ELEMENTAL FIST|TODAY,HOY
-CHALLENGES,CHALLENGES|PER DAY,DESAFÍOS
-PER DAY,CHALLENGES|PER DAY,AL DÍA
-Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Golpe perforante Mejorado
-Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Ignora reducción de daño hasta
-STANCES,STANCES KNOWN,ESTANCIAS
-KNOWN,STANCES KNOWN,CONOCIDAS
-Heal your own wounds -,Heal your own wounds - 2 ki points,Cura tus propias heridas -
-2 ki points,Heal your own wounds - 2 ki points,2 puntos ki
-Knowledge -,Knowledge - INT|Profession - WIS,Saber -
-INT,Knowledge - INT|Profession - WIS,INT
-Profession -,Knowledge - INT|Profession - WIS,Oficio -
-WIS,Knowledge - INT|Profession - WIS,SAB
-1 ki point,Enhance weapon - 1 ki point per enhancement,1 punto ki
-DC,DC 30,CD
-1 ki point,Treat unarmed attacks as magic weapons|Increase range of attack by 50ft - 1 ki point,1 punto ki
-Rapid Shot,"Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty",Disparo Rápido
-"When making a full-round attack, get one additional attack in return for a -2 penalty","Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty","Cuando hace un ataque de asalto completo, obtiene un ataque adicional con penal. -2"
-BONUS,VERMIN EMPATHY|BONUS,BONUS
-USES,USES PER DAY,USOS
-PER DAY,USES PER DAY,AL DÍA
-DC,DC 25,CD
-BONUS,DEVICE|BONUS,BONUS
-PER DAY,FOCUS|SUBJECTS|PER DAY,AL DÍA
-DAMAGE,DAMAGE BONUS,DAÑO
-BONUS,DAMAGE BONUS,BONUS
-Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,Maniobras Coordinadas
-to,Coordinated Manoeuvres    +2 to CMB,a
-CMB,Coordinated Manoeuvres    +2 to CMB,BMC
+Shielded Caster,Shielded Caster    +4 to concentration checks,Lanzador Protegido
+to concentration checks,Shielded Caster    +4 to concentration checks,a tiradas de concentración
+MAX HIT DICE,TO TURN CREATURE  MAX HIT DICE,DADOS DE GOLPE MAX.
+1 ki point,"As a swift action, gain +4 insight bonus to any skill or ability check, at a cost of 1 ki point",1 punto ki
+2 pt,Cost: 2 pt,2 punt
+Damage Reduction 2/,Damage Reduction 2/―,Reducción de Daño 2/
 TURNS,TURNS PER DAY,TURNOS
 PER DAY,TURNS PER DAY,POR DIA
-GRAPPLE,GRAPPLE BONUS,BON A
-BONUS,GRAPPLE BONUS,PRESA
 Ignore concealment -,"Ignore concealment - 1 ki point|Ignore total concealment or cover - 2 ki point|Ignore total cover, fire around corners - 3 ki point",Ignora ocultamiento -
 1 ki point,"Ignore concealment - 1 ki point|Ignore total concealment or cover - 2 ki point|Ignore total cover, fire around corners - 3 ki point",1 punto ki
 Ignore total concealment or cover -,"Ignore concealment - 1 ki point|Ignore total concealment or cover - 2 ki point|Ignore total cover, fire around corners - 3 ki point",Ignora ocultamiento total o cobertura -
 2 ki point,"Ignore concealment - 1 ki point|Ignore total concealment or cover - 2 ki point|Ignore total cover, fire around corners - 3 ki point",2 puntos ki
 3 ki point,"Ignore concealment - 1 ki point|Ignore total concealment or cover - 2 ki point|Ignore total cover, fire around corners - 3 ki point",3 puntos ki
-Improved Back to Back,Improved Back to Back    +2 to ally’s AC,Espalda con Espalda Mejorado
-to ally’s,Improved Back to Back    +2 to ally’s AC,al del aliado
-AC,Improved Back to Back    +2 to ally’s AC,CA
-Physical Resistance,Physical Resistance -5,Resistencia Física
-DAMAGE,ARTILLERY|DAMAGE,DAÑO
-PROHIBITED,PROHIBITED SCHOOLS,Prohibidas
-SCHOOLS,PROHIBITED SCHOOLS,ESCUELAS
-Queen Consort or Prince Consort,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,Reina Consorte o Príncipe Consorte
-– May rule if the Ruler is absent. but must pass loyalty check or,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,"– Puede gobernar si el Regente está ausente, pero debe superar prueba de lealtad o"
-unrest,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,malestar
-Grants,Grants +8 to Acrobatics,Concede
-to Acrobatics,Grants +8 to Acrobatics,a Acrobacias
-DURATION,SICKENED|DURATION,DURACIÓN
-CHANNEL ENERGY,CHANNEL ENERGY PER DAY,CANALIZAR ENERGÍA
-PER DAY,CHANNEL ENERGY PER DAY,AL DÍA
-1 ki point,Use unarmed strike damage dice for 1 rd - 1 ki point,1 punto ki
+Focused shot,Focused shot    Within 30ft,Disparo enfocado
+Within,Focused shot    Within 30ft,a
+30ft,Focused shot    Within 30ft,30'
+Improved Two-weapon Fighting,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Combate con dos armas mejorado
+Second attack with your off-hand weapon,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Segundo ataque con arma mano torpe
+"loyalty,","+2 loyalty, +2bp consumption","lealtad,"
++2bp,"+2 loyalty, +2bp consumption",+2bp
+consumption,"+2 loyalty, +2bp consumption",consumo
+Point-blank shot,Point-blank shot    Within 30ft,Disparo a bocajarro
+Within,Point-blank shot    Within 30ft,a
+30ft,Point-blank shot    Within 30ft,30'
+"loyalty,","+1 loyalty, +1bp consumption","lealtad,"
++1bp,"+1 loyalty, +1bp consumption",+1bp
+consumption,"+1 loyalty, +1bp consumption",consumo
+Manyshot,"Manyshot    When making a full-round attack, your first attack has two arrows",Disparos múltiples
+"When making a full-round attack, your first attack has two arrows","Manyshot    When making a full-round attack, your first attack has two arrows","Cuando hace un ataque de asalto completo, tu primer ataque lanza 2 flechas"
 DURATION,NAUSEATED|DURATION,DURACIÓN
-TRAPS,TRAPS|PER DAY,TRAMPAS
-PER DAY,TRAPS|PER DAY,AL DÍA
+Dodge bonus to,"Dodge bonus to AC, and morale bonus|to saving throws against fear",Bonus esquiva a
+AC,"Dodge bonus to AC, and morale bonus|to saving throws against fear",CA
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,UMBRAL DE FALLO DE
+THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,CONJURO ARCANO
+Back to Back,Back to Back     +2 to AC against flanking,Espalda con espalda
+to,Back to Back     +2 to AC against flanking,a
+AC,Back to Back     +2 to AC against flanking,CA
+against flanking,Back to Back     +2 to AC against flanking,contra flanqueo
+SAVING,SAVING|THROW DC,SALV
+THROW DC,SAVING|THROW DC,CD DE LANZAMIENTO
+WILL,WILL|SAVE DC,CD SALV
+SAVE DC,WILL|SAVE DC,VOLUNTAD
+DC,WILL|SAVE DC,CD
+POOL,ENHANCEMENT|POOL,RESERVA
+15ft,"Scent 30ft| • Detect enemies, determine direction as a move action| • Track creatures using Survival| • Range of 30ft, or 60ft downwind, 15ft upwind;strong smells double range, overpowering smells triple",15ft
+PER DAY,PERFECT STRIKE|PER DAY,AL DÍA
+STRENTH|SCORE,STRENTH|SCORE|BONUS,BON PUNT DE
+BONUS,STRENTH|SCORE|BONUS,FUERZA
+Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,Ruta de Escape
+Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,No provoca AdO cuando está adyacente a un aliado
+HEXES,HEXES    Claim and abandon hexes,HEXÁGONOS
+Claim and abandon hexes,HEXES    Claim and abandon hexes,Reclamar y abandonar hexágonos
+(which grants,(which grants +24 to Acrobatics checks for jumping),(el cual otorga
+to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
+Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Sentido de la Naturaleza
++2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 a Saber (Naturaleza) y Supervivencia
+(which grants,(which grants +4 to Acrobatics),(concede
+to Acrobatics),(which grants +4 to Acrobatics),a Acrobacias)
+Improved Precise Shot,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Disparo Preciso Mejorado
+Ignore the penalties for partial cover or partial concealment,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Ignora los penalizadores por cobertura u ocultamiento parcial
+DISCOVERIES,DISCOVERIES|KNOWN,DESCUBRIMIENTOS
+KNOWN,DISCOVERIES|KNOWN,CONOCIDOS
+HEALING,HEALING|HIT POINTS,CURACIÓN
+HIT POINTS,HEALING|HIT POINTS,PUNTOS GOLPE
+1 ki point,"As a swift action, deal damage equal to your Unarmed Strike when using an improvised weapon|Damage bonus lasts for one round - 1 ki point",1 punto ki
+DEFLECTION,DEFLECTION|BONUS,BONUS
+BONUS,DEFLECTION|BONUS,DESVÍO
+Grant more abilities to allies -,Grant more abilities to allies - 2 ki points,Conceder más aptitudes a aliados -
+2 ki points,Grant more abilities to allies - 2 ki points,2 puntos ki
+Half of Ranger’s|Favoured Enemy|bonus granted to|allies within,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,Mitad del bonus|de Enemigo Predilecto|del Explorador concedido|a aliados dentro
+30ft,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,30 pies
+Clustered shots,Clustered shots    Group arrows to overcome damage reduction,Disparo concentrado
+Group arrows to overcome damage reduction,Clustered shots    Group arrows to overcome damage reduction,Agrupas ataques para sobreponer la RD
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,FALLO DE CONJUROS ARCANOS
+THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,LIMITE
+RAGE!,RAGE!|PER DAY,FURIA!
+PER DAY,RAGE!|PER DAY,POR DIA
+JUDGEMENTS,JUDGEMENTS|PER DAY,JUICIOS
+PER DAY,JUDGEMENTS|PER DAY,AL DÍA
+Improved Cleaving Finish,Improved Cleaving Finish    Any number per round,Hendedura final Mejorada
+Any number per round,Improved Cleaving Finish    Any number per round,Cualquier número por asalto
+Charge,Charge    -2 to AC for the rest of the round,Cargar
+to,Charge    -2 to AC for the rest of the round,a
+AC,Charge    -2 to AC for the rest of the round,CA
+for the rest of the round,Charge    -2 to AC for the rest of the round,por el resto del turno
+BOMBS,BOMBS|PER DAY,BOMBAS
+PER DAY,BOMBS|PER DAY,AL DÍA
+WILL SAVE,WILL SAVE|BONUS,SALV VOL
+BONUS,WILL SAVE|BONUS,BONUS
+BONUS,DANCE|BONUS,BONUS
+Knowledge -,Knowledge - INT|Profession - WIS,Saber -
+INT,Knowledge - INT|Profession - WIS,INT
+Profession -,Knowledge - INT|Profession - WIS,Oficio -
+WIS,Knowledge - INT|Profession - WIS,SAB
+ASSIGN LEADERSHIP,ASSIGN LEADERSHIP    Adjust kingdom rolls,ASIGNAR LIDERAZGO
+Adjust kingdom rolls,ASSIGN LEADERSHIP    Adjust kingdom rolls,Ajusta las pruebas del reino
+KI POOL,KI POOL|CAPACITY,CAPACIDAD
+CAPACITY,KI POOL|CAPACITY,RESERVA KI
+GREATER,GREATER RAGE!,FURIA
+RAGE!,GREATER RAGE!,MAYOR!
+Guides higher learning and magic,"Guides higher learning and magic – If vacant, -4 economy",Guía el aprendizaje superior y la magia
+"– If vacant,","Guides higher learning and magic – If vacant, -4 economy","- Si vacante, "
+economy,"Guides higher learning and magic – If vacant, -4 economy",economía
+BONUS,STREETWISE|BONUS,BONUS
+(which grants,(which grants +8 to Acrobatics),(concede
+to Acrobatics),(which grants +8 to Acrobatics),a Acrobacias)
+DAMAGE,DAMAGE BONUS,DAÑO
+BONUS,DAMAGE BONUS,BONUS
+BONUS,SAILOR’S BONUS,BONUS
+Fast Movement,Fast Movement +50 ft,Movimiento Rápido
++50 ft,Fast Movement +50 ft,+50 ft
+Physical Resistance,Physical Resistance -2,Resistencia Física
+DC,DC 10,CD
+Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,CD Acrobacias = 5 + DMC del oponente
+CMD,Acrobatics DC = 5 + Opponent’s CMD,BMC
+PER DAY,ELEMENTAL FIST|PER DAY,AL DÍA
+BONUS,SPEED BONUS,BONUS
+Pack Attack,Pack Attack    Ally’s attack allows you to take 5ft step,Ataque en manada
+Ally’s attack allows you to take,Pack Attack    Ally’s attack allows you to take 5ft step,Los ataques del aliado te permiten hacer
+5ft,Pack Attack    Ally’s attack allows you to take 5ft step,5 ft
+step,Pack Attack    Ally’s attack allows you to take 5ft step,paso
+Collect taxes and manage finances,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",Recauda impuestos y gestiona finanzas
+"– If vacant,","Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes","- Si está vacante,"
+economy and kingdom can’t levy taxes,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",la economía y el Reino no puede recaudar impuestos
+BONUS,SACRED|BONUS,BONUS
+WILL SAVE,WILL SAVE|DC,SALV. VOL.
+DC,WILL SAVE|DC,CD
+Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,Muro de Escudos
+to,Shield Wall    +1 / +2 to AC when both using shields,a
+AC,Shield Wall    +1 / +2 to AC when both using shields,CA
+when both using shields,Shield Wall    +1 / +2 to AC when both using shields,cuando ambos usan escudos
+BONUS,EXPERTISE|BONUS,BONUS
+RANGED ATTACK,RANGED ATTACK|BONUS,BONUS ATAQUE
+BONUS,RANGED ATTACK|BONUS,A DISTANCIA
+MIGHTY,MIGHTY BLOODRAGE!,PODEROSA
+BLOODRAGE!,MIGHTY BLOODRAGE!,¡Furia de sangre!
+DC,DC BONUS,CD
+BONUS,DC BONUS,BONUS
+FEAT SHARING,FEAT SHARING|DURATION,COMPARTIR DOTES
+DURATION,FEAT SHARING|DURATION,DURACIÓN
+(which grants,(which grants +16 to Acrobatics),(concede
+to Acrobatics),(which grants +16 to Acrobatics),a Acrobacias)
+FORTITUDE,FORTITUDE|DC,CD
+DC,FORTITUDE|DC,FORTALEZA
+Two-weapon Rend,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",Desgarrar con dos armas
+"If you hit with both weapons, do an extra 1d10 + (","Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage","Si golpeas con ambas armas, haz un extra 1d10 ("
+STR,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",FUE
+× 1½) damage,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",× 1½) daño
+INITIATIVE,INITIATIVE|BONUS,BONUS
+BONUS,INITIATIVE|BONUS,INICIATIVA
+Sneak Attack,Sneak Attack +1d6,Ataque Furtivo
+Far Shot,Far Shot    Attack penalty per range increment decreases from -2 to -1,Disparo a larga distancia
+Attack penalty per range increment decreases from -2 to -1,Far Shot    Attack penalty per range increment decreases from -2 to -1,Penal. al ataque por incremento de rango descience de -2 a -1
+Level,100’+ 10’ × Level,Nivel
+CONCENTRATION,CONCENTRATION|BONUS,CONCENTRACIÓN
+BONUS,CONCENTRATION|BONUS,BONUS
+2 × (d10 +,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",2 x (d10 +
+CON,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",CON
+") temporary hit points,|+2 attack, +1 fortitude save","2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",") puntos golpe temporales, |+2 ataque, +1 pruebas Fortaleza"
+A Thousand Faces,A Thousand Faces|Change appearance at will,Las Mil Caras
+Change appearance at will,A Thousand Faces|Change appearance at will,Cambia la apariencia a voluntad
+Cost:,Cost: 1 pt,Coste:
+1 pt,Cost: 1 pt,1 pt
+TODAY,PUNISHING KICK|TODAY,HOY
+Sneaking Precision,Sneaking Precision    Apply a critical effect to the,Precisión furtiva
+Apply a critical effect to the,Sneaking Precision    Apply a critical effect to the,Aplicas un efecto crítico al
+Shot on the run,Shot on the run    Attack at any point during your move,Disparo a la carrera
+Attack at any point during your move,Shot on the run    Attack at any point during your move,Ataca en cualquier punto de su movimiento
+BASE|ATTACK,BASE|ATTACK|BONUS,BONUS|ATAQUE
+BONUS,BASE|ATTACK|BONUS,BASE
+DC,DC    5,CD
+BONUS,BONUS|SPELLS,BONUS
+Outflank,Outflank    When flanking,Rebasar
+When flanking,Outflank    When flanking,Cuando flanquea
+Liases with the people,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",Coopera con la gente
+"– If vacant,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","- Si vacante,"
+"loyalty,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","lealtad,"
+unrest at upkeep and no bonus from festivals,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",malestar durante el mantenimiento y sin bonus por festivales.
+BASE ATTACK,BASE ATTACK BONUS,ATAQUE BASE
+BONUS,BASE ATTACK BONUS,BONUS
+Bonus to,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,Bonus a
+CMB,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,BMC
+and,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,y
+CMD,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,BMC
+AC,Bonus to CMB and CMD for overrun manoeuvres;|reflex saves against trample attacks;|AC against charge attacks;|attack and damage against charging creatures,CA
+GOOD DAMAGE,GOOD DAMAGE|BONUS,DAÑO BUENO
+BONUS,GOOD DAMAGE|BONUS,BONUS
+Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Sutileza con las armas
+Use,Weapon Finesse    Use DEX for melee attack,Uso
+DEX,Weapon Finesse    Use DEX for melee attack,DES
+for melee attack,Weapon Finesse    Use DEX for melee attack,para ataques c/c
+BONUS,INSIGHT|BONUS,BONUS
+Improved Devastating Strike,Improved Devastating Strike  +2 per die,Golpe Devastador Mejorado
+per die,Improved Devastating Strike  +2 per die,por dado
+FLAT-FOOTED,FLAT-FOOTED|CMD,DMC
+CMD,FLAT-FOOTED|CMD,DESPREVENIDO
+Shake It Off,Shake It Off     +1 to all saving throws per adjacent ally,Sacudirselo
+to all saving throws per adjacent ally,Shake It Off     +1 to all saving throws per adjacent ally,a todas las salvaciones por aliados adyacente
+DAMAGE,DAMAGE|BONUS,BON
+BONUS,DAMAGE|BONUS,DAÑO
+RAGE,Alcoholic drinks allow you to maintain RAGE for this round |without counting against your rounds per day.,FURIA
+Rapid shot,Rapid shot    Extra attack at full,Disparo rapido
+Extra attack at full,Rapid shot    Extra attack at full,Ataque adicional como AAC
+ft,10 ft  2 sq,ft
+sq,10 ft  2 sq,c
+RESOLVE,RESOLVE|USES PER DAY,Resolución
+AC,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,CA
+2 or more ki points,20ft aura of luck - 2 or more ki points,2 o más puntos ki
+ATTACK,ATTACK|BONUS,BONUS
+BONUS,ATTACK|BONUS,ATAQUE
+BONUS,NATURAL TOUGHNESS|BONUS,BONUS
+SPECIALITY,SPECIALITY SCHOOL,ESCUELA DE
+SCHOOL,SPECIALITY SCHOOL,ESPECIALIDAD
+USES,USES PER DAY,USOS
+PER DAY,USES PER DAY,AL DÍA
+Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,CD Acrobacias = Del oponente
+CMD,Acrobatics DC = Opponent’s CMD,BMC
+WILL|SAVE,WILL|SAVE|BONUS,SALV|VOL
+BONUS,WILL|SAVE|BONUS,BONUS
+Cleave,Cleave    Extra attack if you hit,Hendedura
+Extra attack if you hit,Cleave    Extra attack if you hit,Ataque extra si golpeas
+Precise Strike,Precise Strike    When flanking,Golpe Preciso
+When flanking,Precise Strike    When flanking,Cuando flanquea
+DISCERN LIES,DISCERN LIES|PER DAY,DISCERNIR MENTIRAS
+PER DAY,DISCERN LIES|PER DAY,AL DÍA
+USES,USES|PER DAY,USOS
+PER DAY,USES|PER DAY,AL DÍA
+Improved Shield Bash,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Golpe con Escudo Mejorado
+Use Shield Bash and keep your shield bonus to,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Usa Golpear con EScudo y mantén tu bon de escudo a
+AC,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,CA
+RAGE,"Each alcoholic drink consumed results in|1 round of nausea after the end of your RAGE,|in addition to the normal fatigue.",FURIA
+BONUS,AGILE|BONUS,BONUS
+ARMOUR CLASS,ARMOUR CLASS|BONUS,Bonif.
+BONUS,ARMOUR CLASS|BONUS,Clase de Armadura
+BONUS,PERFORMANCE|BONUS,BONUS
+RAGE!,RAGE! POWERS,PODERES
+POWERS,RAGE! POWERS,FURIA!
+Cost:,Cost: 1 pt per extra range increment,Coste:
+DAMAGE,ELEMENTAL|DAMAGE,DAÑO
++ 4 to all saving throws|+ 4 dodge bonus to,+ 4 to all saving throws|+ 4 dodge bonus to AC,+4 a todas las pruebas salvación|+4 bonus esquiva a
+AC,+ 4 to all saving throws|+ 4 dodge bonus to AC,CA
+Sneak Attack,Sneak Attack +2d6,Ataque Furtivo
+Maximum,Maximum +5,Máximo
+RAGE!,RAGE!|Today,FURIA!
+Today,RAGE!|Today,DIARIA
+ENERGY,ENERGY|ROLL,TIRADA DE
+ROLL,ENERGY|ROLL,ENERGÍA
+CORRUPTION,CORRUPTION|HIT POINTS,CORRUPCIÓN
+HIT POINTS,CORRUPTION|HIT POINTS,PUNTOS GOLPE
 "loyalty,","+3 loyalty, +4bp consumption","lealtad,"
 +4bp,"+3 loyalty, +4bp consumption",+4bp
 consumption,"+3 loyalty, +4bp consumption",consumo
-AC,Insight bonus to AC and CMD,CA
-and,Insight bonus to AC and CMD,y
-CMD,Insight bonus to AC and CMD,BMC
-CURRENT,CURRENT|FEATS,ACTUAL
-FEATS,CURRENT|FEATS,DOTES
-DURATION,MIND BLADE|DURATION,DURACIÓN
-Shot on the run,Shot on the run    Attack at any point during your move,Disparo a la carrera
-Attack at any point during your move,Shot on the run    Attack at any point during your move,Ataca en cualquier punto de su movimiento
-Two-weapon Defence,Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Defensa con dos armas
-+1 shield bonus to AC for using two weapons (+2 if fighting defensively),Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),+1 bonus escudo a CA por usar 2 armas (+2 si luchas defensivamente)
-RAGE,RAGE POWERS |KNOWN,FURIA
-POWERS,RAGE POWERS |KNOWN,PODERES
-KNOWN,RAGE POWERS |KNOWN,CONOCIDOS
-Rapid shot,Rapid shot    Extra attack at full,Disparo rapido
-Extra attack at full,Rapid shot    Extra attack at full,Ataque adicional como AAC
-PER DAY,REDIRECTION|PER DAY,AL DÍA
-Use,Use WIS instead of DEX for attacks with a bow,Usa
-WIS,Use WIS instead of DEX for attacks with a bow,SAB
-instead of,Use WIS instead of DEX for attacks with a bow,en vez de
-DEX,Use WIS instead of DEX for attacks with a bow,DES
-for attacks with a bow,Use WIS instead of DEX for attacks with a bow,para ataques con un arco
-Weapon Finesse,Weapon Finesse  Use DEX for melee attack,Sutileza con armas
-Use,Weapon Finesse  Use DEX for melee attack,Usar
-DEX,Weapon Finesse  Use DEX for melee attack,DES
-for melee attack,Weapon Finesse  Use DEX for melee attack,para ataques melee
-WILD EMPATHY,WILD EMPATHY|BONUS,BONUS DE EMPATÍA
-BONUS,WILD EMPATHY|BONUS," SALVAJE"
-(which grants,(which grants +24 to Acrobatics checks for jumping),(el cual otorga
-to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping),a pruebas de Acrobacia para saltar)
-"economy,","+1 economy, -1 loyalty","economía,"
-loyalty,"+1 economy, -1 loyalty",lealtad
-2 or more ki points,20ft aura of luck - 2 or more ki points,2 o más puntos ki
-AC,AC BONUS,BON A
-BONUS,AC BONUS,CA
-Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Concentración Furiosa
-Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Ignora penalizaciones al Ataque Poderoso en el primer ataque
-DC,DC BONUS,CD
-BONUS,DC BONUS,BONUS
-CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,BON PUNT DE
-BONUS,CONSTITUTION|SCORE|BONUS,CONSTITUCIÓN
-EVOLUTION,EVOLUTION|POOL,EVOLUCIÓN
-POOL,EVOLUTION|POOL,RESERVA
-Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",Formacion de Caballería
-"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount","Comparte espacio, carga a través de la montura aliada"
-or,+2 spell save DC  or  +2 against spell resistance  or  +2 to attack,o
-Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,CD Acrobacias = DMC del
-CMD,Acrobatics DC = Opponent’s CMD,Oponente
-Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",Compañero de finta mejorado
-"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO","Cuando el aliado finta, ganas AdO"
-RAGE!,Rounds of confusion do not count|against your rounds of RAGE! per day,FURIA!
-per day,Rounds of confusion do not count|against your rounds of RAGE! per day,al día
-BONUS,NATURAL TOUGHNESS|BONUS,BONUS
-ft,10 ft  2 sq,ft
-sq,10 ft  2 sq,c
-TOUCH,TOUCH ARMOUR CLASS,CLASE DE ARMADURA
-ARMOUR CLASS,TOUCH ARMOUR CLASS,TOQUE
-COMBAT|MANEUVRE,COMBAT|MANEUVRE|BONUS,BONUS|MANIOBRA
-BONUS,COMBAT|MANEUVRE|BONUS,COMBATE
-SUBTOTAL,SUBTOTAL BUFFS & TEAMWORK,SUBTOTAL
-BUFFS & TEAMWORK,SUBTOTAL BUFFS & TEAMWORK,VENTAJAS & TRABAJO EN EQUIPO
-KI POOL,KI POOL|CAPACITY,CAPACIDAD
-CAPACITY,KI POOL|CAPACITY,RESERVA KI
-BONUS,WISDOM|CHECK BONUS,BONUS
-BONUS,INSIGHT|BONUS,BONUS
-Inflict extra damage -,Inflict extra damage - 1 ki point,Inflige daño extra -
-1 ki point,Inflict extra damage - 1 ki point,1 punto ki
-Morale bonus to your mount’s strength|modifier during,Morale bonus to your mount’s strength|modifier during RAGE!|(+2 to Strength score),Bonus Moral al modif. fuerza de tu|montura durante la
-RAGE!,Morale bonus to your mount’s strength|modifier during RAGE!|(+2 to Strength score),FURIA!
-(+2 to Strength score),Morale bonus to your mount’s strength|modifier during RAGE!|(+2 to Strength score),(+2 a punt. de Fuerza)
-Trackless Step,"Trackless Step|Leave no trail, unless deliberately",Pisada sin Rastro
-"Leave no trail, unless deliberately","Trackless Step|Leave no trail, unless deliberately",No deja rastro si no quiere
+RAGE,RAGE|TODAY,FURIA
+TODAY,RAGE|TODAY,HOY
+TAKE 20,TAKE 20 PER DAY,ELEGIR 20
+PER DAY,TAKE 20 PER DAY,AL DÍA
+RAGE!,RAGE!  DURATION|PER DAY,¡FURIA!
+DURATION,RAGE!  DURATION|PER DAY,DURACIÓN
+PER DAY,RAGE!  DURATION|PER DAY,AL DÍA
+Death or Glory,"Death or Glory    +4 (+1 at levels 11, 16, 20)",Muerte o Gloria
+"at levels 11, 16, 20)","Death or Glory    +4 (+1 at levels 11, 16, 20)","a niveles 11, 16, 20)"
+Paired Opportunists,Paired Opportunists    When adjacent,Oportunistas en pareja
+When adjacent,Paired Opportunists    When adjacent,Cuando está adyacente
+Favoured Terrain,Favoured Terrain|Bonus in a given terrain,Terreno predilecto
+Bonus in a given terrain,Favoured Terrain|Bonus in a given terrain,Bonus en un terreno determinado
+PER DAY,FORTUNE|PER DAY,AL DÍA
+Combat Expertise,Combat Expertise  AC bonus,Pericia en combate
+AC,Combat Expertise  AC bonus,CA
+bonus,Combat Expertise  AC bonus,Bonificador
+Penetrating Strike,Penetrating Strike    Ignore damage reduction up to 5/—,Golpe perforante
+Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to 5/—,Ignora reducción de daño hasta
+WIS,You may gain up to WIS|grit points each day,SAB
+CRITICAL  HIT,CRITICAL  HIT|RESISTANCE,GOLPE CRÍTICO
+RESISTANCE,CRITICAL  HIT|RESISTANCE,RESISTENCIA
+Assume ethereal state for 1 minute -,Assume ethereal state for 1 minute - 3 ki points,Asume estado etéreo durante 1 minuto -
+3 ki points,Assume ethereal state for 1 minute - 3 ki points,3 puntos de ki
 Double Slice,Double Slice    No damage penalty,Doble tajo
 No damage penalty,Double Slice    No damage penalty,Sin penal. al daño
-Broken Wing Gambit,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Fingir Debilidad
-Grant,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Concede
-", get attack of opportunity","Broken Wing Gambit    Grant +2/+2, get attack of opportunity",", consigue ataque de oportunidad"
-Cost:,Cost: 1 pt per extra range increment,Coste:
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,FALLO DE CONJUROS ARCANOS
-THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,LIMITE
+BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,CONOCIMIENTO DE BARDO
+BONUS,BARDIC KNOWLEDGE |BONUS,BONIF.
+CMB,"Bonus applies to CMB to attempt, |and CMD to resist, any of your |chosen manoeuvres.",BMC
+CMD,"Bonus applies to CMB to attempt, |and CMD to resist, any of your |chosen manoeuvres.",BMC
+RAGE,RAGE  DURATION|PER DAY,FURIA
+DURATION,RAGE  DURATION|PER DAY,DURACIÓN
+PER DAY,RAGE  DURATION|PER DAY,AL DÍA
+BANE,BANE|PER DAY,PERDICIÓN
+PER DAY,BANE|PER DAY,AL DÍA
+No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Sin acciones este asalto|Pierde
+DEX,No action this round|Lose DEX bonus to AC; -2 AC,bonus DES
+bonus to,No action this round|Lose DEX bonus to AC; -2 AC,a
+bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,bonus a CA; -2
+AC,No action this round|Lose DEX bonus to AC; -2 AC,CA
+Coordinated Defence,Coordinated Defence    +2 to CMD,Defensa Coordinada
+to,Coordinated Defence    +2 to CMD,a
+CMD,Coordinated Defence    +2 to CMD,DMC
+1 ki point,Double damage reduction - 1 ki point,1 punto ki
+DC,DC +1,CD
+BONUS,NAKED COURAGE|BONUS,BONUS
+SMITINGS,SMITINGS|PER DAY,CASTIGOS
+PER DAY,SMITINGS|PER DAY,POR DÍA
+Slow Fall,Slow Fall 70 ft,Caída lentificada
+70 ft,Slow Fall 70 ft,70 ft
+REFLEX / FORTITUDE,REFLEX / FORTITUDE|SAVE DC,REFLEJOS / FORTALEZA
+Bleeding Wound,"Bleeding Wound    Bleed damage equal to DEXAlternatively, 1 pt Strength, Dexterity or Constitution damage",Herida Sangrante
+"Bleed damage equal to DEXAlternatively, 1 pt Strength, Dexterity or Constitution damage","Bleeding Wound    Bleed damage equal to DEXAlternatively, 1 pt Strength, Dexterity or Constitution damage","Sangrado igual a DES|Otra alternativa, 1pt daño Fuerza, Destreza o Contitución"
+Vital Strike,Vital Strike    Extra damage dice,Golpe vital
+Extra damage dice,Vital Strike    Extra damage dice,Dado de daño extra
+"If target used Power Attack, +2 on","If target used Power Attack, +2 on CMB and +2 to the save DC","Si el objetivo ha usado Ataque Poderoso, +2 a"
+CMB,"If target used Power Attack, +2 on CMB and +2 to the save DC",BMC
+and +2 to the save DC,"If target used Power Attack, +2 on CMB and +2 to the save DC",y +2 a la CD de Salv.
+CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,BON PUNT DE
+BONUS,CONSTITUTION|SCORE|BONUS,CONSTITUCIÓN
+d6,d6 +,d6
+IMTIMIDATE,IMTIMIDATE|BONUS,INTIMIDAR
+BONUS,IMTIMIDATE|BONUS,BONUS
+TRAPS,TRAPS|PER DAY,TRAMPAS
+PER DAY,TRAPS|PER DAY,AL DÍA
+"stability,","+2 stability, +2bp consumption","Estabilidad,"
++2bp,"+2 stability, +2bp consumption",+2bp
+consumption,"+2 stability, +2bp consumption",consumo
+SETTLE,SETTLE    Create new towns,ASENTAR
+Create new towns,SETTLE    Create new towns,Crea nuevas ciudades
+DC,DC 15,CD
+Wild Empathy,Wild Empathy|Improve the attitude of an animal,Empatía salvaje
+Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Mejora la actitud del animal
+CHANNEL,CHANNEL|RANGE,RANGO
+RANGE,CHANNEL|RANGE,CANALIZAR
+DAMAGE,ARTILLERY|DAMAGE,DAÑO
+DURATION,SERENITY|DURATION,DURACIÓN
+PER DAY,GRIT POINTS|PER DAY,AL DÍA
+Manyshot,Manyshot    Shoot two arrows simultaneously,Disparo multiple
+Shoot two arrows simultaneously,Manyshot    Shoot two arrows simultaneously,Disparas 2 flechas de forma simultanea
+"loyalty,","+4 loyalty, +8bp consumption","lealtad,"
++8bp,"+4 loyalty, +8bp consumption",+8bp
+consumption,"+4 loyalty, +8bp consumption",consumo
+BONUS,WILD SURGE|BONUS,BONUS
+AC,AC BONUS,BON A
+BONUS,AC BONUS,CA
+Hammer the Gap,Hammer the Gap    On a successful attack,Golpea en el Hueco
+On a successful attack,Hammer the Gap    On a successful attack,Tras un ataque exitoso
+PER DAY,INVENTION USES |PER DAY,AL DÍA
+MAX HIT DICE,TO DESTROY CREATURE |MAX HIT DICE,DADOS DE GOLPE MAX.
+Evil:,Evil: +2 Economy,Malo:
+Economy,Evil: +2 Economy,Economía
+WIS,(WIS minimum 1),SAB
+minimum 1),(WIS minimum 1),mínimo 1)
+FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,RÁFAGA DE GOLPES
+WEAPON,WEAPON BONUSES,BONUS
+BONUSES,WEAPON BONUSES,ARMA
+Double Slice,Double Slice    Add your full STR to damage with an off-hand weapon,Doble tajo
+Add your full,Double Slice    Add your full STR to damage with an off-hand weapon,Añada tu completo
+STR,Double Slice    Add your full STR to damage with an off-hand weapon,FUE
+to damage with an off-hand weapon,Double Slice    Add your full STR to damage with an off-hand weapon,al daño con arma en mano torpe
+Level 16:,Level 16: Twice per day,Nivel 16:
+Twice per day,Level 16: Twice per day,Dos veces al día
+Damage Reduction 1/,Damage Reduction 1/―,Reducción de Daño 1/
+AC,"Mounted Shield    Add your shield bonus to mount’s AC, and to Mounted Combat",CA
+TRAP SENSE,TRAP SENSE|BONUS,BON
+BONUS,TRAP SENSE|BONUS,SENTIDO DE TRAMPAS
+DURATION,MIND BLADE|DURATION,DURACIÓN
+Good:,Good: +2 Loyalty,Bueno:
+Loyalty,Good: +2 Loyalty,Lealtad
+Use monk level in place of,Use monk level in place of BAB for calculating CMB,Usa nivel de monje en vez de
+BAB,Use monk level in place of BAB for calculating CMB,BAB
+for calculating,Use monk level in place of BAB for calculating CMB,para calcular
+CMB,Use monk level in place of BAB for calculating CMB,BMC
+Physical Resistance,Physical Resistance -3,Resistencia Física
+Two-weapon Fighting,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Combate con dos armas
+Penalty for wielding two weapons reduced to -4 / -4,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Penalización por blandir 2 armas reducido a -4 / -4
+ETHERIAL,ETHERIAL|ROUNDS,ASALTOS
+ROUNDS,ETHERIAL|ROUNDS,ETEREO
+TODAY,PERFECT STRIKE|TODAY,HOY
+Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Cuerpo Eterno
+"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged","No envejece, no puede envejecer mágicamente"
+"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get","You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.","Obtienes un número de rangos de habilidad de tu clase, a los que añades|tu modif. INT. Coloca estos rangos en habilidades.|Recuerda que las habilidades de clase obtienen"
+only if you have at least one rank.,"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.",solo si al menos posees un rango.
+SUBTOTAL,SUBTOTAL BUFFS & TEAMWORK,SUBTOTAL
+BUFFS & TEAMWORK,SUBTOTAL BUFFS & TEAMWORK,VENTAJAS & TRABAJO EN EQUIPO
+GRAPPLE,GRAPPLE BONUS,BON A
+BONUS,GRAPPLE BONUS,PRESA
 + 10 to speed|unless wearing|heavy armour,,+ 10 a la velocidad|salvo si utiliza|armadura pesada
 BANNER,,ESTANDARTE
 Trap Sense +3,,Sentido de las Trampas +3
@@ -1102,12 +1102,12 @@ Settlement name,,Nombre Asentamiento
 Base Value,,Valor Base
 Soulknife|Level,,Nivel de|Cuchillo del Alma
 Summon monster II,,Convocar Monstruo II
-MEDIUM RANGE,,MEDIO ALCANCE
+MEDIUM RANGE,,ALCANCE MEDIO
 "Diplomacy, Handle Animal",,"Diplomacia, Trato con Animales"
 Perform (dance),,Interpretar (danza)
 "Select a bonus feat for your style at 2nd, 6th, 10th, 14th and 18th levels:",,Elegir una dote extra para tu estilo en Nivel 2/6/10/14 y 18
 EVENT,,EVENTO
-Trapfinding,,Encontrar trampas
+Trapfinding,,Encontrar Trampas
 Spell resistance,,Resistencia a Conjuros
 +10 to move at full speed,,+10 a movimiento a vel. completa
 Buffs,,VENTAJAS
@@ -1151,7 +1151,7 @@ Chest,,Pecho
 /  Town,,/ Pueblo
 TACTICIAN,,TÁCTICO
 Quirks,,Peculiaridades
-LOY,,LEA
+LOY,,LEAL
 Temp|Score,,Punt|Temp
 FAVOURED TERRAINS,,TERRENOS PREDILECTOS
 Burrow,,Cavar
@@ -1170,7 +1170,7 @@ Distance,,Distancia
 30ft,,30'
 BASIC DAMAGE,,Daño Básico
 Challenges|Today,,Desafios|Hoy
-Bleeding Critical,,Crítico sangrante
+Bleeding Critical,,Crítico Sangrante
 Bards can use all knowledge skills untrained,,Los bardos pueden usar todas las habilidades de Saber sin que sean entrenadas
 Ki Pool (magic),,Reserva de Ki (mágico)
 STABILITY,,ESTABILIDAD
@@ -1180,7 +1180,7 @@ Knowledge: Nature,,Saber: Naturaleza
 Speak with any living creature,,Habla con cualquier criatura viva
 UNSTOPPABLE,,Imparable
 "Roll a hit die (unless this is your first level, in which case you get the|maximum you could have rolled) and add your constitution modifier.",,"Tira un dado de golpe (excepto si es tu primer nivel, en ese caso obtiene el|máximo que pudieras obtener) y añade to modif. CON"
-CLOSE RANGE,,ALCANCE CORTO
+CLOSE RANGE,,CORTO ALCANCE
 (BARBARIAN),,(BÁRBARO)
 Rewards,,Recompensas
 "If unrest reaches 20, the kingdom falls into anarchy",,"Si el malestar llega a 20, el Reino cae en la anarquía"
@@ -1227,7 +1227,7 @@ Search,,Buscar
 Casting time,,Tiempo Lanzamiento
 Summon Nature’s Ally II,,Conovocar Aliado Natural II
 Damage Reduction,,Reducción Daño
-Other skills:|Craft - INT|Perform - CHA,,Otras habilidades:|Oficio -INT|Interpretación – CAR
+Other skills:|Craft - INT|Perform - CHA,,Otras habilidades:|Artesanía - INT|Interpretar - CAR
 Population,,Población
 TELEPATHY,,TELEPATíA
 Inspire Greatness,,Inspirar Grandeza
@@ -1241,7 +1241,7 @@ Viceroy,,Virrey
 BONDED OBJECT,,OBJETO VINCULADO
 Improved Critical / Keen weapon / Keen magical effect,,Critico mejorado / Arma afilada / Efecto afilado mágico
 Profession (merchant),,Profesión (Mercader)
-Avoid all damage on successful reflex save,,Evita todo daño con Salv Ref exitosa
+Avoid all damage on successful reflex save,,Evita todo daño con Salv. Ref. Con éxito
 "FEATS, TRAITS AND|SPECIAL ABILITIES",,"DOTES, RASGOS Y|APTITUDES ESPECIALES"
 Hat / Mask,,Sombrero / Máscara
 OTHER INCOME,,OTROS INGRESOS
@@ -1357,14 +1357,14 @@ with Armour,,con Armadura
 Imdomitable Will,,Voluntad Indomable
 (Round up),,(Redondear arriba)
 Penetrating Strike  (,,Golpe perforante (
-INVENTORY,,INVENTORIO
+INVENTORY,,INVENTARIO
 Fortitude,,Fortaleza
 /  Region,,/  Región
 "Begin or switch a bardic performance as a move action,|rather than as a standard action.",,"Empieza o cambia una canción de bardo como acción|de movimiento, en vez de una acción estándar."
 Sleep,,Dormir
 1/day,,1/día
 "On using Channel Positive Energy or Lay On Hands, heal the maximum possible amount.",,"Cuando use Canalizar energia o Imposición de manos, cura lo máximo posible."
-Warden,,Guardian
+Warden,,Guardián
 BLOODLINE FEATS,,DOTES DE LINEA DE SANGRE
 Attack|Penalty,,Penaliz.|Ataque
 Saving throws against mythic effects are unaffected.,,Las tiradas de salvacion contra efectos miticos no se ven afectadas
@@ -1412,9 +1412,9 @@ Sing,,Canto
 Dead Shot,,Disparo certero
 Heir,,Heredero
 CRUSADER,,CRUZADO
-Level|Penalty,,Pen de|Nivel
+Level|Penalty,,Penal.|Nivel
 40 ft,,40 ft
-DEFENCE & SAVING THROWS,,DEFENSA Y TIRADAS DE SALVACION
+DEFENCE & SAVING THROWS,,DEFENSA & TIROS SALVACIÓN
 Disable Traps,,Desactivar Trampas
 Favoured|     Enemy|     Terrain,,Enemigo|Terreno|Predilecto
 Wind Instruments,,Instrumentos de Viento
@@ -1437,7 +1437,7 @@ FORCE OF WILL,,FUERZA DE VOLUNTAD
 "Diplomacy, Intimidate",,"Diplomacia, Intimidar"
 TOUCH,,TOQUE
 Exhausting Critical,,Crítico agotador
-20 Reflex save,,20 Salv Ref
+20 Reflex save,,20 Salv. Reflejos
 Temporary feat,,Dote Temporal
 Will,,Vol
 Rounds Today,,Asaltos Hoy
@@ -1508,7 +1508,7 @@ PF-RPG,,PF-RPG
 "Acrobatics, Fly",,"Acrobacias, Volar"
 Lightning reflexes,,Reflejos Rápidos
 Regain one use of mythic power per hour.,,Recupera un uso de poder mítico por hora
-Armour|Check|Penalty,,Penalización\Prueba|Armadura
+Armour|Check|Penalty,,Penalización|Prueba|Armadura
 Halfling,,Mediano
 Trap|Sense,,Sentido de|las trampas
 IN WINTER,,EN INVIERNO
@@ -1562,7 +1562,7 @@ Craft (leatherworking),,Arte (peletería)
 Rage 4/day,,Furia 4/Día
 CHARACTER,,PERSONAJE
 Barbarian|Level,,Nivel de|Bárbaro
-Stun (or other effects) target for one round,,Aturdo (u otros efectos) al objetivo durante 1 asalto
+Stun (or other effects) target for one round,,Aturde (u otros efectos) al objetivo 1 asalto
 DETECT EVIL,,DETECTAR EL MAL
 "Master strike cannot be used again on the same target within|24 hours, whether they pass the Fortitude save or not.",,"Golpe maestro no puede ser usado de nuevo en el mismo objetivo en|24 horas, pasen la Salv Fort. o no"
 Freedom of Movement,,Libertad de movimiento
@@ -1572,7 +1572,7 @@ DIAMOND SOUL,,ALMA DIAMANTINA
 TATTOOS,,TATUAJES
 APPEARANCE,,APARIENCIA
 BONUS,,BONIFICADOR
-Improved Bull Rush,,Embestida mejorada
+Improved Bull Rush,,Embestida Mejorada
 Treasurer,,Tesorero
 Improved Shield Bash,,Golpear con escudo mejorado
 Knowledge: Religion,,Saber: Religión
@@ -1643,7 +1643,7 @@ Summoned|Today,,Invocado|Hoy
 Caster|Level,,Nivel de|Lanzador
 Morale|Bonus,,Bon de|Moral
 DIVINE GRACE,,GRACIA DIVINA
-per successive hit,,por cada golpe sucesivo
+per successive hit,,por golpe sucesivo
 Calistril,,Calistril
 HUNTER’S BOND,,VÍNCULO DEL CAZADOR
 Improved Critical,,Crítico Mejorado
@@ -1724,7 +1724,7 @@ Buff,,Ventaja
 Combat expertise,,Pericia en combate
 Shoulders,,Hombros
 CON,,CON
-AC Penalty,,Pen a CA
+AC Penalty,,Penalización CA
 INT,,INT
 d100,,d100
 Basic|Damage,,Daño|Básico
@@ -1787,7 +1787,7 @@ RONIN,,RONIN
 Wall of Fire,,Muro de Fuego
 "Bluff, Disguise, UMD",,"Engañar, Disfrazarse, UOM"
 CLASSES,,CLASES
-Favoured class,,Clase Predilecta
+Favoured class,,Clase favorita
 Fighter,,Guerrero
 80 ft,,80 ft
 9ft,,9'
@@ -1904,7 +1904,7 @@ Size,,Tamaño
 Twice per day,,Dos veces al día
 Point-Blank Shot,,Disparo a bocajarro
 EIDOLON,,EIDOLON
-Fighter|Level,,Nivel de|Guerrero
+Fighter|Level,,Guerrero|Nivel
 RANGED|ATTACK,,ATAQUE A|DISTANCIA
 MUTAGENS,,MUTÁGENOS
 Economy|Roll,,Prueba|Economía
@@ -1923,7 +1923,7 @@ Effective|Caster|Level,,Nivel|Efectivo|Lanzador
 Air,,Aire
 Remember to role-play your character traits.,,Recuerda interpretar tus rasgos de personaje.
 2d10,,2d10
-Climb Speed,,Vel Trepando
+Climb Speed,,Vel. trepando
 Mass Suggestion,,Sugestión de Masas
 Use Rope,,Uso de Cuerdas
 DRACONIC AURA,,Aura Draconica
@@ -2015,11 +2015,11 @@ FEATS,,DOTES
 "25,000 people",,25.000 personas
 Item,,Objeto
 Combat Casting,,Casteo de Combate
-Speciality Spell,,Conjuro de Especialidad
+Speciality Spell,,Conjuro de Especialista
 PORTRAIT,,RETRATO
 STUNNING FIST,,PUÑETAZO ATURDIDOR
 Shortsword,,Espada Corta
-Avoid half damage on failed reflex save,,Evita mitad del daño cuando se falla una Salv. Ref.
+Avoid half damage on failed reflex save,,Evita la mitad del daño cuando se falla una Salv de Ref
 Bonus|Combat|Feat,,Dotes de|Combate|Adicionales
 6ft,,6'
 OF,,DE
@@ -2079,7 +2079,7 @@ Craft (carpentry),,Arte (carpintería)
 Spells|per day,,Conjuros|al Día
 FEATS & SPECIAL ABILITIES,,DOTES Y APTITUDES ESPECIALES
 if larger/|smaller,,si más grande/|más pequeño
-No age penalties or artificial ageing,,"Sin penalización por edad, o envejecimiento artificial"
+No age penalties or artificial ageing,,Sin penalización por edad o envejecimiento artificial
 (at will),,(a voluntad)
 CITY,,CIUDAD
 Animal Companion’s Name,,Nombre del Compañero Animal
@@ -2115,7 +2115,7 @@ DC 15,,CD 15
 Modifier,,Modificador
 Stealth,,Sigilo
 "Fill in the class’s hit die, skill ranks per level, and class skills",,"Rellena los dados golpe de clase, rangos habilidad por nivel, y habilidades de clase"
-Preferred Clothing,,Ropa Preferida
+Preferred Clothing,,Ropaje Preferido
 Times|Today,,Veces|Hoy
 Extra,,Extra
 Fire and cold resistance,,Resistencia a Fuego y Frío
@@ -2185,7 +2185,7 @@ No Armour Check penalty when charging.,,Sin penaliz. por Armadura cuando carga
 Counter magical effects that depend on sound.|Allies within 30ft use Performance roll in place of a saving throw,,Contrarresta efectos mágicos que dependan del sonido.|Aliados a 30' usan la tirada de Interpretar en lugar de una tirada de salvación.
 Spirit Magic,,Magia Espiritual
 Performance,,Interpretación
-Tier,,Rango
+Tier,,Nivel
 ABILITY SCORE,,PUNTO CARACTERISTICA
 Torso,,Torso
 Evil Cleric,,Clérigo Malvado
@@ -2201,7 +2201,7 @@ Normal,,Normal
 +1 hp or skill rank per level,,+1 pg o rango de hab. por nivel
 From level 4:,,Desde nivel 4
 Disable Device,,Inutilizar Mecanismo
-"As a move action, share half your Favoured Enemy|bonus against a single target with all allies within 30 ft",,"Como acción movimiento, comparte tu bonus de|Enemigo Predilecto contra un solo objetivo con todos los aliados en 30ft"
+"As a move action, share half your Favoured Enemy|bonus against a single target with all allies within 30 ft",,"Como acción de movimiento, comparte tu bonificador de|Enemigo Predilecto contra un sólo objetivo con todos los aliados a 30'"
 Bonus Points,,Puntos Adicionales
 Total,,Total
 WEAPON MASTERY,,MAESTRIA CON ARMAS
@@ -2266,7 +2266,7 @@ Combat Reflexes,,Reflejos de Combate
 JUDGEMENT,,JUICIO
 "Bonus to Initiative, Knowledge (geography), Perception, Stealthand Survival while in aquatic terrains.",,"Bonus a Iniciativa, Saber (geografía), Percepción, Sigilo y Supervivencia en terrenos acuáticos."
 Age,,Edad
-Parents,,Padres
+Parents,,Progenitores
 Resistance,,Resistencia
 + Size|  diff x4,,+ Tamaño|  dif x 4
 DC 20,,CD 20
@@ -2294,7 +2294,7 @@ Settlements,,Asentamiento
 Neth,,Neth
 SCOUT,,Batidor
 "(round down, min 1)",,"(redondea abajo, min 1)"
-"May make a standard or move action,| but not both",,"Puede hacer acción estandar o de movimiento,| pero no ambas"
+"May make a standard or move action,| but not both",,"Puede hacer acción estándar o de movimiento,| pero no ambas"
 Dark,,Oscuras
 Exhausted,,Exhausto
 Religion,,Religión
@@ -2344,7 +2344,7 @@ Creature Type,,Tipo de criatura
 Half of Ranger’s,,Mitad del 
 MONK OF THE|FOUR WINDS,,MONJE DE LOS|CUATRO VIENTOS
 Detect Magic,,Detectar Magia
-Base|Attack Bonus /|Monk Level,,Bonus|Ataque Base /|Nivel Monje
+Base|Attack Bonus /|Monk Level,,Bono de|Ataque Base /|Nivel de Monje
 Perform (sing),,Interpretar (cantar)
 Dispelling Critical,,Crítico Disipador
 Abundant step,,Paso abundante
@@ -2383,7 +2383,7 @@ Ki Strike (adamantine),,Impacto Ki (Adamantino)
 NOTES,,NOTAS
 Saving throw = 10 + Casting Stat + Spell Level,,Prueba Salv = 10 + Caract. Lanzamiento + Nivel Conjuro
 Base|Value,,Valor|Base
-KNOWN HEXES,,HEXÁGONOS CONOCIDOS
+KNOWN HEXES,,EMBRUJOS CONOCIDOS
 per turn,,por turno
 RANGER,,EXPLORADOR
 Bonus to saves against charm|and compulsion effects.,,Bonus a Salvaciones contra encantamiento|y efectos compulsión
@@ -2456,7 +2456,7 @@ to overcome target’s|spell resistance,,para sobrepasar la resistencia|conjuros
 Bonus to all|saving throws,,Bonificador a todo|Salvaciones
 Spymaster,,Jefe de Espías
 "Use the starting wealth for your class, or a value supplied by your GM.",,"Empieza usando la riqueza inicial de tu clase, o el valor proporcionado por tu GM"
-Monk bonus applies when|unarmoured and unencumbered,,Bono de Monje se aplica cuando|no tiene carga ni armadura
+Monk bonus applies when|unarmoured and unencumbered,,Bonus Monje aplica cuando|no lleva carga ni armadura
 Feats,,DOTES
 EARTH,,TIERRA
 FIRE,,FUEGO
@@ -2472,7 +2472,7 @@ When identifying the abilities and weaknesses of creatures.,,Cuando identificas 
 "5,000 people",,5.000 personas
 rats,,ratas
 20ft,,20'
-Skill|Bonus,,Bonus de|Habilidad
+Skill|Bonus,,Bon de|Habilidad
 Damage,,Daño
 Improved Uncanny Dodge,,Esquiva Asombrosa Mejorada
 SNEAK ATTACK,,ATAQUE FURTIVO
@@ -2504,7 +2504,7 @@ SMITE EVIL,,CASTIGAR AL MAL
 MYTHIC SAVING THROWS,,PRUEBAS SALVACIÓN MÍTICAS
 BRAVERY,,VALENTÍA
 Shocking burst,,Explosiva Electrizante
-Temp|Modifier,,Modif|Temporal
+Temp|Modifier,,Mod|Temp
 Abadius,,Abadius
 Suggest actions to one already fascinated creature,,Sugiere acciones a una criatura ya fascinada
 Affiliation,,Afiliación
@@ -2536,7 +2536,7 @@ Human,,Humano
 Coup de grace,,Golpe de gracia
 SORCERER,,HECHICERO
 Character traits,,Rasgos de personaje
-Unarmed|Strike|Damage,,Daño|Golpe|sin Armas
+Unarmed|Strike|Damage,,Desarmado|Golpe|Daño
 Hair,,Pelo
 TRUE JUDGEMENT,,JUICIO VERDADERO
 Total skill|ranks,,Rangos de habilidad|totales
@@ -2594,7 +2594,7 @@ Modifier = (Ability Score - 10) ÷ 2,,Modificador = (Punt. Caracte. - 10) ÷ 2
 Wisdom|Penalty,,Pen de|Sabiduría
 Fame,,Fama
 Ammo,,Munición
--4 initiative; 20% miss chance when attacking|-4 on opposed Perception|automatically fail Perception checks for sound,,-4 Iniciativa; 20% de fallo cuando atacas|-4 en Percepción opuesta|fallo automático de Percepción con pruebas sonido
+-4 initiative; 20% miss chance when attacking|-4 on opposed Perception|automatically fail Perception checks for sound,,-4 a inciativa; 20% probabilidad de fallo al atacar|-4 en Percepción opuesta|fallo automático en pruebas de Percepción para sonido
 Overcome spell resistance,,Sobrepasar Resistencia conjuros
 Light <illumination>,,Luz <Iluminación>
 KINGDOM|POPULATION,,POBLACIÓN|REINO
@@ -2638,7 +2638,7 @@ COMBAT,,COMBATE
 Profession (midwife),,Profesión (partera)
 ANIMAL COMPANION,,COMPAÑERO ANIMAL
 KNOWN POWERS,,PODERES CONOCIDOS
-Temp CMB,,BMC Temp.
+Temp CMB,,BMC Temp
 Hit Die,,Dado de Golpe
 Ranks,,Rangos
 Barony,,Baronía
@@ -2732,7 +2732,7 @@ ORIGINS,,ORÍGENES
 Intelligence|Penalty,,Pen de|Inteligencia
 CLASS ABILITIES,,APTITUDES CLASE
 LEGENDARY HERO,,HÉROE LEGENDARIA
-"Racial,|Feats",,"Racial,|Dotes"
+"Racial,|Feats",,Dotes|Raciales
 Gain a +1 bonus to Fortitude and Will saves.,,Obtienes un +1 a salvaciones de Fortaleza y Voluntad
 + 4 to all saving throws|+ 4 to AC,,+ 4 a todas las tiradas de salvación|+ 4 a CA
 Shot on the run,,Disparo a la carrera
@@ -2812,7 +2812,7 @@ NINJA,,NINJA
 Character number,,Numero de Personaje
 The head of Alfredo Garcia,,La cabeza de Alfredo García
 Deflect Arrows,,Desviar flechas
-MOVE THROUGH THREATENED SQUARE,,MUEVE A TRAVÉS CASILLA AMENAZADA
+MOVE THROUGH THREATENED SQUARE,,MUEVE A TRAVÉS DE CASILLA AMENAZADA
 Uses Today,,Usos Hoy
 • Frightened,,• Asustado
 ARMOUR TRAINING,,ENTR. EN ARMADURA
@@ -2889,11 +2889,11 @@ A successful sneak attack can also deliver one of:| • Sleep for 1d4 hours| •
 Daring acts,,Proezas
 TRAP SENSE,,SENTIDO DE TRAMPAS
 "Armour, Shield, Protective Items",,"Armadura, Escudo, Items Protectores"
-Temp CMD,,DMC Temp
+Temp CMD,,DMC Temp.
 Good saves:,,Buenas Salv:
 Deafened,,Ensordecido
 Heal,,Curar
-Weapon|Training,,Entrenamiento|Armas
+Weapon|Training,,Entrenamiento con|Armas
 Components / Focus,,Componentes / Foco
 Staggered,,Grogui
 Defensive|Casting|Bonus,,Bonus|Lanzamiento|Defensivo
@@ -2922,10 +2922,10 @@ Total City|Population,,Población|Total Ciudad
 xp,,exp
 Resolved,,Resuelto
 FRIENDLY,,AMISTOSO
-Temp Damage|Bonus,,Bon Temp|Daño
+Temp Damage|Bonus,,Bonif. Temp de|Daño
 Druid|Level,,Nivel de|Druida
 ALCHEMY,,ALQUIMIA
-Bonus against charm and compulsion effects,,Bon contra efectos de encantamiento y compulsión
+Bonus against charm and compulsion effects,,Bon contra efectos de hechizo y miedo
 Improved Vital Strike,,Golpe vital mejorado
 Monk|Level,,Nivel de|Monje
 Good Cleric,,Clérigo Bueno
@@ -2942,9 +2942,9 @@ Change shape as a move action.,,Cambia de forma como acción de movimiento.
 Craft (masonry),,Arte (albañilería)
 "Bluff, Intimidate",,"Engañar, Intimidar"
 Spell Save DC = 10 + CHA + Spell Level,,CD Salv de Conjuro = 10 + CAR + Nivel de Conjuro
-dice,,Dados
+dice,,dados
 Item value,,Valor
-Misc|Modifier,,Mod|Misc
+Misc|Modifier,,Modif.|Misc
 Max Weight,,Peso Maximo
 Arms / Wrists,,Brazos / Muñecas
 Silver,,plata
@@ -2971,7 +2971,7 @@ Counter magical effects that depend on sight.|Allies within 30ft use Performance
 Perform (string),,Interpretar (cuerda)
 Other:,,Otro:
 Gorgon’s Fist,,Puño del Gorgón
-Ability Modifier = (Total Ability Score - 10) ÷ 2,,Modif. Habilidad = (Punt. Total Habil. -10) ÷ 2
+Ability Modifier = (Total Ability Score - 10) ÷ 2,,Mod de Característica = (Punt Total de Característica - 10) ÷ 2
 Forge Ring,,Forjar anillo
 Double Slice,,Doble tajo
 Ride,,Montar
