@@ -1,238 +1,41 @@
 Original,Part of,Translation
-DAMAGE,DAMAGE|BONUS,BONUS DE|DÉGÂTS
-Trackless Step,"Trackless Step|Leave no trail, unless deliberately",PASSAGE SANS TRACES
-"Leave no trail, unless deliberately","Trackless Step|Leave no trail, unless deliberately","Vous ne laissez pas de traces, sauf délibérement"
-stability,-1 stability,stabilité
-DAMAGE,DAMAGE REDUCTION,RÉDUCTION DES 
-REDUCTION,DAMAGE REDUCTION,DÉGÂTS
-INT,+ INT| per level,INT
-per level,+ INT| per level,par niveau
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,BONUS DE
-BONUS,COMBAT MANOEUVRE|BONUS,MANOEUVRE OFFENSIVE
-Fast Movement,Fast Movement +20 ft,Déplacement accéléré
-+20 ft,Fast Movement +20 ft,+6 m
-TALENTS,TALENTS|KNOWN,TALENTS
-KNOWN,TALENTS|KNOWN,CONNUS
-MAX POWER,MAX POWER|LEVEL,POUVOIR MAX
-LEVEL,MAX POWER|LEVEL,NIVEAU
-Point Blank Shot,Point Blank Shot    +1 to attack and damage within first range increment,Tir à bout portant
-+1 to attack and damage within first range increment,Point Blank Shot    +1 to attack and damage within first range increment,+1 à l’attaque et aux dégâts sur les cibles distantes de moins de 9m
-ATTACK,ATTACK|BONUS,BONUS
-BONUS,ATTACK|BONUS,D'ATTAQUE
-Manyshot,Manyshot    Shoot two arrows simultaneously,Feu nourri
-Shoot two arrows simultaneously,Manyshot    Shoot two arrows simultaneously,Tir de deux flèches à la fois
-CURRENT,CURRENT HULL POINTS,PS
-HULL,CURRENT HULL POINTS,ACTUELS
-POINTS,CURRENT HULL POINTS,POINTS
-Slow Fall,Slow Fall 20 ft,Chute ralentie
-20 ft,Slow Fall 20 ft,6 m
-Two-weapon Rend,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",Éventration à deux armes
-"If you hit with both weapons, do an extra 1d10 + (","Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage","En touchant avec les deux armes, inflige 1d10 bonus + ("
-STR,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",FOR
-× 1½) damage,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",× 1½) dégâts
-SMALL ARMS,SMALL ARMS|BONUS,BONUS
-BONUS,SMALL ARMS|BONUS,ARMES LÉGÈRES
-(which grants,(which grants +20 to Acrobatics),(qui donne 
-to Acrobatics),(which grants +20 to Acrobatics),à Acrobaties)
-ENHANCEMENT,ENHANCEMENT|POOL,RÉSERVE
-POOL,ENHANCEMENT|POOL,D'AMÉLIORATIONS
-WISDOM|CHECK,WISDOM|CHECK BONUS,BONUS AUX TESTS|DE
-BONUS,WISDOM|CHECK BONUS,SAGESSE
-WILD EMPATHY,WILD EMPATHY|BONUS,BONUS
-BONUS,WILD EMPATHY|BONUS,D'EMPATHIE SAUVAGE
-Manyshot,"Manyshot    When making a full-round attack, your first attack has two arrows",Feu nourri
-"When making a full-round attack, your first attack has two arrows","Manyshot    When making a full-round attack, your first attack has two arrows","En attaque à outrance, votre première attaque a deux flèches"
-Coordinated Defence,Coordinated Defence    +2 to CMD,Défense coordonnée
-to,Coordinated Defence    +2 to CMD,au
-CMD,Coordinated Defence    +2 to CMD,DMD
-HEXES,HEXES    Claim and abandon hexes,HEXAGONES
-Claim and abandon hexes,HEXES    Claim and abandon hexes,Revendiquer et abandonner des hexagones
-Shake It Off,Shake It Off     +1 to all saving throws per adjacent ally,Reprends-toi
-to all saving throws per adjacent ally,Shake It Off     +1 to all saving throws per adjacent ally,à tous les jets de sauvegarde par allié adjacent
-Chaotic:,Chaotic: +2 Loyalty,Chaotique:
-Loyalty,Chaotic: +2 Loyalty,Loyauté
-CURRENT,CURRENT HIT POINTS,POINTS
-HIT,CURRENT HIT POINTS,DE VIE
-POINTS,CURRENT HIT POINTS,ACTUELS
-Wild Empathy,Wild Empathy|Improve the attitude of an animal,Empathie sauvage
-Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Améliore l'attitude d'un animal
-WILL|SAVE,WILL|SAVE|BONUS,VOLONTE|SAUVEGARDE
-BONUS,WILL|SAVE|BONUS,BONUS
-INITIATIVE,INITIATIVE|BONUS,INITIATIVE
-BONUS,INITIATIVE|BONUS,BONUS
-ft,10 ft  2 sq,m
-sq,10 ft  2 sq,ca
-Dead Shot,"Dead Shot    Roll all attacks, additional hits add dice",Tir Mortel
-"Roll all attacks, additional hits add dice","Dead Shot    Roll all attacks, additional hits add dice","Lance toutes les attaques, coups supplémentaires ajoutent des dés"
-Off-hand weapon,Off-hand weapon    (crossbow only),Arme secondaire
-(crossbow only),Off-hand weapon    (crossbow only),(arbalètes seulement)
-Slow Fall,Slow Fall 90 ft,Chute ralentie
-90 ft,Slow Fall 90 ft,27 m
-FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,CLASSE D'ARMURE
-ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,PRIS AU DÉPOURVU
-EVIL DAMAGE,EVIL DAMAGE|BONUS,BONUS AUX DÉGÂTS
-BONUS,EVIL DAMAGE|BONUS,CONTRE LE MAL
-ARCANE,ARCANE|POOL,RÉSERVE
-POOL,ARCANE|POOL,MAGIQUE
-Class|Skills,Class|Skills|+3,Comp.|Classe
-ft,30 ft,m
-KI POOL,KI POOL|CAPACITY,CAPACITÉ DE LA
-CAPACITY,KI POOL|CAPACITY,RÉSERVE DE KI
-Precise Strike,Precise Strike    When flanking,Coup précis
-When flanking,Precise Strike    When flanking,En tenaille
-Lawful:,Lawful: +2 Economy,Loyal:
-Economy,Lawful: +2 Economy,Économie
-DC,DC 15,DD
-CON,+ CON| per level,CON
-per level,+ CON| per level,par niveau
-loyalty,+1 loyalty,loyauté
-HEALING,HEALING|HIT POINTS,SOINS
-HIT POINTS,HEALING|HIT POINTS,POINTS DE VIE
-(which grants,(which grants +4 to Acrobatics checks for jumping),qui donne
-to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
-Mighty,Mighty RAGE!,RAGE !
-RAGE!,Mighty RAGE!,de Maître Berserker
-GREATER,GREATER RAGE!,SUPERIEURE
-RAGE!,GREATER RAGE!,RAGE!
-Cleaving Finish,Cleaving Finish    Extra attack if enemy is knocked out,Coup d'enchaînement
-Extra attack if enemy is knocked out,Cleaving Finish    Extra attack if enemy is knocked out,Attaque supplémentaire si l'ennemi est inconscient
-CONDITIONAL,CONDITIONAL MODIFIERS,MODIFICATEURS DE 
-MODIFIERS,CONDITIONAL MODIFIERS,CIRCONSTANCES
-ENERGY,ENERGY|ROLL,JET
-ROLL,ENERGY|ROLL,D'ÉNERGIE
-d6,d6 +,d6
-May roll,May roll 2d8 in place of your expertise bonus.,Dé de Maîtrise : vous pouvez lancer 
-2d8,May roll 2d8 in place of your expertise bonus.,2d8
-in place of your expertise bonus.,May roll 2d8 in place of your expertise bonus.," au lieu de 1d8+4."
-ARMOUR CLASS,ARMOUR CLASS|BONUS,CLASSE D'ARMURE
-BONUS,ARMOUR CLASS|BONUS,BONUS
-RAGE!,RAGE!|Duration,RAGE !
-Duration,RAGE!|Duration,DUREE
-TURNS,TURNS PER DAY,RENVOIS
-PER DAY,TURNS PER DAY,PAR JOUR
-loyalty,-1 loyalty,loyauté
-RAGE!,RAGE!  DURATION|PER DAY,RAGE !
-DURATION,RAGE!  DURATION|PER DAY,DUREE
-PER DAY,RAGE!  DURATION|PER DAY,PAR JOUR
-Improved Cleaving Finish,Improved Cleaving Finish    Any number per round,Coup d'enchaînement amélioré
-Any number per round,Improved Cleaving Finish    Any number per round,Autant que voulu par tour
-Fast Movement,Fast Movement +30 ft,Déplacement accéléré
-+30 ft,Fast Movement +30 ft,+9 m
-Max,Max DEX,DEX
-DEX,Max DEX,Maximale
-CRITICAL,CRITICAL EFFECTS,EFFETS
-EFFECTS,CRITICAL EFFECTS,CRITIQUES
-FOES,FOES|PER DAY,ENNEMIS
-PER DAY,FOES|PER DAY,PAR JOUR
-Damage Reduction 2/,Damage Reduction 2/―,Réduction de dégâts 2/
-Charge,Charge  -2 to AC for the rest of the round,Charge
-to,Charge  -2 to AC for the rest of the round,à la
-AC,Charge  -2 to AC for the rest of the round,CA
-for the rest of the round,Charge  -2 to AC for the rest of the round,pour le reste du tour
-Snap shot,Snap shot    AoO with a ranged weapon within 5ft,Tir soudain
-AoO with a ranged weapon within,Snap shot    AoO with a ranged weapon within 5ft,"Avec arme à distance, menace les cases à"
-5ft,Snap shot    AoO with a ranged weapon within 5ft,"1,5m"
-Level,25’+ 5’ × (Level ÷ 2),Niveau
-"Prince, Princess or favoured subject","Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest","Prince, Princesse ou sujet favori"
-– May rule if the Ruler is absent. but must pass loyalty check or,"Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest","- Peut diriger si le Dirigeant est absent, mais doit passer un test de loyauté ou"
-unrest,"Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest",d'insécurité
-"loyalty,","+2 loyalty, +2bp consumption","loyauté,"
-+2bp,"+2 loyalty, +2bp consumption",+2pc
-consumption,"+2 loyalty, +2bp consumption",consommation
-Death or Glory,"Death or Glory    +4 (+1 at levels 11, 16, 20)",La Mort ou la Gloire
-"at levels 11, 16, 20)","Death or Glory    +4 (+1 at levels 11, 16, 20)","aux niveaux 11, 16, 20)"
-COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,DEGRÉ DE|MANOEUVRE
-DEFENCE,COMBAT|MANEUVRE|DEFENCE,DÉFENSIVE
+Linguistics and Knowledge are class skills using,Linguistics and Knowledge are class skills using WIS,Linguistique et Connaissances sont des comp. de classe utilisant
+WIS,Linguistics and Knowledge are class skills using WIS,SAG
+SUBTOTAL,SUBTOTAL BUFFS & TEAMWORK,SOUS-TOTAL
+BUFFS & TEAMWORK,SUBTOTAL BUFFS & TEAMWORK,AMÉLIORATIONS & TRAVAIL D'ÉQUIPE
+Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,Cible d'opportunité
+Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,Attaque à distance supplémentaire quand un allié touche
 Improved Spell Recall,Improved Spell Recall|Reprepare any spell already cast today,Science du souvenir magique
 Reprepare any spell already cast today,Improved Spell Recall|Reprepare any spell already cast today,Re-préparer un sort lancé aujourd'hui
-dodge bonus for each adjacent enemy,+1 dodge bonus for each adjacent enemy,bonus d'evitemen pour chaque ennemi adjacent
-EVOLUTION,EVOLUTION|POOL,POINTS
-POOL,EVOLUTION|POOL,D'ÉVOLUTION
-Morale Bonus,Morale Bonus    Inspire Courage and similar,Bonus de moral
-Inspire Courage and similar,Morale Bonus    Inspire Courage and similar,Inspiration Vaillante et autres
-DAMAGE,DAMAGE|THRESHOLD,SEUIL DE
-THRESHOLD,DAMAGE|THRESHOLD,DÉGÂTS
-MANOEVURE,MANOEVURE AC,CA
-AC,MANOEVURE AC,MANOEUVRE
-POWER POINTS,POWER POINTS|MAX COST,POINTS DE POUVOIR
-MAX COST,POWER POINTS|MAX COST,COUT MAX
-"As above, but cast","As above, but cast Resurrection.|This requires that your ki pool contain at least 8 ki points.","Comme au-dessus, mais lance"
-Resurrection,"As above, but cast Resurrection.|This requires that your ki pool contain at least 8 ki points.",Résurrection
-.|This requires that your ki pool contain at least 8 ki points.,"As above, but cast Resurrection.|This requires that your ki pool contain at least 8 ki points.",.|Requiert que votre réserve de ki contienne au moins 8 points de ki.
-Points,10|Points," Points"
-ft,15 ft  3 sq,m
-sq,15 ft  3 sq,ca
-All PCs speak ‘common’; each positive,All PCs speak ‘common’; each positive INT modifier or rank|in Culture adds another language.,Tous les PJs parlent ‘commun’; chaque modificateur d'
-INT,All PCs speak ‘common’; each positive INT modifier or rank|in Culture adds another language.,INT
-modifier or rank|in Culture adds another language.,All PCs speak ‘common’; each positive INT modifier or rank|in Culture adds another language.,|positif ou rang en Culture ajoute un autre langage.
-Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Tir de précision
-Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,Pas de malus pour tirer dans la mêlée
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,RISQUE D'ÉCHEC DES
-THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,SORTS PROFANES
-Strength rating,Strength rating    (composite bow),Rang de Force
-(composite bow),Strength rating    (composite bow),(arc composite)
-POWER POINTS,POWER POINTS|PER DAY,POINTS DE POUVOIR
-PER DAY,POWER POINTS|PER DAY,PAR JOUR
-Two-weapon Defence,Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Défense à deux armes
-+1 shield bonus to AC for using two weapons (+2 if fighting defensively),Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Bonus de bouclier de +1 en combat à deux armes (+2 en combat défensif)
-RESOLVE,RESOLVE POINTS,PERSÉVÉRANCE
-POINTS,RESOLVE POINTS,
-FEAR EFFECT,FEAR EFFECTWILL BONUS,VOLONTÉ CONTRE
-WILL BONUS,FEAR EFFECTWILL BONUS,LES EFFETS DE PEUR
-UNREST,UNREST LEVEL,NIVEAU
-LEVEL,UNREST LEVEL,D'INSÉCURITÉ
-Death or Glory,"Death or Glory   +4 (+1 at levels 11, 16, 20)",La Mort ou la Gloire
-"at levels 11, 16, 20)","Death or Glory   +4 (+1 at levels 11, 16, 20)","aux niveaux 11, 16, 20)"
-Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",Formation de Cavalerie
-"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount","Partage l'espace, charge à travers une monture alliée"
-Melee Damage,Melee Damage +2,Dégâts de mêlée
-INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,INSPIRATION HEROIQUE
-MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,MAX AFFECTES
-ASSIGN LEADERSHIP,ASSIGN LEADERSHIP    Adjust kingdom rolls,ASSIGNER UN DIRIGEANT
-Adjust kingdom rolls,ASSIGN LEADERSHIP    Adjust kingdom rolls,Ajuster les jets du royaume
-Hammer the Gap,Hammer the Gap    On a successful attack,Marteler la faille
-On a successful attack,Hammer the Gap    On a successful attack,Sur une attaque réussie
-Melee Attack,Melee Attack +1,Attaque de càc
-OPPOSED,OPPOSED SCHOOLS,ECOLES
-SCHOOLS,OPPOSED SCHOOLS,INTERDITE
-FATIGUED,FATIGUED|DURATION,FATIGUE
-DURATION,FATIGUED|DURATION,DUREE
-PROHIBITED,PROHIBITED SCHOOLS,ECOLES
-SCHOOLS,PROHIBITED SCHOOLS,INTERDITES
-to jump checks -,+20 to jump checks - 1 ki point,aux jets de saut -
-1 ki point,+20 to jump checks - 1 ki point,1 point de Ki
-"stability,","+1 stability, +1bp consumption","stabilité,"
-+1bp,"+1 stability, +1bp consumption",+1pc
-consumption,"+1 stability, +1bp consumption",consommation
-Damage Reduction 1/,Damage Reduction 1/―,Réduction de dégâts 1/
-Craft -,Craft - INT|Perform - CHA,Artisanat -
-INT,Craft - INT|Perform - CHA,INT
-Perform -,Craft - INT|Perform - CHA,Représentation -
-CHA,Craft - INT|Perform - CHA,CHA
-USES,USES|PER DAY,UTILISATIONS
-PER DAY,USES|PER DAY,PAR JOUR
-All PCs speak ‘common’; each positive,All PCs speak ‘common’; each positive INT modifier or rank|in linguistics adds another language.,Tous les PJs parlent le commun ; chaque modificateur positif|d'
-INT,All PCs speak ‘common’; each positive INT modifier or rank|in linguistics adds another language.,INT
-modifier or rank|in linguistics adds another language.,All PCs speak ‘common’; each positive INT modifier or rank|in linguistics adds another language.," ou rang en culture ajoute un langage."
-CONCENTRATION,CONCENTRATION|BONUS,BONUS DE
-BONUS,CONCENTRATION|BONUS,CONCENTRATION
-+2 WIS,+2 WIS and -2 CHA in all three forms.,+2 SAG
-and,+2 WIS and -2 CHA in all three forms.,et
--2 CHA,+2 WIS and -2 CHA in all three forms.,-2 CHA
-in all three forms.,+2 WIS and -2 CHA in all three forms.,dans les 3 formes.
-WILL,WILL|SAVE DC,DD DE SAUVEGARDE
-WILL|SAVE,WILL|SAVE DC,JET DE|VOLONTÉ
-SAVE DC,WILL|SAVE DC,DE VOLONTÉ
-DC,WILL|SAVE DC,DD
-ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,RÉDUCTION
-REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,DU MALUS|D'ARMURE AUX TESTS
 You have,You have 10 points to allocate between your ability scores.,Vous avez 
 10 points,You have 10 points to allocate between your ability scores.,10 points
 to allocate between your ability scores.,You have 10 points to allocate between your ability scores.," à répartir dans vos caractéristiques."
-Leads kingdom’s defences,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",Dirige les défenses du royaume
-"– If vacant,","Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability","- Si vacant,"
-loyalty and,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",en loyauté et
-stability,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",en stabilité
+Precise Shot,Precise Shot    Attack into melee without the -4 penalty,Tir de précision
+Attack into melee without the -4 penalty,Precise Shot    Attack into melee without the -4 penalty,Pas de malus pour tirer dans la mêlée
+Greater snap shot,Greater snap shot    Damage and critical confirmation bonus,Tir soudain supérieur
+Damage and critical confirmation bonus,Greater snap shot    Damage and critical confirmation bonus,Bonus de dégâts et confirmation de critiques
+Guides higher learning and magic,"Guides higher learning and magic – If vacant, -4 economy",Guide l'éducation supérieure et magique
+"– If vacant,","Guides higher learning and magic – If vacant, -4 economy","- Si vacant,"
+economy,"Guides higher learning and magic – If vacant, -4 economy",en économie
+DC,DC 15,DD
+(which grants,(which grants +20 to Acrobatics),(qui donne 
+to Acrobatics),(which grants +20 to Acrobatics),à Acrobaties)
+Shielded Caster,Shielded Caster    +4 to concentration checks,Lanceur de sorts protégé
+to concentration checks,Shielded Caster    +4 to concentration checks,aux tests de concentration
+Improved snap shot,Improved snap shot    AoO with a ranged weapon within 15ft,Science du tir soudain
+AoO with a ranged weapon within,Improved snap shot    AoO with a ranged weapon within 15ft,"Avec arme à distance, menace les cases à"
+15ft,Improved snap shot    AoO with a ranged weapon within 15ft,"4,5m"
+FEAR EFFECT,FEAR EFFECTWILL BONUS,VOLONTÉ CONTRE
+WILL BONUS,FEAR EFFECTWILL BONUS,LES EFFETS DE PEUR
+WILD EMPATHY,WILD EMPATHY|BONUS,BONUS
+BONUS,WILD EMPATHY|BONUS,D'EMPATHIE SAUVAGE
+For skills where you have both expertise and,"For skills where you have both expertise and Skill Focus,|roll the expertise die twice, take better result.",Pour les compétences pour lesquelles vous avez l'expertise|et 
+Skill Focus,"For skills where you have both expertise and Skill Focus,|roll the expertise die twice, take better result.",Talent
+",|roll the expertise die twice, take better result.","For skills where you have both expertise and Skill Focus,|roll the expertise die twice, take better result.",", lancez le dé deux fois et prenez le meilleur résultat."
+STRENTH|SCORE,STRENTH|SCORE|BONUS,FORCE|SCORE
+BONUS,STRENTH|SCORE|BONUS,BONUS
+HEALING,HEALING|HIT POINTS,SOINS
+HIT POINTS,HEALING|HIT POINTS,POINTS DE VIE
 1d2,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d2
 1d3,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d3
 1d4,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d4
@@ -244,620 +47,83 @@ stability,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability
 6d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,6d6
 8d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,8d6
 12d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,12d6
-Improved snap shot,Improved snap shot    AoO with a ranged weapon within 15ft,Science du tir soudain
-AoO with a ranged weapon within,Improved snap shot    AoO with a ranged weapon within 15ft,"Avec arme à distance, menace les cases à"
-15ft,Improved snap shot    AoO with a ranged weapon within 15ft,"4,5m"
-Improved Shield Bash,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Science du coup de bouclier
-Use Shield Bash and keep your shield bonus to,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,"En utilisant un coup de bouclier, conserve le bonus à la"
-AC,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,CA
-CHANNEL,CHANNEL|PER DAY,CANALISATION
-PER DAY,CHANNEL|PER DAY,PAR JOUR
-Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,Échappatoire
-Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,Ne provoque pas d'Ad'O quand adjacent à un allié
-Slip magically between spaces -,Slip magically between spaces - 2 ki points,Se faufile magiquement dans les espaces -
-2 ki points,Slip magically between spaces - 2 ki points,2 points de ki
-"economy,","+3 economy, -4 loyalty","économie,"
-loyalty,"+3 economy, -4 loyalty",loyauté
-Evil:,Evil: +2 Economy,Mauvais:
-Economy,Evil: +2 Economy,Économie
-MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,BONUS DE|DEX
-BONUS,MAX ARMOUR|DEX BONUS,MAXIMAL
-Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",Science du partenaire de feinte
-"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO","Quand un allié feinte, reçoit une Ad'O"
-FORTITUDE,FORTITUDE|SAVING THROW,JET DE 
-SAVING THROW,FORTITUDE|SAVING THROW,VIGUEUR
-Enforce law and order,"Enforce law and order – If present, -1 unrest at upkeep",Applique la loi et l'ordre
-"– If present,","Enforce law and order – If present, -1 unrest at upkeep","- Si présent,"
-unrest at upkeep,"Enforce law and order – If present, -1 unrest at upkeep",d'insécurité au maintien
-DC,DC    5,DD
-Oversees international relations,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",Supervise les relations internationales
-"– If vacant,","Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts","- Si vacant,"
-stability and cannot issue Diplomatic or Exploration Edicts,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",en stabilité et impossible d'émettre des édits diplomatiques et d'exploration
-THROWN,THROWN ATTACK,ATTAQUE
-ATTACK,THROWN ATTACK,DE JET
-= 1d8,= 1d8 +,= 1d8
-Use monk level in place of,Use monk level in place of BAB for calculating CMB,Utiliser votre Niveau de Moine à la Place de
-BAB,Use monk level in place of BAB for calculating CMB,BBA
-for calculating,Use monk level in place of BAB for calculating CMB,Pour calculer
-CMB,Use monk level in place of BAB for calculating CMB,BMO
-(which grants,(which grants +20 to Acrobatics checks for jumping),qui donne
-to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
-= 1d4,= 1d4 +,= 1d4
-Bonus to attack rolls and dodge bonus to,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,Bonus aux jets d'attaques et d'esquive à la
-AC,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,CA
-when fighting larger creatures,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,contre les créatures plus grandes
-ARCANE POOL,ARCANE POOL|CAPACITY,CAPACITÉ DE
-CAPACITY,ARCANE POOL|CAPACITY,RÉSERVE MAGIQUE
-(which grants,(which grants +8 to Acrobatics),(qui donne
-to Acrobatics),(which grants +8 to Acrobatics),à Acrobaties)
-ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,RISQUE D'ÉCHEC
-THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,DES SORTS PROFANES
-Rapid shot,Rapid shot    Extra attack at full,Tir rapide
-Extra attack at full,Rapid shot    Extra attack at full,Attaque supplémentaire à outrance
-"Unless the GM says otherwise, level 1 characters have","Unless the GM says otherwise, level 1 characters have|1000 credits to spend on equipment.","Sauf avis contraire du MJ, les personnages de niveau 1 ont "
-1000 credits,"Unless the GM says otherwise, level 1 characters have|1000 credits to spend on equipment.",1000 crédits
-to spend on equipment.,"Unless the GM says otherwise, level 1 characters have|1000 credits to spend on equipment."," à dépenser en équipement."
-RAGE!,RAGE! POWERS |KNOWN,POUVOIRS DE
-POWERS,RAGE! POWERS |KNOWN,RAGE !
-KNOWN,RAGE! POWERS |KNOWN,CONNUS
-Far Shot,Far Shot    Attack penalty per range increment decreases from -2 to -1,Tir de loin
-Attack penalty per range increment decreases from -2 to -1,Far Shot    Attack penalty per range increment decreases from -2 to -1,Pénalité par facteur de portée diminuée de -2 à -1
-COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,BONUS DE
-BONUS,COMBAT|MANOEUVRE|BONUS,MANOEUVRE|OFFENSIVE
-TOUCH,TOUCH AC,TOUCHER
-AC,TOUCH AC,CA
-Lookout,Lookout    Act in surprise round if ally can act,Vigie
-Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,Peut agir dans le tour de surprise si un allié peut agir
-Slow Fall,Slow Fall Any distance,Chute ralentie
-Any distance,Slow Fall Any distance,Toute distances
-Guides higher learning and magic,"Guides higher learning and magic – If vacant, -4 economy",Guide l'éducation supérieure et magique
-"– If vacant,","Guides higher learning and magic – If vacant, -4 economy","- Si vacant,"
-economy,"Guides higher learning and magic – If vacant, -4 economy",en économie
-HULL,HULL POINTS,POINTS
-POINTS,HULL POINTS,DE COQUE
-RAGE!,RAGE!|Today,RAGE!
-Today,RAGE!|Today,Aujourd'hui
-SETTLE,SETTLE    Create new towns,INSTALLATION
-Create new towns,SETTLE    Create new towns,Créer de nouvelles villes
-CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,SCORE de|CONSTITUTION
-BONUS,CONSTITUTION|SCORE|BONUS,BONUS
-Slow Fall,Slow Fall 40 ft,Chute ralentie
-40 ft,Slow Fall 40 ft,12 m
-Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Instinct naturel
-+2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 en Connaissances (Nature) et Survie
-Charge,Charge    -2 to AC for the rest of the round,Charge
-to,Charge    -2 to AC for the rest of the round,à la
-AC,Charge    -2 to AC for the rest of the round,CA
-for the rest of the round,Charge    -2 to AC for the rest of the round,pour le reste du tour
-Shot on the run,Shot on the run    Attack at any point during your move,Tir en mouvement
-Attack at any point during your move,Shot on the run    Attack at any point during your move,Attaque durant un déplacement
-Quick Draw,Quick Draw    Draw your weapon as a free action,Arme en main
-Draw your weapon as a free action,Quick Draw    Draw your weapon as a free action,Dégainer les armes est une action libre
-ft,= 30 ft + 10 ft ×,m
-Improved Two-weapon Fighting,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Science du Combat à deux Armes
-Second attack with your off-hand weapon,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Attaque supplémentaire avec l’arme secondaire
-Greater,Greater RAGE!,RAGE !
-RAGE!,Greater RAGE!,de grand Berserker
-Spell Recall,Spell Recall|Reprepare any spell already cast today,Souvenir magique
-Reprepare any spell already cast today,Spell Recall|Reprepare any spell already cast today,Re-préparer un sort lancé aujourd'hui
-Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Attaque en finesse
-Use,Weapon Finesse    Use DEX for melee attack,Utiliser la
-DEX,Weapon Finesse    Use DEX for melee attack,DEX
-for melee attack,Weapon Finesse    Use DEX for melee attack,pour les attaques au càc
-Forbidden|During,Forbidden|During|RAGE!,Interdit|en
-RAGE!,Forbidden|During|RAGE!,RAGE!
-Masterwork,Masterwork     Doesn’t stack with magic bonus,De maître
-Doesn’t stack with magic bonus,Masterwork     Doesn’t stack with magic bonus,Ne se cumule pas avec les bonus magiques
-Double Slice,Double Slice    No damage penalty,Double frappe
-No damage penalty,Double Slice    No damage penalty,Pas de pénalités de dégâts
-Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Considéré comme Planaire
-Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Immunisé à Charme Personne et autres effets qui|ciblent les non-planaires.|Réduction de Dommages
-10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,10/chaotique
-Vital Strike,Vital Strike    Extra damage dice,Frappe Décisive
-Extra damage dice,Vital Strike    Extra damage dice,Dé de dégâts supplémentaire
-saving throws against enchantment,+2 saving throws against enchantment,jets de sauvegarde contre l'enchantement
-WIS,(WIS minimum 1),SAG
-minimum 1),(WIS minimum 1),minimum 1)
-INITIATIVE,INITIATIVE BONUS,BONUS D'
-BONUS,INITIATIVE BONUS,INITIATIVE
-FORTITUDE,FORTITUDE SAVE,JET DE
-SAVE,FORTITUDE SAVE,VIGUEUR
-Fast Movement,Fast Movement +60 ft,Déplacement accéléré
-+60 ft,Fast Movement +60 ft,+18 m
-"stability,","+4 stability, +8bp consumption","stabilité,"
-+8bp,"+4 stability, +8bp consumption",+8pc
-consumption,"+4 stability, +8bp consumption",consommation
-Guides religious worship,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",Guide le culte religieux
-"– If vacant,","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","- Si vacant,"
-"loyalty and stability, and","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","en loyauté et stabilité, et"
-unrest at upkeep,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",en insécurité au maintien
-Level,400’+ 40’ × Level,Niveau
-(which grants,(which grants +24 to Acrobatics),(qui donne 
-to Acrobatics),(which grants +24 to Acrobatics),à Acrobaties)
-Critical Mastery,Critical Mastery    Apply two critical effects at once,Maîtrise du critique
-Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,Appliquer deux effets de critique à la fois
-SPELL,SPELL RESISTANCE,RÉSISTANCE
-RESISTANCE,SPELL RESISTANCE,À LA MAGIE
-STUNNING FIST,STUNNING FIST|TODAY,COUP ETOURDISSANT
-TODAY,STUNNING FIST|TODAY,AUJOURD'HUI
-Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,Charge coordonnée
-Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,Charger le même adversaire qu'un allié
-DC,DC 30,DD
-Enforce rural justice,"Enforce rural justice – If vacant, -4 economy",Applique la justice rurale
-"– If vacant,","Enforce rural justice – If vacant, -4 economy","- Si vacant,"
-economy,"Enforce rural justice – If vacant, -4 economy",en économie
-Level,100’+ 10’ × Level,Niveau
-to all Knowledge skills as long as you have at least 1 ki point in you pool,+2 to all Knowledge skills as long as you have at least 1 ki point in you pool,à tous les tests de Connaissances pour autant que vous ayez au moins 1 point de ki dans votre réserve
-CRITICAL,CRITICAL|THRESHOLD,SEUIL
-THRESHOLD,CRITICAL|THRESHOLD,CRITIQUE
-TOUCH,TOUCH ARMOUR CLASS,CLASSE D'ARMURE
-ARMOUR CLASS,TOUCH ARMOUR CLASS,DE CONTACT
-SUBTOTAL,SUBTOTAL BUFFS & TEAMWORK,SOUS-TOTAL
-BUFFS & TEAMWORK,SUBTOTAL BUFFS & TEAMWORK,AMÉLIORATIONS & TRAVAIL D'ÉQUIPE
-SPECIALITY,SPECIALITY SCHOOL,ECOLE DE
-SCHOOL,SPECIALITY SCHOOL,PRÉDILECTION
-DC,DC 25,DD
-Woodland Stride,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Déplacement Facilité
-Move through undergrowth at normal speed|and taking no damage,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Progresse à vitesse normale dans les taillis|ne prenant aucun dégâts
-Shielded Caster,Shielded Caster    +4 to concentration checks,Lanceur de sorts protégé
-to concentration checks,Shielded Caster    +4 to concentration checks,aux tests de concentration
-DAMAGE,DAMAGE ROLL,JET DE 
-ROLL,DAMAGE ROLL,DÉGÂT
-SNEAK DAMAGE,SNEAK DAMAGE|BONUS,BONUS DE DÉGÂTS
-BONUS,SNEAK DAMAGE|BONUS,D'ATTAQUE SOURNOISE
-= 1d8 +,= 1d8 + (,= 1d8 +
-(which grants,(which grants +8 to Acrobatics checks for jumping),qui donne
-to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
-Theme,Theme represents a core aspect of your character’s|background and motivations.,Thème
-represents a core aspect of your character’s|background and motivations.,Theme represents a core aspect of your character’s|background and motivations.,", représente un aspect important de l'historique|et des motivations de votre personnage."
-COMBAT|MANEUVRE,COMBAT|MANEUVRE|BONUS,BONUS DE|MANOEUVRE
-BONUS,COMBAT|MANEUVRE|BONUS,OFFENSIVE
-KINETIC,KINETIC AC,CA
-AC,KINETIC AC,KINÉTIQUE
-Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,DD Acrobaties = Adversaire
-CMD,Acrobatics DC = Opponent’s CMD,CMD
-WITHDRAW,"WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check",RETRAIT
-"Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","Gagne 2000po par pc. Augmenter l'insécurité de 1, puis faire un test de loyauté"
-Damage,Damage +1d6,Degats
-+1d6,Damage +1d6,+1d6
-Back to Back,Back to Back     +2 to AC against flanking,Dos à dos
-to,Back to Back     +2 to AC against flanking,à la
-AC,Back to Back     +2 to AC against flanking,CA
-against flanking,Back to Back     +2 to AC against flanking,contre les tenailles
-BASE|ATTACK,BASE|ATTACK BONUS,BONUS DE BASE
-BONUS,BASE|ATTACK BONUS,À L'ATTAQUE
-Commands the army,"Commands the army – If vacant, -4 loyalty",Commande l'armée
-"– If vacant,","Commands the army – If vacant, -4 loyalty","- Si vacant,"
-loyalty,"Commands the army – If vacant, -4 loyalty",en loyauté
-FEAR EFFECT,FEAR EFFECT|WILL BONUS,TERREUR | BONUS VOLONTE
+Improved Back to Back,Improved Back to Back    +2 to ally’s AC,Science du combat dos à dos
+to ally’s,Improved Back to Back    +2 to ally’s AC,à la CA d'un allié
+AC,Improved Back to Back    +2 to ally’s AC,CA
 POWER,POWER|PER DAY,POUVOIR
 PER DAY,POWER|PER DAY,PAR JOUR
-No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Pas d'action ce tour-ci|Perd le bonus de
-DEX,No action this round|Lose DEX bonus to AC; -2 AC,DEX
-bonus to,No action this round|Lose DEX bonus to AC; -2 AC,à la
-bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,-2 à la
-AC,No action this round|Lose DEX bonus to AC; -2 AC,CA
-STARBOARD,STARBOARD SHIELDS,BOUCLIERS
-SHIELDS,STARBOARD SHIELDS,TRIBORD
-Bonus Spells,Bonus Spells|WIS,Sorts supplémentaires
-"Once a week, cast","Once a week, cast miracle as a spell-like ability.","Une fois par semaine, lancez "
-miracle,"Once a week, cast miracle as a spell-like ability.",miracle
-as a spell-like ability.,"Once a week, cast miracle as a spell-like ability."," comme pouvoir magique."
-HIT,HIT POINTS,POINTS DE
-POINTS,HIT POINTS," VIE"
-Intelligence,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",Renseignement
-"– If vacant,","Intelligence – If vacant, -4 economy and +1 unrest at upkeep","- Si vacant,"
-economy and,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",en économie et
-unrest at upkeep,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",en insécurité au maintien
-FASCINATE,FASCINATE|MAX AUDIENCE,FASCINER
-MAX AUDIENCE,FASCINATE|MAX AUDIENCE,AUDIENCE MAX
-WILL,WILL SAVE,JET DE
-SAVE,WILL SAVE,VOLONTÉ
-Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,Mur de boucliers
-to,Shield Wall    +1 / +2 to AC when both using shields,à la
-AC,Shield Wall    +1 / +2 to AC when both using shields,CA
-when both using shields,Shield Wall    +1 / +2 to AC when both using shields,quand chacun utilise un bouclier
-Outflank,Outflank    When flanking,Grande tenaille
-When flanking,Outflank    When flanking,En prise en tenaille
-MELEE,MELEE ATTACK,ATTAQUE
-ATTACK,MELEE ATTACK,AU CORPS À CORPS
-Haste,Haste    One extra attack at full bonus,Rapidité
-One extra attack at full bonus,Haste    One extra attack at full bonus,Une attaque supplémentaire au bonus maximal
-Cost:,Cost: (1 pt to fix as a move action),Coût:
-(1 pt to fix as a move action),Cost: (1 pt to fix as a move action),(1 pt pour réparer en action de mouvement)
-items = 1 bulk.,10 L items = 1 bulk.,objets = 1 volume.
-Pack Attack,Pack Attack    Ally’s attack allows you to take 5ft step,Attaque en meute
-Ally’s attack allows you to take,Pack Attack    Ally’s attack allows you to take 5ft step,L'attaque d'un allié vous permet de faire un pas de côté
-5ft,Pack Attack    Ally’s attack allows you to take 5ft step,Pas de
-step,Pack Attack    Ally’s attack allows you to take 5ft step,côté
-AC,AC BONUS,CA
-BONUS,AC BONUS,BONUS
-Ruler of a colony or vassal state,"Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit",Dirigeant d'une colonie ou d'un état vassal
-"– May also take any role for colony, with 1 less benefit","Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit","- Peut aussi prendre n'mporte quel rôle pour une colonie, avec un bénéfice réduit de 1"
-Slow Fall,Slow Fall 50 ft,Chute ralentie
-50 ft,Slow Fall 50 ft,15 m
-Slow Fall,Slow Fall 60 ft,Chute ralentie
-60 ft,Slow Fall 60 ft,18 m
-AFT,AFT SHIELDS,BOUCLIERS
-SHIELDS,AFT SHIELDS,POUPE
-Cost:,Cost: 2 pt,Coût:
-2 pt,Cost: 2 pt,2 pts
-COMBAT / DC,COMBAT / DC|BONUS,BONUS AU
-BONUS,COMBAT / DC|BONUS,COMBAT / DD
-DC,DC 10,DD
-RAGE!,RAGE!|Modifier,RAGE!
-Modifier,RAGE!|Modifier,MODIFICATEUR
-Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,Maîtrise des armes
-Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,Zone de critique augmentée et confirme toujours les coups critiques
-ft,20 ft  4 sq,m
-sq,20 ft  4 sq,ca
-Wild Shape,Wild Shape|Become any small or medium animal,Forme animale
-Become any small or medium animal,Wild Shape|Become any small or medium animal,Se transformer en un animal de taille P ou M
-Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,Cible d'opportunité
-Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,Attaque à distance supplémentaire quand un allié touche
-sq,8 sq,ca
-Slow Fall,Slow Fall 30 ft,Chute ralentie
-30 ft,Slow Fall 30 ft,9 m
-Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Éternelle jeunesse
-"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged",Cesse de vieillir ; immunisé contre le vieillissement magique
-DAMAGE,DAMAGE|REDUCTION,DOMMAGES
-REDUCTION,DAMAGE|REDUCTION,REDUCTION
-TRAP SENSE,TRAP SENSE|REFLEX BONUS,SENS DES PIEGES
-REFLEX BONUS,TRAP SENSE|REFLEX BONUS,BONUS DE REFLEXES
-TRACKING,TRACKING LOCK,INDICE DE 
-LOCK,TRACKING LOCK,VERR.
-FLAT-FOOTED,FLAT-FOOTED AC,CA
-AC,FLAT-FOOTED AC,PRIS AU DEPOURVU
-Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast,Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast Raise Dead with a caster level |equal to your Monk level.,Passez une heure et sacrifiez votre réserve de ki entière (qui doit contenir au moins|6 points de ki) pour lancer
-Raise Dead,Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast Raise Dead with a caster level |equal to your Monk level.,Rappel à la vie
-with a caster level |equal to your Monk level.,Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast Raise Dead with a caster level |equal to your Monk level.,avec un niveau de lanceur de sorts|égal à votre niveau de Moine
-BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,SAVOIR BARDIQUE
-BONUS,BARDIC KNOWLEDGE |BONUS,BONUS
-Make unarmed strikes with any free limb|Flurry of blows uses full,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",Fait des attaques à mains nues avec n'importe quel membre libre|Déluge de coup utilise le modificateur de
-STR,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",FOR
-"bonus, even with off hand","Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand","entier, même avec la main secondaire"
-KINETIC,KINETIC ARMOUR CLASS,CLASSE D'ARMURE
-ARMOUR CLASS,KINETIC ARMOUR CLASS,CINÉTIQUE
-Damage Reduction 5/,Damage Reduction 5/―,Réduction de dégâts 5/
-CHANNEL,CHANNEL|RANGE,CANALISATION
-RANGE,CHANNEL|RANGE,PORTEE
-Back to Back,Back to Back    +2 to AC against flanking,Dos à dos
-to,Back to Back    +2 to AC against flanking,à la
-AC,Back to Back    +2 to AC against flanking,CA
-against flanking,Back to Back    +2 to AC against flanking,contre les tenailles
-QUIVER,QUIVER DAYS,CARQUOIS
-DAYS,QUIVER DAYS,JOURS
-Point-blank shot,Point-blank shot    Within 30ft,Tir à bout portant
-Within,Point-blank shot    Within 30ft,À moins de
-30ft,Point-blank shot    Within 30ft,9m
-Spell Save DC = 10 +,Spell Save DC = 10 + CHA + Spell Level,DD de jet de sauvegarde d'un sort = 10 +
-CHA,Spell Save DC = 10 + CHA + Spell Level,CHA
-+ Spell Level,Spell Save DC = 10 + CHA + Spell Level,+ niveau du sort
-TAKE 20,TAKE 20 PER DAY,FAIRE 20
-PER DAY,TAKE 20 PER DAY,PAR JOUR
-Great Cleave,Great Cleave    Any number of extra attacks per round,Succession d’enchaînements
-Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,Plus de limite sur le nombre d'enchaînements par tour
-(which grants,(which grants +12 to Acrobatics checks for jumping),qui donne
-to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
-TRAP SENSE,TRAP SENSE|BONUS,SENS DES PIEGES
-BONUS,TRAP SENSE|BONUS,BONUS
-EXOTIC WEAPON ATTACK,EXOTIC WEAPON ATTACK BONUS,BONUS D'
-BONUS,EXOTIC WEAPON ATTACK BONUS,ATTAQUE A L'ARME EXOTIQUE
-Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,Saisir l'instant
-AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,Ad'O quand un allié confirme un coup critique
-ENERGY,ENERGY AC,CA
-AC,ENERGY AC,ÉNERGÉTIQUE
-DRIFT,DRIFT|RATING,COEFFICIENT
-RATING,DRIFT|RATING," DRIFT"
-ARCANA,ARCANA|KNOWN,ARCANES
-KNOWN,ARCANA|KNOWN,CONNUES
-STABILITY,"STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest",STABILITÉ
-"On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","Sur un succès, -1 d'insécurité ou gagne 1pc; sur un échec, +1 d'insécurité; sur un échec de 4 ou plus, +d4 d'insécurité"
-Fast Movement,Fast Movement +10 ft,Déplacement accéléré
-+10 ft,Fast Movement +10 ft,+3 m
-WEAPON,WEAPON BONUSES,BONUS
-BONUSES,WEAPON BONUSES,D'ARME
-2 × (d10 +,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",2 x (d10 + 
-CON,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",CON
-") temporary hit points,|+2 attack, +1 fortitude save","2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",") points de vie temporaires,|+2 à l'attaque, +1 aux jets de sauvegarde vigueur"
-Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,DD d'Acrobaties = 5 + Adversaire
-CMD,Acrobatics DC = 5 + Opponent’s CMD,DMD
-Bonus Spells,Bonus Spells|CHA,Sorts supplémentaires
-CHA,Bonus Spells|CHA,CHA
-PORT,PORT SHIELDS,BOUCLIERS
-SHIELDS,PORT SHIELDS,BÂBORD
-Precise shot,Precise shot    No penalty firing into melee,Tir de précision
-No penalty firing into melee,Precise shot    No penalty firing into melee,Pas de malus pour tirer dans la mêlée
-CASTER,CASTER LEVEL,Niveau de lanceur de sorts
-Penetrating Strike,Penetrating Strike    Ignore damage reduction up to    5/—,Attaque puissante
-Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to    5/—,Ignore la réduction des dégâts jusqu'à
-Fast Movement,Fast Movement +50 ft,Déplacement accéléré
-+50 ft,Fast Movement +50 ft,+15 m
-ft,= 5 ft + ( 5 ft ×,m
-TEAMWORK,TEAMWORK|FEATS,DONS
-FEATS,TEAMWORK|FEATS,D'ÉQUIPE
-GRAPPLE,GRAPPLE BONUS,BONUS DE
-BONUS,GRAPPLE BONUS,LUTTE
-Sneaking Precision,Sneaking Precision    Apply a critical effect to the," Précision sournoise"
-Apply a critical effect to the,Sneaking Precision    Apply a critical effect to the,Applique un effet critique à la
-Expert Loading,Expert Loading    Keep a broken gun from exploding on a misfire,Expert en rechargement
-Keep a broken gun from exploding on a misfire,Expert Loading    Keep a broken gun from exploding on a misfire,Empêche une arme d'exploser en cas de long feu
-"Once per day, when adding expertise bonus|to a skill where you have both expertise|and","Once per day, when adding expertise bonus|to a skill where you have both expertise|and Skill Focus, roll the expertise die twice|and take the better result.","Une fois par jour, lorsque vous ajoutez votre|bonus de Maîtrise à une comp pour laquelle|vous avez également le don "
-Skill Focus,"Once per day, when adding expertise bonus|to a skill where you have both expertise|and Skill Focus, roll the expertise die twice|and take the better result.",Talent
-", roll the expertise die twice|and take the better result.","Once per day, when adding expertise bonus|to a skill where you have both expertise|and Skill Focus, roll the expertise die twice|and take the better result."," lancez|deux fois et choisissez le m eilleur résultat."
-Damage,Damage +1,Dommage
-Venom Immunity,Venom Immunity|Immune to all poisons,Immunité aux venins
-Immune to all poisons,Venom Immunity|Immune to all poisons,Immunité à tous les poisons
-Class skills get a,Class skills get a +3 bonus once you have 1 rank.,Comp. de classe : 
-bonus once you have 1 rank.,Class skills get a +3 bonus once you have 1 rank.," dès que vous avez un rang."
-Greater snap shot,Greater snap shot    Damage and critical confirmation bonus,Tir soudain supérieur
-Damage and critical confirmation bonus,Greater snap shot    Damage and critical confirmation bonus,Bonus de dégâts et confirmation de critiques
-A Thousand Faces,A Thousand Faces|Change appearance at will,Mille Visages
-Change appearance at will,A Thousand Faces|Change appearance at will,Changer d'apparence à volonté
-REFLEX,REFLEX SAVE,JET DE
-SAVE,REFLEX SAVE,RÉFLEXES
-Cost:,Cost: 1 pt,Coût :
-1 pt,Cost: 1 pt,1 pt
-KNOWLEDGE,KNOWLEDGE |BONUS,CONNAISSANCE
-BONUS,KNOWLEDGE |BONUS,BONUS
-Class,"Class represents your character’s training, and determines|your abilities.",Classe
-"represents your character’s training, and determines|your abilities.","Class represents your character’s training, and determines|your abilities.",", représente l'entraînement de votre personnage et|détermine ses capacités."
-BASE ATTACK,BASE ATTACK|BONUS,BONUS DE BASE
-BONUS,BASE ATTACK|BONUS,A L'ATTAQUE
-RAGE!,RAGE!|TODAY,RAGE !
-TODAY,RAGE!|TODAY,AUJOURD'HUI
-Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,Incantation Alliée
-to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,pour vaincre la RM
-Knowledge Pool,Knowledge Pool|Prepare any Magus spell as if known,Réserve de Connaissances
-Prepare any Magus spell as if known,Knowledge Pool|Prepare any Magus spell as if known,Préparer n'importe quel sort de Magus comme si connu
-Two-weapon fighting,Two-weapon fighting    Reduces penalty to:,Combat à deux armes
-Reduces penalty to:,Two-weapon fighting    Reduces penalty to:,Réduit les pénalités à :
-Half of Ranger’s|Favoured Enemy|bonus granted to|allies within,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,La moitié du bonus|d'ennemi juré de rôdeur|est donnée aux alliés|à moins de
-30ft,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,9m
-ATTACK,ATTACK ACTIONS,ACTIONS
-ACTIONS,ATTACK ACTIONS,D'ATTAQUE
-DAMAGE,DAMAGE BONUS,BONUS DE
-BONUS,DAMAGE BONUS,DÉGÂTS
-"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get","You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.","Vous gagnez des points de compétence par votre classe, auxquels vous ajoutez|votre modificateur d'intelligence. Allouez ces points aux compétences.|Souvenez-vous que les compétences de classe reçoivent"
-only if you have at least one rank.,"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.",seulement si vous avez au moins un point.
-UNARMED ATTACK,UNARMED ATTACK BONUS,ATTAQUE A MAIN NUE
-BONUS,UNARMED ATTACK BONUS,BONUS
-Focused shot,Focused shot    Within 30ft,Tir avec concentration
-Within,Focused shot    Within 30ft,Dans les
-30ft,Focused shot    Within 30ft,9m
-POWERS,POWERS|KNOWN,POUVOIRS
-KNOWN,POWERS|KNOWN,CONNUS
-Tandem Trip,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",Double croc-en-jambe
-"When ally is adjacent, roll twice for trip","Tandem Trip    When ally is adjacent, roll twice for trip CMB","Quand un allié est adjacent, lance deux fois le dé "
-CMB,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",BMO
-To combine two 6th level spell slots to cast,To combine two 6th level spell slots to cast wish:,Combiner deux emplacements niv. 6 pour lancer 
-wish:,To combine two 6th level spell slots to cast wish:,souhait:
-1d10,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,1d10
-2d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,2d8
-3d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,3d8
-4d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,4d8
-6d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,6d8
-8d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,8d8
-12d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,12d8
-Combat Expertise,Combat Expertise  AC bonus,Expertise du combat
-AC,Combat Expertise  AC bonus,Bonus de
-bonus,Combat Expertise  AC bonus,CA
-Slow Fall,Slow Fall 80 ft,Chute ralentie
-80 ft,Slow Fall 80 ft,24 m
-Stunning Shot,Stunning Shot    Stun target for 1 round,Tir étourdissant
-Stun target for 1 round,Stunning Shot    Stun target for 1 round,Étourdi la cible pour 1 tour
-Two-weapon Fighting,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Combat à deux armes
-Penalty for wielding two weapons reduced to -4 / -4,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Pénalité pour porter deux armes réduite à -4 / -4
-SINGLE,SINGLE ATTACK,SIMPLE
-ATTACK,SINGLE ATTACK,ATTAQUE
-Shake It Off,Shake It Off    +1 to all saving throws per adjacent ally,Reprends-toi
-to all saving throws per adjacent ally,Shake It Off    +1 to all saving throws per adjacent ally,à tous les jets de sauvegarde par allié adjacent
-DC,DC 20,DD
-Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Attaque puissante supérieure
-Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Ignore la réduction des dégâts jusqu'à
-Devastating Strike,Devastating Strike    +2 per extra die,Frappe Dévastatrice
-per extra die,Devastating Strike    +2 per extra die,par dé supplémentaire
-Damage Reduction 3/,Damage Reduction 3/―,Réduction de dégâts 3/
-MAX WEAPON,MAX WEAPON|ENHANCEMENT,BONUS MAXIMUM
-ENHANCEMENT,MAX WEAPON|ENHANCEMENT,DE L'ARME
-Martial Artist cannot use ki abilities without gaining a,Martial Artist cannot use ki abilities without gaining a ki pool from another class,L'artiste martial ne peut pas utiliser des techniques de ki sans gagner une
-ki pool,Martial Artist cannot use ki abilities without gaining a ki pool from another class,réserve de ki
-from another class,Martial Artist cannot use ki abilities without gaining a ki pool from another class,d'une autre classe
-Broken Wing Gambit,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Gambit de l'aîle brisée
-Grant,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Donne
-", get attack of opportunity","Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",", reçoit une attaque d'opportunité"
-MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,COUP DE MAÎTRE
-"to Strength, Dexterity and Wisdom score","+2 to Strength, Dexterity and Wisdom score","Au score de Force, Dextérité et Savoir."
-Swap Places,Swap Places    Switch places with an ally,Échanger de place
-Switch places with an ally,Swap Places    Switch places with an ally,Échange sa place avec un allié
-FAMILIAR,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,FAMILIER
-ANIMAL COMPANION,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,COMPAGNON ANIMAL
-MOUNT,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,MONTURE
-SUMMONED CREATURE,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,CRÉATURE INVOQUÉE
-CONCENTRATION,CONCENTRATION|SAVE DC,DD DU JET DE
-SAVE DC,CONCENTRATION|SAVE DC,CONCENTRATION
-STUNNING FIST,STUNNING FIST|PER DAY,COUP ETOURDISSANT
-PER DAY,STUNNING FIST|PER DAY,PAR JOUR
-Bullseye shot,Bullseye shot    Line up shot as a move action,Tir dans le mille
-Line up shot as a move action,Bullseye shot    Line up shot as a move action,Ajuster le tir en action de mouvement
-(which grants,(which grants +24 to Acrobatics checks for jumping),qui donne
-to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
-Weapon Finesse,Weapon Finesse  Use DEX for melee attack,Attaque en finesse
-Use,Weapon Finesse  Use DEX for melee attack,Utiliser la
-DEX,Weapon Finesse  Use DEX for melee attack,DEX
-for melee attack,Weapon Finesse  Use DEX for melee attack,pour les attaques au càc
-Liaises with the people,"Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",En liaison avec le peuple
-"– If vacant,","Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",- Si vacant
-"loyalty,","Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",de loyauté
-unrest at upkeep and no bonus from festivals,"Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",troubles lors des corvées et pas de bonus pour les festivals
-RAGE!,RAGE! POWERS,POUVOIRS DE
-POWERS,RAGE! POWERS,RAGE !
-Critical Focus,Critical Focus),Don pour les critiques
-MAXIMUM DEFENSIVE CASTING,MAXIMUM DEFENSIVE CASTING|PENATY AND BONUS,LANCER DE SORT SUR LA DÉFENSIVE MAXIMALE
-PENATY AND BONUS,MAXIMUM DEFENSIVE CASTING|PENATY AND BONUS,PÉNALITÉS ET BONUS
-ATTACK,ATTACK BONUS,ATTAQUE
-BONUS,ATTACK BONUS,BONUS
-CMD,CMD BONUS,DMD
-BONUS,CMD BONUS,BONUS
 DIFFICULTY,DIFFICULTY CLASS,CLASSE
 CLASS,DIFFICULTY CLASS,DE DIFFICULTÉ
-FORTITUDE|SAVE,FORTITUDE|SAVE DC,DD DU JET|DE
-DC,FORTITUDE|SAVE DC,VIGUEUR
-Cost:,Cost: all remaining pts,Coût:
-all remaining pts,Cost: all remaining pts,tous les pts restants
-ETHERIAL,ETHERIAL|ROUNDS,ETHERE
-ROUNDS,ETHERIAL|ROUNDS,TOURS
-Linguistics and Knowledge are class skills using,Linguistics and Knowledge are class skills using WIS,Linguistique et Connaissances sont des comp. de classe utilisant
-WIS,Linguistics and Knowledge are class skills using WIS,SAG
-BUILDINGS,BUILDINGS    Add buildings to towns,BÂTIMENTS
-Add buildings to towns,BUILDINGS    Add buildings to towns,Ajoute des bâtiments aux villes
-COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,DEGRÉ DE
-DEFENCE,COMBAT MANOEUVRE|DEFENCE,MANOEUVRE DÉFENSIVE
-Duck and Cover,Duck and Cover    Take ally’s result on reflex save,A l'abri
-Take ally’s result on reflex save,Duck and Cover    Take ally’s result on reflex save,Prend le résultat d'un allié sur un jet de réflexes
-Resist Nature’s Lure,Resist Nature’s Lure|+4 to saves against the fey and plants,Résister à l'Appel de la Nature
-+4 to saves against the fey and plants,Resist Nature’s Lure|+4 to saves against the fey and plants,+4 aux jets de sauvegarde contre les Fées et les Plantes
-Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Concentration malgré la fureur
-Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Ignore la pénalité d'attaque en puissance sur la première attaque
-IMMUNE TO,IMMUNE TO|FEAR,IMMUNISÉ CONTRE
-FEAR,IMMUNE TO|FEAR,LA PEUR
-Paired Opportunists,Paired Opportunists    When adjacent,Couple d’opportunistes
-When adjacent,Paired Opportunists    When adjacent,Quand adjacent
-You class determines the number of,You class determines the number of skill ranks you get at|each level (always at least 1).,Votre classe détermine le nombre de 
-skill ranks,You class determines the number of skill ranks you get at|each level (always at least 1).,rangs de compétences
-you get at|each level (always at least 1).,You class determines the number of skill ranks you get at|each level (always at least 1).,|que vous avez à chaque niveau (au moins 1).
-WILL,WILL SAVE DC,JET DE SAUVEGARDE DE
-SAVE DC,WILL SAVE DC,VOLONTÉ
-Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Score de dextérité|Pénalité:
-Good:,Good: +2 Loyalty,Bon:
-Loyalty,Good: +2 Loyalty,Loyauté
-AC,AC +1,CA
-Strength Score|Penalty:,Strength Score|Penalty: -2,Score de Force|Pénalité
-"Baron, Duke, King or Queen","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duc, Roi ou Reine"
-"– If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","- Si vacant, le royaume rate tous les jets de commandement et ne peut pas revendiquer ou développer d'hexagone."
-(which grants,(which grants +16 to Acrobatics checks for jumping),qui donne
-to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
-DEPOSIT,DEPOSIT    4000gp in trade goods and treasure nets 1bp,Dépôt
-4000gp in trade goods and treasure nets 1bp,DEPOSIT    4000gp in trade goods and treasure nets 1bp,4000po en biens commerciaux et trésors donne 1pc
-Pistol-whip,"Pistol-whip    Surprise melee attack.  One handed: d6/d4  Two handed: d10/d8Also, CMB to knock prone",Pistolet-fouet
-"Surprise melee attack.  One handed: d6/d4  Two handed: d10/d8Also, CMB to knock prone","Pistol-whip    Surprise melee attack.  One handed: d6/d4  Two handed: d10/d8Also, CMB to knock prone",Attack de c. à c. surprise. Une main: d6/d4 Deux mains: d10|Aussi BMO pour faire tomber
-Off-hand weapon,Off-hand weapon    (2 less for a light weapon),Arme secondaire
-less for a light weapon),Off-hand weapon    (2 less for a light weapon),en moins pour une arme légère)
-RAGE!,RAGE! 1/day,RAGE!
-1/day,RAGE! 1/day,1/jour
-SHARE FAVOURED ENEMY,SHARE FAVOURED ENEMY|DURATION,PARTAGER ENNEMI JURE
-DURATION,SHARE FAVOURED ENEMY|DURATION,DUREE
-Bastard Sword,Bastard Sword *,Epee bâtarde
-(which grants,(which grants +12 to Acrobatics),(qui donne
-to Acrobatics),(which grants +12 to Acrobatics),à Acrobaties)
-(which grants,(which grants +16 to Acrobatics),(qui donne
-to Acrobatics),(which grants +16 to Acrobatics),à Acrobaties)
-Treated as one size larger when determining,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,Traité comme une catégorie de taille supérieure pour déterminer le
-CMB,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,BMO
-and,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,et le 
-CMD,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,DMD
-for grappling or being grappled.,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,en cas de lutte
-Pinpoint Targeting,"Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Viser juste
-"Make a single attack that bypasses shields, armour and natural armour","Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Pas de bonus d’armure ni de bouclier contre une attaque à distance
-Slow Fall,Slow Fall 70 ft,Chute ralentie
-70 ft,Slow Fall 70 ft,21 m
-Neutral:,Neutral: +2 Stability,Neutre :
-Stability,Neutral: +2 Stability,Stabilité
-Double Slice,Double Slice    Add your full STR to damage with an off-hand weapon,Double frappe
-Add your full,Double Slice    Add your full STR to damage with an off-hand weapon,Ajoute la
-STR,Double Slice    Add your full STR to damage with an off-hand weapon,FOR
-to damage with an off-hand weapon,Double Slice    Add your full STR to damage with an off-hand weapon,totale avec l'arme en main secondaire
-Assume ethereal state for 1 minute -,Assume ethereal state for 1 minute - 3 ki points,Prend une forme éthérée pendant 1 minute -
-3 ki points,Assume ethereal state for 1 minute - 3 ki points,3 points de ki
-Tireless,Tireless RAGE!,Sans Fatigue
-RAGE!,Tireless RAGE!,RAGE!
-MANOEUVRE,MANOEUVRE AC,CA
-AC,MANOEUVRE AC,MANOEUVRE OFF.
 RANGED,RANGED ATTACK,ATTAQUE
 ATTACK,RANGED ATTACK,À DISTANCE
-ARMOUR,ARMOUR CLASS,CLASSE
-CLASS,ARMOUR CLASS,D'ARMURE
-At levels,"At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.",Aux niveaux
-"and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","et 16, yous recevrez un point à ajouter à un des scores de caractéristique.|Si ce score était impair, vous recevrez donc une augmentation au modificateur de caractéristique"
-"loyalty,","+1 loyalty, +1bp consumption","loyauté,"
-+1bp,"+1 loyalty, +1bp consumption",+1pc
-consumption,"+1 loyalty, +1bp consumption",consommation
-MILITARY,MILITARY    Create armed units (comes from allocation for settling towns),ARMÉE
-Create armed units (comes from allocation for settling towns),MILITARY    Create armed units (comes from allocation for settling towns),Créer des unités armées (provient de l'allocation pour la création de villes)
-RANGED ATTACK,RANGED ATTACK|BONUS,BONUS
-BONUS,RANGED ATTACK|BONUS,D'ATTAQUE À DISTANCE
-Improved Precise Shot,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Science du tir de précision
-Ignore the penalties for partial cover or partial concealment,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Ignore les pénalités d'abri et de camouflage
-"loyalty,","+4 loyalty, +8bp consumption","loyauté,"
-+8bp,"+4 loyalty, +8bp consumption",+8pc
-consumption,"+4 loyalty, +8bp consumption",consommation
-+ 4 to all saving throws|+ 4 dodge bonus to,+ 4 to all saving throws|+ 4 dodge bonus to AC,+4 à tous les jets de sauvegarde|+4 bonus d'esquive à la
-AC,+ 4 to all saving throws|+ 4 dodge bonus to AC,CA
-INSPIRATION,INSPIRATION|PER DAY,INSPIRATION
-PER DAY,INSPIRATION|PER DAY,PAR JOUR
-"economy,","+1 economy, -1 loyalty","économie,"
-loyalty,"+1 economy, -1 loyalty",loyauté
-No action for 1d6 rounds|Lose,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,Pas d'action pour 1d6 tours|Perd
-DEX,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,le bonus
-bonus to,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,de DEX
-AC,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,à la CA
-Queen Consort or Prince Consort,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,Reine Consort ou Prince Consort
-– May rule if the Ruler is absent. but must pass loyalty check or,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,"- Peut diriger si le Dirigeant est absent, mais doit passer un test de loyauté ou"
-unrest,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,d'insécurité
-ROUNDS,ROUNDS|PER DAY,Tours
-PER DAY,ROUNDS|PER DAY,par jour
-Liases with the people,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",Fait le lien avec le peuple
-"– If vacant,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","- Si vacant,"
-"loyalty,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","en loyauté,"
-unrest at upkeep and no bonus from festivals,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",en insécurité au maintien et pas de bonus des festivals
-Improved Spell Recall,Improved Spell Recall|Prepare any known spell as a swift action,Science du souvenir magique
-Prepare any known spell as a swift action,Improved Spell Recall|Prepare any known spell as a swift action,Préparer un sort connu en action rapide
-Improved Devastating Strike,Improved Devastating Strike  +2 per die,Coup dévastateur amélioré
-per die,Improved Devastating Strike  +2 per die,par dé
-Shot on the Run,Shot on the Run    Attack at any point during your move,Tir en mouvement
-Attack at any point during your move,Shot on the Run    Attack at any point during your move,Attaque durant un déplacement
-Knowledge -,Knowledge - INT|Profession - WIS,Connaissances - 
-INT,Knowledge - INT|Profession - WIS,INT
-Profession -,Knowledge - INT|Profession - WIS,Profession -
-WIS,Knowledge - INT|Profession - WIS,SAG
-USES,USES PER DAY,UTILISATIONS
-PER DAY,USES PER DAY,PAR JOUR
+ft,15 ft  3 sq,m
+sq,15 ft  3 sq,ca
+ENERGY,ENERGY|ROLL,JET
+ROLL,ENERGY|ROLL,D'ÉNERGIE
+Cleave,Cleave    Extra attack if you hit,Enchaînements
+Extra attack if you hit,Cleave    Extra attack if you hit,Attaque supplémentaire si vous touchez
 "stability,","+2 stability, +2bp consumption","stabilité,"
 +2bp,"+2 stability, +2bp consumption",+2pc
 consumption,"+2 stability, +2bp consumption",consommation
-MIGHTY,MIGHTY RAGE!,MAITRE
-RAGE!,MIGHTY RAGE!,RAGE!
+TRACKING,TRACKING LOCK,INDICE DE 
+LOCK,TRACKING LOCK,VERR.
+(which grants,(which grants +24 to Acrobatics checks for jumping),qui donne
+to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
+BUILDINGS,BUILDINGS    Add buildings to towns,BÂTIMENTS
+Add buildings to towns,BUILDINGS    Add buildings to towns,Ajoute des bâtiments aux villes
+MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,COUP DE MAÎTRE
+Ruler of a colony or vassal state,"Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit",Dirigeant d'une colonie ou d'un état vassal
+"– May also take any role for colony, with 1 less benefit","Ruler of a colony or vassal state – May also take any role for colony, with 1 less benefit","- Peut aussi prendre n'mporte quel rôle pour une colonie, avec un bénéfice réduit de 1"
+ENERGY,ENERGY AC,CA
+AC,ENERGY AC,ÉNERGÉTIQUE
+Slow Fall,Slow Fall 20 ft,Chute ralentie
+20 ft,Slow Fall 20 ft,6 m
+Wild Shape,Wild Shape|Become any small or medium animal,Forme animale
+Become any small or medium animal,Wild Shape|Become any small or medium animal,Se transformer en un animal de taille P ou M
+At levels,"At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.",Aux niveaux
+"and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","At levels 4, 8, 12 and 16 you get to add 1 to a single ability score.|If that score was an odd number, this mean an increase in the ability modifier.","et 16, yous recevrez un point à ajouter à un des scores de caractéristique.|Si ce score était impair, vous recevrez donc une augmentation au modificateur de caractéristique"
+2 × (d10 +,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",2 x (d10 + 
+CON,"2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",CON
+") temporary hit points,|+2 attack, +1 fortitude save","2 × (d10 + CON) temporary hit points,|+2 attack, +1 fortitude save",") points de vie temporaires,|+2 à l'attaque, +1 aux jets de sauvegarde vigueur"
+GRAPPLE,GRAPPLE BONUS,BONUS DE
+BONUS,GRAPPLE BONUS,LUTTE
+Point-blank shot,Point-blank shot    Within 30ft,Tir à bout portant
+Within,Point-blank shot    Within 30ft,À moins de
+30ft,Point-blank shot    Within 30ft,9m
+Greater Two-weapon Fighting,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Combat à deux armes supérieur
+Third attack with your off-hand weapon,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Troisième attaque avec l’arme secondaire
+Snap shot,Snap shot    AoO with a ranged weapon within 5ft,Tir soudain
+AoO with a ranged weapon within,Snap shot    AoO with a ranged weapon within 5ft,"Avec arme à distance, menace les cases à"
+5ft,Snap shot    AoO with a ranged weapon within 5ft,"1,5m"
+Improved Spell Recall,Improved Spell Recall|Prepare any known spell as a swift action,Science du souvenir magique
+Prepare any known spell as a swift action,Improved Spell Recall|Prepare any known spell as a swift action,Préparer un sort connu en action rapide
+CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,SCORE de|CONSTITUTION
+BONUS,CONSTITUTION|SCORE|BONUS,BONUS
+Bonus Spells,Bonus Spells|WIS,Sorts supplémentaires
+DC,DC 30,DD
+CASTER,CASTER LEVEL,Niveau de lanceur de sorts
+SETTLE,SETTLE    Create new towns,INSTALLATION
+Create new towns,SETTLE    Create new towns,Créer de nouvelles villes
+Swap Places,Swap Places    Switch places with an ally,Échanger de place
+Switch places with an ally,Swap Places    Switch places with an ally,Échange sa place avec un allié
+to jump checks -,+20 to jump checks - 1 ki point,aux jets de saut -
+1 ki point,+20 to jump checks - 1 ki point,1 point de Ki
+TOUCH,TOUCH ARMOUR CLASS,CLASSE D'ARMURE
+ARMOUR CLASS,TOUCH ARMOUR CLASS,DE CONTACT
+CHANNEL,CHANNEL|RANGE,CANALISATION
+RANGE,CHANNEL|RANGE,PORTEE
+STUNNING FIST,STUNNING FIST|TODAY,COUP ETOURDISSANT
+TODAY,STUNNING FIST|TODAY,AUJOURD'HUI
+Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,Saisir l'instant
+AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,Ad'O quand un allié confirme un coup critique
+Manyshot,"Manyshot    When making a full-round attack, your first attack has two arrows",Feu nourri
+"When making a full-round attack, your first attack has two arrows","Manyshot    When making a full-round attack, your first attack has two arrows","En attaque à outrance, votre première attaque a deux flèches"
+sq,8 sq,ca
+loyalty,-1 loyalty,loyauté
 (which grants,(which grants +4 to Acrobatics),(qui donne 
 to Acrobatics),(which grants +4 to Acrobatics),à Acrobaties)
-Broken Wing Gambit,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Gambit de l'aîle brisée
-Grant,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Donne
-", get attack of opportunity","Broken Wing Gambit    Grant +2/+2, get attack of opportunity",", reçoit une attaque d'opportunité"
-TERRAIN,"TERRAIN    Build farms, roads, mines etc",TERRITOIRE
-"Build farms, roads, mines etc","TERRAIN    Build farms, roads, mines etc","Construire des fermes, routes, mines etc"
-"loyalty,","+3 loyalty, +4bp consumption","loyauté,"
-+4bp,"+3 loyalty, +4bp consumption",+4pc
-consumption,"+3 loyalty, +4bp consumption",consommation
-FORWARD,FORWARD SHIELDS,BOUCLIERS
-SHIELDS,FORWARD SHIELDS,PROUE
-Default range increment,Default range increment|30 ft / 6 sq.,Incrément de portée par défaut
-30 ft / 6 sq,Default range increment|30 ft / 6 sq.,9 m / 6 ca
-Penetrating Strike,Penetrating Strike    Ignore damage reduction up to 5/—,Attaque puissante
-Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to 5/—,Ignore la réduction des dégâts jusqu'à
-Clustered shots,Clustered shots    Group arrows to overcome damage reduction,Tirs groupés
-Group arrows to overcome damage reduction,Clustered shots    Group arrows to overcome damage reduction,Groupe les flèches pour vaincre la réduction de dégâts
-Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,Manœuvres coordonnées
-to,Coordinated Manoeuvres    +2 to CMB,au
-CMB,Coordinated Manoeuvres    +2 to CMB,BMO
-Fast Movement,Fast Movement +40 ft,Déplacement accéléré
-+40 ft,Fast Movement +40 ft,+12 m
-ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,CLASSE|D'ARMURE
-PENALTY,ARMOUR|CLASS|PENALTY,PENALITE
-MELEE ATTACK,MELEE ATTACK|BONUS,BONUS
-BONUS,MELEE ATTACK|BONUS,D'ATTAQUE AU CÀC
-Race,Race represents your species.,Race
-represents your species.,Race represents your species.,", représente votre espèce."
-Point Blank Shot,Point Blank Shot    +1 to attack and damage within 30ft,Tir à bout portant
-+1 to attack and damage within 30ft,Point Blank Shot    +1 to attack and damage within 30ft,+1 à l’attaque et aux dégâts à 10m ou moins
+Fast Movement,Fast Movement +20 ft,Déplacement accéléré
++20 ft,Fast Movement +20 ft,+6 m
 Lose,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",Perd le bonus de
 DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DEX
 bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",à la
@@ -866,70 +132,803 @@ AC,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50%
 STR,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",FOR
 and,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",et
 "skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",", Perception|50% risque de manquer son attaque|Test d'Acrobaties DD10 pour se déplacer à plus de la moitié de sa vitesse"
+Cheat Death,Cheat Death    Restore hp equal to all remaining grit,Feinter la faucheuse
+Restore hp equal to all remaining grit,Cheat Death    Restore hp equal to all remaining grit,Récupère 1 pv en dépensant toute l'audace
+Weapon Finesse,Weapon Finesse    Use DEX for melee attack,Attaque en finesse
+Use,Weapon Finesse    Use DEX for melee attack,Utiliser la
+DEX,Weapon Finesse    Use DEX for melee attack,DEX
+for melee attack,Weapon Finesse    Use DEX for melee attack,pour les attaques au càc
+"Once per day, when adding expertise bonus|to a skill where you have both expertise|and","Once per day, when adding expertise bonus|to a skill where you have both expertise|and Skill Focus, roll the expertise die twice|and take the better result.","Une fois par jour, lorsque vous ajoutez votre|bonus de Maîtrise à une comp pour laquelle|vous avez également le don "
+Skill Focus,"Once per day, when adding expertise bonus|to a skill where you have both expertise|and Skill Focus, roll the expertise die twice|and take the better result.",Talent
+", roll the expertise die twice|and take the better result.","Once per day, when adding expertise bonus|to a skill where you have both expertise|and Skill Focus, roll the expertise die twice|and take the better result."," lancez|deux fois et choisissez le m eilleur résultat."
+Point Blank Shot,Point Blank Shot    +1 to attack and damage within 30ft,Tir à bout portant
++1 to attack and damage within 30ft,Point Blank Shot    +1 to attack and damage within 30ft,+1 à l’attaque et aux dégâts à 10m ou moins
+Broken Wing Gambit,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Gambit de l'aîle brisée
+Grant,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",Donne
+", get attack of opportunity","Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",", reçoit une attaque d'opportunité"
+Bonus Spells,Bonus Spells|CHA,Sorts supplémentaires
+CHA,Bonus Spells|CHA,CHA
+Rapid shot,Rapid shot    Extra attack at full,Tir rapide
+Extra attack at full,Rapid shot    Extra attack at full,Attaque supplémentaire à outrance
+"economy,","+4 economy, -8 loyalty","économie,"
+loyalty,"+4 economy, -8 loyalty",loyauté
+Improved Two-weapon Fighting,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Science du Combat à deux Armes
+Second attack with your off-hand weapon,Improved Two-weapon Fighting    Second attack with your off-hand weapon,Attaque supplémentaire avec l’arme secondaire
+Tireless,Tireless RAGE!,Sans Fatigue
+RAGE!,Tireless RAGE!,RAGE!
+ATTACK,ATTACK BONUS,ATTAQUE
+BONUS,ATTACK BONUS,BONUS
+= 1d8 +,= 1d8 + (,= 1d8 +
+Collect taxes and manage finances,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",Collecte les taxes et gère les finances
+"– If vacant,","Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes","- Si vacant,"
+economy and kingdom can’t levy taxes,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",en économie et le royaume ne peut pas lever de taxes
+Two-weapon Fighting,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Combat à deux armes
+Penalty for wielding two weapons reduced to -4 / -4,Two-weapon Fighting   Penalty for wielding two weapons reduced to -4 / -4,Pénalité pour porter deux armes réduite à -4 / -4
+WILL,WILL SAVE,JET DE
+SAVE,WILL SAVE,VOLONTÉ
+Spell Recall,Spell Recall|Reprepare any spell already cast today,Souvenir magique
+Reprepare any spell already cast today,Spell Recall|Reprepare any spell already cast today,Re-préparer un sort lancé aujourd'hui
+BARDIC KNOWLEDGE,BARDIC KNOWLEDGE |BONUS,SAVOIR BARDIQUE
+BONUS,BARDIC KNOWLEDGE |BONUS,BONUS
+Fast Movement,Fast Movement +50 ft,Déplacement accéléré
++50 ft,Fast Movement +50 ft,+15 m
+EVOLUTION,EVOLUTION|POOL,POINTS
+POOL,EVOLUTION|POOL,D'ÉVOLUTION
+Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",Formation de Cavalerie
+"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount","Partage l'espace, charge à travers une monture alliée"
+Leads kingdom’s defences,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",Dirige les défenses du royaume
+"– If vacant,","Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability","- Si vacant,"
+loyalty and,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",en loyauté et
+stability,"Leads kingdom’s defences – If vacant, -4 loyalty and -2 stability",en stabilité
+Combat Expertise,Combat Expertise  AC bonus,Expertise du combat
+AC,Combat Expertise  AC bonus,Bonus de
+bonus,Combat Expertise  AC bonus,CA
+All PCs speak ‘common’; each positive,All PCs speak ‘common’; each positive INT modifier or rank|in Culture adds another language.,Tous les PJs parlent ‘commun’; chaque modificateur d'
+INT,All PCs speak ‘common’; each positive INT modifier or rank|in Culture adds another language.,INT
+modifier or rank|in Culture adds another language.,All PCs speak ‘common’; each positive INT modifier or rank|in Culture adds another language.,|positif ou rang en Culture ajoute un autre langage.
+Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,Incantation Alliée
+to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,pour vaincre la RM
+Charge,Charge  -2 to AC for the rest of the round,Charge
+to,Charge  -2 to AC for the rest of the round,à la
+AC,Charge  -2 to AC for the rest of the round,CA
+for the rest of the round,Charge  -2 to AC for the rest of the round,pour le reste du tour
+CURRENT,CURRENT HULL POINTS,PS
+HULL,CURRENT HULL POINTS,ACTUELS
+POINTS,CURRENT HULL POINTS,
+Chaotic:,Chaotic: +2 Loyalty,Chaotique:
+Loyalty,Chaotic: +2 Loyalty,Loyauté
+Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast,Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast Raise Dead with a caster level |equal to your Monk level.,Passez une heure et sacrifiez votre réserve de ki entière (qui doit contenir au moins|6 points de ki) pour lancer
+Raise Dead,Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast Raise Dead with a caster level |equal to your Monk level.,Rappel à la vie
+with a caster level |equal to your Monk level.,Spend an hour and sacrifice your entire ki pool (which must |be at least 6 ki points) to cast Raise Dead with a caster level |equal to your Monk level.,avec un niveau de lanceur de sorts|égal à votre niveau de Moine
+Hammer the Gap,Hammer the Gap    On a successful attack,Marteler la faille
+On a successful attack,Hammer the Gap    On a successful attack,Sur une attaque réussie
+Cost:,Cost: 2 pt,Coût:
+2 pt,Cost: 2 pt,2 pts
+WEAPON,WEAPON BONUSES,BONUS
+BONUSES,WEAPON BONUSES,D'ARME
+Cost:,Cost: all remaining pts,Coût:
+all remaining pts,Cost: all remaining pts,tous les pts restants
+Stunning Shot,Stunning Shot    Stun target for 1 round,Tir étourdissant
+Stun target for 1 round,Stunning Shot    Stun target for 1 round,Étourdi la cible pour 1 tour
+Back to Back,Back to Back     +2 to AC against flanking,Dos à dos
+to,Back to Back     +2 to AC against flanking,à la
+AC,Back to Back     +2 to AC against flanking,CA
+against flanking,Back to Back     +2 to AC against flanking,contre les tenailles
+ARCANA,ARCANA|KNOWN,ARCANES
+KNOWN,ARCANA|KNOWN,CONNUES
+INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,INSPIRER LA GRANDEUR
+MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,MAX AFFECTES
+Make unarmed strikes with any free limb|Flurry of blows uses full,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",Fait des attaques à mains nues avec n'importe quel membre libre|Déluge de coup utilise le modificateur de
+STR,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",FOR
+"bonus, even with off hand","Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand","entier, même avec la main secondaire"
+ROUNDS,ROUNDS|PER DAY,Tours
+PER DAY,ROUNDS|PER DAY,par jour
+KI POOL,KI POOL|CAPACITY,CAPACITÉ DE LA
+CAPACITY,KI POOL|CAPACITY,RÉSERVE DE KI
+Mighty,Mighty RAGE!,RAGE !
+RAGE!,Mighty RAGE!,de Maître Berserker
+RAGE!,RAGE!|Today,RAGE!
+Today,RAGE!|Today,Aujourd'hui
+Default range increment,Default range increment|30 ft / 6 sq.,Incrément de portée par défaut
+30 ft / 6 sq,Default range increment|30 ft / 6 sq.,9 m / 6 ca
+CURRENT,CURRENT HIT POINTS,POINTS
+HIT,CURRENT HIT POINTS,DE VIE
+POINTS,CURRENT HIT POINTS,ACTUELS
+Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,DD d'Acrobaties = 5 + Adversaire
+CMD,Acrobatics DC = 5 + Opponent’s CMD,DMD
+FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,DÉLUGE DE COUPS
+BASE ATTACK BONUS,FLURRY OF BLOWS|BASE ATTACK BONUS,BONUS D'ATTAQUE DE BASE
+Fast Movement,Fast Movement +40 ft,Déplacement accéléré
++40 ft,Fast Movement +40 ft,+12 m
+Death or Glory,"Death or Glory   +4 (+1 at levels 11, 16, 20)",La Mort ou la Gloire
+"at levels 11, 16, 20)","Death or Glory   +4 (+1 at levels 11, 16, 20)","aux niveaux 11, 16, 20)"
+stability,-1 stability,stabilité
+Point Blank Shot,Point Blank Shot    +1 to attack and damage within first range increment,Tir à bout portant
++1 to attack and damage within first range increment,Point Blank Shot    +1 to attack and damage within first range increment,+1 à l’attaque et aux dégâts sur les cibles distantes de moins de 9m
+Pistol-whip,"Pistol-whip    Surprise melee attack.  One handed: d6/d4  Two handed: d10/d8Also, CMB to knock prone",Pistolet-fouet
+"Surprise melee attack.  One handed: d6/d4  Two handed: d10/d8Also, CMB to knock prone","Pistol-whip    Surprise melee attack.  One handed: d6/d4  Two handed: d10/d8Also, CMB to knock prone",Attack de c. à c. surprise. Une main: d6/d4 Deux mains: d10|Aussi BMO pour faire tomber
+FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,CLASSE D'ARMURE
+ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,PRIS AU DÉPOURVU
+ENERGY,ENERGY ARMOUR CLASS,CLASSE D'ARMURE
+ARMOUR CLASS,ENERGY ARMOUR CLASS,ÉNERGÉTIQUE
+Good:,Good: +2 Loyalty,Bon:
+Loyalty,Good: +2 Loyalty,Loyauté
+DRIFT,DRIFT|RATING,COEFFICIENT
+RATING,DRIFT|RATING," DRIFT"
+INT,+ INT| per level,INT
+per level,+ INT| per level,par niveau
+Penetrating Strike,Penetrating Strike    Ignore damage reduction up to 5/—,Attaque puissante
+Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to 5/—,Ignore la réduction des dégâts jusqu'à
+POWER POINTS,POWER POINTS|PER DAY,POINTS DE POUVOIR
+PER DAY,POWER POINTS|PER DAY,PAR JOUR
+Damage,Damage +1d6,Degats
++1d6,Damage +1d6,+1d6
+Knowledge -,Knowledge - INT|Profession - WIS,Connaissances - 
+INT,Knowledge - INT|Profession - WIS,INT
+Profession -,Knowledge - INT|Profession - WIS,Profession -
+WIS,Knowledge - INT|Profession - WIS,SAG
+DAMAGE,DAMAGE|BONUS,BONUS DE|DÉGÂTS
+Evil:,Evil: +2 Economy,Mauvais:
+Economy,Evil: +2 Economy,Économie
+POWERS,POWERS|KNOWN,POUVOIRS
+KNOWN,POWERS|KNOWN,CONNUS
+ATTACK,ATTACK ACTIONS,ACTIONS
+ACTIONS,ATTACK ACTIONS,D'ATTAQUE
+Level,400’+ 40’ × Level,Niveau
+Intelligence,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",Renseignement
+"– If vacant,","Intelligence – If vacant, -4 economy and +1 unrest at upkeep","- Si vacant,"
+economy and,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",en économie et
+unrest at upkeep,"Intelligence – If vacant, -4 economy and +1 unrest at upkeep",en insécurité au maintien
+Forbidden|During,Forbidden|During|RAGE!,Interdit|en
+RAGE!,Forbidden|During|RAGE!,RAGE!
+SNEAK DAMAGE,SNEAK DAMAGE|BONUS,BONUS DE DÉGÂTS
+BONUS,SNEAK DAMAGE|BONUS,D'ATTAQUE SOURNOISE
+USES,USES PER DAY,UTILISATIONS
+PER DAY,USES PER DAY,PAR JOUR
+Charge,Charge    -2 to AC for the rest of the round,Charge
+to,Charge    -2 to AC for the rest of the round,à la
+AC,Charge    -2 to AC for the rest of the round,CA
+for the rest of the round,Charge    -2 to AC for the rest of the round,pour le reste du tour
+Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Attaque puissante supérieure
+Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to 10/—,Ignore la réduction des dégâts jusqu'à
+RAGE!,RAGE!|Duration,RAGE !
+Duration,RAGE!|Duration,DUREE
+SINGLE,SINGLE ATTACK,SIMPLE
+ATTACK,SINGLE ATTACK,ATTAQUE
+ft,10 ft  2 sq,m
+sq,10 ft  2 sq,ca
+FLAT-FOOTED,FLAT-FOOTED AC,CA
+AC,FLAT-FOOTED AC,PRIS AU DEPOURVU
+Off-hand weapon,Off-hand weapon    (crossbow only),Arme secondaire
+(crossbow only),Off-hand weapon    (crossbow only),(arbalètes seulement)
+CHANNEL,CHANNEL|PER DAY,CANALISATION
+PER DAY,CHANNEL|PER DAY,PAR JOUR
+TOUCH,TOUCH AC,TOUCHER
+AC,TOUCH AC,CA
+AFT,AFT SHIELDS,BOUCLIERS
+SHIELDS,AFT SHIELDS,POUPE
+MELEE,MELEE ATTACK,ATTAQUE
+ATTACK,MELEE ATTACK,AU CORPS À CORPS
+MAX POWER,MAX POWER|LEVEL,POUVOIR MAX
+LEVEL,MAX POWER|LEVEL,NIVEAU
+Slow Fall,Slow Fall 70 ft,Chute ralentie
+70 ft,Slow Fall 70 ft,21 m
+Quick Draw,Quick Draw    Draw your weapon as a free action,Arme en main
+Draw your weapon as a free action,Quick Draw    Draw your weapon as a free action,Dégainer les armes est une action libre
+ENHANCEMENT,ENHANCEMENT|POOL,RÉSERVE
+POOL,ENHANCEMENT|POOL,D'AMÉLIORATIONS
+Trackless Step,"Trackless Step|Leave no trail, unless deliberately",PASSAGE SANS TRACES
+"Leave no trail, unless deliberately","Trackless Step|Leave no trail, unless deliberately","Vous ne laissez pas de traces, sauf délibérement"
+MAXIMUM DEFENSIVE CASTING,MAXIMUM DEFENSIVE CASTING|PENATY AND BONUS,LANCER DE SORT SUR LA DÉFENSIVE MAXIMALE
+PENATY AND BONUS,MAXIMUM DEFENSIVE CASTING|PENATY AND BONUS,PÉNALITÉS ET BONUS
+RAGE!,RAGE!|TODAY,RAGE !
+TODAY,RAGE!|TODAY,AUJOURD'HUI
+(which grants,(which grants +20 to Acrobatics checks for jumping),qui donne
+to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
+Clustered shots,Clustered shots    Group arrows to overcome damage reduction,Tirs groupés
+Group arrows to overcome damage reduction,Clustered shots    Group arrows to overcome damage reduction,Groupe les flèches pour vaincre la réduction de dégâts
+FORWARD,FORWARD SHIELDS,BOUCLIERS
+SHIELDS,FORWARD SHIELDS,PROUE
+Bastard Sword,Bastard Sword *,Epee bâtarde
+CMD,CMD BONUS,DMD
+BONUS,CMD BONUS,BONUS
+CRITICAL,CRITICAL|THRESHOLD,SEUIL
+THRESHOLD,CRITICAL|THRESHOLD,CRITIQUE
+AC,AC BONUS,CA
+BONUS,AC BONUS,BONUS
+INITIATIVE,INITIATIVE BONUS,BONUS D'
+BONUS,INITIATIVE BONUS,INITIATIVE
+Theme,Theme represents a core aspect of your character’s|background and motivations.,Thème
+represents a core aspect of your character’s|background and motivations.,Theme represents a core aspect of your character’s|background and motivations.,", représente un aspect important de l'historique|et des motivations de votre personnage."
+FLAT-FOOTED,FLAT-FOOTED|CMD,PRIS AU DEPOURVU
+CMD,FLAT-FOOTED|CMD,DMD
+ft,30 ft,m
+DURATION,DURATION|PER DAY,DUREE
+PER DAY,DURATION|PER DAY,PAR JOUR
+SHARE FAVOURED ENEMY,SHARE FAVOURED ENEMY|DURATION,PARTAGER ENNEMI JURE
+DURATION,SHARE FAVOURED ENEMY|DURATION,DUREE
+SMALL ARMS,SMALL ARMS|BONUS,BONUS
+BONUS,SMALL ARMS|BONUS,ARMES LÉGÈRES
+TALENTS,TALENTS|KNOWN,TALENTS
+KNOWN,TALENTS|KNOWN,CONNUS
+"economy,","+2 economy, -2 loyalty","économie,"
+loyalty,"+2 economy, -2 loyalty",loyauté
+Death or Glory,"Death or Glory    +4 (+1 at levels 11, 16, 20)",La Mort ou la Gloire
+"at levels 11, 16, 20)","Death or Glory    +4 (+1 at levels 11, 16, 20)","aux niveaux 11, 16, 20)"
+to all Knowledge skills as long as you have at least 1 ki point in you pool,+2 to all Knowledge skills as long as you have at least 1 ki point in you pool,à tous les tests de Connaissances pour autant que vous ayez au moins 1 point de ki dans votre réserve
++ 4 to all saving throws|+ 4 dodge bonus to,+ 4 to all saving throws|+ 4 dodge bonus to AC,+4 à tous les jets de sauvegarde|+4 bonus d'esquive à la
+AC,+ 4 to all saving throws|+ 4 dodge bonus to AC,CA
+(which grants,(which grants +12 to Acrobatics checks for jumping),qui donne
+to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
+ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,RÉDUCTION
+REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,DU MALUS|D'ARMURE AUX TESTS
+STUNNING FIST,STUNNING FIST|PER DAY,COUP ETOURDISSANT
+PER DAY,STUNNING FIST|PER DAY,PAR JOUR
+FORTITUDE,FORTITUDE SAVE,JET DE
+SAVE,FORTITUDE SAVE,VIGUEUR
+INITIATIVE,INITIATIVE|BONUS,INITIATIVE
+BONUS,INITIATIVE|BONUS,BONUS
+To combine two 6th level spell slots to cast,To combine two 6th level spell slots to cast wish:,Combiner deux emplacements niv. 6 et lancer 
+wish:,To combine two 6th level spell slots to cast wish:,souhait:
+Damage Reduction 5/,Damage Reduction 5/―,Réduction de dégâts 5/
+Spell Save DC = 10 +,Spell Save DC = 10 + CHA + Spell Level,DD de jet de sauvegarde d'un sort = 10 +
+CHA,Spell Save DC = 10 + CHA + Spell Level,CHA
++ Spell Level,Spell Save DC = 10 + CHA + Spell Level,+ niveau du sort
+Improved Devastating Strike,Improved Devastating Strike  +2 per die,Coup dévastateur amélioré
+per die,Improved Devastating Strike  +2 per die,par dé
+"Once a week, cast","Once a week, cast miracle as a spell-like ability.","Une fois par semaine, lancez "
+miracle,"Once a week, cast miracle as a spell-like ability.",miracle
+as a spell-like ability.,"Once a week, cast miracle as a spell-like ability."," comme pouvoir magique."
+Tandem Trip,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",Double croc-en-jambe
+"When ally is adjacent, roll twice for trip","Tandem Trip    When ally is adjacent, roll twice for trip CMB","Quand un allié est adjacent, lance deux fois le dé "
+CMB,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",BMO
+Improved Cleaving Finish,Improved Cleaving Finish    Any number per round,Coup d'enchaînement amélioré
+Any number per round,Improved Cleaving Finish    Any number per round,Autant que voulu par tour
+Slow Fall,Slow Fall 50 ft,Chute ralentie
+50 ft,Slow Fall 50 ft,15 m
+"loyalty,","+1 loyalty, +1bp consumption","loyauté,"
++1bp,"+1 loyalty, +1bp consumption",+1pc
+consumption,"+1 loyalty, +1bp consumption",consommation
+SPELL,SPELL RESISTANCE,RÉSISTANCE
+RESISTANCE,SPELL RESISTANCE,À LA MAGIE
+"stability,","+1 stability, +1bp consumption","stabilité,"
++1bp,"+1 stability, +1bp consumption",+1pc
+consumption,"+1 stability, +1bp consumption",consommation
+WILL,WILL|SAVE DC,DD DE SAUVEGARDE
+WILL|SAVE,WILL|SAVE DC,JET DE|VOLONTÉ
+SAVE DC,WILL|SAVE DC,DE VOLONTÉ
+DC,WILL|SAVE DC,DD
+Shot on the run,Shot on the run    Attack at any point during your move,Tir en mouvement
+Attack at any point during your move,Shot on the run    Attack at any point during your move,Attaque durant un déplacement
+Weapon Finesse,Weapon Finesse  Use DEX for melee attack,Attaque en finesse
+Use,Weapon Finesse  Use DEX for melee attack,Utiliser la
+DEX,Weapon Finesse  Use DEX for melee attack,DEX
+for melee attack,Weapon Finesse  Use DEX for melee attack,pour les attaques au càc
+Fast Movement,Fast Movement +10 ft,Déplacement accéléré
++10 ft,Fast Movement +10 ft,+3 m
+RAGE!,RAGE!  DURATION|PER DAY,RAGE !
+DURATION,RAGE!  DURATION|PER DAY,DUREE
+PER DAY,RAGE!  DURATION|PER DAY,PAR JOUR
+POWER POINTS,POWER POINTS|MAX COST,POINTS DE POUVOIR
+MAX COST,POWER POINTS|MAX COST,COUT MAX
+MANOEVURE,MANOEVURE AC,CA
+AC,MANOEVURE AC,MANOEUVRE
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,RISQUE D'ÉCHEC
+THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,DES SORTS PROFANES
+COMBAT|MANEUVRE,COMBAT|MANEUVRE|BONUS,BONUS DE|MANOEUVRE
+BONUS,COMBAT|MANEUVRE|BONUS,OFFENSIVE
+ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,CLASSE|D'ARMURE
+PENALTY,ARMOUR|CLASS|PENALTY,PENALITE
+Damage Reduction 4/,Damage Reduction 4/―,Réduction de dégâts 4/
+Race,Race represents your species.,Race
+represents your species.,Race represents your species.,", représente votre espèce."
+Damage,Damage +1,Dommage
+Furious Focus,Furious Focus    Ignore power attack penalty for first attack,Concentration malgré la fureur
+Ignore power attack penalty for first attack,Furious Focus    Ignore power attack penalty for first attack,Ignore la pénalité d'attaque en puissance sur la première attaque
+QUIVER,QUIVER DAYS,CARQUOIS
+DAYS,QUIVER DAYS,JOURS
+d6,d6 +,d6
+MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,BONUS DE|DEX
+BONUS,MAX ARMOUR|DEX BONUS,MAXIMAL
+Cost:,Cost: 1 pt,Coût :
+1 pt,Cost: 1 pt,1 pt
+DEPOSIT,DEPOSIT    4000gp in trade goods and treasure nets 1bp,Dépôt
+4000gp in trade goods and treasure nets 1bp,DEPOSIT    4000gp in trade goods and treasure nets 1bp,4000po en biens commerciaux et trésors donne 1pc
+All PCs speak ‘common’; each positive,All PCs speak ‘common’; each positive INT modifier or rank|in linguistics adds another language.,Tous les PJs parlent le commun ; chaque modificateur positif|d'
+INT,All PCs speak ‘common’; each positive INT modifier or rank|in linguistics adds another language.,INT
+modifier or rank|in linguistics adds another language.,All PCs speak ‘common’; each positive INT modifier or rank|in linguistics adds another language.," ou rang en culture ajoute un langage."
+Double Slice,Double Slice    Add your full STR to damage with an off-hand weapon,Double frappe
+Add your full,Double Slice    Add your full STR to damage with an off-hand weapon,Ajoute la
+STR,Double Slice    Add your full STR to damage with an off-hand weapon,FOR
+to damage with an off-hand weapon,Double Slice    Add your full STR to damage with an off-hand weapon,totale avec l'arme en main secondaire
+Damage Reduction 1/,Damage Reduction 1/―,Réduction de dégâts 1/
+PROHIBITED,PROHIBITED SCHOOLS,ECOLES
+SCHOOLS,PROHIBITED SCHOOLS,INTERDITES
+Neutral:,Neutral: +2 Stability,Neutre :
+Stability,Neutral: +2 Stability,Stabilité
+COMBAT / DC,COMBAT / DC|BONUS,BONUS AU
+BONUS,COMBAT / DC|BONUS,COMBAT / DD
+No action for 1d6 rounds|Lose,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,Pas d'action pour 1d6 tours|Perd
+DEX,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,le bonus
+bonus to,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,de DEX
+AC,No action for 1d6 rounds|Lose DEX bonus to AC; -2 AC,à la CA
+saving throws against enchantment,+2 saving throws against enchantment,jets de sauvegarde contre l'enchantement
+Max,Max DEX,DEX
+DEX,Max DEX,Maximale
+Bonus to attack rolls and dodge bonus to,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,Bonus aux jets d'attaques et d'esquive à la
+AC,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,CA
+when fighting larger creatures,Bonus to attack rolls and dodge bonus to AC|when fighting larger creatures,contre les créatures plus grandes
+(which grants,(which grants +16 to Acrobatics),(qui donne
+to Acrobatics),(which grants +16 to Acrobatics),à Acrobaties)
+Shot on the Run,Shot on the Run    Attack at any point during your move,Tir en mouvement
+Attack at any point during your move,Shot on the Run    Attack at any point during your move,Attaque durant un déplacement
+ETHERIAL,ETHERIAL|ROUNDS,ETHERE
+ROUNDS,ETHERIAL|ROUNDS,TOURS
+sq,6 sq,ca
+FEAR EFFECT,FEAR EFFECT|WILL BONUS,TERREUR | BONUS VOLONTE
+Devastating Strike,Devastating Strike    +2 per extra die,Frappe Dévastatrice
+per extra die,Devastating Strike    +2 per extra die,par dé supplémentaire
+WITHDRAW,"WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check",RETRAIT
+"Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","WITHDRAW    Gain 2000gp per bp. Increase unrest by 1, then make a loyalty check","Gagne 2000po par pc. Augmenter l'insécurité de 1, puis faire un test de loyauté"
+Slow Fall,Slow Fall Any distance,Chute ralentie
+Any distance,Slow Fall Any distance,Toute distances
+WISDOM|CHECK,WISDOM|CHECK BONUS,BONUS AUX TESTS|DE
+BONUS,WISDOM|CHECK BONUS,SAGESSE
+"loyalty,","+4 loyalty, +8bp consumption","loyauté,"
++8bp,"+4 loyalty, +8bp consumption",+8pc
+consumption,"+4 loyalty, +8bp consumption",consommation
+Level,100’+ 10’ × Level,Niveau
+INSPIRATION,INSPIRATION|PER DAY,INSPIRATION
+PER DAY,INSPIRATION|PER DAY,PAR JOUR
+"economy,","+1 economy, -1 loyalty","économie,"
+loyalty,"+1 economy, -1 loyalty",loyauté
+Treated as one size larger when determining,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,Traité comme une catégorie de taille supérieure pour déterminer le
+CMB,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,BMO
+and,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,et le 
+CMD,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,DMD
+for grappling or being grappled.,Treated as one size larger when determining CMB and |CMD for grappling or being grappled.,en cas de lutte
+Vital Strike,Vital Strike    Extra damage dice,Frappe Décisive
+Extra damage dice,Vital Strike    Extra damage dice,Dé de dégâts supplémentaire
+ft,= 30 ft + 10 ft ×,m
+RAGE!,RAGE! DURATION,RAGE!
+DURATION,RAGE! DURATION,DUREE
+STABILITY,"STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest",STABILITÉ
+"On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","STABILITY   On success, -1 unrest or add 1bp; on failure, +1 unrest; on failure by 4, +d4 unrest","Sur un succès, -1 d'insécurité ou gagne 1pc; sur un échec, +1 d'insécurité; sur un échec de 4 ou plus, +d4 d'insécurité"
+Knowledge Pool,Knowledge Pool|Prepare any Magus spell as if known,Réserve de Connaissances
+Prepare any Magus spell as if known,Knowledge Pool|Prepare any Magus spell as if known,Préparer n'importe quel sort de Magus comme si connu
+PORT,PORT SHIELDS,BOUCLIERS
+SHIELDS,PORT SHIELDS,BÂBORD
+CONCENTRATION,CONCENTRATION|BONUS,BONUS DE
+BONUS,CONCENTRATION|BONUS,CONCENTRATION
+Great Cleave,Great Cleave    Any number of extra attacks per round,Succession d’enchaînements
+Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,Plus de limite sur le nombre d'enchaînements par tour
+Liases with the people,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",Fait le lien avec le peuple
+"– If vacant,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","- Si vacant,"
+"loyalty,","Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals","en loyauté,"
+unrest at upkeep and no bonus from festivals,"Liases with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",en insécurité au maintien et pas de bonus des festivals
+"stability,","+4 stability, +8bp consumption","stabilité,"
++8bp,"+4 stability, +8bp consumption",+8pc
+consumption,"+4 stability, +8bp consumption",consommation
+FOES,FOES|PER DAY,ENNEMIS
+PER DAY,FOES|PER DAY,PAR JOUR
+Critical Mastery,Critical Mastery    Apply two critical effects at once,Maîtrise du critique
+Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,Appliquer deux effets de critique à la fois
+DAMAGE,DAMAGE|THRESHOLD,SEUIL DE
+THRESHOLD,DAMAGE|THRESHOLD,DÉGÂTS
+THROWN,THROWN ATTACK,ATTAQUE
+ATTACK,THROWN ATTACK,DE JET
+Shake It Off,Shake It Off     +1 to all saving throws per adjacent ally,Reprends-toi
+to all saving throws per adjacent ally,Shake It Off     +1 to all saving throws per adjacent ally,à tous les jets de sauvegarde par allié adjacent
+DC,DC    5,DD
+Broken Wing Gambit,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Gambit de l'aîle brisée
+Grant,"Broken Wing Gambit    Grant +2/+2, get attack of opportunity",Donne
+", get attack of opportunity","Broken Wing Gambit    Grant +2/+2, get attack of opportunity",", reçoit une attaque d'opportunité"
+ft,= 5 ft + ( 5 ft ×,m
+CON,+ CON| per level,CON
+per level,+ CON| per level,par niveau
+MANOEUVRE,MANOEUVRE AC,CA
+AC,MANOEUVRE AC,MANOEUVRE OFF.
+Penetrating Strike,Penetrating Strike    Ignore damage reduction up to    5/—,Attaque puissante
+Ignore damage reduction up to,Penetrating Strike    Ignore damage reduction up to    5/—,Ignore la réduction des dégâts jusqu'à
++2 WIS,+2 WIS and -2 CHA in all three forms.,+2 SAG
+and,+2 WIS and -2 CHA in all three forms.,et
+-2 CHA,+2 WIS and -2 CHA in all three forms.,-2 CHA
+in all three forms.,+2 WIS and -2 CHA in all three forms.,dans les 3 formes.
+ARCANE POOL,ARCANE POOL|CAPACITY,CAPACITÉ DE
+CAPACITY,ARCANE POOL|CAPACITY,RÉSERVE MAGIQUE
+CRITICAL,CRITICAL EFFECTS,EFFETS
+EFFECTS,CRITICAL EFFECTS,CRITIQUES
+"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get","You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.","Vous gagnez des points de compétence par votre classe, auxquels vous ajoutez|votre modificateur d'intelligence. Allouez ces points aux compétences.|Souvenez-vous que les compétences de classe reçoivent"
+only if you have at least one rank.,"You get a number of skill ranks from your class, to which you add|your intelligence modifier. Allocate these ranks to skills.|Remember that class skill get +3 only if you have at least one rank.",seulement si vous avez au moins un point.
+Venom Immunity,Venom Immunity|Immune to all poisons,Immunité aux venins
+Immune to all poisons,Venom Immunity|Immune to all poisons,Immunité à tous les poisons
+Shake It Off,Shake It Off    +1 to all saving throws per adjacent ally,Reprends-toi
+to all saving throws per adjacent ally,Shake It Off    +1 to all saving throws per adjacent ally,à tous les jets de sauvegarde par allié adjacent
+Class|Skills,Class|Skills|+3,Comp.|Classe
+Improved Shield Bash,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,Science du coup de bouclier
+Use Shield Bash and keep your shield bonus to,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,"En utilisant un coup de bouclier, conserve le bonus à la"
+AC,Improved Shield Bash    Use Shield Bash and keep your shield bonus to AC,CA
+Bullseye shot,Bullseye shot    Line up shot as a move action,Tir dans le mille
+Line up shot as a move action,Bullseye shot    Line up shot as a move action,Ajuster le tir en action de mouvement
+Morale Bonus,Morale Bonus    Inspire Courage and similar,Bonus de moral
+Inspire Courage and similar,Morale Bonus    Inspire Courage and similar,Inspiration Vaillante et autres
+Timeless Body,"Timeless Body|No longer age, cannot be magically aged",Éternelle jeunesse
+"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged",Cesse de vieillir ; immunisé contre le vieillissement magique
+Use monk level in place of,Use monk level in place of BAB for calculating CMB,Utiliser votre Niveau de Moine à la Place de
+BAB,Use monk level in place of BAB for calculating CMB,BBA
+for calculating,Use monk level in place of BAB for calculating CMB,Pour calculer
+CMB,Use monk level in place of BAB for calculating CMB,BMO
+DAMAGE,DAMAGE REDUCTION,RÉDUCTION DES 
+REDUCTION,DAMAGE REDUCTION,DÉGÂTS
+UNARMED ATTACK,UNARMED ATTACK BONUS,ATTAQUE A MAIN NUE
+BONUS,UNARMED ATTACK BONUS,BONUS
+"Prince, Princess or favoured subject","Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest","Prince, Princesse ou sujet favori"
+– May rule if the Ruler is absent. but must pass loyalty check or,"Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest","- Peut diriger si le Dirigeant est absent, mais doit passer un test de loyauté ou"
+unrest,"Prince, Princess or favoured subject – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest",d'insécurité
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,BONUS DE
+BONUS,COMBAT|MANOEUVRE|BONUS,MANOEUVRE|OFFENSIVE
+Fast Movement,Fast Movement +30 ft,Déplacement accéléré
++30 ft,Fast Movement +30 ft,+9 m
+Half of Ranger’s|Favoured Enemy|bonus granted to|allies within,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,La moitié du bonus|d'ennemi juré de rôdeur|est donnée aux alliés|à moins de
+30ft,Half of Ranger’s|Favoured Enemy|bonus granted to|allies within 30ft,9m
+RANGED ATTACK,RANGED ATTACK|BONUS,BONUS
+BONUS,RANGED ATTACK|BONUS,D'ATTAQUE À DISTANCE
+Melee Damage,Melee Damage +2,Dégâts de mêlée
+Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,Score de dextérité|Pénalité:
+ft,20 ft  4 sq,m
+sq,20 ft  4 sq,ca
+DAMAGE,DAMAGE|REDUCTION,DOMMAGES
+REDUCTION,DAMAGE|REDUCTION,REDUCTION
+Heal your own wounds -,Heal your own wounds - 2 ki points,Soigner ses blessures - 
+2 ki points,Heal your own wounds - 2 ki points,2 points de Ki
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,BONUS DE
+BONUS,COMBAT MANOEUVRE|BONUS,MANOEUVRE OFFENSIVE
+DC,DC 10,DD
+Slow Fall,Slow Fall 30 ft,Chute ralentie
+30 ft,Slow Fall 30 ft,9 m
+No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,Pas d'action ce tour-ci|Perd le bonus de
+DEX,No action this round|Lose DEX bonus to AC; -2 AC,DEX
+bonus to,No action this round|Lose DEX bonus to AC; -2 AC,à la
+bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,-2 à la
+AC,No action this round|Lose DEX bonus to AC; -2 AC,CA
+RAGE!,RAGE! POWERS,POUVOIRS DE
+POWERS,RAGE! POWERS,RAGE !
+RAGE!,RAGE!|Modifier,RAGE!
+Modifier,RAGE!|Modifier,MODIFICATEUR
+Far Shot,Far Shot    Attack penalty per range increment decreases from -2 to -1,Tir de loin
+Attack penalty per range increment decreases from -2 to -1,Far Shot    Attack penalty per range increment decreases from -2 to -1,Pénalité par facteur de portée diminuée de -2 à -1
+STAMINA,STAMINA POINTS,ENDURANCE
+Resist Nature’s Lure,Resist Nature’s Lure|+4 to saves against the fey and plants,Résister à l'Appel de la Nature
++4 to saves against the fey and plants,Resist Nature’s Lure|+4 to saves against the fey and plants,+4 aux jets de sauvegarde contre les Fées et les Plantes
+WILL,WILL SAVE DC,JET DE SAUVEGARDE DE
+SAVE DC,WILL SAVE DC,VOLONTÉ
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,DEGRÉ DE
+DEFENCE,COMBAT MANOEUVRE|DEFENCE,MANOEUVRE DÉFENSIVE
+Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,Échappatoire
+Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,Ne provoque pas d'Ad'O quand adjacent à un allié
+Back to Back,Back to Back    +2 to AC against flanking,Dos à dos
+to,Back to Back    +2 to AC against flanking,à la
+AC,Back to Back    +2 to AC against flanking,CA
+against flanking,Back to Back    +2 to AC against flanking,contre les tenailles
+TEAMWORK,TEAMWORK|FEATS,DONS
+FEATS,TEAMWORK|FEATS,D'ÉQUIPE
+EXOTIC WEAPON ATTACK,EXOTIC WEAPON ATTACK BONUS,BONUS
+BONUS,EXOTIC WEAPON ATTACK BONUS,ATTAQUE A L'ARME EXOTIQUE
+DC,DC 20,DD
+(which grants,(which grants +12 to Acrobatics),(qui donne
+to Acrobatics),(which grants +12 to Acrobatics),à Acrobaties)
+Dead Shot,"Dead Shot    Roll all attacks, additional hits add dice",Tir Mortel
+"Roll all attacks, additional hits add dice","Dead Shot    Roll all attacks, additional hits add dice","Lance toutes les attaques, coups supplémentaires ajoutent des dés"
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|DEFENCE,COMBAT|MANOEUVRE
+DEFENCE,COMBAT|MANOEUVRE|DEFENCE,DEFENSE
+"to Strength, Dexterity and Wisdom score","+2 to Strength, Dexterity and Wisdom score","Au score de Force, Dextérité et Savoir."
+HEXES,HEXES    Claim and abandon hexes,HEXAGONES
+Claim and abandon hexes,HEXES    Claim and abandon hexes,Revendiquer et abandonner des hexagones
+BASE|ATTACK,BASE|ATTACK BONUS,BONUS DE BASE
+BONUS,BASE|ATTACK BONUS,À L'ATTAQUE
+Damage Reduction 2/,Damage Reduction 2/―,Réduction de dégâts 2/
+(which grants,(which grants +4 to Acrobatics checks for jumping),qui donne
+to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
+ATTACK,ATTACK|BONUS,BONUS
+BONUS,ATTACK|BONUS,D'ATTAQUE
+RAGE!,RAGE! 1/day,RAGE!
+1/day,RAGE! 1/day,1/jour
+Fast Movement,Fast Movement +60 ft,Déplacement accéléré
++60 ft,Fast Movement +60 ft,+18 m
+Precise shot,Precise shot    No penalty firing into melee,Tir de précision
+No penalty firing into melee,Precise shot    No penalty firing into melee,Pas de malus pour tirer dans la mêlée
+loyalty,+1 loyalty,loyauté
+Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",Science du partenaire de feinte
+"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO","Quand un allié feinte, reçoit une Ad'O"
+Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,Maîtrise des armes
+Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,Zone de critique augmentée et confirme toujours les coups critiques
+OPPOSED,OPPOSED SCHOOLS,ECOLES
+SCHOOLS,OPPOSED SCHOOLS,INTERDITE
+Strength rating,Strength rating    (composite bow),Rang de Force
+(composite bow),Strength rating    (composite bow),(arc composite)
+FASCINATE,FASCINATE|MAX AUDIENCE,FASCINER
+MAX AUDIENCE,FASCINATE|MAX AUDIENCE,AUDIENCE MAX
+Wild Empathy,Wild Empathy|Improve the attitude of an animal,Empathie sauvage
+Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,Améliore l'attitude d'un animal
+Martial Artist cannot use ki abilities without gaining a,Martial Artist cannot use ki abilities without gaining a ki pool from another class,L'artiste martial ne peut pas utiliser des techniques de ki sans gagner une
+ki pool,Martial Artist cannot use ki abilities without gaining a ki pool from another class,réserve de ki
+from another class,Martial Artist cannot use ki abilities without gaining a ki pool from another class,d'une autre classe
+Improved Precise Shot,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Science du tir de précision
+Ignore the penalties for partial cover or partial concealment,Improved Precise Shot    Ignore the penalties for partial cover or partial concealment,Ignore les pénalités d'abri et de camouflage
+Two-weapon Rend,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",Éventration à deux armes
+"If you hit with both weapons, do an extra 1d10 + (","Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage","En touchant avec les deux armes, inflige 1d10 bonus + ("
+STR,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",FOR
+× 1½) damage,"Two-weapon Rend    If you hit with both weapons, do an extra 1d10 + (STR × 1½) damage",× 1½) dégâts
+Focused shot,Focused shot    Within 30ft,Tir avec concentration
+Within,Focused shot    Within 30ft,Dans les
+30ft,Focused shot    Within 30ft,9m
+ARMOUR,ARMOUR CLASS,CLASSE
+CLASS,ARMOUR CLASS,D'ARMURE
+REFLEX,REFLEX SAVE,JET DE
+SAVE,REFLEX SAVE,RÉFLEXES
+Woodland Stride,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Déplacement Facilité
+Move through undergrowth at normal speed|and taking no damage,Woodland Stride|Move through undergrowth at normal speed|and taking no damage,Progresse à vitesse normale dans les taillis|ne prenant aucun dégâts
+Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,Charge coordonnée
+Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,Charger le même adversaire qu'un allié
 Feint Partner,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",Partenaire de feinte
 "When ally feints, enemy loses","Feint Partner    When ally feints, enemy loses DEX bonus to AC","Quand un allié feinte, l'ennemi perd son bonus de"
 DEX,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",DEX
 bonus to,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",à la
 AC,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",CA
-Heal your own wounds -,Heal your own wounds - 2 ki points,Soigner ses blessures - 
-2 ki points,Heal your own wounds - 2 ki points,2 points de Ki
+= 1d8,= 1d8 +,= 1d8
+STARBOARD,STARBOARD SHIELDS,BOUCLIERS
+SHIELDS,STARBOARD SHIELDS,TRIBORD
+Duck and Cover,Duck and Cover    Take ally’s result on reflex save,A l'abri
+Take ally’s result on reflex save,Duck and Cover    Take ally’s result on reflex save,Prend le résultat d'un allié sur un jet de réflexes
+dodge bonus for each adjacent enemy,+1 dodge bonus for each adjacent enemy,bonus d'evitemen pour chaque ennemi adjacent
+Paired Opportunists,Paired Opportunists    When adjacent,Couple d’opportunistes
+When adjacent,Paired Opportunists    When adjacent,Quand adjacent
+DEFLECTION,DEFLECTION|BONUS,BONUS
+BONUS,DEFLECTION|BONUS,DE PARADE
+FORTIDE,FORTIDE|SAVING THROW,JET DE
+SAVING THROW,FORTIDE|SAVING THROW,VIGUEUR
+"loyalty,","+3 loyalty, +4bp consumption","loyauté,"
++4bp,"+3 loyalty, +4bp consumption",+4pc
+consumption,"+3 loyalty, +4bp consumption",consommation
+You class determines the number of,You class determines the number of skill ranks you get at|each level (always at least 1).,Votre classe détermine le nombre de 
+skill ranks,You class determines the number of skill ranks you get at|each level (always at least 1).,rangs de compétences
+you get at|each level (always at least 1).,You class determines the number of skill ranks you get at|each level (always at least 1).,|que vous avez à chaque niveau (au moins 1).
+Pinpoint Targeting,"Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Viser juste
+"Make a single attack that bypasses shields, armour and natural armour","Pinpoint Targeting    Make a single attack that bypasses shields, armour and natural armour",Pas de bonus d’armure ni de bouclier contre une attaque à distance
+Slip magically between spaces -,Slip magically between spaces - 2 ki points,Se faufile magiquement dans les espaces -
+2 ki points,Slip magically between spaces - 2 ki points,2 points de ki
+KNOWLEDGE,KNOWLEDGE |BONUS,CONNAISSANCE
+BONUS,KNOWLEDGE |BONUS,BONUS
+WIS,(WIS minimum 1),SAG
+minimum 1),(WIS minimum 1),minimum 1)
+EVIL DAMAGE,EVIL DAMAGE|BONUS,BONUS AUX DÉGÂTS
+BONUS,EVIL DAMAGE|BONUS,CONTRE LE MAL
+Greater,Greater RAGE!,RAGE !
+RAGE!,Greater RAGE!,de grand Berserker
+Expert Loading,Expert Loading    Keep a broken gun from exploding on a misfire,Expert en rechargement
+Keep a broken gun from exploding on a misfire,Expert Loading    Keep a broken gun from exploding on a misfire,Empêche une arme d'exploser en cas de long feu
+IMMUNE TO,IMMUNE TO|FEAR,IMMUNISÉ CONTRE
+FEAR,IMMUNE TO|FEAR,LA PEUR
+DC,DC +1,DD
+Level,25’+ 5’ × (Level ÷ 2),Niveau
+HIT,HIT POINTS,POINTS DE
+POINTS,HIT POINTS," VIE"
+TRAP SENSE,TRAP SENSE|BONUS,SENS DES PIEGES
+BONUS,TRAP SENSE|BONUS,BONUS
+Queen Consort or Prince Consort,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,Reine Consort ou Prince Consort
+– May rule if the Ruler is absent. but must pass loyalty check or,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,"- Peut diriger si le Dirigeant est absent, mais doit passer un test de loyauté ou"
+unrest,Queen Consort or Prince Consort – May rule if the Ruler is absent. but must pass loyalty check or +1 unrest,d'insécurité
+May roll,May roll 2d8 in place of your expertise bonus.,Dé de Maîtrise : vous pouvez lancer 
+2d8,May roll 2d8 in place of your expertise bonus.,2d8
+in place of your expertise bonus.,May roll 2d8 in place of your expertise bonus.," au lieu de 1d8+4."
+UNREST,UNREST LEVEL,NIVEAU
+LEVEL,UNREST LEVEL,D'INSÉCURITÉ
+Liaises with the people,"Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",En liaison avec le peuple
+"– If vacant,","Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",- Si vacant
+"loyalty,","Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",de loyauté
+unrest at upkeep and no bonus from festivals,"Liaises with the people – If vacant, -2 loyalty, +1 unrest at upkeep and no bonus from festivals",troubles lors des corvées et pas de bonus pour les festivals
+Slow Fall,Slow Fall 90 ft,Chute ralentie
+90 ft,Slow Fall 90 ft,27 m
+Class skills get a,Class skills get a +3 bonus once you have 1 rank.,Comp. de classe : 
+bonus once you have 1 rank.,Class skills get a +3 bonus once you have 1 rank.," dès que vous avez un rang."
+FAMILIAR,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,FAMILIER
+ANIMAL COMPANION,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,COMPAGNON ANIMAL
+MOUNT,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,MONTURE
+SUMMONED CREATURE,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,CRÉATURE INVOQUÉE
+ARMOUR CLASS,ARMOUR CLASS|BONUS,CLASSE D'ARMURE
+BONUS,ARMOUR CLASS|BONUS,BONUS
+RESOLVE,RESOLVE POINTS,PERSÉVÉRANCE
+POINTS,RESOLVE POINTS,
+Two-weapon Defence,Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Défense à deux armes
++1 shield bonus to AC for using two weapons (+2 if fighting defensively),Two-weapon Defence    +1 shield bonus to AC for using two weapons (+2 if fighting defensively),Bonus de bouclier de +1 en combat à deux armes (+2 en combat défensif)
+1d10,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,1d10
+2d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,2d8
+3d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,3d8
+4d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,4d8
+6d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,6d8
+8d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,8d8
+12d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,12d8
+CONDITIONAL,CONDITIONAL MODIFIERS,MODIFICATEURS DE 
+MODIFIERS,CONDITIONAL MODIFIERS,CIRCONSTANCES
+WILL|SAVE,WILL|SAVE|BONUS,VOLONTE|SAUVEGARDE
+BONUS,WILL|SAVE|BONUS,BONUS
+Pack Attack,Pack Attack    Ally’s attack allows you to take 5ft step,Attaque en meute
+Ally’s attack allows you to take,Pack Attack    Ally’s attack allows you to take 5ft step,L'attaque d'un allié vous permet de faire un pas de côté
+5ft,Pack Attack    Ally’s attack allows you to take 5ft step,Pas de
+step,Pack Attack    Ally’s attack allows you to take 5ft step,côté
+Enforce law and order,"Enforce law and order – If present, -1 unrest at upkeep",Applique la loi et l'ordre
+"– If present,","Enforce law and order – If present, -1 unrest at upkeep","- Si présent,"
+unrest at upkeep,"Enforce law and order – If present, -1 unrest at upkeep",d'insécurité au maintien
+COMBAT MANOEUVRE,COMBAT MANOEUVRE ARMOUR CLASS,MANOEUVRE DE COMBAT
+ARMOUR CLASS,COMBAT MANOEUVRE ARMOUR CLASS,CLASSE D'ARMURE
+Points,10|Points," Points"
+USES,USES|PER DAY,UTILISATIONS
+PER DAY,USES|PER DAY,PAR JOUR
+Cleaving Finish,Cleaving Finish    Extra attack if enemy is knocked out,Coup d'enchaînement
+Extra attack if enemy is knocked out,Cleaving Finish    Extra attack if enemy is knocked out,Attaque supplémentaire si l'ennemi est inconscient
+FORTITUDE,FORTITUDE|SAVING THROW,JET DE 
+SAVING THROW,FORTITUDE|SAVING THROW,VIGUEUR
+DAMAGE,DAMAGE ROLL,JET DE 
+ROLL,DAMAGE ROLL,DÉGÂT
+A Thousand Faces,A Thousand Faces|Change appearance at will,Mille Visages
+Change appearance at will,A Thousand Faces|Change appearance at will,Changer d'apparence à volonté
+BASE ATTACK,BASE ATTACK|BONUS,BONUS DE BASE
+BONUS,BASE ATTACK|BONUS,A L'ATTAQUE
+Manyshot,Manyshot    Shoot two arrows simultaneously,Feu nourri
+Shoot two arrows simultaneously,Manyshot    Shoot two arrows simultaneously,Tir de deux flèches à la fois
+HULL,HULL POINTS,POINTS
+POINTS,HULL POINTS,DE COQUE
+BASE|ATTACK,BASE|ATTACK|BONUS,BONUS DE|BASE À L'
+BONUS,BASE|ATTACK|BONUS,ATTAQUE
+MAX WEAPON,MAX WEAPON|ENHANCEMENT,BONUS MAXIMUM
+ENHANCEMENT,MAX WEAPON|ENHANCEMENT,DE L'ARME
+(which grants,(which grants +8 to Acrobatics checks for jumping),qui donne
+to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
+Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,DD Acrobaties = Adversaire
+CMD,Acrobatics DC = Opponent’s CMD,CMD
+Cost:,Cost: (1 pt to fix as a move action),Coût:
+(1 pt to fix as a move action),Cost: (1 pt to fix as a move action),(1 pt pour réparer en action de mouvement)
+GREATER,GREATER RAGE!,SUPERIEURE
+RAGE!,GREATER RAGE!,RAGE!
+KINETIC,KINETIC ARMOUR CLASS,CLASSE D'ARMURE
+ARMOUR CLASS,KINETIC ARMOUR CLASS,CINÉTIQUE
+Slow Fall,Slow Fall 40 ft,Chute ralentie
+40 ft,Slow Fall 40 ft,12 m
+Damage Reduction 3/,Damage Reduction 3/―,Réduction de dégâts 3/
+"economy,","+3 economy, -4 loyalty","économie,"
+loyalty,"+3 economy, -4 loyalty",loyauté
+Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,Mur de boucliers
+to,Shield Wall    +1 / +2 to AC when both using shields,à la
+AC,Shield Wall    +1 / +2 to AC when both using shields,CA
+when both using shields,Shield Wall    +1 / +2 to AC when both using shields,quand chacun utilise un bouclier
+ARCANE,ARCANE|POOL,RÉSERVE
+POOL,ARCANE|POOL,MAGIQUE
+CONCENTRATION,CONCENTRATION|SAVE DC,DD DU JET DE
+SAVE DC,CONCENTRATION|SAVE DC,CONCENTRATION
+Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,Manœuvres coordonnées
+to,Coordinated Manoeuvres    +2 to CMB,au
+CMB,Coordinated Manoeuvres    +2 to CMB,BMO
+Oversees international relations,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",Supervise les relations internationales
+"– If vacant,","Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts","- Si vacant,"
+stability and cannot issue Diplomatic or Exploration Edicts,"Oversees international relations – If vacant, -2 stability and cannot issue Diplomatic or Exploration Edicts",en stabilité et impossible d'émettre des édits diplomatiques et d'exploration
+RAGE!,RAGE!|PER DAY,RAGE!
+PER DAY,RAGE!|PER DAY,PAR JOUR
+AC,AC +1,CA
+Masterwork,Masterwork     Doesn’t stack with magic bonus,De maître
+Doesn’t stack with magic bonus,Masterwork     Doesn’t stack with magic bonus,Ne se cumule pas avec les bonus magiques
+Coordinated Defence,Coordinated Defence    +2 to CMD,Défense coordonnée
+to,Coordinated Defence    +2 to CMD,au
+CMD,Coordinated Defence    +2 to CMD,DMD
+Craft -,Craft - INT|Perform - CHA,Artisanat -
+INT,Craft - INT|Perform - CHA,INT
+Perform -,Craft - INT|Perform - CHA,Représentation -
+CHA,Craft - INT|Perform - CHA,CHA
+Two-weapon fighting,Two-weapon fighting    Reduces penalty to:,Combat à deux armes
+Reduces penalty to:,Two-weapon fighting    Reduces penalty to:,Réduit les pénalités à :
+Off-hand weapon,Off-hand weapon    (2 less for a light weapon),Arme secondaire
+less for a light weapon),Off-hand weapon    (2 less for a light weapon),en moins pour une arme légère)
+MILITARY,MILITARY    Create armed units (comes from allocation for settling towns),ARMÉE
+Create armed units (comes from allocation for settling towns),MILITARY    Create armed units (comes from allocation for settling towns),Créer des unités armées (provient de l'allocation pour la création de villes)
+Outflank,Outflank    When flanking,Grande tenaille
+When flanking,Outflank    When flanking,En prise en tenaille
 "stability,","+3 stability, +4bp consumption","stabilité,"
 +4bp,"+3 stability, +4bp consumption",+4pc
 consumption,"+3 stability, +4bp consumption",consommation
-For skills where you have both expertise and,"For skills where you have both expertise and Skill Focus,|roll the expertise die twice, take better result.",Pour les compétences pour lesquelles vous avez l'expertise|et 
-Skill Focus,"For skills where you have both expertise and Skill Focus,|roll the expertise die twice, take better result.",Talent
-",|roll the expertise die twice, take better result.","For skills where you have both expertise and Skill Focus,|roll the expertise die twice, take better result.",", lancez le dé deux fois et prenez le meilleur résultat."
-COMBAT MANOEUVRE,COMBAT MANOEUVRE ARMOUR CLASS,MANOEUVRE DE COMBAT
-ARMOUR CLASS,COMBAT MANOEUVRE ARMOUR CLASS,CLASSE D'ARMURE
-COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|DEFENCE,COMBAT|MANOEUVRE
-DEFENCE,COMBAT|MANOEUVRE|DEFENCE,DEFENSE
-Cheat Death,Cheat Death    Restore hp equal to all remaining grit,Feinter la faucheuse
-Restore hp equal to all remaining grit,Cheat Death    Restore hp equal to all remaining grit,Récupère 1 pv en dépensant toute l'audace
-FORTIDE,FORTIDE|SAVING THROW,JET DE
-SAVING THROW,FORTIDE|SAVING THROW,VIGUEUR
-Greater Two-weapon Fighting,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Combat à deux armes supérieur
-Third attack with your off-hand weapon,Greater Two-weapon Fighting    Third attack with your off-hand weapon,Troisième attaque avec l’arme secondaire
-RAGE!,RAGE!|PER DAY,RAGE!
-PER DAY,RAGE!|PER DAY,PAR JOUR
-"economy,","+4 economy, -8 loyalty","économie,"
-loyalty,"+4 economy, -8 loyalty",loyauté
-DURATION,DURATION|PER DAY,DUREE
-PER DAY,DURATION|PER DAY,PAR JOUR
-sq,6 sq,ca
-FLAT-FOOTED,FLAT-FOOTED|CMD,PRIS AU DEPOURVU
-CMD,FLAT-FOOTED|CMD,DMD
-STRENTH|SCORE,STRENTH|SCORE|BONUS,FORCE|SCORE
-BONUS,STRENTH|SCORE|BONUS,BONUS
-DC,DC +1,DD
-FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,DÉLUGE DE COUPS
-BASE ATTACK BONUS,FLURRY OF BLOWS|BASE ATTACK BONUS,BONUS D'ATTAQUE DE BASE
-RAGE!,RAGE! DURATION,RAGE!
-DURATION,RAGE! DURATION,DUREE
-BASE|ATTACK,BASE|ATTACK|BONUS,BONUS DE|BASE À L'
-BONUS,BASE|ATTACK|BONUS,ATTAQUE
-ENERGY,ENERGY ARMOUR CLASS,CLASSE D'ARMURE
-ARMOUR CLASS,ENERGY ARMOUR CLASS,ÉNERGÉTIQUE
-INSPIRE GREATNESS,INSPIRE GREATNESS  MAX AFFECTED,INSPIRER LA GRANDEUR
-MAX AFFECTED,INSPIRE GREATNESS  MAX AFFECTED,MAX AFFECTES
-Cleave,Cleave    Extra attack if you hit,Enchaînements
-Extra attack if you hit,Cleave    Extra attack if you hit,Attaque supplémentaire si vous touchez
+"As above, but cast","As above, but cast Resurrection.|This requires that your ki pool contain at least 8 ki points.","Comme au-dessus, mais lance"
+Resurrection,"As above, but cast Resurrection.|This requires that your ki pool contain at least 8 ki points.",Résurrection
+.|This requires that your ki pool contain at least 8 ki points.,"As above, but cast Resurrection.|This requires that your ki pool contain at least 8 ki points.",.|Requiert que votre réserve de ki contienne au moins 8 points de ki.
+Lookout,Lookout    Act in surprise round if ally can act,Vigie
+Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,Peut agir dans le tour de surprise si un allié peut agir
+Assume ethereal state for 1 minute -,Assume ethereal state for 1 minute - 3 ki points,Prend une forme éthérée pendant 1 minute -
+3 ki points,Assume ethereal state for 1 minute - 3 ki points,3 points de ki
+Class,"Class represents your character’s training, and determines|your abilities.",Classe
+"represents your character’s training, and determines|your abilities.","Class represents your character’s training, and determines|your abilities.",", représente l'entraînement de votre personnage et|détermine ses capacités."
+Strength Score|Penalty:,Strength Score|Penalty: -2,Score de Force|Pénalité
+TAKE 20,TAKE 20 PER DAY,FAIRE 20
+PER DAY,TAKE 20 PER DAY,PAR JOUR
 Greater Penetrating Strike,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Attaque puissante supérieure
 Ignore damage reduction up to,Greater Penetrating Strike    Ignore damage reduction up to    10/—,Ignore la réduction des dégâts jusqu'à
+"Unless the GM says otherwise, level 1 characters have","Unless the GM says otherwise, level 1 characters have|1000 credits to spend on equipment.","Sauf avis contraire du MJ, les personnages de niveau 1 ont "
+1000 credits,"Unless the GM says otherwise, level 1 characters have|1000 credits to spend on equipment.",1000 crédits
+to spend on equipment.,"Unless the GM says otherwise, level 1 characters have|1000 credits to spend on equipment."," à dépenser en équipement."
+MIGHTY,MIGHTY RAGE!,MAITRE
+RAGE!,MIGHTY RAGE!,RAGE!
+Slow Fall,Slow Fall 60 ft,Chute ralentie
+60 ft,Slow Fall 60 ft,18 m
+Critical Focus,Critical Focus),Don pour les critiques
+(which grants,(which grants +16 to Acrobatics checks for jumping),qui donne
+to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping),aux tests d’Acrobaties relatifs à des sauts
+Commands the army,"Commands the army – If vacant, -4 loyalty",Commande l'armée
+"– If vacant,","Commands the army – If vacant, -4 loyalty","- Si vacant,"
+loyalty,"Commands the army – If vacant, -4 loyalty",en loyauté
+Haste,Haste    One extra attack at full bonus,Rapidité
+One extra attack at full bonus,Haste    One extra attack at full bonus,Une attaque supplémentaire au bonus maximal
+COMBAT|MANEUVRE,COMBAT|MANEUVRE|DEFENCE,DEGRÉ DE|MANOEUVRE
+DEFENCE,COMBAT|MANEUVRE|DEFENCE,DÉFENSIVE
+Double Slice,Double Slice    No damage penalty,Double frappe
+No damage penalty,Double Slice    No damage penalty,Pas de pénalités de dégâts
+= 1d4,= 1d4 +,= 1d4
+TERRAIN,"TERRAIN    Build farms, roads, mines etc",TERRITOIRE
+"Build farms, roads, mines etc","TERRAIN    Build farms, roads, mines etc","Construire des fermes, routes, mines etc"
+FATIGUED,FATIGUED|DURATION,FATIGUE
+DURATION,FATIGUED|DURATION,DUREE
+DAMAGE,DAMAGE BONUS,BONUS DE
+BONUS,DAMAGE BONUS,DÉGÂTS
+TURNS,TURNS PER DAY,RENVOIS
+PER DAY,TURNS PER DAY,PAR JOUR
+items = 1 bulk.,10 L items = 1 bulk.,objets = 1 volume.
+Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Considéré comme Planaire
+Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Immunisé à Charme Personne et autres effets qui|ciblent les non-planaires.|Réduction de Dommages
+10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,10/chaotique
+Precise Strike,Precise Strike    When flanking,Coup précis
+When flanking,Precise Strike    When flanking,En tenaille
+"Baron, Duke, King or Queen","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duc, Roi ou Reine"
+"– If vacant, kingdom fails all command rolls and cannot claim or develop hexes","Baron, Duke, King or Queen – If vacant, kingdom fails all command rolls and cannot claim or develop hexes","- Si vacant, le royaume rate tous les jets de commandement et ne peut pas revendiquer ou développer d'hexagone."
+ASSIGN LEADERSHIP,ASSIGN LEADERSHIP    Adjust kingdom rolls,ASSIGNER UN DIRIGEANT
+Adjust kingdom rolls,ASSIGN LEADERSHIP    Adjust kingdom rolls,Ajuster les jets du royaume
+SPECIALITY,SPECIALITY SCHOOL,ECOLE DE
+SCHOOL,SPECIALITY SCHOOL,PRÉDILECTION
+MELEE ATTACK,MELEE ATTACK|BONUS,BONUS
+BONUS,MELEE ATTACK|BONUS,D'ATTAQUE AU CÀC
+Guides religious worship,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",Guide le culte religieux
+"– If vacant,","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","- Si vacant,"
+"loyalty and stability, and","Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep","en loyauté et stabilité, et"
+unrest at upkeep,"Guides religious worship – If vacant, -2 loyalty and stability, and +1 unrest at upkeep",en insécurité au maintien
+Slow Fall,Slow Fall 80 ft,Chute ralentie
+80 ft,Slow Fall 80 ft,24 m
+TRAP SENSE,TRAP SENSE|REFLEX BONUS,SENS DES PIEGES
+REFLEX BONUS,TRAP SENSE|REFLEX BONUS,BONUS DE REFLEXES
+"loyalty,","+2 loyalty, +2bp consumption","loyauté,"
++2bp,"+2 loyalty, +2bp consumption",+2pc
+consumption,"+2 loyalty, +2bp consumption",consommation
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,RISQUE D'ÉCHEC DES
+THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,SORTS PROFANES
+Lawful:,Lawful: +2 Economy,Loyal:
+Economy,Lawful: +2 Economy,Économie
+FORTITUDE|SAVE,FORTITUDE|SAVE DC,DD DU JET|DE
+DC,FORTITUDE|SAVE DC,VIGUEUR
+(which grants,(which grants +24 to Acrobatics),(qui donne 
+to Acrobatics),(which grants +24 to Acrobatics),à Acrobaties)
+Sneaking Precision,Sneaking Precision    Apply a critical effect to the," Précision sournoise"
+Apply a critical effect to the,Sneaking Precision    Apply a critical effect to the,Applique un effet critique à la
 Rapid Shot,"Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty",Tir rapide
 "When making a full-round attack, get one additional attack in return for a -2 penalty","Rapid Shot    When making a full-round attack, get one additional attack in return for a -2 penalty","Lorsd'une attaque à outrance, faites une attaque de plus en prenant une pénalité de -2"
-DEFLECTION,DEFLECTION|BONUS,BONUS
-BONUS,DEFLECTION|BONUS,DE PARADE
-Damage Reduction 4/,Damage Reduction 4/―,Réduction de dégâts 4/
-Improved Back to Back,Improved Back to Back    +2 to ally’s AC,Science du combat dos à dos
-to ally’s,Improved Back to Back    +2 to ally’s AC,à la CA d'un allié
-AC,Improved Back to Back    +2 to ally’s AC,CA
-Collect taxes and manage finances,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",Collecte les taxes et gère les finances
-"– If vacant,","Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes","- Si vacant,"
-economy and kingdom can’t levy taxes,"Collect taxes and manage finances – If vacant, -4 economy and kingdom can’t levy taxes",en économie et le royaume ne peut pas lever de taxes
-STAMINA,STAMINA POINTS,POINTS
-POINTS,STAMINA POINTS,D'ENDURANCE
-"economy,","+2 economy, -2 loyalty","économie,"
-loyalty,"+2 economy, -2 loyalty",loyauté
+Enforce rural justice,"Enforce rural justice – If vacant, -4 economy",Applique la justice rurale
+"– If vacant,","Enforce rural justice – If vacant, -4 economy","- Si vacant,"
+economy,"Enforce rural justice – If vacant, -4 economy",en économie
+DC,DC 25,DD
+Melee Attack,Melee Attack +1,Attaque de càc
+INSPIRE HEROICS,INSPIRE HEROICS  MAX AFFECTED,INSPIRATION HEROIQUE
+MAX AFFECTED,INSPIRE HEROICS  MAX AFFECTED,MAX AFFECTES
+RAGE!,RAGE! POWERS |KNOWN,POUVOIRS DE
+POWERS,RAGE! POWERS |KNOWN,RAGE !
+KNOWN,RAGE! POWERS |KNOWN,CONNUS
+(which grants,(which grants +8 to Acrobatics),(qui donne
+to Acrobatics),(which grants +8 to Acrobatics),à Acrobaties)
+KINETIC,KINETIC AC,CA
+AC,KINETIC AC,KINÉTIQUE
+Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,Instinct naturel
++2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,+2 en Connaissances (Nature) et Survie
 + 10 to speed|unless wearing|heavy armour,,Vitesse +3m|sauf en|armure lourde
 BANNER,,BANNIÈRE
 5% of PCU added to shields equally,,5% d'UE ajouté aux boucliers équitablement
@@ -1042,8 +1041,9 @@ Take your first level,,Prend ton premier niveau
 BARBARIAN,,BARBARE
 AI,,IA
 PRECISE TARGETING,,Ciblage précis
+Tier <starship>,,Échelon
 Barbarian,,Barbare
-40ft,,"12,00 m"
+40ft,,12m
 1d6 +,,1d6 +
 Can be counterspelled,,Peut être contré par un contre-sort
 Bear’s Endurance,,Endurance de l'ours
@@ -1130,7 +1130,7 @@ AURA OF COURAGE,,AURA DE COURAGE
 Craft Poisons,,Création de poisons
 1d6,,1d6
 Medusa’s Wrath,,Fureur de la Méduse
-Search,,Recherche
+Search,,Fouille
 Casting time,,Temps d'incantation
 Greater Arcane Luck,,Science de la Chance Magique
 Damage Reduction,,Réduction de dégâts
@@ -1272,7 +1272,7 @@ EAC,,CAE
 Gnome,,Gnôme
 "Treat hands, feet, knees and elbows as weapons",,"Traiter les mains, pieds, genoux et coudes comme des armes"
 "To study the same foe within 24 hours, spend 1 inspiration.",,"Pour en apprendre sur le meme ennemi en 24h, depense 1pt d'inspiration."
-Monk Level,,Niveau de moine
+Monk Level,,Niveau de Moine
 AURA,,AURA
 Craft (winemaking),,Artisanat (vin)
 Scale|factor,,Facteur|d’échelle
@@ -1405,7 +1405,7 @@ Creature|Level,,Niveau de|la créature
 POPULATION,,POPULATION
 Spend 1 resolve to fly 1½ speed (turning,,Dépensez 1 pp pour déplacer à vitesse 1½ (virer 
 Investigator|Level,,Niveau|d'Investigateur
-15ft,,"4,50 m"
+15ft,,"4,5m"
 Trap Sense +4,,Sens des pièges +4
 Weapon Focus  (,,Arme de prédilection (
 Make your target flat-footed or off-target for 1 round.,,Votre cible est prise au dépourvu ou imprécise pour 1 tour.
@@ -1514,7 +1514,7 @@ Biometrics,,Données biom.
 Spend 1 resolve and diplomacy to allow all|crew members to take the better of two rolls.,,Dépensez 1 pp et réussissez un test de diplomatie|pour que tout l’équipage prenne le meilleur de deux jets.
 ARMOUR CLASS,,CLASSE D'ARMURE
 FLY,,PROPULSION
-Spell|Save DC,,DD Jets|de Sauv.
+Spell|Save DC,,Sort|DD sauvegarde
 Enhancement|Cost,,Coût d'amélioration
 HEALING|POINTS,,POINTS DE VIE|SOIGNES
 Examine magical auras to learn about a|magical object or person.,,Examine les auras magique pour apprendre au sujet d'|un objet magique ou une personne
@@ -1737,6 +1737,7 @@ ECHO EFFECT,,EFFET D'ECHO
 1d4,,1d4
 FALL,,CHUTE
 Craft (carver),,Artisanat (sculpture)
+10 L items = 1 bulk.,,10 objets F = 1 volume.
 Half-orc,,Demi-orc
 Weapon type,,Type d'arme
 Bonus to ally’s concentration and caster level checks.|Only applies half when used to support an arcane spellcaster oran ally using a magical item.,,Bonus à la concentration et aux tests de niveau de lanceur de sort d'un allié.|Ne s'applique qu'à moitié lors du support d'un lanceur de sorts profanes ou d'un allié utilisant un objet magique.
@@ -1744,7 +1745,7 @@ Heavy Load,,Charge lourde
 From level 3:,,Depuis le niveau 3:
 DUAL IDENTITY,,DOUBLE IDENTITÉ
 Summoned|Today,,Convoqués|Aujourd'hui
-Caster|Level,,NLS
+Caster|Level,,Niveau de|Lanceur de Sort
 Morale|Bonus,,Bonus|de moral
 FORE,,PROUE
 "As a move action, designate a target for your|exocortex to track. As long as you can see the target,|get constant status feedback and a bonus to hit.",,"En une action simple, désignez une cible à verrouiller.|Tant que vous voyez la cible, vous avez ses infos et|techniques de combat et un bonus à l’attaque."
@@ -1849,6 +1850,7 @@ Enemies within 10ft are shaken for 1rd + 1rd per 5 over the DC.,,Les ennemis à 
 +6 Constitution,,+6 Constitution
 INT - 12,,INT - 12
 "Succeed at a hacking check by 20 or more to gain|root access, allowing unrestricted access.",,"Réussissez un jet de piratage d’au moins 20 points|pour avoir un accès racine, sans aucune restriction."
+TIER <starship>,,ÉCHELON
 Spell Save DC = 10 + INT + Spell Level,,DD de jet de sauvegarde d'un sort = 10 + INT + niveau de sort
 LEADERSHIP ROLES,,RÔLES DE COMMANDEMENT
 Use any skill as if you were trained,,Utiliser n'importe quelle compétence comme si vous étiez formé
@@ -2151,6 +2153,7 @@ Remember to role-play your character traits.,,Souvenez-vous de jouer les traits 
 STEP THREE,,ÉTAPE TROIS
 HEX|TOKENS,,JETONS|HEXAGONES
 2d10,,2d10
+Force their gunners to take the|worse of two rolls.,,Leurs canonniers prennent|le moins bon de 2 jets.
 Climb Speed,,Vitesse d'escalade
 Mass Suggestion,,Suggestion de masse
 Use Rope,,Utilise une corde
@@ -2188,7 +2191,7 @@ CHOICES,,CHOIX
 Range:,,Portée:
 Bonus|Points,,Bonus|Points
 BARDIC KNOWLEDGE,,SAVOIR BARDIQUE
-10ft,,3 m
+10ft,,3m
 MAX BURN,,BRÛLURE MAX.
 Hand-held device,,Appareil en main
 SPECIALISATION,,SPÉCIALISATION
@@ -2207,7 +2210,7 @@ Feat Sharing|Today,,Partage de Dons|Aujourd'hui
 Perform (wind),,Représentation (instruments à vent)
 Spouse,,Épouse
 HEALTH,,SANTE
-Base Attack|Bonus,,Bonus de Base|à l'Attaque
+Base Attack|Bonus,,Bonus d'attaque|de base
 Penalty,,Pénalité
 Targeting,,Cibler
 FAVOURED ENEMY,,ENNEMI JURE
@@ -2224,10 +2227,10 @@ Still Mind,,Sérénité
 Craft (calligraphy),,Artisanat (calligraphie)
 CLASS ABILITY,,CAPACITÉ DE CLASSE
 DOUBLE DEBILITATION,,DOUBLE HANDICAP
-"Come up with a cool idea for your character. Figure out where they|come from, how their background shaped them and why they’ve|chosen to be an adventurer.|Use extra pages if necessary.",,"Trouver une idée sympathique pour votre personnage. Choisissez d'où|il vient, comment son histoire le définit et pourquoi il|a choisi de devenir un aventurier.|Utiliser des pages supplémentaires si nécessaire."
+"Come up with a cool idea for your character. Figure out where they|come from, how their background shaped them and why they’ve|chosen to be an adventurer.|Use extra pages if necessary.",,"Trouvez une idée sympathique pour votre personnage. Choisissez d'où|il vient, comment son histoire le définit et pourquoi il|a choisi de devenir un aventurier.|Utiliser des pages supplémentaires si nécessaire."
 MALE,,HOMME
 Paralysed,,Paralysé
-MAP|TOKEN,,PION
+MAP|TOKEN,,JETON|DE CARTE
 CRAFT MAGIC ITEM,,FABRICATION D'OBJETS MAGIQUES
 SHOCK GRID,,RÉS. DE SURTENSION
 Telepathic Speech,,Message télépathique
@@ -2492,7 +2495,7 @@ Spirit Magic,,Magie spirituelle
 Craft (alchemy),,Artisanat (alchimie)
 "Computers check to aim next attack at one|system. On a 19 or 20, deal critical damage.",,Informatique : dégâts critiques sur 19 ou 20|sur un système à la prochaine attaque.
 Performance,,Performance
-Tier,,Échelon
+Tier,,hhh
 Credits,," Crédits"
 ABILITY SCORE,,SCORE DE CARACTERISTIQUE
 Torso,,Torse
@@ -2702,7 +2705,7 @@ Two-weapon Rend,,Éventration à deux armes
 DEBTS,,DETTES
 SAVING THROW,,JET DE SAUVEGARDE
 Spirit|Power,,Pouvoir|d'esprit
-Base|Spells,,Base|Sorts
+Base|Spells,,Sorts|de base
 Gozran,,Gozran
 +4 Strength  +4 Constitution  +2 Will  -2 AC,,+4 Force +4 Constitution +2 Volonté -2 CA
 INT - 4,,INT - 4
@@ -2851,9 +2854,9 @@ Knowledge - INT|Profession - WIS,,Connaissance - INT|Profession - SAG
 Illusion,,Illusion
 "Computers check to aim next attack at one system.|On a 19 or 20, deal critical damage.",,Informatique : dégâts critiques sur 19 ou 20|à un système à la prochaine attaque.
 "When making a full attack with operative melee or small|arms, make 3 attacks.",,"Lors d’attaque à outrance avec des armes légères ou de|corps à corps d’Agent, faites 3 attaques."
-20ft,,"6,00 m"
+20ft,,6m
 TRUE AI,,VÉRITABLE IA
-Skill|Bonus,,Bonus de|compétence
+Skill|Bonus,,Compétence|Bonus
 ADVANCED RIG,,INTERFACE ÉVOLUÉE
 Damage,,Dégâts
 Improved Uncanny Dodge,,Esquive instinctive supérieure
@@ -3142,6 +3145,7 @@ DRONE,," DRONE"
 "Equipment does not meld between Humanoid and|Hubrid forms, but does with Animal form.",,"L'équipement ne se fond pas entre les formes humanoïde|et hybride, mais le fait avec la force animale."
 Close,,Courte
 SELF-CHARGING,,AUTO-ALIMENTÉ
+"When entering a stellar mode, and at the start of each|round if not changing stellar mode, +2 attunement points.",,Gagnez les points d’harmonisation par deux. Dépensez des|pp pour être harmonisé ou échanger vos points d’harmo.
 Trained,,Entrainé
 Send an alert message.,,Envoie un message d’alerte.
 Your custom rig’s computer gains a bonus firewall module.,,L’ordinateur de votre interface a un module pare-feu bonus.
@@ -3206,7 +3210,7 @@ LEGENDARY HERO,,HEROS LEGENDAIRE
 "Racial,|Feats",,"Racial,|Dons"
 Craft (jewelry),,Artisanat (bijoux)
 + 4 to all saving throws|+ 4 to AC,,+ 4 à tous les jets de sauvegarde|+ 4 à la CA
-Skill Ranks,,Degré de Maîtrise
+Skill Ranks,,Rangs comp.
 2 x Shortsword,,2 x Epee courte
 MYTHIC FEATS,,DONS MYTHIQUES
 Class|Level,,Classe|Niveau
@@ -3227,7 +3231,7 @@ COMMAND DC,,DD DE COMMANDEMENT
 IMPLEMENTS,,INSTRUMENTS
 WANDS,,BAGUETTES
 Fatigued,,Fatigué
-Spell|Level,,Niveau|du sort
+Spell|Level,,Sort|Niveau
 "Targets may attempt a will save. If they fail by 10, you can|dictate their actions for 1 round; otherwise they are dazed|for 1 round.",,"La cible résiste avec un jet de Volonté. Si elle échoue de 10+,|contrôlez ses actions pour un tour ; sinon elle est hébétée|pour un tour."
 Resources,,Ressources
 EXPANSION,,COMPARTIMENTS
@@ -3266,7 +3270,7 @@ Perform (oratory),,Représentation (Déclamation)
 SCAN,,SCAN
 Hero,,Héros
 BUILDINGS,,BÂTIMENTS
-Ranger|Level,,Niveau|de Rôdeur
+Ranger|Level,,Rôdeur|Niveau
 AMAZING INITIATIVE,,INCROYABLE INITIATIVE
 Effective|Character|Level,,Niveau|Effectif|Personnage
 SOCIAL,,SOCIAL
@@ -3304,7 +3308,7 @@ Racial|bonus,,Bonus|racial
 VERSATILE PERFORMANCE,,VERSATILITE ARTISTIQUE
 Mass Spell Level,,Niveau de Sorts de Masse
 Sending,,Envoi
-Class Skills,,Compétences de Classe
+Class Skills,,Talent de classe
 2pt,,2pt
 "If suspected while in either identity, gain +20 to disguise checks to|appear as your current identity.",,"Si soupçonné dans l'un de vos identités, gagne un bonus de +20 au déguisement|pour paraître tel que votre identité actuelle"
 NINJA,,NINJA
@@ -3502,7 +3506,7 @@ Arms / Wrists,,Bras / Poignets
 ENHANCEMENT,,AMÉLIORATION
 Silver,,Argent
 PRIEST,,PRÊTRE
-Proficient in heavy armour and longarms.,,Compétent dans le port d'armures lourdes et d'armes longues.
+Proficient in heavy armour and longarms.,,"Port d'armures lourdes, Maniement des armes longues"
 MIN 1,,MIN 1
 Heavy,,Lourd
 Base|Attack Bonus,,Bonus|de base à l'attaque
@@ -3539,7 +3543,7 @@ Direct,," Direct"
 Survival|Bonus,,Survie|Bonus
 Miniaturisation,," Miniaturisation"
 LIMITED AI,,IA LIMITÉE
-Evasion,,Evasion
+Evasion,,Évasion
 Kingdom’s|Income,,Revenus du|royaume
 Throw Anything,,Lancer improvisé
 Motivations,,Motivations
@@ -3562,7 +3566,7 @@ Sneak Attack,,Attaque Sournoise
 ACTIONS,,ACTIONS
 CMB,,BMO
 "Affects androids, drones, robots and technological creatures.",,"Affecte androïdes, drones, robots et créatures technologiques."
-Forgery,,Contrefaçon
+Forgery,,Forge
 Disable|Device,,Sabotage
 "detect radiation, disguise self, keen senses or unseen servant",,"détec. radiations, déguisement, sens aiguisés ou serviteur inv."
 From Level 4,,A partir du niveau 4
