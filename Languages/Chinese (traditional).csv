@@ -1,0 +1,1162 @@
+Original,Part of,Translation
+loyalty,-1 loyalty,忠誠
+Greater,Greater RAGE!,大
+RAGE!,Greater RAGE!,狂暴!
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|DEFENCE,戰技
+DEFENCE,COMBAT MANOEUVRE|DEFENCE,防護
+Level,400’+ 40’ × Level,等級
+SNEAK DAMAGE,SNEAK DAMAGE|BONUS,偷襲傷害
+BONUS,SNEAK DAMAGE|BONUS,加值
+ARMOUR|CLASS,ARMOUR|CLASS|PENALTY,防禦|等級
+PENALTY,ARMOUR|CLASS|PENALTY,減值
+Escape Route,Escape Route    Don’t provoke AoO when adjacent to an ally,確保退路
+Don’t provoke AoO when adjacent to an ally,Escape Route    Don’t provoke AoO when adjacent to an ally,同伴鄰接時不引發藉機攻擊
+GREATER,GREATER RAGE!,大
+RAGE!,GREATER RAGE!,狂暴!
+Nature Sense,Nature Sense|+2 to Knowledge (nature) and Survival,自然智識
++2 to Knowledge (nature) and Survival,Nature Sense|+2 to Knowledge (nature) and Survival,知識（自然）和生存技能檢定+2。
+FATIGUED,FATIGUED|DURATION,疲乏
+DURATION,FATIGUED|DURATION,持續時間
+Level,100’+ 10’ × Level,等級
+OPPOSED,OPPOSED SCHOOLS,對立
+SCHOOLS,OPPOSED SCHOOLS,學派
+dodge bonus for each adjacent enemy,+1 dodge bonus for each adjacent enemy,閃避加值，每個鄰接敵人一次
+Shielded Caster,Shielded Caster    +4 to concentration checks,持盾施法
+to concentration checks,Shielded Caster    +4 to concentration checks,於專注檢定
+Fast Movement,Fast Movement +30 ft,快速移動
++30 ft,Fast Movement +30 ft,+30 呎
+"stability,","+1 stability, +1bp consumption","穩定,"
++1bp,"+1 stability, +1bp consumption",+1bp
+consumption,"+1 stability, +1bp consumption",消耗
+DAMAGE,DAMAGE|BONUS,傷害
+BONUS,DAMAGE|BONUS,加值
+Treated as an Outsider,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,被視為異界生物
+Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,免疫魅惑人類及針對非異界生物的效果|傷害減免
+Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,免疫魅惑人類及針對非異界生物的效果|傷害減免10 / 混亂
+10/chaotic,Treated as an Outsider|Immune to Charm Person and other effects that|target non-outsiders.|Damage reduction 10/chaotic,10 / 混亂
+ENERGY,ENERGY|ROLL,能量
+ROLL,ENERGY|ROLL,骰數
+= 1d4,= 1d4 +,= 1d4
+WIS,(WIS minimum 1),WIS
+minimum 1),(WIS minimum 1),最少為 1)
+Allied Spellcaster,Allied Spellcaster    +2 to overcome spell resistance,團隊法師
+to overcome spell resistance,Allied Spellcaster    +2 to overcome spell resistance,於克服法術抗力的CL檢定
+INT,+ INT| per level,INT
+per level,+ INT| per level,每等級
+DURATION,DURATION|PER DAY,每日
+PER DAY,DURATION|PER DAY,可用時長
+WILL,WILL|SAVE DC,意志
+WILL|SAVE,WILL|SAVE DC,意志|豁免
+SAVE DC,WILL|SAVE DC,豁免DC
+DC,WILL|SAVE DC,DC
+Damage Reduction 3/,Damage Reduction 3/―,傷害減免3 / —
+Broken Wing Gambit,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",棄兵斷翼
+Grant,"Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",敵人獲得
+", get attack of opportunity","Broken Wing Gambit    Grant +2 / +2, get attack of opportunity",",引發藉機攻擊"
+Mountain Stance,"Mountain Stance|Immune to petrification, +4 to saves and CMDagainst attempts to move",卓然而立
+"Immune to petrification, +4 to saves and CMDagainst attempts to move","Mountain Stance|Immune to petrification, +4 to saves and CMDagainst attempts to move",免疫石化，對抗移位效果戰技時豁免或CMD有+4加值
+REFLEX,REFLEX SAVE,反射
+SAVE,REFLEX SAVE,豁免
+Coordinated Charge,Coordinated Charge    Charge the same foe as an ally,協同衝鋒
+Charge the same foe as an ally,Coordinated Charge    Charge the same foe as an ally,與同伴同時發動衝鋒
+1d10,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,1d10
+2d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,2d8
+3d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,3d8
+4d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,4d8
+6d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,6d8
+8d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,8d8
+12d8,1d10 → 2d8 → 3d8 → 4d8 → 6d8 → 8d8 → 12d8,12d8
+ATTACK,ATTACK|BONUS,攻擊
+BONUS,ATTACK|BONUS,加值
+Weapon Mastery,Weapon Mastery    Increased critical range and always confirm critical hits,武器宗師
+Increased critical range and always confirm critical hits,Weapon Mastery    Increased critical range and always confirm critical hits,重擊確認自動成功，並且重擊時的傷害倍率將會額外加1
+"economy,","+1 economy, -1 loyalty","經濟,"
+loyalty,"+1 economy, -1 loyalty",忠誠
+FLAT-FOOTED,FLAT-FOOTED AC,措手不及
+AC,FLAT-FOOTED AC,AC
+Purity of Body,Purity of Body|Immune to all diseases,百病不侵
+Immune to all diseases,Purity of Body|Immune to all diseases,免疫所有疾病
+loyalty,+1 loyalty,忠誠
+TRAP SENSE,TRAP SENSE|BONUS,陷阱感知
+BONUS,TRAP SENSE|BONUS,加值
+RAGE!,RAGE!|TODAY,今日
+TODAY,RAGE!|TODAY,狂暴!
+KNOWLEDGE,KNOWLEDGE |BONUS,知識
+BONUS,KNOWLEDGE |BONUS,加值
+"stability,","+2 stability, +2bp consumption","穩定,"
++2bp,"+2 stability, +2bp consumption",+2bp
+consumption,"+2 stability, +2bp consumption",消耗
+RAGE!,RAGE!  DURATION|PER DAY,狂暴!
+DURATION,RAGE!  DURATION|PER DAY,每日
+PER DAY,RAGE!  DURATION|PER DAY,持續時間
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE|THRESHOLD,奧術失敗率
+THRESHOLD,ARCANE SPELL FAILURE|THRESHOLD,閾值
+Cavalry Formation,"Cavalry Formation    Share space, charge through allied mount",騎兵列隊
+"Share space, charge through allied mount","Cavalry Formation    Share space, charge through allied mount",共享空間，衝鋒時互不阻擋
+Duck and Cover,Duck and Cover    Take ally’s result on reflex save,庇護
+Take ally’s result on reflex save,Duck and Cover    Take ally’s result on reflex save,使用盟友的反射豁免結果
+EVIL DAMAGE,EVIL DAMAGE|BONUS,邪惡傷害
+BONUS,EVIL DAMAGE|BONUS,加值
+FEAR EFFECT,FEAR EFFECT|WILL BONUS,恐懼效果
+WILL BONUS,FEAR EFFECT|WILL BONUS,意志加值
+Feint Partner,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",聯合虛招
+"When ally feints, enemy loses","Feint Partner    When ally feints, enemy loses DEX bonus to AC",同伴虛招成功的對象失去
+DEX,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",DEX
+bonus to,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",加值於
+AC,"Feint Partner    When ally feints, enemy loses DEX bonus to AC",AC
+KI POOL,KI POOL|CAPACITY,丹田氣池
+CAPACITY,KI POOL|CAPACITY,容量
+Back to Back,Back to Back     +2 to AC against flanking,背靠背
+to,Back to Back     +2 to AC against flanking,
+AC,Back to Back     +2 to AC against flanking,AC
+against flanking,Back to Back     +2 to AC against flanking,於被夾擊時
+Heal your own wounds -,Heal your own wounds - 2 ki points,治療自己
+2 ki points,Heal your own wounds - 2 ki points,2點氣
+(which grants,(which grants +12 to Acrobatics checks for jumping),(獲得
+to Acrobatics checks for jumping),(which grants +12 to Acrobatics checks for jumping),種族加值於跳躍特技檢定)
+temporary ki point (for 1 hour) on drinking,+1 temporary ki point (for 1 hour) on drinking,臨時氣量(保留1小時)，在飲酒時
+Cleaving Finish,Cleaving Finish    Extra attack if enemy is knocked out,終勢斬
+Extra attack if enemy is knocked out,Cleaving Finish    Extra attack if enemy is knocked out,擊倒敵人獲得額外攻擊
+TOUCH,TOUCH AC,接觸
+AC,TOUCH AC,AC
+Coordinated Manoeuvres,Coordinated Manoeuvres    +2 to CMB,協調戰技
+to,Coordinated Manoeuvres    +2 to CMB,於
+CMB,Coordinated Manoeuvres    +2 to CMB,CMB
+TOUCH,TOUCH ARMOUR CLASS,接觸
+ARMOUR CLASS,TOUCH ARMOUR CLASS,防禦等級
+Knowledge -,Knowledge - INT|Profession - WIS,知識 -
+INT,Knowledge - INT|Profession - WIS,INT
+Profession -,Knowledge - INT|Profession - WIS,專業 - 
+WIS,Knowledge - INT|Profession - WIS,WIS
+ARMOUR,ARMOUR CLASS,防禦
+CLASS,ARMOUR CLASS,等級
+Spire Walker,"Spire Walker|Endure cold, immune to altitude sickness,|keep dexterity bonus when climbing",峰頂行者
+"Endure cold, immune to altitude sickness,|keep dexterity bonus when climbing","Spire Walker|Endure cold, immune to altitude sickness,|keep dexterity bonus when climbing",忽略寒冷氣候所造成的影響，免疫高海拔症，|攀爬時保有敏捷加值
+RAGE!,RAGE! POWERS,狂暴!
+POWERS,RAGE! POWERS,之力
+(which grants,(which grants +24 to Acrobatics checks for jumping),(獲得
+to Acrobatics checks for jumping),(which grants +24 to Acrobatics checks for jumping),種族加值於跳躍特技檢定)
+Venom Immunity,Venom Immunity|Immune to all poisons,毒素免疫
+Immune to all poisons,Venom Immunity|Immune to all poisons,免疫所有毒素
+Great Cleave,Great Cleave    Any number of extra attacks per round,大順勢斬
+Any number of extra attacks per round,Great Cleave    Any number of extra attacks per round,每輪任意次額外攻擊
+FORTITUDE,FORTITUDE SAVE,強韌
+SAVE,FORTITUDE SAVE,豁免
+Damage Reduction 1/,Damage Reduction 1/―,傷害減免1 / —
+(which grants,(which grants +20 to Acrobatics checks for jumping),(獲得
+to Acrobatics checks for jumping),(which grants +20 to Acrobatics checks for jumping),種族加值於跳躍特技檢定)
+CON,+ CON| per level,CON
+per level,+ CON| per level,每等級
+Shake It Off,Shake It Off     +1 to all saving throws per adjacent ally,擺脫困境
+to all saving throws per adjacent ally,Shake It Off     +1 to all saving throws per adjacent ally,全豁免值，每個鄰接同伴一次
+AC,AC BONUS,AC
+BONUS,AC BONUS,加值
+"stability,","+4 stability, +8bp consumption","穩定,"
++8bp,"+4 stability, +8bp consumption",+8bp
+consumption,"+4 stability, +8bp consumption",消耗
+Mighty,Mighty RAGE!,強力
+RAGE!,Mighty RAGE!,狂暴!
+CHANNEL,CHANNEL|PER DAY,每日
+PER DAY,CHANNEL|PER DAY,引導
+TALENTS,TALENTS|KNOWN,已知
+KNOWN,TALENTS|KNOWN,天賦
+(which grants,(which grants +4 to Acrobatics checks for jumping),(獲得
+to Acrobatics checks for jumping),(which grants +4 to Acrobatics checks for jumping),種族加值於跳躍特技檢定)
+Mystic Wisdom,Mystic Wisdom 2,醍醐灌頂
+"On a critical, Fort (DC 10 + ½ level +","On a critical, Fort (DC 10 + ½ level + DEX) or die",造成重擊時，通過強韌(DC 10 +
+DEX,"On a critical, Fort (DC 10 + ½ level + DEX) or die",DEX
+) or die,"On a critical, Fort (DC 10 + ½ level + DEX) or die",+ ½ 等級)或死亡
+saving throws against enchantment,+2 saving throws against enchantment,對抗惑控系的豁免
+Craft -,Craft - INT|Perform - CHA,工藝 -
+INT,Craft - INT|Perform - CHA,INT
+Perform -,Craft - INT|Perform - CHA,表演 - 
+CHA,Craft - INT|Perform - CHA,CHA
+Class|Skills,Class|Skills|+3,本職|技能|+3
+WILL,WILL SAVE DC,意志
+SAVE DC,WILL SAVE DC,豁免DC
+Wild Empathy,Wild Empathy|Improve the attitude of an animal,野性認同
+Improve the attitude of an animal,Wild Empathy|Improve the attitude of an animal,改善一隻動物的態度
+WILL,WILL SAVE,意志
+SAVE,WILL SAVE,豁免
+FLURRY OF BLOWS,FLURRY OF BLOWS|BASE ATTACK BONUS,疾風連擊
+BASE ATTACK BONUS,FLURRY OF BLOWS|BASE ATTACK BONUS,基本攻擊加值
+Cleave,Cleave    Extra attack if you hit,順勢斬
+Extra attack if you hit,Cleave    Extra attack if you hit,擊中敵人獲得額外攻擊
+Acrobatics DC = Opponent’s,Acrobatics DC = Opponent’s CMD,特技DC = 對手的
+CMD,Acrobatics DC = Opponent’s CMD,CMD
+FLAT-FOOTED,FLAT-FOOTED|CMD,措手不及
+CMD,FLAT-FOOTED|CMD,CMD
+Level,25’+ 5’ × (Level ÷ 2),等級
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|BONUS,|戰技
+BONUS,COMBAT|MANOEUVRE|BONUS,加值
+ETHERIAL,ETHERIAL|ROUNDS,靈體狀態
+ROUNDS,ETHERIAL|ROUNDS,輪
+Bonus Spells,Bonus Spells|WIS,獎勵法術
+WIS,Bonus Spells|WIS,WIS
+AC,-2 AC   -8 AC against yourself,AC
+against yourself,-2 AC   -8 AC against yourself,當目標被你攻擊
+MASTER STRIKE,MASTER STRIKE|FORTITUDE DC,大師之擊
+FORTITUDE DC,MASTER STRIKE|FORTITUDE DC,強韌DC
+(which grants,(which grants +8 to Acrobatics checks for jumping),(獲得
+to Acrobatics checks for jumping),(which grants +8 to Acrobatics checks for jumping),種族加值於跳躍特技檢定)
+COMBAT|MANOEUVRE,COMBAT|MANOEUVRE|DEFENCE,|戰技
+DEFENCE,COMBAT|MANOEUVRE|DEFENCE,防護
+Fast Movement,Fast Movement +60 ft,快速移動
++60 ft,Fast Movement +60 ft,+60 呎
+Cost:,Cost: 1 pt,花費
+1 pt,Cost: 1 pt,1 點
+-1 burn,-1 burn when using a composite blast.,-1 超載
+when using a composite blast.,-1 burn when using a composite blast.,在使用複合念襲時
+Seize the Moment,Seize the Moment    AoO when ally confirms critical hit,抓準時機
+AoO when ally confirms critical hit,Seize the Moment    AoO when ally confirms critical hit,同伴確認重擊後進行藉機攻擊
+Tandem Trip,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",接力絆摔
+"When ally is adjacent, roll twice for trip","Tandem Trip    When ally is adjacent, roll twice for trip CMB",鄰接同伴時拌摔檢定雙骰取高
+CMB,"Tandem Trip    When ally is adjacent, roll twice for trip CMB",CMB
+FAMILIAR,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,魔寵
+ANIMAL COMPANION,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,動物夥伴
+MOUNT,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,坐騎
+SUMMONED CREATURE,FAMILIAR  /  ANIMAL COMPANION  /  MOUNT  /  SUMMONED CREATURE,召喚生物
+Mystic Wisdom,Mystic Wisdom 3,醍醐灌頂
+Lose,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",失去
+DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DEX
+bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",加值於
+AC,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",AC
+-4 on,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",-4 基於
+STR,"Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",STR
+"skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","Lose DEX bonus to AC; -2 AC|-4 on STR, DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",技能，所有對手|視為處於全隱蔽(50%失手率)，|DC 10的特技檢定才能全速移動
+USES,USES|PER DAY,每日
+PER DAY,USES|PER DAY,可用次數
+Lose,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",失去
+DEX,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",DEX
+bonus to AC; -2,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",加值於AC; -2
+bonus to,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",加值於
+AC,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",AC
+-4 on,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",-4 基於
+STR,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",STR
+and,"Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",和
+"skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed","Lose DEX bonus to AC; -2 AC|-4 on STR and DEX skills, opposed Perception|50% miss chance when attacking|DC 10 Acrobatics to move more than half speed",技能，所有對手|視為處於全隱蔽(50%失手率)，|DC 10的特技檢定才能全速移動
+Target of Opportunity,Target of Opportunity    Extra attack when ally hits with ranged,見縫插針
+Extra attack when ally hits with ranged,Target of Opportunity    Extra attack when ally hits with ranged,同伴遠程攻擊命中時你額外攻擊
+SPECIALITY,SPECIALITY SCHOOL,專精
+SCHOOL,SPECIALITY SCHOOL,學派
+Bonus Spells,Bonus Spells|CHA,獎勵法術
+CHA,Bonus Spells|CHA,CHA
+FLAT-FOOTED,FLAT-FOOTED ARMOUR CLASS,措手不及
+ARMOUR CLASS,FLAT-FOOTED ARMOUR CLASS,防禦等級
+CHANNEL,CHANNEL|RANGE,引導
+RANGE,CHANNEL|RANGE,射程
+RAGE!,RAGE!|Modifier,狂暴!
+Modifier,RAGE!|Modifier,調整值
+Lookout,Lookout    Act in surprise round if ally can act,警備
+Act in surprise round if ally can act,Lookout    Act in surprise round if ally can act,如果盟友能在突襲輪行動，你也能
+BASE|ATTACK,BASE|ATTACK BONUS,基本|攻擊
+BONUS,BASE|ATTACK BONUS,加值
+-1 burn,-1 burn when combining infusions.,-1 超載
+when combining infusions.,-1 burn when combining infusions.,在使用注能原力時
+No action this round|Lose,No action this round|Lose DEX bonus to AC; -2 AC,該輪不能行動|AC
+DEX,No action this round|Lose DEX bonus to AC; -2 AC,失去
+bonus to,No action this round|Lose DEX bonus to AC; -2 AC,DEX
+bonus to AC; -2,No action this round|Lose DEX bonus to AC; -2 AC,加值 ; -2
+AC,No action this round|Lose DEX bonus to AC; -2 AC,AC
+INITIATIVE,INITIATIVE BONUS,先攻
+BONUS,INITIATIVE BONUS,加值
+STRENTH|SCORE,STRENTH|SCORE|BONUS,力量|屬性值
+BONUS,STRENTH|SCORE|BONUS,加值
+Blightblooded,Blightblooded|Immune to all diseases and sickening effects,災疫之血
+Immune to all diseases and sickening effects,Blightblooded|Immune to all diseases and sickening effects,免疫所有疾病及噁心、反胃效果
+ARMOUR CHECK|PENALTY,ARMOUR CHECK|PENALTY REDUCTION,盔甲檢定|減值
+REDUCTION,ARMOUR CHECK|PENALTY REDUCTION,降低
+WILL|SAVE,WILL|SAVE|BONUS,意志|豁免
+BONUS,WILL|SAVE|BONUS,加值
+"loyalty,","+1 loyalty, +1bp consumption","忠誠,"
++1bp,"+1 loyalty, +1bp consumption",+1bp
+consumption,"+1 loyalty, +1bp consumption",消耗
+Swap Places,Swap Places    Switch places with an ally,換位
+Switch places with an ally,Swap Places    Switch places with an ally,與相鄰的盟友交換位置
+Critical Mastery,Critical Mastery    Apply two critical effects at once,重擊熟稔
+Apply two critical effects at once,Critical Mastery    Apply two critical effects at once,可以應用兩項重擊專長
+Wild Shape,Wild Shape|Become any small or medium animal,自然變身
+Become any small or medium animal,Wild Shape|Become any small or medium animal,變身為小型或中型動物
+Pack Attack,Pack Attack    Ally’s attack allows you to take 5ft step,機動攻擊
+Ally’s attack allows you to take,Pack Attack    Ally’s attack allows you to take 5ft step,同伴的攻擊使你
+5ft,Pack Attack    Ally’s attack allows you to take 5ft step,5呎
+step,Pack Attack    Ally’s attack allows you to take 5ft step,快步
+Fast Movement,Fast Movement +20 ft,快速移動
++20 ft,Fast Movement +20 ft,+20 呎
+DAMAGE,DAMAGE|REDUCTION,傷害
+REDUCTION,DAMAGE|REDUCTION,減免
+Targeting,"Targeting    As a full round, target a part of the bodyArms: drops one carried item (no damage)Head: confused for one roundLegs: knocked proneTorso: 19-20 critical rangeWings: begins to fall",精確瞄準
+"As a full round, target a part of the bodyArms: drops one carried item (no damage)Head: confused for one roundLegs: knocked proneTorso: 19-20 critical rangeWings: begins to fall","Targeting    As a full round, target a part of the bodyArms: drops one carried item (no damage)Head: confused for one roundLegs: knocked proneTorso: 19-20 critical rangeWings: begins to fall",一個整輪動作，攻擊目標身體的特定位置: 手: 掉落持有物(不受傷害) 頭: 困惑1輪 腳: 被擊倒 軀幹: 重擊範圍翻倍 翅: 開始墜落
+ATTACK,ATTACK ACTIONS,攻擊
+ACTIONS,ATTACK ACTIONS,動作
+Shield Wall,Shield Wall    +1 / +2 to AC when both using shields,盾牆
+to,Shield Wall    +1 / +2 to AC when both using shields,
+AC,Shield Wall    +1 / +2 to AC when both using shields,AC
+when both using shields,Shield Wall    +1 / +2 to AC when both using shields,於鄰接同伴也用盾時
+CMB,+1 CMB and CMD for selected combat manoeuvres,CMB
+and,+1 CMB and CMD for selected combat manoeuvres,和
+CMD,+1 CMB and CMD for selected combat manoeuvres,CMD
+for selected combat manoeuvres,+1 CMB and CMD for selected combat manoeuvres,在指定的戰技上
+MAX ARMOUR|DEX,MAX ARMOUR|DEX BONUS,護甲最大
+BONUS,MAX ARMOUR|DEX BONUS,敏捷加值
+Acrobatics DC = 5 + Opponent’s,Acrobatics DC = 5 + Opponent’s CMD,特技DC = 5 + 對手的
+CMD,Acrobatics DC = 5 + Opponent’s CMD,CMD
++1 dodge bonus to touch,"+1 dodge bonus to touch AC and CMD when wearing|no or light armour, unencumbered and not using a shield",+1 閃避加值在接觸
+AC,"+1 dodge bonus to touch AC and CMD when wearing|no or light armour, unencumbered and not using a shield",AC
+and,"+1 dodge bonus to touch AC and CMD when wearing|no or light armour, unencumbered and not using a shield",和
+CMD,"+1 dodge bonus to touch AC and CMD when wearing|no or light armour, unencumbered and not using a shield",CMD
+"when wearing|no or light armour, unencumbered and not using a shield","+1 dodge bonus to touch AC and CMD when wearing|no or light armour, unencumbered and not using a shield",，必須穿輕甲以下、不持盾且無負重
+Improved Feint Partner,"Improved Feint Partner    When ally feints, gain AoO",精通聯合虛招
+"When ally feints, gain AoO","Improved Feint Partner    When ally feints, gain AoO",同伴虛招成功時引發你的藉機攻擊
+CONSTITUTION|SCORE,CONSTITUTION|SCORE|BONUS,體質|屬性值
+BONUS,CONSTITUTION|SCORE|BONUS,加值
+Damage Reduction 5/,Damage Reduction 5/―,傷害減免5 / —
+Fast Movement,Fast Movement +10 ft,快速移動
++10 ft,Fast Movement +10 ft,+10 呎
+HEALING,HEALING|HIT POINTS,治療
+HIT POINTS,HEALING|HIT POINTS,生命值
+Strength Score|Penalty:,Strength Score|Penalty: -2,力量屬性值|減值:
+FORTITUDE,FORTITUDE|SAVE DC,強韌
+FORTITUDE|SAVE,FORTITUDE|SAVE DC,強韌|豁免
+SAVE DC,FORTITUDE|SAVE DC,豁免DC
+DC,FORTITUDE|SAVE DC,DC
+Dexterity Score|Penalty:,Dexterity Score|Penalty: -2,敏捷屬性值|減值:
+Spell Save DC = 10 +,Spell Save DC = 10 + CHA + Spell Level,法術豁免DC = 10 +
+CHA,Spell Save DC = 10 + CHA + Spell Level,CHA
++ Spell Level,Spell Save DC = 10 + CHA + Spell Level,+ 法術環數
+RAGE!,RAGE! POWERS |KNOWN,已知
+POWERS,RAGE! POWERS |KNOWN,狂暴
+KNOWN,RAGE! POWERS |KNOWN,之力
+AC,-2 AC   -6 AC against yourself,AC
+against yourself,-2 AC   -6 AC against yourself,當目標被你攻擊
+(which grants,(which grants +16 to Acrobatics checks for jumping),(獲得
+to Acrobatics checks for jumping),(which grants +16 to Acrobatics checks for jumping),種族加值於跳躍特技檢定)
+= 1d8,= 1d8 +,= 1d8
+ARCANE SPELL FAILURE,ARCANE SPELL FAILURE THRESHOLD,奧術失敗機率
+THRESHOLD,ARCANE SPELL FAILURE THRESHOLD,閾值
+"economy,","+3 economy, -4 loyalty","經濟,"
+loyalty,"+3 economy, -4 loyalty",忠誠
+Arctic Endurance,"Arctic Endurance|Endure cold, immune to dazzling",極圈耐力
+"Endure cold, immune to dazzling","Arctic Endurance|Endure cold, immune to dazzling",忽略寒冷氣候所造成的影響，免疫目眩
+Make unarmed strikes with any free limb|Flurry of blows uses full,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",武僧的攻擊可以用雙拳、肘、膝或腳|疾風連擊套用完整的
+STR,"Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",STR
+"bonus, even with off hand","Make unarmed strikes with any free limb|Flurry of blows uses full STR bonus, even with off hand",加值
+AC,-2 AC   -4 AC against yourself,AC
+against yourself,-2 AC   -4 AC against yourself,當目標被你攻擊
+Shaded Vision,"Shaded Vision|Immune to blinding, dazzling; +2 to savesagainst gaze attacks, figments and patterns",陰影視覺
+"Immune to blinding, dazzling; +2 to savesagainst gaze attacks, figments and patterns","Shaded Vision|Immune to blinding, dazzling; +2 to savesagainst gaze attacks, figments and patterns",免疫目盲和目眩效果，對抗凝視和幻術學派法術有+2加值
+Improved Back to Back,Improved Back to Back    +2 to ally’s AC,精通背靠背
+to ally’s,Improved Back to Back    +2 to ally’s AC,於同伴的
+AC,Improved Back to Back    +2 to ally’s AC,AC
+Coordinated Defence,Coordinated Defence    +2 to CMD,協調防禦
+to,Coordinated Defence    +2 to CMD,於
+CMD,Coordinated Defence    +2 to CMD,CMD
+Damage Reduction 4/,Damage Reduction 4/―,傷害減免4 / —
+Sneak attack damage can be applied when a target is flanked or|is denied their,"Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",目標無法應用
+DEX,"Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",DEX
+bonus to,"Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",加值在
+AC,"Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",AC
+".|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.","Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",上或是被夾擊時可以偷襲|遠程攻擊在30呎內才算作偷襲|偷襲傷害不會因重擊翻倍|使用非致命武器才能非致命偷襲
+Fast Movement,Fast Movement +40 ft,快速移動
++40 ft,Fast Movement +40 ft,+40 呎
+Timeless Body,"Timeless Body|No longer age, cannot be magically aged",不老身軀
+"No longer age, cannot be magically aged","Timeless Body|No longer age, cannot be magically aged",不會年老，也不會因魔法效果而老化
+MIGHTY,MIGHTY RAGE!,強力
+RAGE!,MIGHTY RAGE!,狂暴!
+Improved Cleaving Finish,Improved Cleaving Finish    Any number per round,精通終勢斬
+Any number per round,Improved Cleaving Finish    Any number per round,每輪任意次數
+FOES,FOES|PER DAY,每日
+PER DAY,FOES|PER DAY,對象數
+1d2,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d2
+1d3,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d3
+1d4,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d4
+1d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d6
+1d8,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,1d8
+2d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,2d6
+3d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,3d6
+4d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,4d6
+6d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,6d6
+8d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,8d6
+12d6,1d2 → 1d3 → 1d4 → 1d6 → 1d8 → 2d6 → 3d6 → 4d6 → 6d6 → 8d6 → 12d6,12d6
+WILD EMPATHY,WILD EMPATHY|BONUS,野性認同
+BONUS,WILD EMPATHY|BONUS,加值
+stability,-1 stability,穩定
+Death’s Shot,"Death’s Shot    On a critical, Fort (DC 10 + ½ level + DEX) or die",死亡射擊
+"On a critical, Fort (DC 10 + ½ level + DEX) or die","Death’s Shot    On a critical, Fort (DC 10 + ½ level + DEX) or die",造成重擊時，通過強韌(DC 10 + 敏 + ½ 等級)或死亡
+Damage Reduction 2/,Damage Reduction 2/―,傷害減免2 / —
+COMBAT MANOEUVRE,COMBAT MANOEUVRE|BONUS,戰技
+BONUS,COMBAT MANOEUVRE|BONUS,加值
+Forbidden|During,Forbidden|During|RAGE!,狂暴!
+RAGE!,Forbidden|During|RAGE!,時禁用
+Fast Movement,Fast Movement +50 ft,快速移動
++50 ft,Fast Movement +50 ft,+50 呎
+CRITICAL,CRITICAL EFFECTS,重擊
+EFFECTS,CRITICAL EFFECTS,效果
+DEFLECTION,DEFLECTION|BONUS,偏斜
+BONUS,DEFLECTION|BONUS,加值
+FASCINATE,FASCINATE|MAX AUDIENCE,迷魂
+MAX AUDIENCE,FASCINATE|MAX AUDIENCE,最大觀眾數
+Tireless,Tireless RAGE!,不倦
+RAGE!,Tireless RAGE!,狂暴!
+Debit,,借款
+Profession (scribe),,專業(抄寫員)
+STREETWISE,,市井之智
+Cleric|Level,,牧師|等級
+Druid Level,,德魯依等級
+Gender,,性別
+CHAOTIC,,混亂
+Profession (herbalist),,專業(採藥人)
+Ki Pool (lawful),,丹田氣池(守序)
+INFUSION,,注能原力
+MEDIUM RANGE,,中距
+Perform (dance),,表演(舞蹈)
+Spell resistance,,法術抗力
+Craft (sculptures),,工藝(雕刻)
++10 to move at full speed,,檢定DC+10 以全速移動
+Buffs,,強化效果
+ROGUE TALENTS,,盜賊天賦
+DR 5/— when wearing armour or using a shield,,穿戴盔甲或手持盾牌時獲得傷害減免5/—
+Belts,,腰部
+Craft (armour),,工藝(製甲)
+Sundry,,雜項
+WHOLENESS OF BODY,,混元體
+Components,,成分
+A successful strike with smite evil|bypasses damage reduction.,,制裁邪惡攻擊命中時|穿透傷害減免
+Cash,,現金
+Knowledge (dungeoneering),,知識(地城)
+PATH ABILITIES,,道途能力
+Improved Grapple,,精通擒抱
+Subtype,,子類型
+"Optionally, fix it with glue",,可以用膠水加固。
+Unarmed Strike,,徒手打擊
+Sickening Critical,,噁心重擊
+Chest,,胸部
+Temp|Score,,暫時|屬性
+FAVOURED TERRAINS,,偏好地形
++1 caster level  on any Paladin spell,,所有聖騎士法術 CL +1
+Base,,基本
+BARBARIAN,,野蠻人
+40ft,,40呎
+1d6 +,,1d6 +
+Credit,,貸款
+Distance,,距離
+30ft,,30呎
+Bleeding Critical,,流血重擊
+Bards can use all knowledge skills untrained,,吟遊詩人可以使用未受訓的知識技能
+Ki Pool (magic),,丹田氣池(魔法)
+Vigilante|Level,,俠客|等級
+Racial,,種族
+CLOSE RANGE,,近距
+Allies within 10ft get +4 to saves against charm effects.,,10呎以內的盟友在對抗魅惑效果的豁免上獲得+4士氣加值
+Non-Monk|Levels,,非武僧|等級
+Feet,,腳部
+"On critical hit, target is stunned (or staggered if they pass a Will save) for 1d4 rds.",,重擊時，目標會震懾(通過意志豁免則為恍惚)1d4輪
+All skills are considered class skills,,所有技能都視為本職技能
+Nerfs,,弱化效果
+Allies within range are immune to bleed damage,,範圍內盟友免疫流血傷害
+HOSTILE,,敵對
+FAMILIAR,,魔寵
+MOVE THROUGH ENEMY’S OWN SQUARE,,穿越敵人的佔據空間
+1d10,,1d10
+Defence,,防護
+AURA OF COURAGE,,勇氣靈光
+1d6,,1d6
+Casting time,,施法時間
+Damage Reduction,,傷害減免
+Other skills:|Craft - INT|Perform - CHA,,其他技能:|工藝 - INT|表演 - CHA
+LAWFUL,,守序
+1 ki point,,1 點氣
+BONDED OBJECT,,聯結物品
+Improved Critical / Keen weapon / Keen magical effect,,精通重擊/銳鋒術/銳鋒附魔
+Profession (merchant),,專業(商人)
+Avoid all damage on successful reflex save,,通過反射豁免時迴避所有傷害
+UTILITY,,通用原力
+HIGH JUMP,,跳高
+EVIL,,邪惡
+CHARGES,,充能數
+Organisation,,組織
+Critical/sneak|miss chance,,重擊/偷襲|失手率
+WIS - 4,,WIS - 4
++ Level,,+ 等級
+CONSUMPTION,,消耗
++1 panache,,+1 點派頭
+CHA - 8,,CHA - 8
+Page,,page
+sp,,sp
+Craft (weapons),,工藝(鑄劍)
+SPECIAL ABILITIES,,特殊能力
+Knowledge (planes),,知識(位面)
+Spell Level,,法術環數
+Weapons considered Good aligned for overcoming DR.,,在克服傷害減免時，武器被視為善良陣營
+Size|Modifier,,體型|調整值
+Level|Bonus,,等級|加值
+Fatigued|AC Penalty,,疲乏|AC減值
+"Fold along the dotted lines, making sure|the                hatched areas are hidden or face down",,沿著虛線對折，|確保陰影區域超內或是朝下。
+rds,,輪
+"As a full-round action, take a single move action and make a single attack at your highest attack bonus|against each enemies you encounter during your movement, up to a maximum of 20 attacks.",,以一個整輪動作，做一個移動動作，並對移動路徑上任何一點的觸及內的每個目標|發起一次攻擊(最高攻擊加值)，最多20次
+CR,,CR
+Today,,今日
+SAVING THROWS,,豁免
+Flat-footed,,措手不及
+Knowledge (engineering),,知識(工程)
+ATTACK FEATS,,戰士獎勵專長
+7ft,,7呎
+"Treat hands, feet, knees and elbows as weapons",,武僧的攻擊可以用雙拳，也可以用肘、膝、或腳
+Monk Level,,武僧等級
+AURA,,靈光
+Cost,,花費
+"Handle Animal, Intimidate",,"馴養動物, 威嚇"
+SKILL NOTES,,技能註記
++2 to attack roll (affects critical range),,投骰結果+2(重擊範圍有效)
+Improved|Evasion,,精通|反射閃避
+Master Strike,,大師之擊
+Treat unarmed attacks as lawful weapons,,徒手攻擊被視為守序武器
+DAMAGE REDUCTION,,傷害減免
+Apply this bonus to all knowledge skills,,可把此加值加到所有知識技能
+Deliver touch spells,,傳遞接觸法術
+with Armour,,著甲
+(Round up),,(向上取整)
+INVENTORY,,道具欄
+Fortitude,,強韌
+"Begin or switch a bardic performance as a move action,|rather than as a standard action.",,用移動動作替代原本的標準動作|開始或切換一項吟遊表演
+"Alertness, improved evasion",,"警覺, 精通反射閃避"
+Immune to illusion spells and spell-like abilities.,,免疫幻覺法術和類法術能力
+Neck / Throat,,頸部
+Profession (brewer),,專業(釀酒人)
+JACK OF ALL TRADES,,萬事通
+Natural|Armour,,天生|護甲
+Wizard|Level,,法師|等級
+lb,,磅
+Spell Save DC = 10 + WIS + Spell Level,,法術豁免DC = 10 + WIS + 法術環數
+Unbalancing counter,,攬雀尾
+Blinding Critical,,流血重擊
+Locate Traps,,發現陷阱
+Acrobatics skill +4,,特技 + 4
+Critical,,重擊
+(WIS minimum 1),,(WIS 最少為1)
+Construct,,構裝
+Speak with master,,與主人交談
+DEFENCE & SAVING THROWS,,防護 & 豁免
+Favoured|     Enemy|     Terrain,,偏好| 宿敵| 地形
+"This does not apply if you were killed by a coup-de-grace|or critical hit by a mythic enemy, or an epic weapon.",,被神話生物、傳奇武器所進行的|致命一擊（coup de grace）或重擊殺死則無效
+Creature|Level,,生物|等級
+Investigator|Level,,調查員|等級
+15ft,,15呎
+Armour AC,,盔甲AC
+Domain Spell,,領域法術
+Bard|Level,,吟遊詩人|等級
+Manifester|Level,,操念者|等級
+Knowledge (arcana),,知識(奧秘)
+Sleight of Hand,,巧手
+Book,,book
+"Diplomacy, Intimidate",,"交涉, 威嚇"
+Exhausting Critical,,力竭重擊
+20 Reflex save,,20反射豁免
+Conjuration,,咒法系
+Will,,意志
+Rounds Today,,今日輪數
+MONEY,,金錢
+NPC,,NPC
+1st round,,第1輪
+SAVING|THROW,,|豁免檢定
+Immune to compulsion effects including magic.,,免疫脅迫法術和類法術能力
+"Counter exhaustion, fatigue, nausea and sickness.|Allies within 30ft use Performance roll in place of a saving throw",,反制力竭、疲乏、反胃或噁心，30呎之內的盟友|可以用吟遊詩人的表演檢定來代替自身的豁免檢定
+ACROBATICS,,特技
+Profession (stable master),,專業(馬廄主)
+CHA - 12,,CHA - 12
+Dying,,瀕死
+Wild Empathy,,野性認同
+Spellcraft,,法術辨識
+Favoured| Enemy,,| 宿敵
++ 1d6,,+ 1d6
+d6 / 2d6,,d6 / 2d6
+EMPTY BODY,,空靈體
+Athletics,,體能
+EFFECTS,,效果
+ARMOUR CLASS,,防禦等級
+Spell|Save DC,,法術|豁免DC
+HEALING|POINTS,,治療|點數
+Times per day,,每日可用次數
+"Once a day, cast any spell from your spellbook|(excluding opposed schools; cannot use metamagic)",,"每天一次，從你的法術書中選擇任意法術施放|(不能是對立學派,不能超魔)"
+Profession (butcher),,專業(屠夫)
+Knowledge (history),,知識(歷史)
+CHANNEL POSITIVE ENERGY,,引導正能量
+Mobility,,靈活移動
+PF-RPG,,PF-RPG
+"Acrobatics, Fly",,特技、飛行
+Armour|Check|Penalty,,防具|檢定|減值
+Trap|Sense,,陷阱|感知
+50 coins weighs 1lb,,50枚錢幣重1磅
+Tiring Critical,,疲倦重擊
+MONK,,武僧
+CHA - 4,,CHA - 4
+Paladin|Level,,聖騎士|等級
+to confirm criticals,,重擊確認攻擊骰
+LONG JUMP,,跳遠
+MASTER STRIKE,,大師之擊
+Attained,,取得
+Disarm Traps,,解除陷阱
+Temp Attack,,暫時攻擊
+CHARACTER,,角色
+Barbarian|Level,,野蠻人|等級
+DETECT EVIL,,偵測邪惡
+"Master strike cannot be used again on the same target within|24 hours, whether they pass the Fortitude save or not.",,無論是否通過了豁免檢定，該生物|在24小時內免疫同一個盜賊的大師之擊
+MAP FIGURE,,地圖立牌
++1d10,,+1d10
+COMBAT MANOEUVRES,,戰技
+Level|Adjustment,,等級|調整
+STR,,STR
+"Racial,|Feats,|Synergy",,"種族,|專長,|合計"
+Profession (engineer),,專業(工程師)
+AC,,AC
+PARTY FUNDS,,隊伍資金
+PARTY,,隊伍
+Profession (librarian),,專業(圖書館員)
+1ft,,1呎
++1d6 Channel Energy damage,,+1d6 引導能量傷害
+ARCANE BOND,,奧術聯結
+Perform (percussion),,表演(打擊)
+AURA OF FAITH,,堅信靈光
+Scry on familiar,,探知魔寵
+GOOD,,善良
+NPC GROUP,,NPC群
+QUEST ITEMS,,任務道具
+1d4,,1d4
+FALL,,墜落
+Weapon type,,武器類型
+Heavy Load,,重載
+Summoned|Today,,今日|已召喚
+Caster|Level,,施法者|等級
+Morale|Bonus,,士氣|加值
+DIVINE GRACE,,神恩
+Improved Critical,,精通重擊
+ft,,呎
+Name,,姓名
+sq,,格
+FEMALE,,女性
+TEAMWORK FEATS,,團隊專長
+CATCH LEDGE,,抓住邊緣
++1 enhancement (does not stack),,+1 增強加值(不可疊加)
+FAVOURED ENEMIES,,宿敵
+Inventory,,道具欄
+Race,,種族
+Perform (act),,表演(戲劇)
+Profession (woodcutter),,專業(伐木工)
+"From level 10, a Rogue|can take Advanced Talents",,10級起盜賊可以|選擇高級天賦
+"Immune to fear, psionic or otherwise",,免疫恐懼、靈能及其他類法術能力
+Allies within 10ft get +4 to saves against fear effects.,,10呎以內的盟友在對抗恐懼效果的豁免上獲得+4士氣加值
+1 burn,,-1 超載
+Flurry of Blows Attack Bonus,,疾風連擊攻擊加值
+CHALLENGE,,挑戰
+DEFENCE,,防護
+5ft,,5呎
+Endurance,,堅忍
+DRUID,,德魯伊
+Advanced Talents,,高級天賦
+Spell Resistance,,法術抗力
+Craft (glass),,工藝(吹玻璃)
+Survival,,生存
+INT - 12,,INT - 12
+Spell Save DC = 10 + INT + Spell Level,,法術豁免DC = 10 + INT + 法術環數
+Use any skill as if you were trained,,如同以受訓般使用任何技能
+gp,,gp
+Does not detect any other evil auras nearby.,,不會察覺法術範圍內其它的邪惡事物
+Shoulders,,肩部
+CON,,CON
+AC Penalty,,AC減值
+INT,,INT
++1 per level,,每等級 +1
+-1 burn,,-1 超載
+DEITY,,神祇
+Caster Levels,,施法者等級
+Area / Target,,範圍/目標
+Worn Items,,穿戴道具
+• Confused,,• 困惑
+COMBAT ABILITIES,,戰鬥能力
+DEX,,DEX
+2d6 / 3d8,,2d6 / 3d8
+Convert a confirmed critical hit to a standard hit,,將重擊命中轉為一般命中
+Strength,,力量
+To cast a spell without|your bonded object.,,不經由你的|聯結物品施法
+UNCHAINED,,掉鍊子
+Cause an enemy to die of joy or sorrow,,令一名敵人因為極度的快樂或悲傷而死去
+Profession (baker),,專業(麵包師)
+LANGUAGES,,語言
+Apply critical effect to the 2nd sneak attack,,第二次偷襲附加重擊專長效果
+Ability Modifier = (Total Ability Score - 10) ÷ 2    (Round down),,屬性調整值 = (屬性值 - 10) ÷ 2 (向下取整)
+rks,,技能點
+Fatigued|Penalty,,疲乏|減值
+15 Acrobatics,,15特技
+PARTY INVENTORY,,隊伍道具欄
+Craft (shoes),,工藝(製鞋)
+EQUIPMENT,,裝備
+bp,,bp
+CLASSES,,職業
+Favoured class,,天賦職業
+9ft,,9呎
+Creature Name,,生物名稱
+Spell Failure,,奧術失敗率
+2d8,,2d8
+Ability Modifier =|    (Total Ability Score - 10) ÷ 2,,屬性調整值 =| (屬性值 - 10) ÷ 2
+Base Save,,基本豁免
+Linguistics,,語言學
+Profession (gambler),,專業(賭徒)
+Immune to fear effects including magic.,,免疫恐懼法術和類法術能力
+Disguise,,易容
+Player,,玩家
+d8 / 2d8,,d8 / 2d8
+Sneaking Precision,,精準偷襲
+DISTRACTION,,清心
+Wisdom,,感知
+Profession (sailor),,專業(水手)
+(Round down),,(向下取整)
+Ki Pool (adamantine),,丹田氣池(精金)
+WEAPON TRAINING,,武器訓練
+SPECIAL MOUNT,,特殊坐騎
+SPEED,,速度
+BARDIC PERFORMANCE,,吟遊表演
+"As a full round, target a part of the body:  Arms: drops one carried item (no damage)  Head: confused for one round  Legs: knocked prone  Torso: 19-20 critical range  Wings: begins to fall",,一個整輪動作，攻擊目標身體的特定位置: 手: 掉落持有物(不受傷害) 頭: 困惑1輪 腳: 被擊倒 軀幹: 重擊範圍翻倍 翅: 開始墜落
+Profession (courtesan),,專業(公關)
+Craft (cloth),,工藝(紡布)
+Successful critical hit with a firearm,,用火器重擊命中時
+Bonus Spells,,獎勵法術量
+"Cannot rage, run or charge|while fatigued.",,疲乏時無法狂暴!、奔跑|或衝鋒
+coins,,錢幣
+Value,,數量
+Profession (tanner),,專業(皮匠)
+Stunning Critical,,震懾重擊
+Profession (shepherd),,專業(牧羊人)
+Climb,,攀爬
+Knowledge (religion),,知識(宗教)
+Profession (soldier),,專業(士兵)
+Scorpion Style,,蠍形拳
+Craft (pottery),,工藝(陶藝)
+HOLY CHAMPION,,神聖動物夥伴
+Additional abilities,,額外特殊能力
+KNOWN SPELLS,,已知法術
+HIT|DICE,,|生命骰
+Times Today,,今日已用次數
+COUNTERSONG,,破咒曲
+FORT,,強韌
+Craft (leather),,工藝(鞣皮)
+CHARACTER|BACKGROUND,,角色|背景
+Flurry of Blows,,疾風連擊
+Sense Motive,,察言觀色
+This damage bonus is not multiplied by critical hits.|You must be able to see your target clearly.,,必須能夠充分地看到目標以找到要害|才能發動，額外傷害不會因重擊翻倍
+Size,,體型
+Fighter|Level,,戰士|等級
+RANGED|ATTACK,,遠距
+Temp|Bonus,,暫時|加值
+HEX|TOKENS,,六角形|指示物
+2d10,,2d10
+Climb Speed,,攀爬速度
+•  1d4 strength or dexterity damage,,• 1d4 力量或敏捷傷害
+REF,,反射
+Bluff,,唬騙
+1 hour,,1 小時
+Base|Attack,,基本|攻擊
+Wholeness of Body,,混元體
+Item|Bonus,,道具|加值
+Misc,,雜項
+Immune to poison.,,免疫所有毒素
+Profession (miller),,專業(磨坊工人)
+Range:,,射程
+Bonus|Points,,獎勵|點數
+BARDIC KNOWLEDGE,,逸聞知識
+10ft,,10呎
+Immune to energy drain and harmful negative energy.,,免疫能量吸取和負能量傷害
+Knowledge (nature),,知識(自然)
+Uncanny Dodge,,直覺閃避
+FIGHTER,,戰士
+Perform (wind),,表演(吹奏)
+HEALTH,,健康狀態
+Profession (farmer),,專業(農夫)
+Still Mind,,心如止水
+Craft (calligraphy),,工藝(書法)
+MALE,,男性
+MAP|TOKEN,,地圖|指示物
+Immune to charm effects including magic.,,免疫魅惑法術和類法術能力
+Saving throw,,豁免檢定
+Use bonus in place of...,,替代對應的技能加值
++2 to confirm critical hits with selected weapon,,選擇的武器重擊確認攻擊骰+2
+55ft,,55呎
+BASE ATTACK,,基本攻擊
+INITIATIVE,,先攻
+DIVINE HEALTH,,神祐
+Profession (trapper),,專業(捕獸人)
+Craft (stonemasonry),,工藝(石匠)
+TRAINING,,訓練
+35ft,,35呎
+FEATS,,專長
+Item,,道具
+Familiar|Intelligence,,魔寵|智力
+Speciality Spell,,學派法術
+PORTRAIT,,肖像
+6ft,,6呎
+OF,,信仰
+Wild|Shape|Level,,自然|變身|等級
+Society,,社會
+Gain damage reduction 5/evil.,,獲得傷害減免 5/邪惡
+Temp Damage,,暫時傷害
+"Armour, Shield",,"盔甲,盾"
+Impaling Critical,,穿刺重擊
+Immune to the effects of all diseases including magic.,,免疫所有疾病，包括魔法疾病
+SPELL SCHOOLS,,法術學派
+Untrained,,未受訓
+Craft (paintings),,工藝(繪畫)
+Profession (innkeeper),,專業(酒保)
+HIT POINTS,,生命值
+Long,,遠
+SAVES,,豁免
+Master’s bonus ability,,主人特殊加值
+Max Speed,,最大速度
+Craft (carpentry),,工藝(木工)
+Spells|per day,,每日|法術量
+FEATS & SPECIAL ABILITIES,,專長與特殊能力
+Craft (bows),,工藝(製弓)
+VALUABLE ITEMS,,貴重道具
+Add monk level to Acrobatics checks for jumping,,跳躍時將武僧等級加到特技檢定上
+INITIATIVE|MARKER,,先攻|指示物
+Range,,射程
+Medium,,中
+DIVINE BOND,,神契
+PAYMENTS,,期數
+LONG RANGE,,遠距
+Skill,,技能
+PREPARED SPELLS,,已準備法術
+Improved Evasion,,精通反射閃避
+Stealth,,隱匿
+Ability|Score,,屬性|數值
+CHANNEL ENERGY,,引導能量
+Counter magical effects that depend on sight.|Allies within 30ft use Performance roll in place of a saving throw.,,反制依賴於視覺的法術，30呎之內的同伴|可以用吟遊詩人的表演檢定來代替自身的豁免檢定
+Weight,,重量
+Improved Critical or Keen weapon,,精通重擊或銳鋒術
+pts,,點
+Deal sneak attack damage when you charge.|Enemies with Uncanny Dodge are immune to this.,,衝鋒攻擊時造成偷襲傷害，|擁有直覺閃避的目標對此能力免疫
+d00,,d
+Bards can wear light armour without risking|spell failure.,,詩人可以在穿著輕甲和盾牌時|忽視以此帶來的法術失敗率
+Craft (ships),,工藝(造船)
+Medium Load,,中載
+Spells|Known,,已知|法術量
+Perform (keyboard),,表演(鍵盤)
+Profession (gardener),,專業(園丁)
+Channel Negative Energy,,引導負能量
+Track,,追蹤
+BASIC SPEED,,基本速度
+Acrobatics,,特技
+Counter-grapple,,倒攆猴
+Counter magical effects that depend on sound.|Allies within 30ft use Performance roll in place of a saving throw,,反制依賴於聽覺的法術，30呎之內的盟友|可以用吟遊詩人的表演檢定來代替自身的豁免檢定
+Craft (alchemy),,工藝(鍊金)
+Performance,,表演
+Tier,,階層
+School,,學派
+Rounds|Today,,今日|輪數
+"Ranger bonus feats can be taken without the normal pre-requisites,|but only apply when not wearing heavy armour.",,根據自己的戰鬥流派選擇獎勵專長，即使自身沒有達到|該專長的先決條件，不穿戴重甲時才有效
+AURA OF RIGHTEOUSNESS,,虔誠靈光
+Disable Device,,解除裝置
+Total,,總共
+WEAPON MASTERY,,武器宗師
+BAB,,BAB
+Gold,,金幣
+DEADLY PERFORMANCE,,奪命表演
+Escape Artist,,逃脫
+Profession (miner),,專業(礦工)
+Max AC DEX,,最大敏捷AC
+Profession (driver),,專業(車夫)
+Use Magic Device,,使用魔法裝置
+CRITICAL,,重擊
+Temp,,暫時
+ITEMS,,道具
+Profession (porter),,專業(碼頭工)
+"Cut out carefully with a sharp knife or scissors,|using the      marks as guides",,依照標示線，|用剪刀或刀片小心切開。
+Assets,,資產
+Indomitable Will,,不屈意志
+MELEE|ATTACK,,近距|攻擊
+Other items,,其他道具
+XP,,經驗值
+WILD EMPATHY,,野性認同
+CONTAINER,,容器
+Class,,職業
+cp,,cp
+"Scrolls, Potions,|Wands, Components",,"卷軸,藥水,|法杖,材料"
++1d8,,+1d8
+KI POOL,,丹田氣池
+Knowledge (psionics),,知識(靈能)
+Immune to all diseases including magic.,,免疫所有疾病，包括魔法疾病
+Apply a critical effect to the|second sneak attack in a round,,目標同一輪第二次被偷襲時|附加重擊專長效果
+Combat Reflexes,,戰鬥反射
+Age,,年齡
+Craft (books),,工藝(裝訂書籍)
+Armour Class Bonus,,防禦等級加值
+NATURE BOND,,自然紐帶
+Properties,,魔法特性
+for every 10ft of your standard move above 30ft,,超過30呎的基本速度，每10呎獲得種族加值
+Wounds,,受傷
+50ft,,50呎
+Level,,等級
+1d8,,1d8
+Religion,,信仰
+Type,,類型
+CMD,,CMD
+Coins,,錢幣
+1 target,,1個目標
+Armour|& Shield,,盔甲|& 盾
+Profession (fisherman),,專業(漁夫)
+ALIGNMENT,,陣營
+Copper,,銅幣
+ABILITIES,,屬性
+"Sneak attack damage can be applied when a target is flanked oris denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",,目標無法應用敏捷加值在AC上或是被夾擊時可以偷襲|遠程攻擊在30呎內才算作偷襲|偷襲傷害不會因重擊翻倍|使用非致命武器才能非致命偷襲
+SCROLLS,,卷軸
+Autohypnosis,,自我催眠
+Craft (traps),,工藝(陷阱)
+Profession (architect),,專業(建築師)
+Casting|Stat,,施法|屬性
++1 DC on Channel Positive Energy,,引導正能量 +1 DC
+Creature Type,,生物類型
+Base|Attack Bonus /|Monk Level,,基本|攻擊加值/|武僧等級
+Perform (sing),,表演(演唱)
+Dispelling Critical,,驅魔重擊
+DEBTS,,債務
+Base|Spells,,基本|法術量
+INT - 4,,INT - 4
+Mythic|Tier,,神話|階層
+Bloodline Spell,,血脈法術
+Critical Focus,,重擊專攻
+Treat unarmed attacks as adamantine weapons,,徒手攻擊被視為精金武器
+Fly,,飛行
+Constitution|Score,,體質|屬性值
+WILD SHAPE,,自然變身
+MISSION ITEMS,,任務道具
++ WIS,,+ WIS
+Power|Attack,,威力|攻擊
+Staggering Critical,,恍惚重擊
+Spell|Resistance,,法術|抗力
+ARMOUR,,盔甲
+Temp Attack|Bonus,,暫時攻擊|加值
+NOTES,,註記
+Saving throw = 10 + Casting Stat + Spell Level,,豁免檢定 = 10 + 施法屬性 + 法術環數
+Spells from your opposed schools cost two slots to prepare.,,準備對立學派法術則必須付出兩倍的同級法術位
+Eyes,,眼部
+Check Penalty,,檢定減值
+REGULAR PAYMENTS,,分期付款
+Shield AC,,盾AC
+Dodge,,閃避
+Craft (clothing),,工藝(製衣)
+Improved Feint,,精通虛招
+SKILLS,,技能
+Improved Impaling Critical,,精通穿刺重擊
+Fatigue|Modifier,,疲乏|調整值
+Apply a critical effect to the 2nd sneak attack,,第二次偷襲附加重擊專長效果
+at half speed,,以半速移動
+25ft,,25呎
+Appraise,,估價
+STATS DISPLAY,,屬性面板
+Valuables,,貴重物品
+Craft (locks),,工藝(製鎖)
+Intimidate,,威嚇
+"Counter any identified spell of a level less than the number of|rounds of performance, as Dispel Magic",,反制任何已成功辨識的法術，其環數必須小於他持續|表演的輪數，視同解除魔法
+Bonus to all|saving throws,,所有豁免檢定|獲得加值
+Monk bonus applies when|unarmoured and unencumbered,,武僧加值只在|無著甲、無負重時生效
+Feats,,專長
+Knowledge - INT|Profession - WIS,,知識 - INT|專業 - WIS
+20ft,,20呎
+Skill|Bonus,,技能|加值
+Damage,,傷害
+Improved Uncanny Dodge,,精通直覺閃避
+SNEAK ATTACK,,偷襲
+CHA,,CHA
+if you fail a jump by 4 or less,,如果跳遠檢定失敗但差值小於4
+Bonus|Spells,,獎勵|法術
+Profession (barrister),,專業(律師)
+Finesse,,嫻熟
+Attack Bonus,,攻擊加值
+8ft,,8呎
+SMITE EVIL,,制裁邪惡
+BRAVERY,,英勇
+Temp|Modifier,,暫時|調整值
+"Fold along the dotted lines, making sure|the                hatched areas are hidden or|face down",,沿著虛線對折，|確保陰影區域超內或是朝下。
+ITEM INVENTORY,,道具欄
+Platinum,,白金幣
+second sneak attack in a round,,附加重擊專長效果
+DOMAIN,,領域
+Uses|per day,,每日|次數
+Scribe scroll,,抄寫卷軸
+WILL,,意志
+MERCIES,,恩惠
+Immune to all poisons,,免疫所有毒素
+Hands,,手部
+Enhancements,,增強加值
+Unarmed|Strike|Damage,,徒手|打擊|傷害
+"Weapons, Ammo",,"武器,彈藥"
+Knowledge (geography),,知識(地理)
+pp,,pp
+Knowledge (local),,知識(地方)
+Specialist|Spell,,學派|法術
+RAGE!,,狂暴!
+2d6,,2d6
+INT - 8,,INT - 8
+Ability|Modifier,,屬性|調整值
+SOOTHING PERFORMANCE,,安神
+Deflection|Modifier,,偏斜|調整值
+Wisdom|Penalty,,感知|減值
+Ammo,,彈藥
++1 grit point,,+1 點勇毅
+Profession (clerk),,專業(服侍)
+Concentration,,專注檢定
+Able to take 10 on any skill,,任何技能檢定都可取10
+Perform (comedy),,表演(喜劇)
+Non-lethal,,非致命
+ATTACKS,,攻擊
+Unconscious,,昏迷
+Speed with Armour,,著甲速度
+MYSTIC WISDOM,,醍醐灌頂
+Increase damage reduction to 10/evil.,,提高傷害減免到10 / 邪惡
+WIS,,WIS
+Craft (baskets),,工藝(編織器具)
+WIS - 8,,WIS - 8
+COMBAT,,戰鬥
+Profession (midwife),,專業(接生員)
+ANIMAL COMPANION,,動物夥伴
+Temp CMB,,暫時CMB
+Hit Die,,生命骰
+Ranks,,級數
+INTELLIGENT ITEM,,智能道具
+d4 / d8,,d4 / d8
+POTIONS,,藥水
+Fly Speed,,飛行速度
+Training,,訓練
+Apply a critical effect to the,,該輪第二次偷襲
+DC,,DC
+1 pt,,1 點
+"Acrobatics, Heal",,特技、醫療
+Swim,,游泳
+Bard Level,,詩人等級
+Special Ammo,,特殊彈藥
+Common,,通用語
+Speak with animals of its kind,,與動物同類交談
+LAY ON HANDS,,聖療
+2d8 / 4d8,,2d8 / 4d8
+Nature,,自然
+Headband,,頭飾
+hp,,hp
+Influence,,影響
+Reflex,,反射
+Diplomacy,,交涉
+Close,,近
+Ring,,戒指
+SPELL|RANGE,,|法術射程
+Wis,,Wis
+Head / Hat / Mask,,頭部
+"Sneak attack damage can be applied when a target is flanked or|is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal weapon.",,目標無法應用敏捷加值在AC上或是被夾擊時可以偷襲|遠程攻擊在30呎內才算作偷襲|偷襲傷害不會因重擊翻倍|使用非致命武器才能非致命偷襲
+TOTAL FUNDS,,總資金
+"Sneak attack damage can be applied when a target|is flanked or is denied their DEX bonus to AC.|On ranged attacks, it only applies within 30 ft.|It is not multiplied by critical hits.|It cannot be non-lethal unless using a non-lethal|weapon.",,目標無法應用敏捷加值在AC上|或是被夾擊時可以偷襲|遠程攻擊在30呎內才算作偷襲|偷襲傷害不會因重擊翻倍|使用非致命武器才能非致命|偷襲
+Sml / Lrg,,小 / 大
+Creature type,,生物類型
+Immune to all diseases,,免疫所有疾病
+Bonus|Feats,,獎勵|專長
+Cast|Today,,今日|已施展
+Unconcious,,昏迷
+Perception,,察覺
+Handle Animal,,馴養動物
+Knowledge (nobility),,知識(貴族)
+Can only be permanently killed by a coup-de-grace or|critical hit with an artefact.,,只能被神器的致命一擊（coup de grace）或重擊殺死
+"Racial,|Feats",,"種族,|專長"
+Craft (jewelry),,工藝(精工)
+Skill Ranks,,技能點數
+Class|Level,,職業|等級
+Deafening Critical,,致聾重擊
+Profession (cook),,專業(廚師)
+WANDS,,魔杖
+Fatigued,,疲乏
+Spell|Level,,法術|環數
+PERFORMANCES,,吟遊表演
+SPELL BOOK,,法術書
+WIS - 12,,WIS - 12
+CASH,,現金
+Foes|Today,,今日|對象數
+Conditional Modifiers,,臨時調整值
+Duration,,持續
+Perform (oratory),,表演(朗誦)
+Ranger|Level,,遊俠|等級
+Effective|Character|Level,,有效|角色|等級
+Critical Wounds,,治療致命傷
+Critical Range,,重擊範圍
+45ft,,45呎
+Focus,,法器
+Temp Speed,,暫時速度
+Granted Power,,神授力量
+Initiative,,先攻
+Rogue|Level,,盜賊|等級
+Swim Speed,,游泳速度
+Channel Positive Energy,,引導正能量
+1 rounds,,1 輪
+Deflect Arrows,,撥擋飛箭
+MOVE THROUGH THREATENED SQUARE,,從威脅範圍通過
+Uses Today,,今日已用次數
+ARMOUR TRAINING,,盔甲訓練
+"As a move action, detect evil in one creature or item within 60ft.",,一個移動動作對60呎內的單一物體或生物偵測邪惡
+Rounds Shared|This Encounter,,該遭遇|已分享輪數
+(ROGUE),,(盜賊)
+Clothes / Body,,軀體
+d10 / 3d6,,d10 / 3d6
+or,,或
+WIZARD,,法師
+Debts,,債務
+Dodge|Modifier,,閃避|調整值
+Domain,,領域
+Temp AC,,暫時AC
+Str,,str
+DIRGE OF DOOM,,末日喪歌
+Monk Level|÷ 4,,武僧等級|÷ 4
+Burrow Speed,,遁地速度
+BONUS FEATS,,獎勵專長
+4ft,,4呎
+Mystic Wisdom,,醍醐灌頂
+Height,,高度
+SPELLS,,法術
+Carried by / given to,,由誰攜帶/給了誰
+Campaign,,戰役
+Touch,,接觸
+require,,需求
+A successful sneak attack can also deliver one of:| • Sleep for 1d4 hours| • Paralysed for 2d6 rounds| • Slain,,每次造成偷襲傷害時選擇造成目標:| • 睡眠1d4小時| • 麻痺2d6輪| • 直接被殺死
+11ft,,11呎
+TRAP SENSE,,陷阱感知
+Temp CMD,,暫時CMD
+Heal,,醫療
+Components / Focus,,成分/法器
+Notes,,註記
+Total Weight,,總重
+to ignore 10ft of falling damage,,忽略最開始的10尺墜落距離
+(1 pt to fix as a move action),,(消耗1pt可以移動動作修理)
+FRIENDLY,,友善
+Temp Damage|Bonus,,暫時傷害|加值
+Druid|Level,,德魯伊|等級
+Monk|Level,,武僧|等級
+1pt,,1pt
+Metamagic Item,,超魔道具
+2ft,,2呎
+1 pt per range increment,,每射程增量 1pt
+Crippling Critical,,致跛重擊
+"Bluff, Intimidate",,"唬弄, 威嚇"
+Spell Save DC = 10 + CHA + Spell Level,,法術豁免DC = 10 + CHA + 法術環數
+Item value,,道具價值
+Arms / Wrists,,腕部
+Silver,,銀幣
+Base|Attack Bonus,,基本|攻擊加值
+SHIELD,,盾
+Stable,,穩定
+INIT,,先攻
+MAGIC ITEMS,,魔法道具
+Light Load,,輕載
+Rank / Position,,階級/地位
+Counter magical effects that depend on sight.|Allies within 30ft use Performance roll in place of a saving throw,,反制依賴於視覺的法術，30呎之內的盟友|可以用吟遊詩人的表演檢定來代替自身的豁免檢定
+Perform (string),,表演(弦樂)
+Ability Modifier = (Total Ability Score - 10) ÷ 2,,屬性調整值 = (屬性值 - 10) ÷ 2
+Ride,,騎術
+Evasion,,閃避
+Snatch Arrows,,抓取飛箭
+3ft,,3呎
+Carried Items,,攜帶道具
+per,,每
+Sneak Attack,,偷襲
+CMB,,CMB
